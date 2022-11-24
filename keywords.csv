@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'WorldCup',de,Qatar,#4D0E00,#888888,1,1
-'SC Freiburg',de,Bundesliga,#EB0000,#888888,1,1
-'Martin Sonneborn',de,Deutschland,#e81818,#888888,1,1
-'Martin Horn',de,Freiburg,#18e818,#888888,1,1
-'Die PARTEI',de,Deutschland,#1818e8,#888888,1,1
-'Die PARTEI',de,Freiburg,#181818,#888888,1,1
-'Weinlese',de,Luxemburg,#219100,#888888,1,1
-'Xavier Bettel',de,Luxemburg,#6618e9,#888888,1,1
-'Gaston Vogel',de,Luxemburg,#f16188,#888888,1,1
+'SC Freiburg',de,Bundesliga,#EB0000,#888888,1,1.0
+'Martin Sonneborn',de,Deutschland,#e81818,#888888,1,1.0
+'Martin Horn',de,Freiburg,#18e818,#888888,1,1.0
+'Die PARTEI',de,Deutschland,#1818e8,#888888,1,1.0
+'Die PARTEI',de,Freiburg,#181818,#888888,1,1.0
+'Weinlese',de,Luxemburg,#219100,#888888,1,1.0
+'Xavier Bettel',de,Luxemburg,#6618e9,#888888,1,1.0
+'Gaston Vogel',de,Luxemburg,#f16188,#888888,1,1.0
+'WorldCup',de,Qatar,#4D0E00,#888888,1,0.85060006
