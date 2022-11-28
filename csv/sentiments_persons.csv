@@ -1,14 +1,16 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Christian Streich,Christian Streich,PER,0.07999999999999999,0.0,de,5
+Christian Streich,Christian Streich,PER,0.05714285714285713,0.0,de,7
+Nicolas Höfler,Nicolas Höfler,PER,0.0,0.0,de,5
 Vincenzo Grifo,Vincenzo Grifo,PER,0.4,0.0,de,5
 Lukas Klostermann,Lukas Klostermann,PER,0.5,0.0,de,4
+Theresa Merk,Theresa Merk,PER,0.0,0.0,de,3
 Roland Sallai,Roland Sallai,PER,0.10000000000000002,0.3333333333333333,de,3
-Nicolas Höfler,Nicolas Höfler,PER,0.0,0.0,de,3
-Lukas Kübler,Lukas Kübler,PER,0.0,0.0,de,2
-Martin Horn,Martin Horn,PER,-1.0,0.0,de,2
 Thomas Reis,Thomas Reis,PER,0.5833333333333333,0.16666666666666666,de,2
 Woo-Yeong Jeong,Woo-Yeong Jeong,PER,0.0,0.0,de,2
 Christopher Nkunku,Christopher Nkunku,PER,0.0,0.0,de,2
+Martin Horn,Martin Horn,PER,-1.0,0.0,de,2
+Lukas Kübler,Lukas Kübler,PER,0.0,0.0,de,2
+Qarabag Agadam,Qarabag Agadam,PER,0.0,0.0,de,1
 Christian Günter,Christian Günter,PER,0.7,0.0,de,1
 Lukas Klostermann fie,Lukas Klostermann fie,PER,0.0,0.0,de,1
 Roland Sallai stand,Roland Sallai stand,PER,0.0,0.0,de,1

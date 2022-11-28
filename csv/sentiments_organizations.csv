@@ -1,48 +1,56 @@
 ,phrase,label,sentiment,subjectivity,language,count
-SC Freiburg,SC Freiburg,ORG,0.1,0.025,de,40
+SC Freiburg,SC Freiburg,ORG,0.07547169811320754,0.018867924528301886,de,53
+FC Union Berlin,FC Union Berlin,ORG,0.2857142857142857,0.0,de,7
 SC Freiburg.,SC Freiburg.,ORG,0.4857142857142857,0.0,de,7
 Schalke,Schalke,ORG,0.2333333333333333,0.06666666666666667,de,5
-LIVE!,LIVE!,ORG,0.0,0.0,de,4
-FC Union Berlin,FC Union Berlin,ORG,0.5,0.0,de,4
-SV Elversberg,SV Elversberg,ORG,0.0,0.0,de,4
 SC Freiburg II,SC Freiburg II,ORG,0.0,0.0,de,4
+Fußball-Bundesligist,Fußball-Bundesligist,ORG,0.5,0.0,de,4
+LIVE!,LIVE!,ORG,0.0,0.0,de,4
 kicker,kicker,ORG,0.0,0.0,de,4
-RB Leipzig,RB Leipzig,ORG,0.0,0.0,de,2
-Streich,Streich,ORG,0.0,0.0,,2
-Spitzenreiter FC Bayern München,Spitzenreiter FC Bayern München,ORG,0.0,0.0,,2
-Senegal,Senegal,ORG,0.0,0.0,de,2
+FC Köln,FC Köln,ORG,0.0,0.0,de,4
+SV Elversberg,SV Elversberg,ORG,0.0,0.0,de,4
+Qarabag FK,Qarabag FK,ORG,0.0,0.0,de,3
+Bundesliga,Bundesliga,ORG,0.0,0.0,de,3
 RB Leipzig.,RB Leipzig.,ORG,0.7,0.0,de,2
+Senegal,Senegal,ORG,0.0,0.0,de,2
 RB Leipzigs,RB Leipzigs,ORG,1.0,0.0,de,2
-WM-Pause,WM-Pause,ORG,0.0,0.0,de,2
 Top-Teams,Top-Teams,ORG,0.0,0.0,de,2
+WM-Pause,WM-Pause,ORG,0.0,0.0,de,2
+RB Leipzig,RB Leipzig,ORG,0.0,0.0,de,2
+Spitzenreiter FC Bayern München,Spitzenreiter FC Bayern München,ORG,0.0,0.0,,2
+Streich,Streich,ORG,0.0,0.0,,2
 Union Berlins,Union Berlins,ORG,0.0,0.0,,2
-FC Köln,FC Köln,ORG,0.0,0.0,,2
-Karabach Agdam,Karabach Agdam,ORG,0.0,0.0,de,2
-Fußball-Bundesligist,Fußball-Bundesligist,ORG,1.0,0.0,de,2
-Tabellendritten,Tabellendritten,ORG,0.0,0.0,de,2
-Fußball-Liga,Fußball-Liga,ORG,0.0,0.0,de,2
-VfB Oldenburg,VfB Oldenburg,ORG,0.0,0.0,de,2
-SV Werder Bremen,SV Werder Bremen,ORG,0.0,0.0,de,2
-Bundesliga.,Bundesliga.,ORG,0.0,0.0,de,2
+FC Bayern,FC Bayern,ORG,0.0,0.0,de,2
 Borussia Mönchengladbach,Borussia Mönchengladbach,ORG,0.0,0.0,de,2
-Partei,Partei,ORG,0.0,0.0,de,1
-PARTEI,PARTEI,ORG,0.0,0.0,de,1
-Hamburger Theaterfabrik…,Hamburger Theaterfabrik…,ORG,0.0,0.0,de,1
-Bundesliga: SC Freiburg,Bundesliga: SC Freiburg,ORG,0.0,0.0,de,1
-"Grifo-Show"": Italienische Presse","Grifo-Show"": Italienische Presse",ORG,1.0,0.0,de,1
-SC Freiburg: Roland Sallai,SC Freiburg: Roland Sallai,ORG,0.0,0.0,de,1
-SC Freiburg: Welche Spieler,SC Freiburg: Welche Spieler,ORG,0.0,0.0,de,1
+Karabach Agdam,Karabach Agdam,ORG,0.0,0.0,de,2
+Bundesliga.,Bundesliga.,ORG,0.0,0.0,de,2
+VfB Oldenburg,VfB Oldenburg,ORG,0.0,0.0,de,2
+Fußball-Liga,Fußball-Liga,ORG,0.0,0.0,de,2
+Tabellendritten,Tabellendritten,ORG,0.0,0.0,de,2
+SV Werder Bremen,SV Werder Bremen,ORG,0.0,0.0,de,2
+Qarabag Agadam,Qarabag Agadam,ORG,0.0,0.0,de,2
 SC-Profis,SC-Profis,ORG,0.0,0.0,de,1
+Werder …,Werder …,ORG,1.0,0.0,de,1
+SC Freiburg: Welche Spieler,SC Freiburg: Welche Spieler,ORG,0.0,0.0,de,1
+"Grifo-Show"": Italienische Presse","Grifo-Show"": Italienische Presse",ORG,1.0,0.0,de,1
+Bundesliga: SC Freiburg,Bundesliga: SC Freiburg,ORG,0.0,0.0,de,1
+Hamburger Theaterfabrik…,Hamburger Theaterfabrik…,ORG,0.0,0.0,de,1
+SC Freiburg: Roland Sallai,SC Freiburg: Roland Sallai,ORG,0.0,0.0,de,1
+PARTEI,PARTEI,ORG,0.0,0.0,de,1
+Partei,Partei,ORG,0.0,0.0,de,1
 Deutsche Weininstitut,Deutsche Weininstitut,ORG,0.0,0.0,de,1
+Köln,Köln,ORG,0.0,0.0,de,1
 …,…,ORG,0.0,0.0,de,1
 Freiburg.,Freiburg.,ORG,0.0,0.0,de,1
 Bundesliga: Klostermann,Bundesliga: Klostermann,ORG,0.0,0.0,de,1
 DWI,DWI,ORG,0.0,0.0,de,1
-Köln,Köln,ORG,0.0,0.0,de,1
 Bundesliga:,Bundesliga:,ORG,0.0,0.0,,1
+SC Freiburg: Etwas,SC Freiburg: Etwas,ORG,1.0,0.0,de,1
 SC Freiburg…,SC Freiburg…,ORG,0.0,0.0,de,1
 Karabach.,Karabach.,ORG,0.0,0.0,de,1
 Freiburg,Freiburg,ORG,0.0,0.0,de,1
+Spiel a…,Spiel a…,ORG,0.0,0.0,de,1
+Live…,Live…,ORG,0.0,0.0,de,1
 Freiburg: Oldenburg,Freiburg: Oldenburg,ORG,0.0,0.0,de,1
 Olympiakos Piräus hä…,Olympiakos Piräus hä…,ORG,0.0,0.0,de,1
-Werder …,Werder …,ORG,1.0,0.0,de,1
+SC Freiburg: Nicolas Höfler,SC Freiburg: Nicolas Höfler,ORG,0.0,0.0,de,1

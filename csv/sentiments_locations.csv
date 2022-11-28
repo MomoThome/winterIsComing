@@ -1,27 +1,28 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Deutschland,Deutschland,LOC,0.2857142857142857,0.2857142857142857,de,7
+Breisgauer,Breisgauer,LOC,-0.2333333333333333,0.0,de,6
+Baku,Baku,LOC,0.2,0.0,de,5
 Freiburg,Freiburg,LOC,-0.35,0.0,de,4
-Breisgauer,Breisgauer,LOC,-0.35,0.0,de,4
 Deutschlands,Deutschlands,LOC,0.6666666666666666,0.3333333333333333,de,3
-Baku,Baku,LOC,0.3333333333333333,0.0,de,3
-Niederlande,Niederlande,LOC,0.0,0.0,de,2
-Albanien,Albanien,LOC,0.0,0.0,de,2
-Katar,Katar,LOC,0.0,0.0,de,2
-Leipzig,Leipzig,LOC,-1.0,0.0,de,2
-Bundesliga-Kader.,Bundesliga-Kader.,LOC,1.0,0.0,de,2
+Aserbaidschan,Aserbaidschan,LOC,0.3333333333333333,0.0,de,3
+Bayern,Bayern,LOC,0.6666666666666666,0.0,de,3
 Oldenburger,Oldenburger,LOC,0.0,0.0,de,2
 Zentraliran,Zentraliran,LOC,-1.0,0.0,de,2
-Isfahan,Isfahan,LOC,-1.0,0.0,de,2
+Katar,Katar,LOC,0.0,0.0,de,2
 Iran,Iran,LOC,-1.0,0.0,de,2
-Bayern,Bayern,LOC,0.0,0.0,,1
-Südkoreaner,Südkoreaner,LOC,0.0,0.0,de,1
-Kader-Comeback,Kader-Comeback,LOC,0.0,0.0,de,1
-Aserbaidschan,Aserbaidschan,LOC,1.0,0.0,de,1
-Aserbaidschan.,Aserbaidschan.,LOC,0.0,0.0,de,1
-Leipzig.,Leipzig.,LOC,0.0,0.0,de,1
-Spieltag: Grifo-Hattrick,Spieltag: Grifo-Hattrick,LOC,0.0,0.0,de,1
-Gladbach,Gladbach,LOC,0.0,0.0,de,1
-Hartenbach,Hartenbach,LOC,0.0,0.0,de,1
-Flekkens,Flekkens,LOC,0.0,0.0,de,1
+Niederlande,Niederlande,LOC,0.0,0.0,de,2
+Isfahan,Isfahan,LOC,-1.0,0.0,de,2
+Bundesliga-Kader.,Bundesliga-Kader.,LOC,1.0,0.0,de,2
+Leipzig,Leipzig,LOC,-1.0,0.0,de,2
+Europa-Park Stadion.,Europa-Park Stadion.,LOC,0.0,0.0,de,2
+Albanien,Albanien,LOC,0.0,0.0,de,2
 Hamburg,Hamburg,LOC,0.0,0.0,de,1
+Flekkens,Flekkens,LOC,0.0,0.0,de,1
+Hartenbach,Hartenbach,LOC,0.0,0.0,de,1
+Kader-Comeback,Kader-Comeback,LOC,0.0,0.0,de,1
+Gladbach,Gladbach,LOC,0.0,0.0,de,1
+Spieltag: Grifo-Hattrick,Spieltag: Grifo-Hattrick,LOC,0.0,0.0,de,1
+Leipzig.,Leipzig.,LOC,0.0,0.0,de,1
+Südkoreaner,Südkoreaner,LOC,0.0,0.0,de,1
+Aserbaidschan.,Aserbaidschan.,LOC,0.0,0.0,de,1
 Zahl,Zahl,LOC,1.0,0.0,de,1
