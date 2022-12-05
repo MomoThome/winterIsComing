@@ -1,18 +1,75 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Christian Streich,Christian Streich,PER,0.05714285714285713,0.0,de,7
-Nicolas Höfler,Nicolas Höfler,PER,0.0,0.0,de,5
-Vincenzo Grifo,Vincenzo Grifo,PER,0.4,0.0,de,5
+Christian Streich,Christian Streich,PER,0.07333333333333332,0.0,de,15
+Vincenzo Grifo,Vincenzo Grifo,PER,0.24545454545454548,0.18181818181818182,de,11
+Jiang Zemin,Jiang Zemin,PER,-0.7,0.0,de,10
+Nicolas Höfler,Nicolas Höfler,PER,0.0,0.0,de,7
+Thomas Reis,Thomas Reis,PER,0.1933333333333333,0.16666666666666666,de,5
+Theresa Merk,Theresa Merk,PER,0.0,0.0,de,4
 Lukas Klostermann,Lukas Klostermann,PER,0.5,0.0,de,4
-Theresa Merk,Theresa Merk,PER,0.0,0.0,de,3
+Mitch McConnell,Mitch McConnell,PER,0.5166666666666666,0.0,de,3
+Hugo Siquet,Hugo Siquet,PER,0.0,1.0,de,3
+Joana Cotar,Joana Cotar,PER,0.0,0.0,de,3
 Roland Sallai,Roland Sallai,PER,0.10000000000000002,0.3333333333333333,de,3
-Thomas Reis,Thomas Reis,PER,0.5833333333333333,0.16666666666666666,de,2
+Rainer Nowak,Rainer Nowak,PER,-0.05000000000000001,0.0,de,3
+Michael Kretschmer,Michael Kretschmer,PER,-0.5,0.0,de,2
+Olaf Scholz,Olaf Scholz,PER,0.0,0.0,de,2
+Daniel-Kofi Kyereh,Daniel-Kofi Kyereh,PER,0.0,0.0,de,2
+Andreas Kalbitz,Andreas Kalbitz,PER,0.5,0.0,de,2
+Joe Biden,Joe Biden,PER,-0.5,0.0,de,2
+Elon Musk,Elon Musk,PER,0.0,0.0,de,2
 Woo-Yeong Jeong,Woo-Yeong Jeong,PER,0.0,0.0,de,2
+Diether Dehm,Diether Dehm,PER,0.0,0.0,de,2
+Donald Trump,Donald Trump,PER,0.0,0.0,de,2
 Christopher Nkunku,Christopher Nkunku,PER,0.0,0.0,de,2
-Martin Horn,Martin Horn,PER,-1.0,0.0,de,2
+Christina Morina,Christina Morina,PER,0.0,0.0,de,2
+Jochen Saier,Jochen Saier,PER,0.0,0.0,de,2
+Vincenzo Grifo ,Vincenzo Grifo ,PER,0.0,0.0,de,2
+Hiroki Ito,Hiroki Ito,PER,0.0,0.0,de,2
 Lukas Kübler,Lukas Kübler,PER,0.0,0.0,de,2
-Qarabag Agadam,Qarabag Agadam,PER,0.0,0.0,de,1
-Christian Günter,Christian Günter,PER,0.7,0.0,de,1
-Lukas Klostermann fie,Lukas Klostermann fie,PER,0.0,0.0,de,1
+Christian Günter,Christian Günter,PER,0.7,0.0,de,2
+Sabine Leutheusser-Schnarrenberger,Sabine Leutheusser-Schnarrenberger,PER,0.0,0.0,de,2
+Thomas Ouwejan,Thomas Ouwejan,PER,0.0,0.0,de,2
+Martin Horn,Martin Horn,PER,-1.0,0.0,de,2
+Donald Trumps,Donald Trumps,PER,0.35,0.0,de,2
+Mette Frederiksen,Mette Frederiksen,PER,-0.5,0.0,de,2
+Wataru Endo,Wataru Endo,PER,0.0,0.0,de,2
+Ritsu Doan,Ritsu Doan,PER,0.0,0.0,de,2
+Otto Addo,Otto Addo,PER,0.0,0.0,de,1
+August Wöginger,August Wöginger,PER,0.0,0.0,de,1
+Kanye West,Kanye West,PER,0.7,0.0,de,1
+Karoline Edtstadler,Karoline Edtstadler,PER,0.0,0.0,de,1
 Roland Sallai stand,Roland Sallai stand,PER,0.0,0.0,de,1
+Karl Marx,Karl Marx,PER,1.0,0.0,de,1
+Emmanuel Macron,Emmanuel Macron,PER,0.0,0.0,de,1
+Nick Fuentes,Nick Fuentes,PER,0.0,0.0,de,1
+Friedrich Merz,Friedrich Merz,PER,0.0,0.0,de,1
+Tsai Ing-wen,Tsai Ing-wen,PER,0.0,0.0,de,1
 Klemens Hartenbach,Klemens Hartenbach,PER,0.0,0.0,de,1
 Martin Sonneborns,Martin Sonneborns,PER,0.0,0.0,de,1
+Werder-Kapitänin Lina Ha,Werder-Kapitänin Lina Ha,PER,0.7,0.0,de,1
+Boris Palmer,Boris Palmer,PER,0.0,0.0,de,1
+Lukas Klostermann fie,Lukas Klostermann fie,PER,0.0,0.0,de,1
+Arsenals Partey,Arsenals Partey,PER,0.0,0.0,de,1
+Tobias Oelmaier,Tobias Oelmaier,PER,-1.0,0.0,de,1
+Jeffrey Donaldson,Jeffrey Donaldson,PER,0.0,0.0,de,1
+Alexander Schwolow,Alexander Schwolow,PER,0.0,0.0,de,1
+Frederiksen Ministerpräsidentin,Frederiksen Ministerpräsidentin,PER,0.0,0.0,de,1
+Benjamin Netanyahu,Benjamin Netanyahu,PER,0.0,0.0,de,1
+Benjamin Netanjahu,Benjamin Netanjahu,PER,0.0,0.0,de,1
+Jair Lapid,Jair Lapid,PER,0.0,0.0,de,1
+Palästinenser-Ministerpräsident Mohammed Schtajjeh,Palästinenser-Ministerpräsident Mohammed Schtajjeh,PER,0.0,0.0,de,1
+Mohammed Schtajjeh,Mohammed Schtajjeh,PER,0.0,0.0,de,1
+Nancy Faeser,Nancy Faeser,PER,0.0,0.0,de,1
+Qarabag Agadam,Qarabag Agadam,PER,0.0,0.0,de,1
+Sven Michel,Sven Michel,PER,1.0,0.0,de,1
+Robert Wagner,Robert Wagner,PER,0.0,0.0,de,1
+Li Keqiang,Li Keqiang,PER,0.0,0.0,de,1
+David Camerons,David Camerons,PER,0.0,0.0,de,1
+Jordan Bardella,Jordan Bardella,PER,0.0,0.0,de,1
+Silja Häusermann,Silja Häusermann,PER,0.0,0.0,de,1
+Elon Musk Twitter,Elon Musk Twitter,PER,0.0,0.0,de,1
+Christian S,Christian S,PER,0.0,0.0,de,1
+Ron DeSantis,Ron DeSantis,PER,0.0,0.0,de,1
+Josko Gvardiol,Josko Gvardiol,PER,0.0,0.0,de,1
+Willy Brandt,Willy Brandt,PER,-1.0,0.0,de,1
+Dietmar Bartsch,Dietmar Bartsch,PER,0.0,0.0,de,1

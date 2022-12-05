@@ -1,56 +1,197 @@
 ,phrase,label,sentiment,subjectivity,language,count
-SC Freiburg,SC Freiburg,ORG,0.07547169811320754,0.018867924528301886,de,53
+SC Freiburg,SC Freiburg,ORG,0.06782608695652176,0.034782608695652174,de,115
+Partei,Partei,ORG,-0.0608695652173913,0.0,de,23
+Union Berlin,Union Berlin,ORG,-0.15964912280701757,0.0,de,19
+FC Köln,FC Köln,ORG,0.0,0.0,de,13
+Freiburg,Freiburg,ORG,0.0,0.08333333333333333,de,12
+Bundesliga,Bundesliga,ORG,0.0,0.0,de,9
+SC Freiburg.,SC Freiburg.,ORG,0.30000000000000004,0.0,de,9
 FC Union Berlin,FC Union Berlin,ORG,0.2857142857142857,0.0,de,7
-SC Freiburg.,SC Freiburg.,ORG,0.4857142857142857,0.0,de,7
-Schalke,Schalke,ORG,0.2333333333333333,0.06666666666666667,de,5
+Schalke,Schalke,ORG,0.16666666666666666,0.19047619047619047,de,7
+FC Bayern,FC Bayern,ORG,-0.14285714285714285,0.0,de,7
+SPÖ,SPÖ,ORG,-0.4,0.0,de,5
+Fußball-Bundesliga,Fußball-Bundesliga,ORG,0.0,0.0,de,5
+WM-Pause,WM-Pause,ORG,0.07333333333333333,0.0,de,5
+Union Berlin.,Union Berlin.,ORG,-0.2,0.0,de,5
+Fußball-Bundesligist,Fußball-Bundesligist,ORG,0.6,0.0,de,5
+Werder Bremen,Werder Bremen,ORG,0.6799999999999999,0.0,de,5
+SPD,SPD,ORG,0.0,0.0,de,4
+Karabach Agdam,Karabach Agdam,ORG,0.35,0.0,de,4
 SC Freiburg II,SC Freiburg II,ORG,0.0,0.0,de,4
-Fußball-Bundesligist,Fußball-Bundesligist,ORG,0.5,0.0,de,4
-LIVE!,LIVE!,ORG,0.0,0.0,de,4
-kicker,kicker,ORG,0.0,0.0,de,4
-FC Köln,FC Köln,ORG,0.0,0.0,de,4
+AfD,AfD,ORG,0.0,0.0,de,4
 SV Elversberg,SV Elversberg,ORG,0.0,0.0,de,4
+kicker,kicker,ORG,0.0,0.0,de,4
+LIVE!,LIVE!,ORG,0.0,0.0,de,4
+Kommunistische Partei,Kommunistische Partei,ORG,-1.0,0.0,de,3
+E-Paper,E-Paper,ORG,0.6999999999999998,0.0,de,3
+RB Leipzig,RB Leipzig,ORG,0.0,0.0,de,3
+Sport-Club,Sport-Club,ORG,0.0,0.0,de,3
+Werder Bremens,Werder Bremens,ORG,-0.2333333333333333,0.0,de,3
+RB Leipzig.,RB Leipzig.,ORG,0.4666666666666666,0.0,de,3
 Qarabag FK,Qarabag FK,ORG,0.0,0.0,de,3
-Bundesliga,Bundesliga,ORG,0.0,0.0,de,3
-RB Leipzig.,RB Leipzig.,ORG,0.7,0.0,de,2
-Senegal,Senegal,ORG,0.0,0.0,de,2
-RB Leipzigs,RB Leipzigs,ORG,1.0,0.0,de,2
-Top-Teams,Top-Teams,ORG,0.0,0.0,de,2
-WM-Pause,WM-Pause,ORG,0.0,0.0,de,2
-RB Leipzig,RB Leipzig,ORG,0.0,0.0,de,2
-Spitzenreiter FC Bayern München,Spitzenreiter FC Bayern München,ORG,0.0,0.0,,2
-Streich,Streich,ORG,0.0,0.0,,2
-Union Berlins,Union Berlins,ORG,0.0,0.0,,2
-FC Bayern,FC Bayern,ORG,0.0,0.0,de,2
-Borussia Mönchengladbach,Borussia Mönchengladbach,ORG,0.0,0.0,de,2
-Karabach Agdam,Karabach Agdam,ORG,0.0,0.0,de,2
+SPIEGEL,SPIEGEL,ORG,0.6999999999999998,0.0,de,3
+Olympiakos Piräus,Olympiakos Piräus,ORG,0.0,0.0,de,3
 Bundesliga.,Bundesliga.,ORG,0.0,0.0,de,2
-VfB Oldenburg,VfB Oldenburg,ORG,0.0,0.0,de,2
-Fußball-Liga,Fußball-Liga,ORG,0.0,0.0,de,2
-Tabellendritten,Tabellendritten,ORG,0.0,0.0,de,2
+"Bündnis Deutschland""","Bündnis Deutschland""",ORG,0.0,0.0,de,2
 SV Werder Bremen,SV Werder Bremen,ORG,0.0,0.0,de,2
+…,…,ORG,0.0,0.0,de,2
+Jugend für den SC,Jugend für den SC,ORG,0.0,0.0,de,2
+Top-Teams,Top-Teams,ORG,0.0,0.0,de,2
+Union Berlin: Bundesliga,Union Berlin: Bundesliga,ORG,-0.5,0.0,de,2
+Senegal,Senegal,ORG,0.0,0.0,de,2
+Fußball-Bundesligist RB Leipzig,Fußball-Bundesligist RB Leipzig,ORG,0.0,0.0,de,2
+Spitzenreiters FC Bayern München.,Spitzenreiters FC Bayern München.,ORG,0.0,0.0,de,2
+Union Berlins,Union Berlins,ORG,0.0,0.0,,2
+Streich,Streich,ORG,0.0,0.0,,2
+Spitzenreiter FC Bayern München,Spitzenreiter FC Bayern München,ORG,0.0,0.0,,2
+Champions-League-Kurs,Champions-League-Kurs,ORG,0.0,0.0,de,2
+Achtelfinale?,Achtelfinale?,ORG,0.0,0.0,de,2
+US-Demokraten,US-Demokraten,ORG,-0.175,0.0,de,2
+Halbzeit: Leipzig,Halbzeit: Leipzig,ORG,0.0,0.0,de,2
+Borussia Mönchengladbach,Borussia Mönchengladbach,ORG,0.0,0.0,de,2
+RB Leipzigs,RB Leipzigs,ORG,1.0,0.0,de,2
+CDU,CDU,ORG,0.0,0.0,de,2
+Bundesliga-Spieltags: RB Leipzig,Bundesliga-Spieltags: RB Leipzig,ORG,0.0,0.0,de,2
+Partei von Regierungschefin Frederiksen,Partei von Regierungschefin Frederiksen,ORG,0.0,0.0,de,2
+Demokraten,Demokraten,ORG,-0.5,0.0,de,2
+Schalke 04,Schalke 04,ORG,0.0875,0.0,de,2
+VfB Stuttgart,VfB Stuttgart,ORG,0.0,0.0,de,2
+Fußball-Liga,Fußball-Liga,ORG,0.0,0.0,de,2
+Xinhua,Xinhua,ORG,0.0,0.0,de,2
+Bundesliga-Spiel,Bundesliga-Spiel,ORG,0.7,0.0,de,2
+Israel-Wahl: Partei,Israel-Wahl: Partei,ORG,0.0,0.0,de,2
+Bundesligaspiel,Bundesligaspiel,ORG,-0.16666666666666666,0.0,de,2
+FC Schalke 04,FC Schalke 04,ORG,0.0,0.0,de,2
 Qarabag Agadam,Qarabag Agadam,ORG,0.0,0.0,de,2
+"Liveticker, Bundesliga: Grifo","Liveticker, Bundesliga: Grifo",ORG,-0.5,0.0,de,2
+VfB Oldenburg,VfB Oldenburg,ORG,0.0,0.0,de,2
+SC,SC,ORG,0.0,0.0,de,2
+Elfmeter-Festival,Elfmeter-Festival,ORG,0.0,0.0,de,2
+Qarabağ FK,Qarabağ FK,ORG,0.0,0.0,de,2
+ZDF,ZDF,ORG,0.0,0.0,de,2
+US,US,ORG,0.0,0.0,de,2
+Tabellendritten,Tabellendritten,ORG,0.0,0.0,de,2
+P…,P…,ORG,0.0,0.0,de,1
+Fußball-Bundesliga.,Fußball-Bundesliga.,ORG,0.0,0.0,de,1
+TM-Community,TM-Community,ORG,0.0,0.0,de,1
+Freiburg bitte!,Freiburg bitte!,ORG,0.5,0.0,de,1
+WELT,WELT,ORG,0.7,0.0,de,1
+Rote,Rote,ORG,-0.3333333333333333,0.0,de,1
+Transfermarkt-Community...,Transfermarkt-Community...,ORG,0.0,0.0,de,1
+SC Freiburgs Grifo.,SC Freiburgs Grifo.,ORG,0.0,0.0,de,1
+Union,Union,ORG,0.0,0.0,de,1
+Jahresabschluss...,Jahresabschluss...,ORG,0.0,0.0,de,1
+SC Frei­burg,SC Frei­burg,ORG,0.0,0.0,de,1
 SC-Profis,SC-Profis,ORG,0.0,0.0,de,1
-Werder …,Werder …,ORG,1.0,0.0,de,1
-SC Freiburg: Welche Spieler,SC Freiburg: Welche Spieler,ORG,0.0,0.0,de,1
-"Grifo-Show"": Italienische Presse","Grifo-Show"": Italienische Presse",ORG,1.0,0.0,de,1
-Bundesliga: SC Freiburg,Bundesliga: SC Freiburg,ORG,0.0,0.0,de,1
-Hamburger Theaterfabrik…,Hamburger Theaterfabrik…,ORG,0.0,0.0,de,1
-SC Freiburg: Roland Sallai,SC Freiburg: Roland Sallai,ORG,0.0,0.0,de,1
-PARTEI,PARTEI,ORG,0.0,0.0,de,1
-Partei,Partei,ORG,0.0,0.0,de,1
+Winterpause.,Winterpause.,ORG,0.0,0.0,de,1
+Union.,Union.,ORG,0.0,0.0,de,1
+Badische Nachhaltigkeit,Badische Nachhaltigkeit,ORG,1.0,0.0,de,1
+Bundesliga: Freiburg,Bundesliga: Freiburg,ORG,0.0,0.0,de,1
 Deutsche Weininstitut,Deutsche Weininstitut,ORG,0.0,0.0,de,1
-Köln,Köln,ORG,0.0,0.0,de,1
-…,…,ORG,0.0,0.0,de,1
-Freiburg.,Freiburg.,ORG,0.0,0.0,de,1
-Bundesliga: Klostermann,Bundesliga: Klostermann,ORG,0.0,0.0,de,1
-DWI,DWI,ORG,0.0,0.0,de,1
-Bundesliga:,Bundesliga:,ORG,0.0,0.0,,1
-SC Freiburg: Etwas,SC Freiburg: Etwas,ORG,1.0,0.0,de,1
+ÖVP,ÖVP,ORG,0.0,0.0,de,1
+Kommunistischen Pa…,Kommunistischen Pa…,ORG,0.0,0.0,de,1
+SC Freiburg: Premiere,SC Freiburg: Premiere,ORG,0.0,0.0,de,1
+Werders Frauen-Bundesligateam,Werders Frauen-Bundesligateam,ORG,0.0,0.0,de,1
+AUTO,AUTO,ORG,0.0,0.0,de,1
+REISEMOBIEL,REISEMOBIEL,ORG,0.0,0.0,de,1
+republikanischen Partei,republikanischen Partei,ORG,0.0,0.0,de,1
+Systemtreue,Systemtreue,ORG,0.0,0.0,de,1
+Xinhua.,Xinhua.,ORG,0.0,0.0,de,1
+Europäische Menschenrechtskonvention,Europäische Menschenrechtskonvention,ORG,0.0,0.0,de,1
+Israels rechts-religiöse Parteien,Israels rechts-religiöse Parteien,ORG,0.0,0.0,de,1
+Kitzler.</em>,Kitzler.</em>,ORG,0.0,0.0,de,1
+Linke: Gegner,Linke: Gegner,ORG,0.0,0.0,de,1
+Sahra Wagenknecht,Sahra Wagenknecht,ORG,0.0,0.0,de,1
+SPIEGEL-Informationen,SPIEGEL-Informationen,ORG,0.0,0.0,de,1
+Républicains: Französische Zeitung,Républicains: Französische Zeitung,ORG,0.0,0.0,de,1
+Freiburg im Weserstadion.,Freiburg im Weserstadion.,ORG,-0.7,0.0,de,1
+Top Eigengewächsquote: Freiburgs,Top Eigengewächsquote: Freiburgs,ORG,0.85,0.0,de,1
+Werders Bundesliga-Frauen,Werders Bundesliga-Frauen,ORG,0.0,0.0,de,1
+SC Freiburg: Nicolas Höfler,SC Freiburg: Nicolas Höfler,ORG,0.0,0.0,de,1
+Werder …,Werder …,ORG,1.0,0.0,de,1
+Mehr Union,Mehr Union,ORG,0.5,0.0,de,1
+Hamburger Theaterfabrik…,Hamburger Theaterfabrik…,ORG,0.0,0.0,de,1
+PARTEI,PARTEI,ORG,0.0,0.0,de,1
+"Bündnis Deutschland"" gegründet.","Bündnis Deutschland"" gegründet.",ORG,0.0,0.0,de,1
+Republikanern,Republikanern,ORG,0.0,0.0,de,1
+"Grifo-Show"": Italienische Presse","Grifo-Show"": Italienische Presse",ORG,1.0,0.0,de,1
+SC Freiburg: Roland Sallai,SC Freiburg: Roland Sallai,ORG,0.0,0.0,de,1
+Repräsentantenhaus,Repräsentantenhaus,ORG,-0.35,0.0,de,1
+"SPD: »Trotzig, selbstgerecht, überheblich«.","SPD: »Trotzig, selbstgerecht, überheblich«.",ORG,-1.0,0.0,de,1
+SC Freiburg: Welche Spieler,SC Freiburg: Welche Spieler,ORG,0.0,0.0,de,1
+ÖVP-Chefs,ÖVP-Chefs,ORG,0.0,0.0,de,1
+EU-Parlamentarier Othma,EU-Parlamentarier Othma,ORG,0.0,0.0,de,1
+Bundesliga: SC Freiburg,Bundesliga: SC Freiburg,ORG,0.0,0.0,de,1
+"Löwen  Abendzeitung
+</li><… InfoLiveAufstellungTabelleSpieltagStatistik
+4
+","Löwen  Abendzeitung
+</li><… InfoLiveAufstellungTabelleSpieltagStatistik
+4
+",ORG,-0.5,0.0,de,1
+table><tr><td>SC …,table><tr><td>SC …,ORG,0.0,0.0,de,1
+Spiel a…,Spiel a…,ORG,0.0,0.0,de,1
+Eintracht Frankfurt,Eintracht Frankfurt,ORG,0.0,0.0,de,1
+Frauen-Bundesliga,Frauen-Bundesliga,ORG,0.0,0.0,de,1
+SC Freiburg - Bayern München,SC Freiburg - Bayern München,ORG,0.0,0.0,de,1
+BR24,BR24,ORG,0.0,0.0,de,1
+Rassemblement National.,Rassemblement National.,ORG,0.0,0.0,de,1
+konservativen Partei,konservativen Partei,ORG,0.0,0.0,de,1
+"falschen Partei"".","falschen Partei"".",ORG,-1.0,0.0,de,1
+Qaraba FK avancierte Robert Wagner am Donnerstagabend,Qaraba FK avancierte Robert Wagner am Donnerstagabend,ORG,0.0,0.0,de,1
+SC Freiburg: Wagner,SC Freiburg: Wagner,ORG,0.0,0.0,de,1
+belg…,belg…,ORG,0.0,0.0,de,1
+Qaraba FK,Qaraba FK,ORG,0.0,0.0,de,1
+Qarabag.,Qarabag.,ORG,0.0,0.0,de,1
 SC Freiburg…,SC Freiburg…,ORG,0.0,0.0,de,1
 Karabach.,Karabach.,ORG,0.0,0.0,de,1
-Freiburg,Freiburg,ORG,0.0,0.0,de,1
-Spiel a…,Spiel a…,ORG,0.0,0.0,de,1
 Live…,Live…,ORG,0.0,0.0,de,1
+Linkspartei,Linkspartei,ORG,0.0,0.0,de,1
+FDP,FDP,ORG,0.0,0.0,de,1
+Gruppe »Letzte Generation« beschmierte Partei-Zentralen.,Gruppe »Letzte Generation« beschmierte Partei-Zentralen.,ORG,0.0,0.0,de,1
+Coca-Cola« –,Coca-Cola« –,ORG,0.0,0.0,de,1
+Pepsi-Cola,Pepsi-Cola,ORG,0.0,0.0,de,1
+Sozialdemokraten,Sozialdemokraten,ORG,0.0,0.0,de,1
+Aufsteigers,Aufsteigers,ORG,0.175,0.0,de,1
+FC Schalke,FC Schalke,ORG,0.5,0.0,de,1
+Fußball-Bundesliga: FC Schalke 04,Fußball-Bundesliga: FC Schalke 04,ORG,-0.7,0.0,de,1
 Freiburg: Oldenburg,Freiburg: Oldenburg,ORG,0.0,0.0,de,1
+Frauenfussball: Nächste Schlappe für,Frauenfussball: Nächste Schlappe für,ORG,0.0,0.0,de,1
+Abgeordneten,Abgeordneten,ORG,0.0,0.0,de,1
 Olympiakos Piräus hä…,Olympiakos Piräus hä…,ORG,0.0,0.0,de,1
-SC Freiburg: Nicolas Höfler,SC Freiburg: Nicolas Höfler,ORG,0.0,0.0,de,1
+Europa-League-Gruppe G.,Europa-League-Gruppe G.,ORG,0.0,0.0,de,1
+Gruppensieg.,Gruppensieg.,ORG,0.0,0.0,de,1
+VfL Wolfsburg,VfL Wolfsburg,ORG,0.0,0.0,de,1
+SP,SP,ORG,0.0,0.0,de,1
+Sozialdemokratische Partei in der Schweiz,Sozialdemokratische Partei in der Schweiz,ORG,0.0,0.0,de,1
+britischen Konservativen,britischen Konservativen,ORG,0.0,0.0,de,1
+Nato,Nato,ORG,0.0,0.0,de,1
+USA,USA,ORG,0.0,0.0,de,1
+SC Freiburg …,SC Freiburg …,ORG,0.0,0.0,de,1
+FPÖ,FPÖ,ORG,-0.15000000000000002,0.0,de,1
+Russland:,Russland:,ORG,0.0,0.0,de,1
+"who traveled with them to a ""Shit Red Bull"" tune pic.twitter.com/CICXSt6…","who traveled with them to a ""Shit Red Bull"" tune pic.twitter.com/CICXSt6…",ORG,0.0,0.0,de,1
+The SC Freiburg,The SC Freiburg,ORG,0.0,0.0,de,1
+Ultras,Ultras,ORG,0.0,0.0,de,1
+SC Freiburg auswärts,SC Freiburg auswärts,ORG,0.0,0.0,de,1
+Urheberrechtsverstoßes,Urheberrechtsverstoßes,ORG,0.0,0.0,de,1
+Bayern: Razzia,Bayern: Razzia,ORG,0.0,0.0,de,1
+Bundesliga: Leipzigs WM-Teilnehmer,Bundesliga: Leipzigs WM-Teilnehmer,ORG,-1.0,0.0,de,1
+DWI,DWI,ORG,0.0,0.0,de,1
+Spiel  RB Leipzig Live!,Spiel  RB Leipzig Live!,ORG,0.0,0.0,de,1
+Freiburg im Live-Ticker,Freiburg im Live-Ticker,ORG,0.0,0.0,de,1
+Mainz,Mainz,ORG,0.0,0.0,de,1
+Repräsentantenhaus?,Repräsentantenhaus?,ORG,0.0,0.0,de,1
+Midterms,Midterms,ORG,0.0,0.0,de,1
+US-Republikanern.,US-Republikanern.,ORG,0.0,0.0,de,1
+Freiburg.,Freiburg.,ORG,0.0,0.0,de,1
+Bundesliga: Klostermann,Bundesliga: Klostermann,ORG,0.0,0.0,de,1
+Köln,Köln,ORG,0.0,0.0,de,1
+Trump-Partei der Republikaner zu,Trump-Partei der Republikaner zu,ORG,1.0,0.0,de,1
+Twitter:,Twitter:,ORG,0.0,0.0,de,1
+Bundesliga:,Bundesliga:,ORG,0.0,0.0,,1
+SC Freiburg ,SC Freiburg ,ORG,0.0,0.0,de,1
+SC Freiburg: Etwas,SC Freiburg: Etwas,ORG,1.0,0.0,de,1
+Gr…,Gr…,ORG,0.0,0.0,de,1
+Liveticker | SC Freiburg,Liveticker | SC Freiburg,ORG,0.0,0.0,de,1
+Républicains,Républicains,ORG,-0.15000000000000002,0.0,de,1
