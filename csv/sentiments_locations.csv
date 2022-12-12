@@ -1,124 +1,176 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Freiburg,Freiburg,LOC,-0.06363636363636363,0.18181818181818182,de,11
+Chinas,Chinas,LOC,-0.41500000000000004,0.0,de,10
+Breisgauer,Breisgauer,LOC,-0.13999999999999999,0.0,de,10
 Baku,Baku,LOC,0.1111111111111111,0.0,de,9
+Katar,Katar,LOC,-0.14444444444444446,0.0,de,9
 China,China,LOC,-0.09375000000000001,0.0,de,8
-Breisgauer,Breisgauer,LOC,-0.175,0.0,de,8
-Deutschland,Deutschland,LOC,0.2857142857142857,0.2857142857142857,de,7
-Freiburg,Freiburg,LOC,-0.09999999999999999,0.0,de,7
-Katar,Katar,LOC,-0.21666666666666667,0.0,de,6
-Chinas,Chinas,LOC,-0.525,0.0,de,6
-Weserstadion,Weserstadion,LOC,0.4,0.4,de,5
-Deutschlands,Deutschlands,LOC,0.4,0.2,de,5
-Aserbaidschan,Aserbaidschan,LOC,0.6,0.0,de,5
-Freiburg.,Freiburg.,LOC,0.0,0.0,de,4
-Leipzig,Leipzig,LOC,-0.5,0.0,de,4
-Bayern,Bayern,LOC,0.5,0.0,de,4
-Union,Union,LOC,0.0,0.0,de,4
-Badener,Badener,LOC,0.0,1.0,de,3
-Freiburgs,Freiburgs,LOC,0.5666666666666667,0.0,de,3
+Deutschland,Deutschland,LOC,0.25,0.25,de,8
+Leipzig,Leipzig,LOC,-0.3333333333333333,0.0,de,6
+Union,Union,LOC,0.0,0.0,de,6
+Japan,Japan,LOC,0.0,0.4,de,5
 "Podcasts
 ","Podcasts
-",LOC,0.6999999999999998,0.0,de,3
-Japan,Japan,LOC,0.0,0.0,de,3
+",LOC,0.7,0.0,de,5
+Weserstadion,Weserstadion,LOC,0.4,0.4,de,5
+Audioinhalten,Audioinhalten,LOC,0.7,0.0,de,5
+Bayern,Bayern,LOC,0.4,0.0,de,5
+Deutschlands,Deutschlands,LOC,0.4,0.2,de,5
+Aserbaidschan,Aserbaidschan,LOC,0.6,0.0,de,5
+Brandenburger,Brandenburger,LOC,0.33999999999999997,0.2,de,5
+Frankreich,Frankreich,LOC,0.5,0.0,de,4
+Brasilien,Brasilien,LOC,-0.2875,0.0,de,4
+Freiburg.,Freiburg.,LOC,0.0,0.0,de,4
+Freiburgs,Freiburgs,LOC,0.425,0.25,de,4
+Arizona,Arizona,LOC,0.0,0.3333333333333333,de,3
+Großbritannien,Großbritannien,LOC,0.0,0.0,de,3
+Georgia,Georgia,LOC,0.4666666666666666,0.3333333333333333,de,3
+USA,USA,LOC,-0.3333333333333333,0.0,de,3
+Brandenburgs,Brandenburgs,LOC,0.0,0.3333333333333333,de,3
+Oberhaus,Oberhaus,LOC,0.0,0.0,de,3
+Brandenburg,Brandenburg,LOC,0.3333333333333333,0.0,de,3
+Malaysia,Malaysia,LOC,0.2333333333333333,0.3333333333333333,de,3
 Xinhua,Xinhua,LOC,0.0,0.0,de,3
-Audioinhalten,Audioinhalten,LOC,0.6999999999999998,0.0,de,3
+Leipzig.,Leipzig.,LOC,-0.4666666666666666,0.0,de,3
+Badener,Badener,LOC,0.0,1.0,de,3
+Belgien,Belgien,LOC,0.10000000000000002,0.0,de,3
 Iran,Iran,LOC,-0.6666666666666666,0.0,de,3
-USA,USA,LOC,-0.5,0.0,de,2
-Weserstadion.,Weserstadion.,LOC,0.35,0.0,de,2
-Nyon,Nyon,LOC,0.0,0.0,de,2
-Dortmund,Dortmund,LOC,0.0,0.0,de,2
-Fulda,Fulda,LOC,0.0,0.0,de,2
-Bundesliga-Kader.,Bundesliga-Kader.,LOC,1.0,0.0,de,2
-US-Präsident,US-Präsident,LOC,0.0,0.0,de,2
-Niederlande,Niederlande,LOC,0.0,0.0,de,2
-Pariser,Pariser,LOC,0.0,0.0,de,2
-Augsburg,Augsburg,LOC,0.0,0.0,de,2
-Frankfurt,Frankfurt,LOC,0.0,0.0,de,2
-Donnerstag.,Donnerstag.,LOC,0.7,0.0,de,2
-Albanien,Albanien,LOC,0.0,0.0,de,2
-Wagenknecht-Vertraute Dehm,Wagenknecht-Vertraute Dehm,LOC,-0.7,0.0,de,2
-Europa-Park Stadion.,Europa-Park Stadion.,LOC,0.0,0.0,de,2
-WM-Pause.,WM-Pause.,LOC,0.0,0.0,de,2
-Taiwan,Taiwan,LOC,-0.5,0.0,de,2
-Oldenburger,Oldenburger,LOC,0.0,0.0,de,2
+Hessen,Hessen,LOC,0.5,0.0,de,2
+Leki,Leki,LOC,0.0,0.0,de,2
 Zentraliran,Zentraliran,LOC,-1.0,0.0,de,2
-Aserbaidschan.,Aserbaidschan.,LOC,0.0,0.0,de,2
-Isfahan,Isfahan,LOC,-1.0,0.0,de,2
-Niederländer,Niederländer,LOC,0.0,0.0,de,2
-Nordirland,Nordirland,LOC,-0.35,0.0,de,2
-Israel,Israel,LOC,0.0,0.0,de,2
+Wagenknecht-Vertraute Dehm,Wagenknecht-Vertraute Dehm,LOC,-0.7,0.0,de,2
+Frankfurt,Frankfurt,LOC,0.0,0.0,de,2
+Gujarat,Gujarat,LOC,0.35,0.0,de,2
 Löwelstraße,Löwelstraße,LOC,0.0,0.0,de,2
-Gladbach,Gladbach,LOC,0.0,0.0,de,1
-Brandenburg,Brandenburg,LOC,1.0,0.0,de,1
+Fulda,Fulda,LOC,0.0,0.0,de,2
+Club-Angaben,Club-Angaben,LOC,0.0,0.0,de,2
+Donnerstag.,Donnerstag.,LOC,0.7,0.0,de,2
+Israel,Israel,LOC,0.0,0.0,de,2
+Niederlande,Niederlande,LOC,0.0,0.0,de,2
+US-Präsident,US-Präsident,LOC,0.0,0.0,de,2
+Warnock,Warnock,LOC,0.7,0.0,de,2
+Südkorea,Südkorea,LOC,0.0,1.0,de,2
+Europa-Park Stadion.,Europa-Park Stadion.,LOC,0.0,0.0,de,2
+Oldenburger,Oldenburger,LOC,0.0,0.0,de,2
+Schnauze,Schnauze,LOC,0.0,0.0,de,2
+WM-Pause.,WM-Pause.,LOC,0.0,0.0,de,2
+Nordirland,Nordirland,LOC,-0.35,0.0,de,2
+Albanien,Albanien,LOC,0.0,0.0,de,2
+Brasiliens,Brasiliens,LOC,0.0,0.0,de,2
+Augsburg,Augsburg,LOC,0.0,0.0,de,2
+Himachal Pradesh,Himachal Pradesh,LOC,0.0,0.0,de,2
+Nyon,Nyon,LOC,0.0,0.0,de,2
+Taiwan,Taiwan,LOC,-0.5,0.0,de,2
+Pariser,Pariser,LOC,0.0,0.0,de,2
+Thüringens,Thüringens,LOC,0.75,0.0,de,2
+Europa,Europa,LOC,0.0,0.0,de,2
+Krise,Krise,LOC,0.0,0.0,de,2
+Griechin,Griechin,LOC,-0.35,0.0,de,2
+Niederländer,Niederländer,LOC,0.0,0.0,de,2
+Isfahan,Isfahan,LOC,-1.0,0.0,de,2
+Dortmund,Dortmund,LOC,0.0,0.0,de,2
+Aserbaidschan.,Aserbaidschan.,LOC,0.0,0.0,de,2
+Abgeordnetenhauswahl,Abgeordnetenhauswahl,LOC,0.0,0.0,de,2
+Baden-Württemberg,Baden-Württemberg,LOC,0.0,0.0,de,2
+Berlin,Berlin,LOC,0.0,0.0,de,2
+Bundesliga-Kader.,Bundesliga-Kader.,LOC,1.0,0.0,de,2
+Weserstadion.,Weserstadion.,LOC,0.35,0.0,de,2
+Wahlniederlagen,Wahlniederlagen,LOC,-0.7,0.0,de,2
+China: Wie,China: Wie,LOC,0.0,0.0,de,1
 …,…,LOC,0.0,0.0,de,1
-US,US,LOC,0.0,0.0,de,1
-Staaten,Staaten,LOC,0.0,0.0,de,1
-Hartenbach,Hartenbach,LOC,0.0,0.0,de,1
-Nicht-Weiße,Nicht-Weiße,LOC,0.0,0.0,de,1
-Bundesliga-Elf,Bundesliga-Elf,LOC,0.0,0.0,de,1
-Ghana: Kyereh,Ghana: Kyereh,LOC,0.0,0.0,de,1
-South Carolina,South Carolina,LOC,0.0,1.0,de,1
-Außen­seiter,Außen­seiter,LOC,0.0,0.0,de,1
-Iowa,Iowa,LOC,0.0,1.0,de,1
-Baden-Württemberg,Baden-Württemberg,LOC,0.0,0.0,de,1
-Russland,Russland,LOC,0.0,0.0,de,1
-"Camping: Weinfranken, Stellplatz, Wohnmobil","Camping: Weinfranken, Stellplatz, Wohnmobil",LOC,1.0,0.0,de,1
-Israels,Israels,LOC,0.0,0.0,de,1
-Weinfranken.,Weinfranken.,LOC,1.0,0.0,de,1
-Flekkens,Flekkens,LOC,0.0,0.0,de,1
-China: Früherer Staats-,China: Früherer Staats-,LOC,-1.0,0.0,de,1
-Wien,Wien,LOC,0.0,0.0,de,1
-Bremen,Bremen,LOC,0.0,0.0,de,1
-Hamburg,Hamburg,LOC,0.0,0.0,de,1
-Straße,Straße,LOC,0.0,0.0,de,1
 Klimaaktivisten,Klimaaktivisten,LOC,0.0,0.0,de,1
-Freiburgs Gala-Sieg,Freiburgs Gala-Sieg,LOC,0.0,0.0,de,1
-Mainfranken,Mainfranken,LOC,0.0,0.0,de,1
-Frankreich,Frankreich,LOC,0.0,0.0,de,1
-Tübingen,Tübingen,LOC,0.0,0.0,de,1
-Urlaub am Main,Urlaub am Main,LOC,0.0,0.0,de,1
-Zahl,Zahl,LOC,1.0,0.0,de,1
-Leipzig.,Leipzig.,LOC,0.0,0.0,de,1
-Spieltag: Grifo-Hattrick,Spieltag: Grifo-Hattrick,LOC,0.0,0.0,de,1
-Belgien,Belgien,LOC,1.0,0.0,de,1
-Großbritanniens,Großbritanniens,LOC,0.0,0.0,de,1
-Großbritannien,Großbritannien,LOC,0.0,0.0,de,1
-Europa,Europa,LOC,0.0,0.0,de,1
-Ukraine,Ukraine,LOC,0.0,0.0,de,1
+Israels,Israels,LOC,0.0,0.0,de,1
+Wien,Wien,LOC,0.0,0.0,de,1
+St…,St…,LOC,0.0,0.0,de,1
+Zemin,Zemin,LOC,-1.0,0.0,de,1
+China: Früherer Staats-,China: Früherer Staats-,LOC,-1.0,0.0,de,1
+Straße,Straße,LOC,0.0,0.0,de,1
 DUP-Chef,DUP-Chef,LOC,0.0,0.0,de,1
-Sachsens,Sachsens,LOC,0.0,0.0,de,1
-Köln,Köln,LOC,0.0,0.0,de,1
-Baku.,Baku.,LOC,0.0,0.0,de,1
-München,München,LOC,0.0,0.0,de,1
-Mitte-links-Bündnis,Mitte-links-Bündnis,LOC,-1.0,0.0,de,1
-Dänemark:,Dänemark:,LOC,0.0,0.0,de,1
-"Israel
-","Israel
+US,US,LOC,0.0,0.0,de,1
+Wechselgedanken,Wechselgedanken,LOC,0.0,0.0,de,1
+Staaten,Staaten,LOC,0.0,0.0,de,1
+Seattle,Seattle,LOC,0.0,0.0,de,1
+Linken-Spitze,Linken-Spitze,LOC,0.0,0.0,de,1
+Potsdam,Potsdam,LOC,0.0,0.0,de,1
+Washington,Washington,LOC,0.0,0.0,de,1
+Tübingen,Tübingen,LOC,0.0,0.0,de,1
+Delhi ve…,Delhi ve…,LOC,0.0,0.0,de,1
+Delhi,Delhi,LOC,0.0,0.0,de,1
+Narendra Modi,Narendra Modi,LOC,0.0,0.0,de,1
+Indien,Indien,LOC,0.0,0.0,de,1
+Kommunistisches Plattform,Kommunistisches Plattform,LOC,0.0,0.0,de,1
+"Berlin
+","Berlin
 ",LOC,0.0,0.0,de,1
+London,London,LOC,0.0,0.0,de,1
+Nicht-Weiße,Nicht-Weiße,LOC,0.0,0.0,de,1
+Freiburg-Frust.,Freiburg-Frust.,LOC,0.0,0.0,de,1
+Urlaub am Main,Urlaub am Main,LOC,0.0,0.0,de,1
+Transfermark,Transfermark,LOC,0.0,0.0,de,1
+Platz.,Platz.,LOC,-1.0,0.0,de,1
+Schade,Schade,LOC,-1.0,0.0,de,1
+Vereinigten Königreichs,Vereinigten Königreichs,LOC,0.0,0.0,de,1
+britischen »House of Lords,britischen »House of Lords,LOC,0.7,0.0,de,1
+New Hampshire,New Hampshire,LOC,0.0,1.0,de,1
+Iowa,Iowa,LOC,0.0,1.0,de,1
+South Carolina,South Carolina,LOC,0.0,1.0,de,1
+Mainfranken,Mainfranken,LOC,0.0,0.0,de,1
+Sachsens,Sachsens,LOC,0.0,0.0,de,1
+Weinfranken.,Weinfranken.,LOC,1.0,0.0,de,1
+"Camping: Weinfranken, Stellplatz, Wohnmobil","Camping: Weinfranken, Stellplatz, Wohnmobil",LOC,1.0,0.0,de,1
+Landtag,Landtag,LOC,0.7,0.0,de,1
+Bayerischen Landtag,Bayerischen Landtag,LOC,0.0,0.0,de,1
 Dänemark,Dänemark,LOC,0.0,0.0,de,1
-Kopenhagen,Kopenhagen,LOC,0.0,0.0,de,1
-Doan,Doan,LOC,0.0,0.0,de,1
-Ito,Ito,LOC,0.0,0.0,de,1
-Frankreich: Jordan Bardella,Frankreich: Jordan Bardella,LOC,0.0,0.0,de,1
-Bardella,Bardella,LOC,0.0,0.0,de,1
-"Livestream  br.de
-</li><li>","Livestream  br.de
-</li><li>",LOC,0.0,0.0,de,1
-der Schweiz,der Schweiz,LOC,0.0,0.0,de,1
-Berlin,Berlin,LOC,0.0,0.0,de,1
-Bundesstaat,Bundesstaat,LOC,0.0,0.0,de,1
-Leipzigern,Leipzigern,LOC,0.0,0.0,de,1
-bayerischen Landtag,bayerischen Landtag,LOC,0.0,0.0,de,1
-Bayern.,Bayern.,LOC,0.0,0.0,de,1
 Freiburg: Wer Rasenball,Freiburg: Wer Rasenball,LOC,-0.5,0.0,de,1
 /li><li>,/li><li>,LOC,-0.5,0.0,de,1
 "Freiburg im Live-Ticker  t-online
 </li><li>SC Freiburg","Freiburg im Live-Ticker  t-online
 </li><li>SC Freiburg",LOC,0.0,0.0,de,1
+Oberpfälzer,Oberpfälzer,LOC,0.0,0.0,de,1
+"Israel
+","Israel
+",LOC,0.0,0.0,de,1
+Dänemark:,Dänemark:,LOC,0.0,0.0,de,1
 Ohio,Ohio,LOC,0.0,0.0,de,1
 Weißen Haus,Weißen Haus,LOC,0.0,0.0,de,1
+Mitte-links-Bündnis,Mitte-links-Bündnis,LOC,-1.0,0.0,de,1
 Kader-Comeback,Kader-Comeback,LOC,0.0,0.0,de,1
 Südkoreaner,Südkoreaner,LOC,0.0,0.0,de,1
 Chastoage,Chastoage,LOC,0.0,0.0,de,1
 Champions-League,Champions-League,LOC,0.0,0.0,de,1
-London,London,LOC,0.0,0.0,de,1
-New Hampshire,New Hampshire,LOC,0.0,1.0,de,1
+Baku.,Baku.,LOC,0.0,0.0,de,1
+der Schweiz,der Schweiz,LOC,0.0,0.0,de,1
+"Livestream  br.de
+</li><li>","Livestream  br.de
+</li><li>",LOC,0.0,0.0,de,1
+Bardella,Bardella,LOC,0.0,0.0,de,1
+Frankreich: Jordan Bardella,Frankreich: Jordan Bardella,LOC,0.0,0.0,de,1
+Großbritanniens,Großbritanniens,LOC,0.0,0.0,de,1
+Ukraine,Ukraine,LOC,0.0,0.0,de,1
+Bayern.,Bayern.,LOC,0.0,0.0,de,1
+bayerischen Landtag,bayerischen Landtag,LOC,0.0,0.0,de,1
+Leipzigern,Leipzigern,LOC,0.0,0.0,de,1
+Ito,Ito,LOC,0.0,0.0,de,1
+pelluu,pelluu,LOC,0.0,0.0,de,1
+Zahl,Zahl,LOC,1.0,0.0,de,1
+Hamburg,Hamburg,LOC,0.0,0.0,de,1
+Bremen,Bremen,LOC,0.0,0.0,de,1
+Köln,Köln,LOC,0.0,0.0,de,1
+Hartenbach,Hartenbach,LOC,0.0,0.0,de,1
+Russland,Russland,LOC,0.0,0.0,de,1
+Südostasien,Südostasien,LOC,0.0,1.0,de,1
+US-Präsidenten,US-Präsidenten,LOC,0.0,0.0,de,1
+Abgeordnetenhaus,Abgeordnetenhaus,LOC,0.0,0.0,de,1
+Gladbach,Gladbach,LOC,0.0,0.0,de,1
+Bundesstaat,Bundesstaat,LOC,0.0,0.0,de,1
+Bundesliga-Elf,Bundesliga-Elf,LOC,0.0,0.0,de,1
+Ghana: Kyereh,Ghana: Kyereh,LOC,0.0,0.0,de,1
+Außen­seiter,Außen­seiter,LOC,0.0,0.0,de,1
+Freiburgs Gala-Sieg,Freiburgs Gala-Sieg,LOC,0.0,0.0,de,1
+Doan,Doan,LOC,0.0,0.0,de,1
+Spieltag: Grifo-Hattrick,Spieltag: Grifo-Hattrick,LOC,0.0,0.0,de,1
+Breisgau,Breisgau,LOC,0.0,0.0,de,1
+München,München,LOC,0.0,0.0,de,1
+Nevada,Nevada,LOC,0.0,0.0,de,1
+Kopenhagen,Kopenhagen,LOC,0.0,0.0,de,1
+Flekkens,Flekkens,LOC,0.0,0.0,de,1

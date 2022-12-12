@@ -1,155 +1,225 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Europa League,Europa League,MISC,,,de,19
-…,…,MISC,2.4,0.0,de,13
+…,…,MISC,1.4,1.0,de,24
+Europa League,Europa League,MISC,,,de,21
+"Some of the information stored on your device,","Some of the information stored on your device,",MISC,,,de,13
 Freiburger,Freiburger,MISC,,,de,12
-"Some of the information stored on your device,","Some of the information stored on your device,",MISC,,,de,12
 "When browsing with ads:
 ","When browsing with ads:
 ",MISC,,,de,8
-chinesische,chinesische,MISC,,,de,4
+Weltmeisterschaft,Weltmeisterschaft,MISC,,,de,6
 Vorrunde.,Vorrunde.,MISC,,,de,4
+chinesische,chinesische,MISC,,,de,4
+Bayern-Verfolger.,Bayern-Verfolger.,MISC,,,de,3
 Weserstadion.,Weserstadion.,MISC,0.7,0.0,de,3
-britische,britische,MISC,,,de,3
-Republikaner,Republikaner,MISC,,,de,3
-deutschen,deutschen,MISC,,,de,3
-Fußball-WM,Fußball-WM,MISC,,,de,3
+deutsche,deutsche,MISC,,,de,3
+WM in Katar.,WM in Katar.,MISC,,,de,3
 italienische,italienische,MISC,,,de,3
-Operation,Operation,MISC,,,de,2
-VAR.,VAR.,MISC,,,de,2
-Fußball-Weltmeisterschaft,Fußball-Weltmeisterschaft,MISC,,,de,2
-WM,WM,MISC,,,de,2
-Weltmeisterschaft,Weltmeisterschaft,MISC,,,de,2
-hessische,hessische,MISC,,,de,2
-Pokalfinals.,Pokalfinals.,MISC,,,de,2
-Bundesliga-Topspiel,Bundesliga-Topspiel,MISC,,,de,2
-Bayern-Verfolger.,Bayern-Verfolger.,MISC,,,de,2
-WM dabei?,WM dabei?,MISC,,,de,2
-Europa-League-Gruppenphase: Die,Europa-League-Gruppenphase: Die,MISC,,,de,2
-Transfermarkt-Managerspiel,Transfermarkt-Managerspiel,MISC,,,de,2
-Fußball-Jahres.,Fußball-Jahres.,MISC,,,de,2
-Liveticker.,Liveticker.,MISC,,,de,2
-Champions League,Champions League,MISC,,,de,2
-Werder-Rekordkulisse,Werder-Rekordkulisse,MISC,,,de,2
-Am Sonntag,Am Sonntag,MISC,,,de,2
-aserbaidschanischen,aserbaidschanischen,MISC,,,de,2
+Republikaner,Republikaner,MISC,,,de,3
+demokratischen,demokratischen,MISC,,,de,3
+Fußball-WM,Fußball-WM,MISC,,,de,3
+HSV-Star Ludovit Reis,HSV-Star Ludovit Reis,MISC,,,de,3
+britische,britische,MISC,,,de,3
 "nan When browsing with ads:
 ","nan When browsing with ads:
-",MISC,,,de,2
-Likud-Partei,Likud-Partei,MISC,,,de,2
-Worldcup,Worldcup,MISC,,,de,2
-Europa League:,Europa League:,MISC,,,de,2
-Fußball-WM nach Katar.,Fußball-WM nach Katar.,MISC,,,de,2
-österreichischen,österreichischen,MISC,,,de,2
+",MISC,,,de,3
+deutschen,deutschen,MISC,,,de,3
+Champions League,Champions League,MISC,,,de,2
+WM-,WM-,MISC,,,de,2
+Transfermarkt-Managerspiel,Transfermarkt-Managerspiel,MISC,,,de,2
+TV-Experten,TV-Experten,MISC,,,de,2
+Am Sonntag,Am Sonntag,MISC,,,de,2
+deutsches,deutsches,MISC,,,de,2
+Liveticker.,Liveticker.,MISC,,,de,2
+Bundesliga-Topspiel,Bundesliga-Topspiel,MISC,,,de,2
+Fußball-Weltmeisterschaft alarmiert.,Fußball-Weltmeisterschaft alarmiert.,MISC,,,de,2
+Fußball-Jahres.,Fußball-Jahres.,MISC,,,de,2
+Pokalfinals.,Pokalfinals.,MISC,,,de,2
+"BILD
+</li><li>SC Freiburg","BILD
+</li><li>SC Freiburg",MISC,,,de,2
+WM,WM,MISC,,,de,2
+Leipziger,Leipziger,MISC,,,de,2
+Europa-League-Gruppenphase: Die,Europa-League-Gruppenphase: Die,MISC,,,de,2
+DFB-Pokal,DFB-Pokal,MISC,,,de,2
 Marathon-Männer,Marathon-Männer,MISC,,,de,2
-Europa League: Freiburg,Europa League: Freiburg,MISC,,,de,2
+Worldcup,Worldcup,MISC,,,de,2
+Fußball-WM nach Katar.,Fußball-WM nach Katar.,MISC,,,de,2
+VAR.,VAR.,MISC,,,de,2
+Panhellenischen Sozialistischen Bewegung,Panhellenischen Sozialistischen Bewegung,MISC,,,de,2
+Likud-Partei,Likud-Partei,MISC,,,de,2
+WM dabei?,WM dabei?,MISC,,,de,2
 Drittliga-Aufsteigers,Drittliga-Aufsteigers,MISC,,,de,2
-Nie­mand,Nie­mand,MISC,,,de,1
-"Live-Ticker  BILD
-…","Live-Ticker  BILD
-…",MISC,,,de,1
-Liveticker,Liveticker,MISC,,,de,1
-Europa League qua­li­…,Europa League qua­li­…,MISC,,,de,1
-Addo,Addo,MISC,,,de,1
-Fußball-WM.,Fußball-WM.,MISC,,,de,1
-Ein letztes Mal,Ein letztes Mal,MISC,,,de,1
-Bun­des­liga.,Bun­des­liga.,MISC,,,de,1
-Bundesliga-Fußball,Bundesliga-Fußball,MISC,,,de,1
-Bittere Elfmeterentscheidung,Bittere Elfmeterentscheidung,MISC,,,de,1
-ePaper,ePaper,MISC,,,de,1
-Mehr Grund zur Freude,Mehr Grund zur Freude,MISC,,,de,1
-Die Highlights im Video.,Die Highlights im Video.,MISC,,,de,1
-De…,De…,MISC,,,de,1
-WM-,WM-,MISC,,,de,1
-Pr…,Pr…,MISC,,,de,1
-Berliner,Berliner,MISC,,,de,1
-Ghanas Nationalcoach Otto Addo,Ghanas Nationalcoach Otto Addo,MISC,,,de,1
-Bundesliga-Spiel: Werder-Frauen,Bundesliga-Spiel: Werder-Frauen,MISC,,,de,1
-französische,französische,MISC,,,de,1
-Linken-Parteiführung,Linken-Parteiführung,MISC,,,de,1
-Falun-Gong-Bewegung.,Falun-Gong-Bewegung.,MISC,,,de,1
-chinesischer,chinesischer,MISC,,,de,1
-Mittwoch.,Mittwoch.,MISC,,,de,1
-Letzten Generation,Letzten Generation,MISC,,,de,1
-Fußball-WM: Massive Gegenbewegung.,Fußball-WM: Massive Gegenbewegung.,MISC,,,de,1
+Europa League: Freiburg,Europa League: Freiburg,MISC,,,de,2
+Europa League:,Europa League:,MISC,,,de,2
+Werder-Rekordkulisse,Werder-Rekordkulisse,MISC,,,de,2
+Operation,Operation,MISC,,,de,2
+österreichischen,österreichischen,MISC,,,de,2
+hessischen,hessischen,MISC,,,de,2
+aserbaidschanischen,aserbaidschanischen,MISC,,,de,2
+Viermal trifft,Viermal trifft,MISC,,,de,2
+Fußball-Weltmeisterschaft,Fußball-Weltmeisterschaft,MISC,,,de,2
+hessische,hessische,MISC,,,de,2
+Bundesspitze,Bundesspitze,MISC,,,de,2
 chinesischen,chinesischen,MISC,,,de,1
+Fußball-WM: Massive Gegenbewegung.,Fußball-WM: Massive Gegenbewegung.,MISC,,,de,1
 Zeit zum Trauern.,Zeit zum Trauern.,MISC,,,de,1
 Die Fußballerinnen,Die Fußballerinnen,MISC,,,de,1
+Durchsuchungsaktion,Durchsuchungsaktion,MISC,,,de,1
+Bundesliga-Spiel: Werder-Frauen,Bundesliga-Spiel: Werder-Frauen,MISC,,,de,1
 U…,U…,MISC,,,de,1
-Weihnachten:,Weihnachten:,MISC,,,de,1
+Menschenrechtskonvention.,Menschenrechtskonvention.,MISC,,,de,1
+ORF.at-Anfrage,ORF.at-Anfrage,MISC,,,de,1
+WM?,WM?,MISC,,,de,1
+soziale,soziale,MISC,,,de,1
+Zwischenwahlen in den USA,Zwischenwahlen in den USA,MISC,,,de,1
+Berliner,Berliner,MISC,,,de,1
+AfD-Bundesvorstand,AfD-Bundesvorstand,MISC,,,de,1
+Wahlen in,Wahlen in,MISC,,,de,1
+Die Zeit der klaren politischen,Die Zeit der klaren politischen,MISC,,,de,1
+Cota…,Cota…,MISC,,,de,1
+SC-Sportdirektor,SC-Sportdirektor,MISC,,,de,1
+brasilianische,brasilianische,MISC,,,de,1
+Be…,Be…,MISC,,,de,1
+Unter treuesten Bundesliga-Profis.,Unter treuesten Bundesliga-Profis.,MISC,,,de,1
 "nan When browsing with ads:
 We collect personal data and also transmit it to third-party providers
  that help us improve and finance our digital content.","nan When browsing with ads:
 We collect personal data and also transmit it to third-party providers
  that help us improve and finance our digital content.",MISC,,,de,1
-Unter treuesten Bundesliga-Profis.,Unter treuesten Bundesliga-Profis.,MISC,,,de,1
-SC-Sportdirektor,SC-Sportdirektor,MISC,,,de,1
-Cota…,Cota…,MISC,,,de,1
-AfD-Bundesvorstand,AfD-Bundesvorstand,MISC,,,de,1
-Zwischenwahlen in den USA,Zwischenwahlen in den USA,MISC,,,de,1
-soziale,soziale,MISC,,,de,1
-WM?,WM?,MISC,,,de,1
-ORF.at-Anfrage,ORF.at-Anfrage,MISC,,,de,1
-Menschenrechtskonvention.,Menschenrechtskonvention.,MISC,,,de,1
-Linken-Bundestagsabgeordnete,Linken-Bundestagsabgeordnete,MISC,,,de,1
-Streich,Streich,MISC,,,de,1
-Nevada:,Nevada:,MISC,,,de,1
-israelische,israelische,MISC,,,de,1
-russische Überfall auf die,russische Überfall auf die,MISC,,,de,1
+PiS-Partei,PiS-Partei,MISC,,,de,1
+DFB-Star Nico Schlotterbeck),DFB-Star Nico Schlotterbeck),MISC,,,de,1
+polnische,polnische,MISC,,,de,1
+Pklue,Pklue,MISC,,,de,1
+Freiburg-Trainer Christian Streich,Freiburg-Trainer Christian Streich,MISC,,,de,1
+NEWS: Alles Wichtige,NEWS: Alles Wichtige,MISC,,,de,1
+"WM)
+Christian Streich ledert geg…","WM)
+Christian Streich ledert geg…",MISC,,,de,1
+Fußball-WM vor dem Fernseher.,Fußball-WM vor dem Fernseher.,MISC,,,de,1
+Frieden,Frieden,MISC,,,de,1
+indischen,indischen,MISC,,,de,1
+CDU-Landeschef,CDU-Landeschef,MISC,,,de,1
+PLUS-Inhalten,PLUS-Inhalten,MISC,,,de,1
+"Print-Magazin
+werbefrei &amp;","Print-Magazin
+werbefrei &amp;",MISC,,,de,1
+Mutmaßlicher Korruptionsskandal: Griechische EU-Parlamentsabgeordnete,Mutmaßlicher Korruptionsskandal: Griechische EU-Parlamentsabgeordnete,MISC,,,de,1
+belgische,belgische,MISC,,,de,1
+griechischen,griechischen,MISC,,,de,1
+SinemaNeben,SinemaNeben,MISC,,,de,1
+e…,e…,MISC,,,de,1
+Zweiparteiensystems.,Zweiparteiensystems.,MISC,,,de,1
+"SPORT1
+","SPORT1
+",MISC,,,de,1
+WM 2022,WM 2022,MISC,,,de,1
+Die deutsche…,Die deutsche…,MISC,,,de,1
+französische,französische,MISC,,,de,1
+Letzten Generation,Letzten Generation,MISC,,,de,1
+Mittwoch.,Mittwoch.,MISC,,,de,1
+chinesischer,chinesischer,MISC,,,de,1
+Falun-Gong-Bewegung.,Falun-Gong-Bewegung.,MISC,,,de,1
+Linken-Parteiführung,Linken-Parteiführung,MISC,,,de,1
+Beugen sich die Partei,Beugen sich die Partei,MISC,,,de,1
+"Le Journal du Dimanche« 
+","Le Journal du Dimanche« 
+",MISC,,,de,1
+Freiburgs Streich,Freiburgs Streich,MISC,,,de,1
+Labourpartei.,Labourpartei.,MISC,,,de,1
+Fußball-Bundesligisten dabe…,Fußball-Bundesligisten dabe…,MISC,,,de,1
+Georgia.,Georgia.,MISC,,,de,1
+DFL-Spitze.,DFL-Spitze.,MISC,,,de,1
+US-amerikanische,US-amerikanische,MISC,,,de,1
+Ein Jahr Ampel-Regierung: Wie sich die Opposition,Ein Jahr Ampel-Regierung: Wie sich die Opposition,MISC,,,de,1
+Weihnachten:,Weihnachten:,MISC,,,de,1
+Pr…,Pr…,MISC,,,de,1
+"Katar-WM: ""Alle diese Punkte","Katar-WM: ""Alle diese Punkte",MISC,,,de,1
+National.,National.,MISC,,,de,1
 Ukrainekrieg,Ukrainekrieg,MISC,,,de,1
-"EL-Endrunde: ""Schönes Gefühl heute""","EL-Endrunde: ""Schönes Gefühl heute""",MISC,,,de,1
-Europapokal.,Europapokal.,MISC,,,de,1
-Bundesliga-Spitzenreiter,Bundesliga-Spitzenreiter,MISC,,,de,1
-Showdown in Belgien,Showdown in Belgien,MISC,,,de,1
-TM…,TM…,MISC,,,de,1
-Europa League: Später Gegentreffer:,Europa League: Später Gegentreffer:,MISC,,,de,1
-Livestream,Livestream,MISC,,,de,1
-Bundesjustizministerin,Bundesjustizministerin,MISC,,,de,1
-Israel.,Israel.,MISC,,,de,1
-Freiburg: Geldstrafe,Freiburg: Geldstrafe,MISC,,,de,1
-Likud-Wahlsieg,Likud-Wahlsieg,MISC,,,de,1
-Dänemark-Wahl,Dänemark-Wahl,MISC,,,de,1
-Parlament von Kopenhagen.,Parlament von Kopenhagen.,MISC,,,de,1
-Israel: Benjamin Netanyahu Likud,Israel: Benjamin Netanyahu Likud,MISC,,,de,1
-Wahl in,Wahl in,MISC,,,de,1
-Aufgebot.,Aufgebot.,MISC,,,de,1
-iranischer,iranischer,MISC,,,de,1
-"Streich schwärmt: ""Besondere Nacht für unseren Verein""","Streich schwärmt: ""Besondere Nacht für unseren Verein""",MISC,,,de,1
-K.o.-Phase,K.o.-Phase,MISC,,,de,1
-Europa League: SC Freiburg,Europa League: SC Freiburg,MISC,,,de,1
+russische Überfall auf die,russische Überfall auf die,MISC,,,de,1
 Krieg,Krieg,MISC,,,de,1
+Freiburg: Geldstrafe,Freiburg: Geldstrafe,MISC,,,de,1
 Europapokal,Europapokal,MISC,,,de,1
-"Bundesliga  Wettbasis
-</li><li>","Bundesliga  Wettbasis
+Rishi Sunak,Rishi Sunak,MISC,,,de,1
+indischer,indischer,MISC,,,de,1
+Tories,Tories,MISC,,,de,1
+Europapokal.,Europapokal.,MISC,,,de,1
+Streich mit Tränen!,Streich mit Tränen!,MISC,,,de,1
+Streich jetzt Bayern-Jäger,Streich jetzt Bayern-Jäger,MISC,,,de,1
+Sonntagabend,Sonntagabend,MISC,,,de,1
+Aufstand,Aufstand,MISC,,,de,1
+Twitter,Twitter,MISC,,,de,1
+"Streich über Jeong: ""Einfach mal","Streich über Jeong: ""Einfach mal",MISC,,,de,1
+Senat?,Senat?,MISC,,,de,1
+"EL-Endrunde: ""Schönes Gefühl heute""","EL-Endrunde: ""Schönes Gefühl heute""",MISC,,,de,1
+Bundesliga-Spitzenreiter,Bundesliga-Spitzenreiter,MISC,,,de,1
+Streich über Fan-Kritik,Streich über Fan-Kritik,MISC,,,de,1
+Parlament von Kopenhagen.,Parlament von Kopenhagen.,MISC,,,de,1
+Europa League: SC Freiburg,Europa League: SC Freiburg,MISC,,,de,1
+K.o.-Phase,K.o.-Phase,MISC,,,de,1
+"Streich schwärmt: ""Besondere Nacht für unseren Verein""","Streich schwärmt: ""Besondere Nacht für unseren Verein""",MISC,,,de,1
+iranischer,iranischer,MISC,,,de,1
+Aufgebot.,Aufgebot.,MISC,,,de,1
+Wahl in,Wahl in,MISC,,,de,1
+Israel: Benjamin Netanyahu Likud,Israel: Benjamin Netanyahu Likud,MISC,,,de,1
+Dänemark-Wahl,Dänemark-Wahl,MISC,,,de,1
+Showdown in Belgien,Showdown in Belgien,MISC,,,de,1
+Likud-Wahlsieg,Likud-Wahlsieg,MISC,,,de,1
+Israel.,Israel.,MISC,,,de,1
+israelische,israelische,MISC,,,de,1
+Bundesjustizministerin,Bundesjustizministerin,MISC,,,de,1
+Livestream,Livestream,MISC,,,de,1
+Europa League: Später Gegentreffer:,Europa League: Später Gegentreffer:,MISC,,,de,1
+TM…,TM…,MISC,,,de,1
+Mittwochabend.,Mittwochabend.,MISC,,,de,1
+Konferenz im Livet…,Konferenz im Livet…,MISC,,,de,1
+tz.de.,tz.de.,MISC,,,de,1
+Fußball-WM.,Fußball-WM.,MISC,,,de,1
+Bittere Elfmeterentscheidung,Bittere Elfmeterentscheidung,MISC,,,de,1
+Mehr Grund zur Freude,Mehr Grund zur Freude,MISC,,,de,1
+Gute Erträge und tolle Qualitäten,Gute Erträge und tolle Qualitäten,MISC,,,de,1
+Breisgauer profi…,Breisgauer profi…,MISC,,,de,1
+De…,De…,MISC,,,de,1
+Die Highlights im Video.,Die Highlights im Video.,MISC,,,de,1
+ePaper,ePaper,MISC,,,de,1
+Bun­des­liga.,Bun­des­liga.,MISC,,,de,1
+kroatische,kroatische,MISC,,,de,1
+Nie­mand,Nie­mand,MISC,,,de,1
+Europa League qua­li­…,Europa League qua­li­…,MISC,,,de,1
+Addo,Addo,MISC,,,de,1
+Ghanas Nationalcoach Otto Addo,Ghanas Nationalcoach Otto Addo,MISC,,,de,1
+"Ein Lebenstraum"": Deutscher WM-Fahrer","Ein Lebenstraum"": Deutscher WM-Fahrer",MISC,,,de,1
+Deutscher,Deutscher,MISC,,,de,1
+"SPORT1
+</li><li>","SPORT1
 </li><li>",MISC,,,de,1
+Tor für Freiburg!,Tor für Freiburg!,MISC,,,de,1
+Bundesliga-Fußball,Bundesliga-Fußball,MISC,,,de,1
+Ein letztes Mal,Ein letztes Mal,MISC,,,de,1
+"Live-Ticker  BILD
+…","Live-Ticker  BILD
+…",MISC,,,de,1
 Schwalben-Vorwurf,Schwalben-Vorwurf,MISC,,,de,1
-Österreich:,Österreich:,MISC,,,de,1
-Au…,Au…,MISC,,,de,1
-Die Ligapartie,Die Ligapartie,MISC,,,de,1
-die Ligapartie,die Ligapartie,MISC,,,de,1
-Freiburg.,Freiburg.,MISC,0.0,0.0,de,1
+Katar fü…,Katar fü…,MISC,,,de,1
+Streich,Streich,MISC,,,de,1
+Freiburg II,Freiburg II,MISC,,,de,1
+Zweiten im Dreisamstadion.,Zweiten im Dreisamstadion.,MISC,,,de,1
 "Aufwallung When browsing with ads:
 We collect personal data and also transmit it to third-party providers
  that help us improve and finance our digital content.","Aufwallung When browsing with ads:
 We collect personal data and also transmit it to third-party providers
  that help us improve and finance our digital content.",MISC,,,de,1
-Zweiten im Dreisamstadion.,Zweiten im Dreisamstadion.,MISC,,,de,1
-Freiburg II,Freiburg II,MISC,,,de,1
-Gute Erträge und tolle Qualitäten,Gute Erträge und tolle Qualitäten,MISC,,,de,1
-Katar fü…,Katar fü…,MISC,,,de,1
-Konferenz im Livet…,Konferenz im Livet…,MISC,,,de,1
-Rishi Sunak,Rishi Sunak,MISC,,,de,1
-Mittwochabend.,Mittwochabend.,MISC,,,de,1
-Senat?,Senat?,MISC,,,de,1
-"Streich über Jeong: ""Einfach mal","Streich über Jeong: ""Einfach mal",MISC,,,de,1
-Twitter,Twitter,MISC,,,de,1
-Sonntagabend,Sonntagabend,MISC,,,de,1
+Freiburg.,Freiburg.,MISC,0.0,0.0,de,1
+die Ligapartie,die Ligapartie,MISC,,,de,1
+Die Ligapartie,Die Ligapartie,MISC,,,de,1
+Au…,Au…,MISC,,,de,1
+Österreich:,Österreich:,MISC,,,de,1
+"Bundesliga  Wettbasis
+</li><li>","Bundesliga  Wettbasis
+</li><li>",MISC,,,de,1
+Nevada:,Nevada:,MISC,,,de,1
+Linken-Bundestagsabgeordnete,Linken-Bundestagsabgeordnete,MISC,,,de,1
+Liveticker,Liveticker,MISC,,,de,1
 "BILD
-</li><li>SC Freiburg","BILD
-</li><li>SC Freiburg",MISC,,,de,1
-Streich mit Tränen!,Streich mit Tränen!,MISC,,,de,1
-Tories,Tories,MISC,,,de,1
-National.,National.,MISC,,,de,1
-indischer,indischer,MISC,,,de,1
-"Le Journal du Dimanche« 
-","Le Journal du Dimanche« 
-",MISC,,,de,1
+</li><li>","BILD
+</li><li>",MISC,,,de,1
