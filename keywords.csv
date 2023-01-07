@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'SC Freiburg',de,Bundesliga,#EB0000,#888888,3,0.1039587309762559
-'Martin Horn',de,Freiburg,#18e818,#888888,2,0.0670676813675908
 'Die PARTEI',de,Freiburg,#181818,#888888,3,0.0665573353882338
 'Die PARTEI',de,Deutschland,#1818e8,#888888,3,0.0665490488362845
-'Martin Sonneborn',de,Deutschland,#e81818,#888888,1,0.057340966591349546
+'Martin Sonneborn',de,Deutschland,#e81818,#888888,1,0.0573409665913495
+'Martin Horn',de,Freiburg,#18e818,#888888,1,0.05700772416245217
 'Weinlese',de,Luxemburg,#219100,#888888,1,0.0482431170380412
 'WorldCup',de,Qatar,#4D0E00,#888888,1,0.0381993666610963
 'Xavier Bettel',de,Luxemburg,#6618e9,#888888,1,0.0034439101189418
