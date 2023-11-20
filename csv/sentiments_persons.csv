@@ -1,8 +1,8 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Christian Streich,Christian Streich,PER,0.08281333333333332,0.04555555555555555,de,375
+Christian Streich,Christian Streich,PER,0.08104774535809017,0.04743589743589743,de,377
 Christian Günter,Christian Günter,PER,-0.050666666666666665,0.013333333333333334,de,75
 Nils Petersen,Nils Petersen,PER,0.05071428571428572,0.09571428571428571,de,70
-Vincenzo Grifo,Vincenzo Grifo,PER,0.12010582010582012,0.2275132275132275,de,63
+Vincenzo Grifo,Vincenzo Grifo,PER,0.11641025641025642,0.2205128205128205,de,65
 Keven Schlotterbeck,Keven Schlotterbeck,PER,0.06304347826086958,0.0,de,46
 Junior Adamu,Junior Adamu,PER,0.1785714285714286,0.0,de,42
 Mark Flekken,Mark Flekken,PER,0.05874999999999999,0.0125,de,40
@@ -19,316 +19,376 @@ Nicolas Höfler,Nicolas Höfler,PER,-0.2571428571428571,0.0,de,21
 Martin Sonneborn,Martin Sonneborn,PER,-0.11052631578947367,0.0,de,19
 Noah Darvich,Noah Darvich,PER,0.0,0.0,de,17
 Hugo Siquet,Hugo Siquet,PER,0.018750000000000003,0.25,de,16
-Jochen Saier,Jochen Saier,PER,0.04666666666666666,0.0,de,15
-Mats Hummels,Mats Hummels,PER,0.0,0.0,de,15
-Matthias Ginter,Matthias Ginter,PER,0.0,0.0,de,15
+Marco Rose,Marco Rose,PER,0.26562499999999994,0.020833333333333332,de,16
 Kenneth Schmidt,Kenneth Schmidt,PER,0.0,0.0,de,15
+Xavier Bettel,Xavier Bettel,PER,0.18000000000000002,0.13333333333333333,de,15
+Mats Hummels,Mats Hummels,PER,0.0,0.0,de,15
+Jochen Saier,Jochen Saier,PER,0.04666666666666666,0.0,de,15
+Matthias Ginter,Matthias Ginter,PER,0.0,0.0,de,15
 Axel Hellmann,Axel Hellmann,PER,0.0,0.0,de,14
-Florian Wirtz,Florian Wirtz,PER,0.09999999999999999,0.0,de,13
 Kiliann Sildillia,Kiliann Sildillia,PER,0.0,0.0,de,13
-Volker Finke,Volker Finke,PER,0.21025641025641026,0.0,de,13
-Lucas Höler,Lucas Höler,PER,0.09615384615384616,0.0,de,13
+Florian Wirtz,Florian Wirtz,PER,0.09999999999999999,0.0,de,13
 Woo-yeong Jeong,Woo-yeong Jeong,PER,-0.12564102564102564,0.02564102564102564,de,13
+Lucas Höler,Lucas Höler,PER,0.09615384615384616,0.0,de,13
+Volker Finke,Volker Finke,PER,0.21025641025641026,0.0,de,13
 Jiang Zemin,Jiang Zemin,PER,-0.5833333333333334,0.0,de,12
-Jordy Makengo,Jordy Makengo,PER,0.06388888888888888,0.1111111111111111,de,12
 Thomas Müller,Thomas Müller,PER,0.3583333333333334,0.08333333333333333,de,12
-Backa Topola,Backa Topola,PER,0.375,0.0,de,12
 Lukas Kübler,Lukas Kübler,PER,0.16666666666666666,0.0,de,12
-Xavier Bettel,Xavier Bettel,PER,0.06363636363636363,0.18181818181818182,de,11
-Marco Rose,Marco Rose,PER,0.44090909090909086,0.0,de,11
+Jordy Makengo,Jordy Makengo,PER,0.06388888888888888,0.1111111111111111,de,12
+Backa Topola,Backa Topola,PER,0.375,0.0,de,12
 Jonathan Schmid,Jonathan Schmid,PER,0.27,0.0,de,10
 Daniel-Kofi Kyereh,Daniel-Kofi Kyereh,PER,0.0,0.0,de,10
 Urs Fischer,Urs Fischer,PER,0.1111111111111111,0.0,de,9
 Theresa Merk,Theresa Merk,PER,0.0,0.2222222222222222,de,9
-Kimberly Ezekwem,Kimberly Ezekwem,PER,0.0,0.0,de,9
 Yannik Engelhardt,Yannik Engelhardt,PER,0.1111111111111111,0.0,de,9
-Thomas Letsch,Thomas Letsch,PER,0.49687499999999996,0.09375,de,8
+Kimberly Ezekwem,Kimberly Ezekwem,PER,0.0,0.0,de,9
 Friedrich Merz,Friedrich Merz,PER,0.0625,0.1,de,8
-Noah Weißhaupt,Noah Weißhaupt,PER,0.25,0.25,de,8
-Lino Tempelmann,Lino Tempelmann,PER,0.1625,0.0,de,8
-Thomas Stamm,Thomas Stamm,PER,-0.175,0.0,de,8
-Woo-Yeong Jeong,Woo-Yeong Jeong,PER,0.25,0.0,de,8
+Thomas Letsch,Thomas Letsch,PER,0.49687499999999996,0.09375,de,8
 Niclas Füllkrug,Niclas Füllkrug,PER,-0.125,0.0,de,8
+Woo-Yeong Jeong,Woo-Yeong Jeong,PER,0.25,0.0,de,8
 Julian Nagelsmann,Julian Nagelsmann,PER,-0.19479166666666667,0.2708333333333333,de,8
-Ermedin Demirovic,Ermedin Demirovic,PER,0.0,0.0,de,7
-Maximilian Eggestein,Maximilian Eggestein,PER,0.0,0.0,de,7
+Lino Tempelmann,Lino Tempelmann,PER,0.1625,0.0,de,8
+Noah Weißhaupt,Noah Weißhaupt,PER,0.25,0.25,de,8
+Thomas Stamm,Thomas Stamm,PER,-0.175,0.0,de,8
 Hamadi Al Ghaddioui,Hamadi Al Ghaddioui,PER,0.0,0.0,de,7
 Vincent Vermeij,Vincent Vermeij,PER,0.0,0.0,de,7
-Donata Hopfen,Donata Hopfen,PER,-0.11666666666666665,0.0,de,6
+Maximilian Eggestein,Maximilian Eggestein,PER,0.0,0.0,de,7
+Ermedin Demirovic,Ermedin Demirovic,PER,0.0,0.0,de,7
+Lukas Klostermann,Lukas Klostermann,PER,0.2857142857142857,0.0,de,7
 Michael Stübgen,Michael Stübgen,PER,0.2833333333333333,0.16666666666666666,de,6
-Sandro Schwarz,Sandro Schwarz,PER,0.44722222222222224,0.0,de,6
-Klemens Hartenbach,Klemens Hartenbach,PER,0.11666666666666665,0.0,de,6
 Leroy Sané,Leroy Sané,PER,0.3222222222222222,0.0,de,6
-Ramy Bensebaini,Ramy Bensebaini,PER,0.16666666666666666,0.0,de,6
-Thomas Reis,Thomas Reis,PER,0.1611111111111111,0.13888888888888887,de,6
+Klemens Hartenbach,Klemens Hartenbach,PER,0.11666666666666665,0.0,de,6
+Sandro Schwarz,Sandro Schwarz,PER,0.44722222222222224,0.0,de,6
 Jamal Musiala,Jamal Musiala,PER,0.47500000000000003,0.0,de,6
+Donata Hopfen,Donata Hopfen,PER,-0.11666666666666665,0.0,de,6
+Thomas Reis,Thomas Reis,PER,0.1611111111111111,0.13888888888888887,de,6
 Mittelfeld-Talent Noah Darvich,Mittelfeld-Talent Noah Darvich,PER,0.16666666666666666,0.0,de,6
 Ritsu Doan,Ritsu Doan,PER,0.11666666666666665,0.0,de,6
-Alexander Lungwitz,Alexander Lungwitz,PER,0.2,0.0,de,5
-Pascal Fallmann,Pascal Fallmann,PER,0.0,0.0,de,5
-Alexander Schwolow,Alexander Schwolow,PER,0.27999999999999997,0.0,de,5
-Philipp Treu,Philipp Treu,PER,1.0,0.0,de,5
-Bruno Labbadia,Bruno Labbadia,PER,0.4,0.0,de,5
-Joshua Kimmich,Joshua Kimmich,PER,0.2,0.0,de,5
+Ramy Bensebaini,Ramy Bensebaini,PER,0.16666666666666666,0.0,de,6
+Pellegrino Matarazzo,Pellegrino Matarazzo,PER,-0.2,0.0,de,5
 Eva Kaili,Eva Kaili,PER,-0.27999999999999997,0.0,de,5
 Benjamin Uphoff,Benjamin Uphoff,PER,0.0,0.0,de,5
+Bruno Labbadia,Bruno Labbadia,PER,0.4,0.0,de,5
 Mia Büchele,Mia Büchele,PER,0.0,0.4,de,5
-Pellegrino Matarazzo,Pellegrino Matarazzo,PER,-0.2,0.0,de,5
+Freiburg II,Freiburg II,PER,0.0,0.0,de,5
 nan nan,nan nan,PER,0.0,0.0,,5
-Joana Cotar,Joana Cotar,PER,0.0,0.0,de,5
-Lukas Klostermann,Lukas Klostermann,PER,0.4,0.0,de,5
+Pascal Fallmann,Pascal Fallmann,PER,0.0,0.0,de,5
+Philipp Treu,Philipp Treu,PER,1.0,0.0,de,5
 Bodo Ramelow,Bodo Ramelow,PER,-0.2,0.0,de,5
-Luca Waldschmidt,Luca Waldschmidt,PER,0.175,0.5,de,4
-Christian S,Christian S,PER,0.0,0.0,de,4
-Manuel Gulde,Manuel Gulde,PER,0.35,0.5,de,4
-Martin Horn,Martin Horn,PER,-0.1500000000000001,0.0,de,4
-Fabio Chiarodia,Fabio Chiarodia,PER,0.5,0.0,de,4
-Sibylle Berg,Sibylle Berg,PER,-0.35,0.0,de,4
-Jair Bolsonaro,Jair Bolsonaro,PER,-0.2875,0.0,de,4
-Alois Schwartz,Alois Schwartz,PER,-0.2875,0.0,de,4
-Frank Schmidt,Frank Schmidt,PER,0.25,0.0,de,4
-Sardar Azmoun,Sardar Azmoun,PER,0.85,0.0,de,4
-Donald Trump,Donald Trump,PER,0.0,0.0,de,4
-Yannik Keitel,Yannik Keitel,PER,0.0,0.25,de,4
-Robert Wagner,Robert Wagner,PER,0.0,0.0,de,4
+Joana Cotar,Joana Cotar,PER,0.0,0.0,de,5
+Alexandra Popp,Alexandra Popp,PER,0.33999999999999997,0.0,de,5
+Joshua Kimmich,Joshua Kimmich,PER,0.2,0.0,de,5
+Alexander Lungwitz,Alexander Lungwitz,PER,0.2,0.0,de,5
+Alexander Schwolow,Alexander Schwolow,PER,0.27999999999999997,0.0,de,5
 Edin Terzic,Edin Terzic,PER,0.35,0.0,de,4
-Freiburg II,Freiburg II,PER,0.0,0.0,de,4
+Frank Schmidt,Frank Schmidt,PER,0.25,0.0,de,4
+Sibylle Berg,Sibylle Berg,PER,-0.35,0.0,de,4
+Donald Trump,Donald Trump,PER,0.0,0.0,de,4
+Jair Bolsonaro,Jair Bolsonaro,PER,-0.2875,0.0,de,4
+Yannik Keitel,Yannik Keitel,PER,0.0,0.25,de,4
+Manuel Gulde,Manuel Gulde,PER,0.35,0.5,de,4
 Bačka Topola,Bačka Topola,PER,0.125,0.375,de,4
-Manuel Neuer,Manuel Neuer,PER,-0.6666666666666666,0.0,de,3
-Mitch McConnell,Mitch McConnell,PER,0.5166666666666666,0.0,de,3
-Kevin Trapp,Kevin Trapp,PER,0.0,0.0,de,3
-Svenja Fölmli,Svenja Fölmli,PER,-0.2333333333333333,0.0,de,3
-Dino Toppmöller,Dino Toppmöller,PER,0.16666666666666666,0.0,de,3
-Lars Kehl,Lars Kehl,PER,0.3333333333333333,0.0,de,3
-Marvin Plattenhardt,Marvin Plattenhardt,PER,0.0,0.0,de,3
-Marie Müller,Marie Müller,PER,0.0,0.0,de,3
-Rainer Nowak,Rainer Nowak,PER,-0.05000000000000001,0.0,de,3
+Sardar Azmoun,Sardar Azmoun,PER,0.85,0.0,de,4
+Fabio Chiarodia,Fabio Chiarodia,PER,0.5,0.0,de,4
+Luca Waldschmidt,Luca Waldschmidt,PER,0.175,0.5,de,4
+Robert Wagner,Robert Wagner,PER,0.0,0.0,de,4
+Martin Horn,Martin Horn,PER,-0.1500000000000001,0.0,de,4
+Timo Werner,Timo Werner,PER,-0.675,0.0,de,4
+Christian S,Christian S,PER,0.0,0.0,de,4
+Alois Schwartz,Alois Schwartz,PER,-0.2875,0.0,de,4
+Neuzugang Junior Adamu,Neuzugang Junior Adamu,PER,0.2333333333333333,0.0,de,3
+Wilfried Gnonto,Wilfried Gnonto,PER,0.2333333333333333,0.0,de,3
+Alexander Prass,Alexander Prass,PER,-0.4666666666666666,0.0,de,3
+Andreas Vaher,Andreas Vaher,PER,0.0,0.0,de,3
 Niko Kovac,Niko Kovac,PER,0.2333333333333333,0.0,de,3
-Freiburg-Trainer Christian Streich,Freiburg-Trainer Christian Streich,PER,-0.3333333333333333,0.0,de,3
-Oliver Glasner,Oliver Glasner,PER,-0.3333333333333333,0.0,de,3
-Alexandra Popp,Alexandra Popp,PER,0.0,0.0,de,3
-Nancy Faeser,Nancy Faeser,PER,0.6999999999999998,0.0,de,3
-Michael Hornsby,Michael Hornsby,PER,0.0,0.0,de,3
+Dino Toppmöller,Dino Toppmöller,PER,0.16666666666666666,0.0,de,3
+Constantin Frommann,Constantin Frommann,PER,0.0,0.0,de,3
+Sebastian Hornung,Sebastian Hornung,PER,0.3333333333333333,0.0,de,3
+Raphaël Guerreiro,Raphaël Guerreiro,PER,-0.3333333333333333,0.0,de,3
 Kingsley Coman,Kingsley Coman,PER,0.07777777777777777,0.0,de,3
+Jacinda Ardern,Jacinda Ardern,PER,0.0,0.0,de,3
+Wladimir Putin,Wladimir Putin,PER,0.75,0.0,de,3
+Wolodymyr Selenskyj,Wolodymyr Selenskyj,PER,0.75,0.0,de,3
+Kevin Trapp,Kevin Trapp,PER,0.0,0.0,de,3
+Stevan Jovetic,Stevan Jovetic,PER,0.04444444444444443,0.0,de,3
+Enrico Maaßen,Enrico Maaßen,PER,0.0,0.0,de,3
+Fabian Rüdlin,Fabian Rüdlin,PER,0.0,0.0,de,3
+Nancy Faeser,Nancy Faeser,PER,0.6999999999999998,0.0,de,3
+Marvin Plattenhardt,Marvin Plattenhardt,PER,0.0,0.0,de,3
+Riola Xhemaili,Riola Xhemaili,PER,0.0,0.0,de,3
+Freiburg-Trainer Christian Streich,Freiburg-Trainer Christian Streich,PER,-0.3333333333333333,0.0,de,3
+Ole Werner,Ole Werner,PER,0.0,0.0,de,3
+Leon Catak,Leon Catak,PER,0.0,0.0,de,3
+Jonas Omlin,Jonas Omlin,PER,-0.03333333333333334,0.1111111111111111,de,3
+Daniel Farke,Daniel Farke,PER,0.0,0.0,de,3
+Oliver Glasner,Oliver Glasner,PER,-0.3333333333333333,0.0,de,3
+Fabrizio Romano,Fabrizio Romano,PER,0.0,0.0,de,3
+Marie Müller,Marie Müller,PER,0.0,0.0,de,3
+Mergim Berisha,Mergim Berisha,PER,-0.9,0.0,de,3
+Dodi Lukébakio,Dodi Lukébakio,PER,0.0,0.0,de,3
+Stammtorwart Mark Flekken,Stammtorwart Mark Flekken,PER,-0.9,0.0,de,3
+Merle Frohms,Merle Frohms,PER,0.2333333333333333,0.0,de,3
+Carsten Schröter-Lorenz,Carsten Schröter-Lorenz,PER,0.0,0.0,de,3
+Julian Brandt,Julian Brandt,PER,0.0,0.0,de,3
+Lars Kehl,Lars Kehl,PER,0.3333333333333333,0.0,de,3
+Nishan Burkart,Nishan Burkart,PER,-0.4666666666666666,0.0,de,3
+Patrick Kammerbauer,Patrick Kammerbauer,PER,0.0,0.0,de,3
+Manuel Neuer,Manuel Neuer,PER,-0.6666666666666666,0.0,de,3
+Svenja Fölmli,Svenja Fölmli,PER,-0.2333333333333333,0.0,de,3
+Michael Hornsby,Michael Hornsby,PER,0.0,0.0,de,3
 Dodi Lukebakio,Dodi Lukebakio,PER,0.0,0.0,de,3
 Mette Frederiksen,Mette Frederiksen,PER,-0.3333333333333333,0.0,de,3
-Wolodymyr Selenskyj,Wolodymyr Selenskyj,PER,0.75,0.0,de,3
-Wladimir Putin,Wladimir Putin,PER,0.75,0.0,de,3
-Alexander Prass,Alexander Prass,PER,-0.4666666666666666,0.0,de,3
-Jacinda Ardern,Jacinda Ardern,PER,0.0,0.0,de,3
-Raphaël Guerreiro,Raphaël Guerreiro,PER,-0.3333333333333333,0.0,de,3
-Daniel Farke,Daniel Farke,PER,0.0,0.0,de,3
-Jonas Omlin,Jonas Omlin,PER,-0.03333333333333334,0.1111111111111111,de,3
-Constantin Frommann,Constantin Frommann,PER,0.0,0.0,de,3
-Stammtorwart Mark Flekken,Stammtorwart Mark Flekken,PER,-0.9,0.0,de,3
-Andreas Vaher,Andreas Vaher,PER,0.0,0.0,de,3
-Tsai Ing-wen,Tsai Ing-wen,PER,0.0,0.0,de,3
-Stevan Jovetic,Stevan Jovetic,PER,0.04444444444444443,0.0,de,3
-Fabrizio Romano,Fabrizio Romano,PER,0.0,0.0,de,3
-Leon Catak,Leon Catak,PER,0.0,0.0,de,3
-Christopher Nkunku,Christopher Nkunku,PER,0.0,0.0,de,3
-Carsten Schröter-Lorenz,Carsten Schröter-Lorenz,PER,0.0,0.0,de,3
-Dodi Lukébakio,Dodi Lukébakio,PER,0.0,0.0,de,3
-Riola Xhemaili,Riola Xhemaili,PER,0.0,0.0,de,3
-Patrick Kammerbauer,Patrick Kammerbauer,PER,0.0,0.0,de,3
-Nick Fuentes,Nick Fuentes,PER,0.0,0.0,de,3
-Nishan Burkart,Nishan Burkart,PER,-0.4666666666666666,0.0,de,3
-Neuzugang Junior Adamu,Neuzugang Junior Adamu,PER,0.2333333333333333,0.0,de,3
-Sebastian Hornung,Sebastian Hornung,PER,0.3333333333333333,0.0,de,3
-Fabian Rüdlin,Fabian Rüdlin,PER,0.0,0.0,de,3
-Mergim Berisha,Mergim Berisha,PER,-0.9,0.0,de,3
-Julian Brandt,Julian Brandt,PER,0.0,0.0,de,3
-Enrico Maaßen,Enrico Maaßen,PER,0.0,0.0,de,3
-Ole Werner,Ole Werner,PER,0.0,0.0,de,3
+Rainer Nowak,Rainer Nowak,PER,-0.05000000000000001,0.0,de,3
 Hansi Flick,Hansi Flick,PER,0.0,0.0,de,3
+Nick Fuentes,Nick Fuentes,PER,0.0,0.0,de,3
+Christopher Nkunku,Christopher Nkunku,PER,0.0,0.0,de,3
+Tsai Ing-wen,Tsai Ing-wen,PER,0.0,0.0,de,3
+Mitch McConnell,Mitch McConnell,PER,0.5166666666666666,0.0,de,3
 Marine Tondelier,Marine Tondelier,PER,0.0,0.0,de,3
-Wilfried Gnonto,Wilfried Gnonto,PER,0.2333333333333333,0.0,de,3
-Maxi Beier,Maxi Beier,PER,1.0,0.0,de,2
-Michael Kretschmer,Michael Kretschmer,PER,-0.5,0.0,de,2
-Paris Saint-Germain,Paris Saint-Germain,PER,0.0,0.0,de,2
-Kim Fellhauer,Kim Fellhauer,PER,0.0,0.0,de,2
-Sebastian Hoeneß,Sebastian Hoeneß,PER,1.0,0.0,de,2
-Olaf Janßen,Olaf Janßen,PER,0.7749999999999999,0.0,de,2
-Jonas Hector,Jonas Hector,PER,0.0,0.0,de,2
+Di Maria,Di Maria,PER,-0.35,0.0,de,2
 Sebastian Kehl,Sebastian Kehl,PER,0.0,0.0,de,2
-Rodrigo Zalazar,Rodrigo Zalazar,PER,0.5,0.0,de,2
-Standard-Spezialist Vincenzo Grifo,Standard-Spezialist Vincenzo Grifo,PER,0.7,0.0,de,2
-Baka Topola,Baka Topola,PER,0.0,0.5,de,2
-Morlaye Sylla,Morlaye Sylla,PER,-0.35,0.0,de,2
-Marco John,Marco John,PER,0.35,0.0,de,2
-Nils Petersens,Nils Petersens,PER,0.0,0.0,de,2
-Lukas Kwasniok,Lukas Kwasniok,PER,0.0,0.0,de,2
-Heidenheims Frank Schmidt,Heidenheims Frank Schmidt,PER,0.2916666666666667,0.0,de,2
-Anthony Losilla,Anthony Losilla,PER,-0.4125,0.375,de,2
-Ryan Johansson,Ryan Johansson,PER,0.0,0.0,de,2
-Nelson Weiper,Nelson Weiper,PER,0.35,0.0,de,2
-Caglar Söyüncü,Caglar Söyüncü,PER,-0.35,0.0,de,2
 Mika Baur,Mika Baur,PER,0.0,0.0,de,2
-Paul Fathia Tounkara,Paul Fathia Tounkara,PER,-0.35,0.0,de,2
-Gabrielle Lambert,Gabrielle Lambert,PER,0.0,0.0,de,2
 Chris DiDomenico,Chris DiDomenico,PER,0.0,0.0,de,2
+Paris Saint-Germain,Paris Saint-Germain,PER,0.0,0.0,de,2
+Maxi Beier,Maxi Beier,PER,1.0,0.0,de,2
+Nico Willig,Nico Willig,PER,0.16666666666666666,0.0,de,2
+SCF-Keeper Mark Flekken,SCF-Keeper Mark Flekken,PER,1.0,0.0,de,2
+Ángel Di María,Ángel Di María,PER,0.0,0.0,de,2
+Hasret Kayikci,Hasret Kayikci,PER,0.0,0.0,de,2
+Kim Fellhauer,Kim Fellhauer,PER,0.0,0.0,de,2
+Trevor Horn,Trevor Horn,PER,0.0,0.0,de,2
+Thomas Ouwejan,Thomas Ouwejan,PER,0.0,0.0,de,2
+Ángel Di Maria,Ángel Di Maria,PER,0.0,0.0,de,2
+Federico Chiesa,Federico Chiesa,PER,0.0,0.0,de,2
+Dawid Kownacki,Dawid Kownacki,PER,0.0,0.0,de,2
+Martin Fry,Martin Fry,PER,0.0,0.0,de,2
+Rouwen Hennings,Rouwen Hennings,PER,0.0,0.0,de,2
+Nicolas Höfer,Nicolas Höfer,PER,0.0,0.0,de,2
+Anthony Losilla,Anthony Losilla,PER,-0.4125,0.375,de,2
+Felix Zwayer,Felix Zwayer,PER,1.0,0.0,de,2
+fürTagesspiegel Plus-Leser,fürTagesspiegel Plus-Leser,PER,0.7,0.0,de,2
+Diether Dehm,Diether Dehm,PER,0.0,0.0,de,2
+Martin Krolikowski,Martin Krolikowski,PER,0.0,0.0,de,2
+Olaf Scholz,Olaf Scholz,PER,0.0,0.0,de,2
+Donald Trumps,Donald Trumps,PER,0.35,0.0,de,2
+Maxi Philipp,Maxi Philipp,PER,0.0,0.0,de,2
+Michael Kretschmer,Michael Kretschmer,PER,-0.5,0.0,de,2
+Allen Widerständen,Allen Widerständen,PER,0.0,0.0,de,2
+Markus Kauczinski,Markus Kauczinski,PER,0.0,0.0,de,2
+Paul Fathia Tounkara,Paul Fathia Tounkara,PER,-0.35,0.0,de,2
+Morlaye Sylla,Morlaye Sylla,PER,-0.35,0.0,de,2
+Kevin Kampl,Kevin Kampl,PER,0.0,0.0,de,2
+Standard-Spezialist Vincenzo Grifo,Standard-Spezialist Vincenzo Grifo,PER,0.7,0.0,de,2
+Christian Streichs,Christian Streichs,PER,0.0,0.0,de,2
+Otto Addo,Otto Addo,PER,0.0,0.0,de,2
+Mohamadou Idrissou,Mohamadou Idrissou,PER,-0.175,0.25,de,2
+Lukas Küblers,Lukas Küblers,PER,0.7,0.0,de,2
+Olaf Janßen,Olaf Janßen,PER,0.7749999999999999,0.0,de,2
+Werder Bremens,Werder Bremens,PER,-0.7,0.0,de,2
+Julian Guttau,Julian Guttau,PER,0.0,0.0,de,2
+Joshua Quarshie,Joshua Quarshie,PER,0.0,0.0,de,2
+Tuchels Bayern,Tuchels Bayern,PER,0.0,0.0,de,2
+Willy Brandts,Willy Brandts,PER,0.0,0.0,de,2
 Mark Lerandy,Mark Lerandy,PER,1.0,0.0,de,2
+Jan Zimmermann,Jan Zimmermann,PER,0.0,0.0,de,2
+Nancy Pelosi,Nancy Pelosi,PER,0.0,0.0,de,2
+Ted Tattermusch,Ted Tattermusch,PER,0.0,0.0,de,2
+Eric Maxim Choupo-Moting,Eric Maxim Choupo-Moting,PER,0.0,0.0,de,2
+Fabian Himmel,Fabian Himmel,PER,0.0,0.0,de,2
+Marc Schnatterer,Marc Schnatterer,PER,0.0,0.0,de,2
+Sabine Leutheusser-Schnarrenberger,Sabine Leutheusser-Schnarrenberger,PER,0.0,0.0,de,2
+Jürgens Weinlese,Jürgens Weinlese,PER,0.0,0.0,de,2
+Handball-Bundestrainer Alfred Gislason,Handball-Bundestrainer Alfred Gislason,PER,0.0,0.0,de,2
+Lothar Matthäus,Lothar Matthäus,PER,0.7,0.0,de,2
+Joshua Kimmichs,Joshua Kimmichs,PER,0.7,0.0,de,2
+Ozan Kabak,Ozan Kabak,PER,0.0,0.0,de,2
+Niclas Füllkrugs,Niclas Füllkrugs,PER,-0.7,0.0,de,2
+Clemens Fritz,Clemens Fritz,PER,0.75,0.25,de,2
+Andreas Kalbitz,Andreas Kalbitz,PER,0.5,0.0,de,2
+CDU-Vize Linnemann,CDU-Vize Linnemann,PER,1.0,0.0,de,2
+Christina Morina,Christina Morina,PER,0.0,0.0,de,2
+Christian Streich Anklage,Christian Streich Anklage,PER,0.0,0.0,de,2
+Marco John,Marco John,PER,0.35,0.0,de,2
+Andreas Kramp,Andreas Kramp,PER,1.0,0.0,de,2
+Jonas Hector,Jonas Hector,PER,0.0,0.0,de,2
+Heidenheims Frank Schmidt,Heidenheims Frank Schmidt,PER,0.2916666666666667,0.0,de,2
+Bo Svensson,Bo Svensson,PER,0.0,0.0,de,2
+Karim Onisiwo,Karim Onisiwo,PER,0.0,0.0,de,2
+Nelson Weiper,Nelson Weiper,PER,0.35,0.0,de,2
+Abwehrtalent Kiliann,Abwehrtalent Kiliann,PER,0.0,0.0,de,2
+Rudi Völler,Rudi Völler,PER,0.0,0.0,de,2
+Niklas Sauter,Niklas Sauter,PER,0.0,0.0,de,2
+Christoph Dabrowski,Christoph Dabrowski,PER,0.5,0.0,de,2
+Caglar Söyüncü,Caglar Söyüncü,PER,-0.35,0.0,de,2
+Wilfried Kanga,Wilfried Kanga,PER,0.0,0.0,de,2
 Hertha-Coach Sandro Schwarz,Hertha-Coach Sandro Schwarz,PER,0.7,0.0,de,2
 Jessic Ngankam,Jessic Ngankam,PER,0.35,0.0,de,2
 Rekordtorjäger Nils Petersen,Rekordtorjäger Nils Petersen,PER,0.0,0.0,de,2
-Elon Musk,Elon Musk,PER,0.0,0.0,de,2
-Clemens Fritz,Clemens Fritz,PER,0.75,0.25,de,2
-Niclas Füllkrugs,Niclas Füllkrugs,PER,-0.7,0.0,de,2
-Ally Gudorf,Ally Gudorf,PER,0.0,0.0,de,2
-Silja Häusermann,Silja Häusermann,PER,0.0,0.0,de,2
 Profi-Coach Christian Streich,Profi-Coach Christian Streich,PER,1.0,0.0,de,2
-Christoph Dabrowski,Christoph Dabrowski,PER,0.5,0.0,de,2
+Ryan Johansson,Ryan Johansson,PER,0.0,0.0,de,2
+Ally Gudorf,Ally Gudorf,PER,0.0,0.0,de,2
 Jordan Bardella,Jordan Bardella,PER,0.0,0.0,de,2
-Tuchels Bayern,Tuchels Bayern,PER,0.0,0.0,de,2
-Wataru Endo,Wataru Endo,PER,0.0,0.0,de,2
-Joshua Kimmichs,Joshua Kimmichs,PER,0.7,0.0,de,2
-Niklas Sauter,Niklas Sauter,PER,0.0,0.0,de,2
-Lothar Matthäus,Lothar Matthäus,PER,0.7,0.0,de,2
-Trevor Horn,Trevor Horn,PER,0.0,0.0,de,2
-Martin Fry,Martin Fry,PER,0.0,0.0,de,2
-Eric Maxim Choupo-Moting,Eric Maxim Choupo-Moting,PER,0.0,0.0,de,2
-Lukas Küblers,Lukas Küblers,PER,0.7,0.0,de,2
-Handball-Bundestrainer Alfred Gislason,Handball-Bundestrainer Alfred Gislason,PER,0.0,0.0,de,2
-Wilfried Kanga,Wilfried Kanga,PER,0.0,0.0,de,2
-Fabian Himmel,Fabian Himmel,PER,0.0,0.0,de,2
-Olaf Scholz,Olaf Scholz,PER,0.0,0.0,de,2
-Rudi Völler,Rudi Völler,PER,0.0,0.0,de,2
-Jan Zimmermann,Jan Zimmermann,PER,0.0,0.0,de,2
-Nico Willig,Nico Willig,PER,0.16666666666666666,0.0,de,2
-Di Maria,Di Maria,PER,-0.35,0.0,de,2
-Ángel Di María,Ángel Di María,PER,0.0,0.0,de,2
-SCF-Keeper Mark Flekken,SCF-Keeper Mark Flekken,PER,1.0,0.0,de,2
-Werder Bremens,Werder Bremens,PER,-0.7,0.0,de,2
-Anis Amri,Anis Amri,PER,0.0,0.0,de,2
-Ted Tattermusch,Ted Tattermusch,PER,0.0,0.0,de,2
-Ángel Di Maria,Ángel Di Maria,PER,0.0,0.0,de,2
-Federico Chiesa,Federico Chiesa,PER,0.0,0.0,de,2
-Hiroki Ito,Hiroki Ito,PER,0.0,0.0,de,2
-Markus Kauczinski,Markus Kauczinski,PER,0.0,0.0,de,2
-Julian Guttau,Julian Guttau,PER,0.0,0.0,de,2
-Christian Streich Anklage,Christian Streich Anklage,PER,0.0,0.0,de,2
-Joshua Quarshie,Joshua Quarshie,PER,0.0,0.0,de,2
-Ozan Kabak,Ozan Kabak,PER,0.0,0.0,de,2
-Bo Svensson,Bo Svensson,PER,0.0,0.0,de,2
-Karim Onisiwo,Karim Onisiwo,PER,0.0,0.0,de,2
 Lukas Nmecha,Lukas Nmecha,PER,0.0,0.0,de,2
-fürTagesspiegel Plus-Leser,fürTagesspiegel Plus-Leser,PER,0.7,0.0,de,2
-Abwehrtalent Kiliann,Abwehrtalent Kiliann,PER,0.0,0.0,de,2
-Hasret Kayikci,Hasret Kayikci,PER,0.0,0.0,de,2
-Janina Minge,Janina Minge,PER,0.0,0.0,de,2
-Tommy Stroot,Tommy Stroot,PER,0.0,0.0,de,2
-Lucas Beltrán,Lucas Beltrán,PER,0.0,0.0,de,2
+Nils Petersens,Nils Petersens,PER,0.0,0.0,de,2
 Luka Parkadze,Luka Parkadze,PER,0.0,0.0,de,2
-Levan Kobiashvili,Levan Kobiashvili,PER,0.0,0.0,de,2
-Alexander Iashvili,Alexander Iashvili,PER,0.0,0.0,de,2
-Deniz Aytekin,Deniz Aytekin,PER,0.0,0.0,de,2
-Othmane Maamma,Othmane Maamma,PER,0.0,0.0,de,2
-Thomas Aeschi,Thomas Aeschi,PER,0.0,0.5,de,2
-Albert Rösti,Albert Rösti,PER,0.0,0.0,de,2
-Abwehrtalent Ezekwem,Abwehrtalent Ezekwem,PER,0.0,0.0,de,2
-Eduard Heger,Eduard Heger,PER,0.0,0.0,de,2
-Peter Vindahl Jensen,Peter Vindahl Jensen,PER,0.0,0.0,de,2
-Andreas Kalbitz,Andreas Kalbitz,PER,0.5,0.0,de,2
-Jérôme Boateng,Jérôme Boateng,PER,0.0,0.0,de,2
-Jan-Christian Dreesen,Jan-Christian Dreesen,PER,0.0,0.0,de,2
-Christina Morina,Christina Morina,PER,0.0,0.0,de,2
-Udo Witschas,Udo Witschas,PER,-0.15000000000000002,0.0,de,2
-Patrick Lienhard,Patrick Lienhard,PER,0.0,0.0,de,2
-Gerardo Seoane,Gerardo Seoane,PER,0.0,0.0,de,2
 Annabel Schasching,Annabel Schasching,PER,0.0,0.0,de,2
-Nancy Pelosi,Nancy Pelosi,PER,0.0,0.0,de,2
+Gabrielle Lambert,Gabrielle Lambert,PER,0.0,0.0,de,2
+Lukas Kwasniok,Lukas Kwasniok,PER,0.0,0.0,de,2
 Benjamin Goller,Benjamin Goller,PER,0.0,0.0,de,2
-Superheld Becker,Superheld Becker,PER,0.0,0.0,de,2
-Reed Baker-Whiting,Reed Baker-Whiting,PER,0.0,0.0,de,2
-Keeper Flekken,Keeper Flekken,PER,-0.7,0.0,de,2
-Xi Jinping,Xi Jinping,PER,0.0,0.0,de,2
-Sahra Wagenknecht,Sahra Wagenknecht,PER,0.15000000000000002,0.0,de,2
-Gefrustete Progressive,Gefrustete Progressive,PER,0.0,0.0,de,2
-Sabine Leutheusser-Schnarrenberger,Sabine Leutheusser-Schnarrenberger,PER,0.0,0.0,de,2
+Josko Gvardiol,Josko Gvardiol,PER,0.0,0.0,de,2
+Selina Vobian,Selina Vobian,PER,0.0,0.0,de,2
 Bayer-Trainer Xabi Alonso,Bayer-Trainer Xabi Alonso,PER,0.5,0.0,de,2
 Nil Petersen,Nil Petersen,PER,1.0,0.0,de,2
-Donald Trumps,Donald Trumps,PER,0.35,0.0,de,2
-Matthias Ginters,Matthias Ginters,PER,-1.0,0.0,de,2
-Achteinhalb Jahre,Achteinhalb Jahre,PER,0.0,0.0,de,2
-Christian Wück,Christian Wück,PER,0.35,0.0,de,2
-Thomas Ouwejan,Thomas Ouwejan,PER,0.0,0.0,de,2
-CDU-Vize Linnemann,CDU-Vize Linnemann,PER,1.0,0.0,de,2
-Raphael Warnock,Raphael Warnock,PER,0.35,0.5,de,2
-Willy Brandts,Willy Brandts,PER,0.0,0.0,de,2
-Dawid Kownacki,Dawid Kownacki,PER,0.0,0.0,de,2
-Christian Eichner,Christian Eichner,PER,0.0,0.0,de,2
-Rouwen Hennings,Rouwen Hennings,PER,0.0,0.0,de,2
-Mark uns,Mark uns,PER,0.0,0.0,de,2
-Marc Schnatterer,Marc Schnatterer,PER,0.0,0.0,de,2
-Otto Addo,Otto Addo,PER,0.0,0.0,de,2
-Jürgens Weinlese,Jürgens Weinlese,PER,0.0,0.0,de,2
-Martin Krolikowski,Martin Krolikowski,PER,0.0,0.0,de,2
-Philipp Zulechner,Philipp Zulechner,PER,0.5,0.0,de,2
-Augsburg-Stürmer Berisha,Augsburg-Stürmer Berisha,PER,-0.5,0.0,de,2
-Allen Widerständen,Allen Widerständen,PER,0.0,0.0,de,2
-Sport-Geschäftsführer Stefan Reuter,Sport-Geschäftsführer Stefan Reuter,PER,0.0,0.0,de,2
-Rekord-Nationalspieler Lothar Matthäus,Rekord-Nationalspieler Lothar Matthäus,PER,-0.25,0.0,de,2
-Josko Gvardiol,Josko Gvardiol,PER,0.0,0.0,de,2
-Felix Zwayer,Felix Zwayer,PER,1.0,0.0,de,2
-Sommer-Neuzugang Michael Gregoritsch,Sommer-Neuzugang Michael Gregoritsch,PER,0.0,0.0,de,2
-Christopher Trimmel,Christopher Trimmel,PER,0.0,0.0,de,2
-Christian Streichs,Christian Streichs,PER,0.0,0.0,de,2
-Andreas Kramp,Andreas Kramp,PER,1.0,0.0,de,2
-Maxi Philipp,Maxi Philipp,PER,0.0,0.0,de,2
-Sébastian Haller,Sébastian Haller,PER,0.0,0.0,de,2
-Florian Müllers,Florian Müllers,PER,0.0,0.0,de,2
 nan When browsing with ads,nan When browsing with ads,PER,0.0,0.0,de,2
-Kevin Kampl,Kevin Kampl,PER,0.0,0.0,de,2
-Joe Biden,Joe Biden,PER,-0.5,0.0,de,2
-Nicolas Höfer,Nicolas Höfer,PER,0.0,0.0,de,2
-Selina Vobian,Selina Vobian,PER,0.0,0.0,de,2
+Florian Müllers,Florian Müllers,PER,0.0,0.0,de,2
+Sommer-Neuzugang Michael Gregoritsch,Sommer-Neuzugang Michael Gregoritsch,PER,0.0,0.0,de,2
 Thomas Frank,Thomas Frank,PER,0.27499999999999997,0.0,de,2
-Diether Dehm,Diether Dehm,PER,0.0,0.0,de,2
+Rekord-Nationalspieler Lothar Matthäus,Rekord-Nationalspieler Lothar Matthäus,PER,-0.25,0.0,de,2
+Hiroki Ito,Hiroki Ito,PER,0.0,0.0,de,2
+Raphael Warnock,Raphael Warnock,PER,0.35,0.5,de,2
+Peter Vindahl Jensen,Peter Vindahl Jensen,PER,0.0,0.0,de,2
+Levan Kobiashvili,Levan Kobiashvili,PER,0.0,0.0,de,2
+Deniz Aytekin,Deniz Aytekin,PER,0.0,0.0,de,2
+Christian Eichner,Christian Eichner,PER,0.0,0.0,de,2
+Jean Asselborn,Jean Asselborn,PER,1.0,0.0,de,2
+Péter Gulácsi,Péter Gulácsi,PER,0.0,0.0,de,2
+Benjamin Henrichs,Benjamin Henrichs,PER,0.0,0.0,de,2
+Eduard Heger,Eduard Heger,PER,0.0,0.0,de,2
+Christian Wück,Christian Wück,PER,0.35,0.0,de,2
+Albert Rösti,Albert Rösti,PER,0.0,0.0,de,2
+Abwehrtalent Ezekwem,Abwehrtalent Ezekwem,PER,0.0,0.0,de,2
+Baka Topola,Baka Topola,PER,0.0,0.5,de,2
+Lucas Beltrán,Lucas Beltrán,PER,0.0,0.0,de,2
+Thomas Aeschi,Thomas Aeschi,PER,0.0,0.5,de,2
+Udo Witschas,Udo Witschas,PER,-0.15000000000000002,0.0,de,2
 André Silva,André Silva,PER,-0.75,0.0,de,2
-Mohamadou Idrissou,Mohamadou Idrissou,PER,-0.175,0.25,de,2
-Freiburgs Tempelmann,Freiburgs Tempelmann,PER,0.0,0.0,de,1
-Jair Lapid,Jair Lapid,PER,0.0,0.0,de,1
-Eigengewächs Schwolow Kandidat,Eigengewächs Schwolow Kandidat,PER,0.0,0.0,de,1
-U17-Europameister Noah Darvich,U17-Europameister Noah Darvich,PER,0.7,0.0,de,1
-Noah Darvichs,Noah Darvichs,PER,0.0,0.0,de,1
-Ex-Justizministerin Leutheusser-Schnarrenberger,Ex-Justizministerin Leutheusser-Schnarrenberger,PER,0.7,0.0,de,1
-Stuttgart-Torwart Florian Müller,Stuttgart-Torwart Florian Müller,PER,0.0,0.0,de,1
-Tiago Tomás,Tiago Tomás,PER,0.0,0.0,de,1
-Ex-Premier Benjamin Netanyahu,Ex-Premier Benjamin Netanyahu,PER,0.0,0.0,de,1
-Benjamin Netanyahu Likud,Benjamin Netanyahu Likud,PER,0.0,0.0,de,1
-Niklas Süle,Niklas Süle,PER,0.0,0.0,de,1
+Keeper Flekken,Keeper Flekken,PER,-0.7,0.0,de,2
+Alexander Iashvili,Alexander Iashvili,PER,0.0,0.0,de,2
+Gerardo Seoane,Gerardo Seoane,PER,0.0,0.0,de,2
+Philipp Zulechner,Philipp Zulechner,PER,0.5,0.0,de,2
+Wataru Endo,Wataru Endo,PER,0.0,0.0,de,2
+Achteinhalb Jahre,Achteinhalb Jahre,PER,0.0,0.0,de,2
+Sebastian Hoeneß,Sebastian Hoeneß,PER,1.0,0.0,de,2
+Janina Minge,Janina Minge,PER,0.0,0.0,de,2
+Elon Musk,Elon Musk,PER,0.0,0.0,de,2
+Jan-Christian Dreesen,Jan-Christian Dreesen,PER,0.0,0.0,de,2
+Tommy Stroot,Tommy Stroot,PER,0.0,0.0,de,2
+Sébastian Haller,Sébastian Haller,PER,0.0,0.0,de,2
+Rodrigo Zalazar,Rodrigo Zalazar,PER,0.5,0.0,de,2
+Joe Biden,Joe Biden,PER,-0.5,0.0,de,2
+Anis Amri,Anis Amri,PER,0.0,0.0,de,2
+Mark uns,Mark uns,PER,0.0,0.0,de,2
+Gefrustete Progressive,Gefrustete Progressive,PER,0.0,0.0,de,2
+Superheld Becker,Superheld Becker,PER,0.0,0.0,de,2
+Silja Häusermann,Silja Häusermann,PER,0.0,0.0,de,2
+Sahra Wagenknecht,Sahra Wagenknecht,PER,0.15000000000000002,0.0,de,2
+Xi Jinping,Xi Jinping,PER,0.0,0.0,de,2
+Christopher Trimmel,Christopher Trimmel,PER,0.0,0.0,de,2
+Jérôme Boateng,Jérôme Boateng,PER,0.0,0.0,de,2
+Patrick Lienhard,Patrick Lienhard,PER,0.0,0.0,de,2
+Matthias Ginters,Matthias Ginters,PER,-1.0,0.0,de,2
+Othmane Maamma,Othmane Maamma,PER,0.0,0.0,de,2
+Reed Baker-Whiting,Reed Baker-Whiting,PER,0.0,0.0,de,2
+Augsburg-Stürmer Berisha,Augsburg-Stürmer Berisha,PER,-0.5,0.0,de,2
+Sport-Geschäftsführer Stefan Reuter,Sport-Geschäftsführer Stefan Reuter,PER,0.0,0.0,de,2
+Patrick Mayer,Patrick Mayer,PER,0.0,0.0,de,1
 Franci Bouebari,Franci Bouebari,PER,0.0,0.0,de,1
-Eric Richard,Eric Richard,PER,-0.10000000000000002,0.3333333333333333,de,1
-Wolfgang Grams,Wolfgang Grams,PER,-0.10000000000000002,0.3333333333333333,de,1
-Benjamin Netanjahu,Benjamin Netanjahu,PER,0.0,0.0,de,1
-Christa Bellmann,Christa Bellmann,PER,1.0,0.0,de,1
+Christian Strei,Christian Strei,PER,0.0,0.0,de,1
 geblümte Kleider,geblümte Kleider,PER,1.0,0.0,de,1
-Star-Verteidiger Lienhart,Star-Verteidiger Lienhart,PER,1.0,0.0,de,1
-U21-Torhüter Noah Atubolu,U21-Torhüter Noah Atubolu,PER,0.0,0.0,de,1
-Teamstürmer Adamu,Teamstürmer Adamu,PER,0.0,0.0,de,1
-Christian Streich mit Problem-Fällen,Christian Streich mit Problem-Fällen,PER,0.0,0.0,de,1
-Palästinenser-Ministerpräsident Mohammed Schtajjeh,Palästinenser-Ministerpräsident Mohammed Schtajjeh,PER,0.0,0.0,de,1
-Kimberly Ez,Kimberly Ez,PER,0.0,0.0,de,1
+Ron DeSantis,Ron DeSantis,PER,0.0,0.0,de,1
 Klaus Steinmetz,Klaus Steinmetz,PER,0.0,0.0,de,1
-Mohammed Schtajjeh,Mohammed Schtajjeh,PER,0.0,0.0,de,1
 Bitterer Vorbereitungsstart,Bitterer Vorbereitungsstart,PER,0.0,0.0,de,1
-Freiburg-Neuzugang Adamu,Freiburg-Neuzugang Adamu,PER,0.0,0.0,de,1
-David Inderlied,David Inderlied,PER,0.0,0.0,de,1
-Merlin Röhl,Merlin Röhl,PER,0.0,0.0,de,1
-Al Ghaddioui,Al Ghaddioui,PER,0.0,0.0,de,1
-Tanguy Coulibaly,Tanguy Coulibaly,PER,0.0,0.0,de,1
-Marco Reus,Marco Reus,PER,0.0,0.0,de,1
 Jens Niering,Jens Niering,PER,0.35,0.5,de,1
-Mathias Honsak,Mathias Honsak,PER,0.0,0.0,de,1
+Christian Streich mit Problem-Fällen,Christian Streich mit Problem-Fällen,PER,0.0,0.0,de,1
+Freiburg-Neuzugang Adamu,Freiburg-Neuzugang Adamu,PER,0.0,0.0,de,1
+Kimberly Ez,Kimberly Ez,PER,0.0,0.0,de,1
+Li Keqiang,Li Keqiang,PER,0.0,0.0,de,1
+Star-Verteidiger Lienhart,Star-Verteidiger Lienhart,PER,1.0,0.0,de,1
+Michael Köllner,Michael Köllner,PER,0.0,0.0,de,1
+Rishi Sunak,Rishi Sunak,PER,0.0,0.0,de,1
+Christa Bellmann,Christa Bellmann,PER,1.0,0.0,de,1
+Elon Musk Twitter,Elon Musk Twitter,PER,0.0,0.0,de,1
+Rennes-Talent Matthis Abline,Rennes-Talent Matthis Abline,PER,0.0,0.0,de,1
+Teamstürmer Adamu,Teamstürmer Adamu,PER,0.0,0.0,de,1
+Sven Michel,Sven Michel,PER,1.0,0.0,de,1
+Wolfgang Grams,Wolfgang Grams,PER,-0.10000000000000002,0.3333333333333333,de,1
+Tanguy Coulibaly,Tanguy Coulibaly,PER,0.0,0.0,de,1
+U21-Torhüter Noah Atubolu,U21-Torhüter Noah Atubolu,PER,0.0,0.0,de,1
+Eric Richard,Eric Richard,PER,-0.10000000000000002,0.3333333333333333,de,1
+Bundesinnenministerin Nancy Faeser,Bundesinnenministerin Nancy Faeser,PER,0.0,0.0,de,1
+David Inderlied,David Inderlied,PER,0.0,0.0,de,1
+David Bowie,David Bowie,PER,0.0,0.0,de,1
+Al Ghaddioui,Al Ghaddioui,PER,0.0,0.0,de,1
+Philip Fahrner,Philip Fahrner,PER,0.0,0.0,de,1
+Breisgau Brasilianer,Breisgau Brasilianer,PER,0.0,0.0,de,1
+Volker Finke raus­ge­schmissen,Volker Finke raus­ge­schmissen,PER,0.0,0.0,de,1
+Martin Braun,Martin Braun,PER,1.0,0.0,de,1
+Tiago Tomás,Tiago Tomás,PER,0.0,0.0,de,1
+Freiburgs Tempelmann,Freiburgs Tempelmann,PER,0.0,0.0,de,1
+David Camerons,David Camerons,PER,0.0,0.0,de,1
+Björn Höcke,Björn Höcke,PER,0.7,0.0,de,1
+Werner Lut,Werner Lut,PER,0.0,0.0,de,1
+Stefan Lassl,Stefan Lassl,PER,0.0,0.0,de,1
+Karabach Agdam,Karabach Agdam,PER,0.0,0.0,de,1
+Hattrick Grifo,Hattrick Grifo,PER,0.7,0.0,de,1
+Tobias Reichel,Tobias Reichel,PER,1.0,0.0,de,1
+1860-Coach Jacobacci,1860-Coach Jacobacci,PER,0.0,0.0,de,1
+Rotwürdiges Foul,Rotwürdiges Foul,PER,-0.7,0.0,de,1
+Referee Aytekin,Referee Aytekin,PER,0.0,0.0,de,1
+Montpellier-Talent Maamma,Montpellier-Talent Maamma,PER,0.0,0.0,de,1
 Min-Jae Kim,Min-Jae Kim,PER,0.7,0.0,de,1
+Lionel Messi,Lionel Messi,PER,0.0,0.0,de,1
 Michael Gre,Michael Gre,PER,0.0,0.0,de,1
 Ralf Rangnick,Ralf Rangnick,PER,0.0,0.0,de,1
 Vincenzo G,Vincenzo G,PER,0.0,1.0,de,1
+Benjamin Netanyahu Likud,Benjamin Netanyahu Likud,PER,0.0,0.0,de,1
+Ex-Premier Benjamin Netanyahu,Ex-Premier Benjamin Netanyahu,PER,0.0,0.0,de,1
 Bayern-Aufstellung da,Bayern-Aufstellung da,PER,0.0,0.0,de,1
-Eva Lenhardt,Eva Lenhardt,PER,0.0,0.0,de,1
+Benjamin Netanjahu,Benjamin Netanjahu,PER,0.0,0.0,de,1
+Sallai & Philipp,Sallai & Philipp,PER,-1.0,0.0,de,1
+Erik Majetschak,Erik Majetschak,PER,0.0,0.0,de,1
 Oliver Ruhnert,Oliver Ruhnert,PER,-0.7,0.0,de,1
+Stephan Lerch,Stephan Lerch,PER,0.0,0.0,de,1
+Baumgartners Erleichterung,Baumgartners Erleichterung,PER,0.0,0.0,de,1
+Merlin Röhl,Merlin Röhl,PER,0.0,0.0,de,1
+Jan Woitas,Jan Woitas,PER,0.0,0.0,de,1
+Jeffrey Donaldson,Jeffrey Donaldson,PER,0.0,0.0,de,1
+Schalke-Keeper Alexander Schwolow,Schalke-Keeper Alexander Schwolow,PER,0.0,0.0,de,1
+Tom Weller,Tom Weller,PER,0.7,0.0,de,1
+Luca Herrmann,Luca Herrmann,PER,0.0,0.0,de,1
+Melissa Kössler,Melissa Kössler,PER,0.0,0.0,de,1
+Jay-Jay Okocha,Jay-Jay Okocha,PER,1.0,0.0,de,1
+Marco Reus,Marco Reus,PER,0.0,0.0,de,1
+Max Kruse,Max Kruse,PER,-1.0,0.0,de,1
+Bayers Standardschwäche,Bayers Standardschwäche,PER,0.0,0.0,de,1
+Fabelhaftes Wirtz-Solo,Fabelhaftes Wirtz-Solo,PER,0.7,0.0,de,1
+DFB-Star Wirtz,DFB-Star Wirtz,PER,0.0,0.0,de,1
+SC-Torschütze Gulde,SC-Torschütze Gulde,PER,0.0,0.0,de,1
+Engländern Wirtz-Verbot,Engländern Wirtz-Verbot,PER,-1.0,0.0,de,1
+Eva Lenhardt,Eva Lenhardt,PER,0.0,0.0,de,1
+Mathias Honsak,Mathias Honsak,PER,0.0,0.0,de,1
+Dortmund II,Dortmund II,PER,0.0,0.0,de,1
+Maximilian E,Maximilian E,PER,0.0,0.0,de,1
+Mohammed Schtajjeh,Mohammed Schtajjeh,PER,0.0,0.0,de,1
+SCF-Sportvorstand Saier,SCF-Sportvorstand Saier,PER,0.0,0.0,de,1
+Familie Bayer,Familie Bayer,PER,0.0,0.0,de,1
+Ex-Justizministerin Leutheusser-Schnarrenberger,Ex-Justizministerin Leutheusser-Schnarrenberger,PER,0.7,0.0,de,1
+Tom Rothe,Tom Rothe,PER,0.0,0.0,de,1
+Tjark Ernst,Tjark Ernst,PER,0.0,0.0,de,1
+Nicoló Tresoldi,Nicoló Tresoldi,PER,0.0,0.0,de,1
+Vernichtendes Streich-Urteil,Vernichtendes Streich-Urteil,PER,-1.0,0.0,de,1
+Freiburg-Motor Höfler,Freiburg-Motor Höfler,PER,-1.0,0.0,de,1
+Ich lach,Ich lach,PER,0.0,0.0,de,1
+Johansson von Sevilla,Johansson von Sevilla,PER,1.0,0.0,de,1
+Weinbaupräsident Andreas Liegenfeld,Weinbaupräsident Andreas Liegenfeld,PER,0.3333333333333333,0.0,de,1
+Ric­cardo Basile,Ric­cardo Basile,PER,0.0,0.0,de,1
+Robert Lewandowski,Robert Lewandowski,PER,0.0,0.0,de,1
+Norbert Walter,Norbert Walter,PER,0.0,0.0,de,1
+Profi-Leihgabe Uphoff,Profi-Leihgabe Uphoff,PER,1.0,0.0,de,1
+Grifos Doppelpack,Grifos Doppelpack,PER,-0.7,0.0,de,1
+Maximilian Eggeste,Maximilian Eggeste,PER,0.0,0.0,de,1
 Emir Karic,Emir Karic,PER,0.0,0.0,de,1
-Montpellier-Talent Maamma,Montpellier-Talent Maamma,PER,0.0,0.0,de,1
+Christian Streic,Christian Streic,PER,0.0,0.0,de,1
 Christoph Klarer,Christoph Klarer,PER,0.0,0.0,de,1
 Ex-Stürmer Nils Petersen,Ex-Stürmer Nils Petersen,PER,0.0,0.0,de,1
 Eli Lilly,Eli Lilly,PER,0.0,0.0,de,1
@@ -336,243 +396,187 @@ Frank-Tilo Becher,Frank-Tilo Becher,PER,0.0,0.0,de,1
 Weinbaupräsident Peter Seyffardt,Weinbaupräsident Peter Seyffardt,PER,0.0,0.0,de,1
 Christian Größlbauer,Christian Größlbauer,PER,0.0,0.0,de,1
 Jan Böhmermann,Jan Böhmermann,PER,0.0,0.0,de,1
-Stefan Lassl,Stefan Lassl,PER,0.0,0.0,de,1
-Referee Aytekin,Referee Aytekin,PER,0.0,0.0,de,1
-David Bowie,David Bowie,PER,0.0,0.0,de,1
-Jay-Jay Okocha,Jay-Jay Okocha,PER,1.0,0.0,de,1
-Max Kruse,Max Kruse,PER,-1.0,0.0,de,1
-Bayers Standardschwäche,Bayers Standardschwäche,PER,0.0,0.0,de,1
-Fabelhaftes Wirtz-Solo,Fabelhaftes Wirtz-Solo,PER,0.7,0.0,de,1
-Melissa Kössler,Melissa Kössler,PER,0.0,0.0,de,1
-DFB-Star Wirtz,DFB-Star Wirtz,PER,0.0,0.0,de,1
-SC-Torschütze Gulde,SC-Torschütze Gulde,PER,0.0,0.0,de,1
-Engländern Wirtz-Verbot,Engländern Wirtz-Verbot,PER,-1.0,0.0,de,1
-Erik Majetschak,Erik Majetschak,PER,0.0,0.0,de,1
-Rotwürdiges Foul,Rotwürdiges Foul,PER,-0.7,0.0,de,1
-Lionel Messi,Lionel Messi,PER,0.0,0.0,de,1
-Sallai & Philipp,Sallai & Philipp,PER,-1.0,0.0,de,1
-Karabach Agdam,Karabach Agdam,PER,0.0,0.0,de,1
-Jeffrey Donaldson,Jeffrey Donaldson,PER,0.0,0.0,de,1
-Hattrick Grifo,Hattrick Grifo,PER,0.7,0.0,de,1
-Tobias Reichel,Tobias Reichel,PER,1.0,0.0,de,1
-1860-Coach Jacobacci,1860-Coach Jacobacci,PER,0.0,0.0,de,1
-Christian Streic,Christian Streic,PER,0.0,0.0,de,1
-Stephan Lerch,Stephan Lerch,PER,0.0,0.0,de,1
-Luca Herrmann,Luca Herrmann,PER,0.0,0.0,de,1
-Jan Woitas,Jan Woitas,PER,0.0,0.0,de,1
-Ich lach,Ich lach,PER,0.0,0.0,de,1
-Johansson von Sevilla,Johansson von Sevilla,PER,1.0,0.0,de,1
-Ric­cardo Basile,Ric­cardo Basile,PER,0.0,0.0,de,1
-Timo Werner,Timo Werner,PER,-0.7,0.0,de,1
-Robert Lewandowski,Robert Lewandowski,PER,0.0,0.0,de,1
-Norbert Walter,Norbert Walter,PER,0.0,0.0,de,1
-Profi-Leihgabe Uphoff,Profi-Leihgabe Uphoff,PER,1.0,0.0,de,1
-Dortmund II,Dortmund II,PER,0.0,0.0,de,1
+Jair Lapid,Jair Lapid,PER,0.0,0.0,de,1
+Wikimedia Commons,Wikimedia Commons,PER,0.0,0.0,de,1
 Julian Nage,Julian Nage,PER,0.0,0.0,de,1
-Werner Lut,Werner Lut,PER,0.0,0.0,de,1
-Christian Strei,Christian Strei,PER,0.0,0.0,de,1
-Martin Braun,Martin Braun,PER,1.0,0.0,de,1
-Volker Finke raus­ge­schmissen,Volker Finke raus­ge­schmissen,PER,0.0,0.0,de,1
-Breisgau Brasilianer,Breisgau Brasilianer,PER,0.0,0.0,de,1
-Philip Fahrner,Philip Fahrner,PER,0.0,0.0,de,1
-Rennes-Talent Matthis Abline,Rennes-Talent Matthis Abline,PER,0.0,0.0,de,1
-Vernichtendes Streich-Urteil,Vernichtendes Streich-Urteil,PER,-1.0,0.0,de,1
-Maximilian E,Maximilian E,PER,0.0,0.0,de,1
-Nicoló Tresoldi,Nicoló Tresoldi,PER,0.0,0.0,de,1
-Tjark Ernst,Tjark Ernst,PER,0.0,0.0,de,1
+Palästinenser-Ministerpräsident Mohammed Schtajjeh,Palästinenser-Ministerpräsident Mohammed Schtajjeh,PER,0.0,0.0,de,1
 Ausgerechnet Maximilian Philipp,Ausgerechnet Maximilian Philipp,PER,0.0,0.0,de,1
 Philipps Märchen-Rückkehr,Philipps Märchen-Rückkehr,PER,0.0,0.0,de,1
 Xabi Alonso,Xabi Alonso,PER,0.0,0.0,de,1
 Bundesliga-Spitzenreiter Bayer Leverkusen,Bundesliga-Spitzenreiter Bayer Leverkusen,PER,1.0,0.0,de,1
 Ernst Büscher,Ernst Büscher,PER,0.6999999999999998,0.0,de,1
-Wikimedia Commons,Wikimedia Commons,PER,0.0,0.0,de,1
-Maximilian Eggeste,Maximilian Eggeste,PER,0.0,0.0,de,1
-Freiburg-Motor Höfler,Freiburg-Motor Höfler,PER,-1.0,0.0,de,1
-Grifos Doppelpack,Grifos Doppelpack,PER,-0.7,0.0,de,1
-Tom Weller,Tom Weller,PER,0.7,0.0,de,1
-Schalke-Keeper Alexander Schwolow,Schalke-Keeper Alexander Schwolow,PER,0.0,0.0,de,1
-SCF-Sportvorstand Saier,SCF-Sportvorstand Saier,PER,0.0,0.0,de,1
 Kathrin Clauß,Kathrin Clauß,PER,0.7,0.0,de,1
-Familie Bayer,Familie Bayer,PER,0.0,0.0,de,1
-Tom Rothe,Tom Rothe,PER,0.0,0.0,de,1
-Weinbaupräsident Andreas Liegenfeld,Weinbaupräsident Andreas Liegenfeld,PER,0.3333333333333333,0.0,de,1
-Marvin Ducksch,Marvin Ducksch,PER,0.7,0.0,de,1
-Brentford-Transfer von Flekken,Brentford-Transfer von Flekken,PER,0.0,0.0,de,1
+Horst S,Horst S,PER,0.0,0.0,de,1
+Niklas Süle,Niklas Süle,PER,0.0,0.0,de,1
+SC-Vorstand Saier,SC-Vorstand Saier,PER,0.7,0.0,de,1
+Dietmar Bartsch,Dietmar Bartsch,PER,0.0,0.0,de,1
+Heidenheim-Coach Schmidt,Heidenheim-Coach Schmidt,PER,0.0,0.0,de,1
+Joker Petersen,Joker Petersen,PER,0.0,0.0,de,1
+Joker Nils Petersen,Joker Nils Petersen,PER,0.0,0.0,de,1
+Freiburg-Joker Petersen,Freiburg-Joker Petersen,PER,0.0,0.0,de,1
+Sebastian Kolbe,Sebastian Kolbe,PER,1.0,0.0,de,1
+Zug-Killer Ibrahim A,Zug-Killer Ibrahim A,PER,0.0,0.0,de,1
+Tötete Zug-Killer Ibrahim A,Tötete Zug-Killer Ibrahim A,PER,0.0,0.0,de,1
+Keir Starmer,Keir Starmer,PER,0.0,0.0,de,1
+Doppel-Elfer von Grifo,Doppel-Elfer von Grifo,PER,0.0,0.0,de,1
+Sébastien Haller,Sébastien Haller,PER,0.0,0.0,de,1
+Karim Adeyemi,Karim Adeyemi,PER,0.0,0.0,de,1
+Hans-Joachim WatzkeWir,Hans-Joachim WatzkeWir,PER,0.7,0.0,de,1
+Hans-Joachim Watzk,Hans-Joachim Watzk,PER,1.0,0.0,de,1
+Hans-Joachim Watzke,Hans-Joachim Watzke,PER,0.0,0.0,de,1
+Torjägerin Minge,Torjägerin Minge,PER,0.0,0.0,de,1
+uellu tb2b Bnlu,uellu tb2b Bnlu,PER,0.0,0.0,de,1
+Ptp Ppaeulpuelel lO,Ptp Ppaeulpuelel lO,PER,0.0,0.0,de,1
+Streicht Labbadia,Streicht Labbadia,PER,0.0,0.0,de,1
+Jogi Löw,Jogi Löw,PER,0.0,0.0,de,1
+Buteu plekl,Buteu plekl,PER,0.0,0.0,de,1
+Ferencvaros Budapest,Ferencvaros Budapest,PER,0.0,0.0,de,1
+Tobias Sippel,Tobias Sippel,PER,-0.10000000000000002,0.3333333333333333,de,1
+Glpunua Oeekeu,Glpunua Oeekeu,PER,0.0,0.0,de,1
+eklueplpekeu Beklnua,eklueplpekeu Beklnua,PER,0.0,0.0,de,1
+Vincenzo Grifos,Vincenzo Grifos,PER,0.0,0.0,de,1
+Leverkusens Sardar Azmoun,Leverkusens Sardar Azmoun,PER,0.0,0.0,de,1
+Sardar Azm,Sardar Azm,PER,0.0,0.0,de,1
+Pulele pleleu,Pulele pleleu,PER,0.0,0.0,de,1
+Keeper Hradecky,Keeper Hradecky,PER,-1.0,0.0,de,1
+Donald Trumps Dinner,Donald Trumps Dinner,PER,0.0,0.0,de,1
+Doppel-Elfer von Vinc,Doppel-Elfer von Vinc,PER,0.0,0.0,de,1
+Ausgeliehener Schlotterbeck,Ausgeliehener Schlotterbeck,PER,0.0,0.0,de,1
+Hoffenheims Andrej Kramaric,Hoffenheims Andrej Kramaric,PER,0.0,0.0,de,1
+Kanye West,Kanye West,PER,0.7,0.0,de,1
+holzt sogleich,holzt sogleich,PER,0.0,0.0,de,1
+Streich-Vertreter Lars Voßler,Streich-Vertreter Lars Voßler,PER,0.0,0.0,de,1
+Streich-Vertreter Voßler,Streich-Vertreter Voßler,PER,0.0,0.0,de,1
+Drittliga-Schlusslicht Hallescher FC,Drittliga-Schlusslicht Hallescher FC,PER,0.0,0.0,de,1
+Ex-Freiburger Pius Dorn,Ex-Freiburger Pius Dorn,PER,0.0,0.0,de,1
+Reed Baker-Whiting von Seattle,Reed Baker-Whiting von Seattle,PER,0.0,0.0,de,1
+Veuu ent peO Btnl,Veuu ent peO Btnl,PER,0.0,0.0,de,1
+Bharatiya Janata Partei,Bharatiya Janata Partei,PER,0.7,0.0,de,1
+Giorgi Kiknadze,Giorgi Kiknadze,PER,0.0,0.0,de,1
+Doppelter Rekordtransfer,Doppelter Rekordtransfer,PER,-0.85,0.0,de,1
+Bruder Nico,Bruder Nico,PER,0.0,0.0,de,1
+Keven Schlotter,Keven Schlotter,PER,0.0,0.0,de,1
+Karina Hessland,Karina Hessland,PER,0.5875,0.0,de,1
+Christian Lindner,Christian Lindner,PER,0.15000000000000002,0.0,de,1
+Niklas Tauer,Niklas Tauer,PER,0.0,1.0,de,1
+Regina Petrik,Regina Petrik,PER,0.0,0.0,de,1
+Levan Tskitishvili,Levan Tskitishvili,PER,0.0,0.0,de,1
+luhtnplue I,luhtnplue I,PER,0.0,0.0,de,1
+Gregor Fischer,Gregor Fischer,PER,0.0,0.0,de,1
 elpekl Pleteu Buelp,elpekl Pleteu Buelp,PER,0.0,0.0,de,1
+Nils Pet,Nils Pet,PER,0.0,0.0,de,1
+Cyril Ramaphosa,Cyril Ramaphosa,PER,0.0,0.0,de,1
+Christian Putsch,Christian Putsch,PER,0.0,0.0,de,1
+Michael Kappeler,Michael Kappeler,PER,-1.0,0.0,de,1
+Rodion Ebbighausen,Rodion Ebbighausen,PER,0.0,0.0,de,1
+Xis Corona-Sonderweg,Xis Corona-Sonderweg,PER,0.0,0.0,de,1
+Karin Renner,Karin Renner,PER,0.7,0.0,de,1
+U-20-Nationalspielerin Vobian,U-20-Nationalspielerin Vobian,PER,0.0,0.0,de,1
+Johannes Vogel,Johannes Vogel,PER,0.0,0.0,de,1
+Keven Schlotterbecks,Keven Schlotterbecks,PER,0.7,0.0,de,1
+Sarah Frühauf,Sarah Frühauf,PER,0.0,0.0,de,1
+Vereinsikone Volker Finke,Vereinsikone Volker Finke,PER,0.0,1.0,de,1
+Diant Ramaj,Diant Ramaj,PER,0.0,0.0,de,1
+Nico Popp,Nico Popp,PER,0.0,0.0,de,1
+Stefan Boness,Stefan Boness,PER,0.0,0.0,de,1
+Lisa Karl,Lisa Karl,PER,0.0,0.0,de,1
+Florian Bilger,Florian Bilger,PER,0.0,0.0,de,1
 Jonas Wind,Jonas Wind,PER,0.0,0.0,de,1
 Patrick Wimmer,Patrick Wimmer,PER,0.0,0.0,de,1
+Kyrsten SinemaNeben,Kyrsten SinemaNeben,PER,0.7,0.0,de,1
+Bernie Sanders,Bernie Sanders,PER,0.7,0.0,de,1
 Ginters Spenden-Gala,Ginters Spenden-Gala,PER,0.0,0.0,de,1
 ehlnett pleup pel elvep,ehlnett pleup pel elvep,PER,0.0,0.0,de,1
 Samantha Steuerwald,Samantha Steuerwald,PER,0.0,0.0,de,1
 Zelue Blen Ueueppe,Zelue Blen Ueueppe,PER,0.0,0.0,de,1
 Oelue BeOltle,Oelue BeOltle,PER,0.0,0.0,de,1
 SC-Sportdirektor Klemens Hartenb,SC-Sportdirektor Klemens Hartenb,PER,-0.7,0.0,de,1
-Tobias Oelmaier,Tobias Oelmaier,PER,-1.0,0.0,de,1
-U-20-Nationalspielerin Vobian,U-20-Nationalspielerin Vobian,PER,0.0,0.0,de,1
-Doppelter Rekordtransfer,Doppelter Rekordtransfer,PER,-0.85,0.0,de,1
-Bruder Nico,Bruder Nico,PER,0.0,0.0,de,1
-Keven Schlotter,Keven Schlotter,PER,0.0,0.0,de,1
-August Wöginger,August Wöginger,PER,0.0,0.0,de,1
-Karoline Edtstadler,Karoline Edtstadler,PER,0.0,0.0,de,1
-Karina Hessland,Karina Hessland,PER,0.5875,0.0,de,1
-Christian Lindner,Christian Lindner,PER,0.15000000000000002,0.0,de,1
-Niklas Tauer,Niklas Tauer,PER,0.0,1.0,de,1
-Regina Petrik,Regina Petrik,PER,0.0,0.0,de,1
-Florian Bilger,Florian Bilger,PER,0.0,0.0,de,1
-Lisa Karl,Lisa Karl,PER,0.0,0.0,de,1
-Willy Brandt,Willy Brandt,PER,-1.0,0.0,de,1
-Tötete Zug-Killer Ibrahim A,Tötete Zug-Killer Ibrahim A,PER,0.0,0.0,de,1
-Heidenheim-Coach Schmidt,Heidenheim-Coach Schmidt,PER,0.0,0.0,de,1
-Sven Hop,Sven Hop,PER,0.0,0.0,de,1
-Joker Petersen,Joker Petersen,PER,0.0,0.0,de,1
-Joker Nils Petersen,Joker Nils Petersen,PER,0.0,0.0,de,1
-Günther Gorenzel,Günther Gorenzel,PER,0.0,0.0,de,1
-Freiburg-Joker Petersen,Freiburg-Joker Petersen,PER,0.0,0.0,de,1
-Sebastian Kolbe,Sebastian Kolbe,PER,1.0,0.0,de,1
-Zug-Killer Ibrahim A,Zug-Killer Ibrahim A,PER,0.0,0.0,de,1
-SC-Vorstand Saier,SC-Vorstand Saier,PER,0.7,0.0,de,1
-Diant Ramaj,Diant Ramaj,PER,0.0,0.0,de,1
-Sébastien Haller,Sébastien Haller,PER,0.0,0.0,de,1
-Karim Adeyemi,Karim Adeyemi,PER,0.0,0.0,de,1
-Leipzig-Profi Gvardiol,Leipzig-Profi Gvardiol,PER,0.0,0.0,de,1
-Torjägerin Minge,Torjägerin Minge,PER,0.0,0.0,de,1
-uellu tb2b Bnlu,uellu tb2b Bnlu,PER,0.0,0.0,de,1
-Ptp Ppaeulpuelel lO,Ptp Ppaeulpuelel lO,PER,0.0,0.0,de,1
-Veuu ent peO Btnl,Veuu ent peO Btnl,PER,0.0,0.0,de,1
-Vereinsikone Volker Finke,Vereinsikone Volker Finke,PER,0.0,1.0,de,1
-luhtnplue I,luhtnplue I,PER,0.0,0.0,de,1
-Nils Pet,Nils Pet,PER,0.0,0.0,de,1
-Doppel-Elfer von Grifo,Doppel-Elfer von Grifo,PER,0.0,0.0,de,1
-Karl Marx,Karl Marx,PER,1.0,0.0,de,1
-Hans-Joachim Watzk,Hans-Joachim Watzk,PER,1.0,0.0,de,1
-Hans-Joachim WatzkeWir,Hans-Joachim WatzkeWir,PER,0.7,0.0,de,1
-Linken-Chef Martin Schirdewan,Linken-Chef Martin Schirdewan,PER,0.0,0.0,de,1
-SC-Sportdirektor Klemens Hartenbach,SC-Sportdirektor Klemens Hartenbach,PER,0.0,0.0,de,1
-Keir Starmer,Keir Starmer,PER,0.0,0.0,de,1
-Dietmar Bartsch,Dietmar Bartsch,PER,0.0,0.0,de,1
-Martin Sonneborns,Martin Sonneborns,PER,0.0,0.0,de,1
-holzt sogleich,holzt sogleich,PER,0.0,0.0,de,1
-Kanye West,Kanye West,PER,0.7,0.0,de,1
-Donald Trumps Dinner,Donald Trumps Dinner,PER,0.0,0.0,de,1
-Arne Dedert,Arne Dedert,PER,0.0,0.0,de,1
-Pulele pleleu,Pulele pleleu,PER,0.0,0.0,de,1
-eklueplpekeu Beklnua,eklueplpekeu Beklnua,PER,0.0,0.0,de,1
-Glpunua Oeekeu,Glpunua Oeekeu,PER,0.0,0.0,de,1
-Zeu Oeppe Pklue,Zeu Oeppe Pklue,PER,0.0,0.0,de,1
-Buteu plekl,Buteu plekl,PER,0.0,0.0,de,1
-Zlttluueu Zeupekeu plp,Zlttluueu Zeupekeu plp,PER,0.0,0.0,de,1
-Oberstes Wahlgericht,Oberstes Wahlgericht,PER,0.0,0.0,de,1
-Werder-Kapitänin Lina Ha,Werder-Kapitänin Lina Ha,PER,0.7,0.0,de,1
-Hans-Joachim Watzke,Hans-Joachim Watzke,PER,0.0,0.0,de,1
-Reed Baker-Whiting von Seattle,Reed Baker-Whiting von Seattle,PER,0.0,0.0,de,1
-Stefan Boness,Stefan Boness,PER,0.0,0.0,de,1
-Giorgi Kiknadze,Giorgi Kiknadze,PER,0.0,0.0,de,1
-Rodion Ebbighausen,Rodion Ebbighausen,PER,0.0,0.0,de,1
-Xis Corona-Sonderweg,Xis Corona-Sonderweg,PER,0.0,0.0,de,1
-Karin Renner,Karin Renner,PER,0.7,0.0,de,1
-Klaus Schneeberger,Klaus Schneeberger,PER,0.7,0.0,de,1
-Björn Höcke,Björn Höcke,PER,0.7,0.0,de,1
-Michael Kappeler,Michael Kappeler,PER,-1.0,0.0,de,1
-Christian Putsch,Christian Putsch,PER,0.0,0.0,de,1
-Cyril Ramaphosa,Cyril Ramaphosa,PER,0.0,0.0,de,1
-Levan Tskitishvili,Levan Tskitishvili,PER,0.0,0.0,de,1
-Bharatiya Janata Partei,Bharatiya Janata Partei,PER,0.7,0.0,de,1
-Johannes Vogel,Johannes Vogel,PER,0.0,0.0,de,1
-Keven Schlotterbecks,Keven Schlotterbecks,PER,0.7,0.0,de,1
-Sarah Frühauf,Sarah Frühauf,PER,0.0,0.0,de,1
 Angus King,Angus King,PER,0.7,0.0,de,1
-Bernie Sanders,Bernie Sanders,PER,0.7,0.0,de,1
-Kyrsten SinemaNeben,Kyrsten SinemaNeben,PER,0.7,0.0,de,1
-Nico Popp,Nico Popp,PER,0.0,0.0,de,1
-Gregor Fischer,Gregor Fischer,PER,0.0,0.0,de,1
-Streicht Labbadia,Streicht Labbadia,PER,0.0,0.0,de,1
-Jogi Löw,Jogi Löw,PER,0.0,0.0,de,1
-Yannik Engelhard,Yannik Engelhard,PER,-0.7,0.0,de,1
-Uwe Anspach,Uwe Anspach,PER,0.0,0.0,de,1
-Josip Juranovic,Josip Juranovic,PER,-0.7,0.0,de,1
+Zeu Oeppe Pklue,Zeu Oeppe Pklue,PER,0.0,0.0,de,1
+Chris­tian Streich,Chris­tian Streich,PER,0.0,0.0,de,1
+Stuttgart-Torwart Florian Müller,Stuttgart-Torwart Florian Müller,PER,0.0,0.0,de,1
 DAZN-Kommentator Uli Hebel,DAZN-Kommentator Uli Hebel,PER,0.7,0.0,de,1
-Horst S,Horst S,PER,0.0,0.0,de,1
+Lena Oberdorf,Lena Oberdorf,PER,0.0,0.0,de,1
+Willy Brandt,Willy Brandt,PER,-1.0,0.0,de,1
+Doppelpacker Lars Kehl,Doppelpacker Lars Kehl,PER,0.0,0.0,de,1
+Doppelpacker Kehl,Doppelpacker Kehl,PER,0.7,0.0,de,1
+Doppelpacker Sheraldo Becker,Doppelpacker Sheraldo Becker,PER,1.0,0.0,de,1
+Spiderman Becker,Spiderman Becker,PER,0.0,0.0,de,1
+Spiderman Sheraldo Becker,Spiderman Sheraldo Becker,PER,0.0,0.0,de,1
+Josip Juranovic,Josip Juranovic,PER,-0.7,0.0,de,1
+Klaus Schneeberger,Klaus Schneeberger,PER,0.7,0.0,de,1
+Kathrin H,Kathrin H,PER,0.0,0.0,de,1
 Andreas Gora,Andreas Gora,PER,0.0,0.0,de,1
-Sven Michel,Sven Michel,PER,1.0,0.0,de,1
 Walter Ulbricht,Walter Ulbricht,PER,0.0,0.0,de,1
 Sohn Michael,Sohn Michael,PER,0.7,0.0,de,1
 Werner Gregoritsch,Werner Gregoritsch,PER,0.7,0.0,de,1
+Tobias Oelmaier,Tobias Oelmaier,PER,-1.0,0.0,de,1
 Ex-Freiburger Idrissou,Ex-Freiburger Idrissou,PER,0.0,0.0,de,1
 Dominik Szoboszlai,Dominik Szoboszlai,PER,0.0,0.0,de,1
 Top-Torjäger Arslan,Top-Torjäger Arslan,PER,0.0,0.0,de,1
-Marco Hagemann,Marco Hagemann,PER,1.0,0.0,de,1
-Timo Horn,Timo Horn,PER,0.0,0.0,de,1
-Steffen Baumgart,Steffen Baumgart,PER,1.0,0.0,de,1
-Doppelpack von Gregoritsch,Doppelpack von Gregoritsch,PER,0.0,0.0,de,1
-Winfried Kretsc,Winfried Kretsc,PER,0.0,0.0,de,1
-Winfried Kretschmann,Winfried Kretschmann,PER,0.0,0.0,de,1
-Alexander Straus,Alexander Straus,PER,0.0,0.0,de,1
-Schalke-Trainer Reis,Schalke-Trainer Reis,PER,-0.7,0.0,de,1
-Spiderman Sheraldo Becker,Spiderman Sheraldo Becker,PER,0.0,0.0,de,1
-Spiderman Becker,Spiderman Becker,PER,0.0,0.0,de,1
-Doppelpacker Sheraldo Becker,Doppelpacker Sheraldo Becker,PER,1.0,0.0,de,1
-Maximilian Breunig,Maximilian Breunig,PER,0.0,0.0,de,1
+Svenja Huth,Svenja Huth,PER,0.0,0.0,de,1
+Giovanna Hoffmann,Giovanna Hoffmann,PER,0.85,0.0,de,1
+Zlttluueu Zeupekeu plp,Zlttluueu Zeupekeu plp,PER,0.0,0.0,de,1
 Bayern-Schreck Adamu,Bayern-Schreck Adamu,PER,0.0,0.0,de,1
+Sven Hop,Sven Hop,PER,0.0,0.0,de,1
+Günther Gorenzel,Günther Gorenzel,PER,0.0,0.0,de,1
+U17-Europameister Noah Darvich,U17-Europameister Noah Darvich,PER,0.7,0.0,de,1
+Noah Darvichs,Noah Darvichs,PER,0.0,0.0,de,1
+Eigengewächs Schwolow Kandidat,Eigengewächs Schwolow Kandidat,PER,0.0,0.0,de,1
+Leipzig-Profi Gvardiol,Leipzig-Profi Gvardiol,PER,0.0,0.0,de,1
+Brentford-Transfer von Flekken,Brentford-Transfer von Flekken,PER,0.0,0.0,de,1
+Yannik Engelhard,Yannik Engelhard,PER,-0.7,0.0,de,1
 Salzburg-Stürmer Adamu,Salzburg-Stürmer Adamu,PER,1.0,0.0,de,1
-Bundesinnenministerin Nancy Faeser,Bundesinnenministerin Nancy Faeser,PER,0.0,0.0,de,1
+Hazret Kayikci,Hazret Kayikci,PER,0.85,0.0,de,1
 Christian Streich für Gelächter,Christian Streich für Gelächter,PER,0.7,0.0,de,1
 Sebastian Rode,Sebastian Rode,PER,-1.0,0.0,de,1
 Eric Junior Din,Eric Junior Din,PER,-1.0,0.0,de,1
 Jesper Lindström,Jesper Lindström,PER,-1.0,0.0,de,1
 Eintracht-Kapitän Sebastian Rode,Eintracht-Kapitän Sebastian Rode,PER,-1.0,0.0,de,1
+Maximilian Breunig,Maximilian Breunig,PER,0.0,0.0,de,1
 Hendrik Wüst,Hendrik Wüst,PER,-1.0,0.0,de,1
-Doppelpacker Kehl,Doppelpacker Kehl,PER,0.7,0.0,de,1
 Petersens Gänsehaut-Abschied von Freiburg,Petersens Gänsehaut-Abschied von Freiburg,PER,0.0,0.0,de,1
-Hazret Kayikci,Hazret Kayikci,PER,0.85,0.0,de,1
-Giovanna Hoffmann,Giovanna Hoffmann,PER,0.85,0.0,de,1
-Kathrin H,Kathrin H,PER,0.0,0.0,de,1
-Svenja Huth,Svenja Huth,PER,0.0,0.0,de,1
-Lena Oberdorf,Lena Oberdorf,PER,0.0,0.0,de,1
-Merle Frohms,Merle Frohms,PER,0.0,0.0,de,1
-Doppelpacker Lars Kehl,Doppelpacker Lars Kehl,PER,0.0,0.0,de,1
-Philipp Lienhart-Wechsel,Philipp Lienhart-Wechsel,PER,1.0,0.0,de,1
-Niclas Fü,Niclas Fü,PER,0.7,0.0,de,1
-Doppel-Elfer von Vinc,Doppel-Elfer von Vinc,PER,0.0,0.0,de,1
+Marco Hagemann,Marco Hagemann,PER,1.0,0.0,de,1
+Timo Horn,Timo Horn,PER,0.0,0.0,de,1
+Steffen Baumgart,Steffen Baumgart,PER,1.0,0.0,de,1
 Emmanuel Macron,Emmanuel Macron,PER,0.0,0.0,de,1
+Martin Sonneborns,Martin Sonneborns,PER,0.0,0.0,de,1
+Abwehrtalent Sildillia,Abwehrtalent Sildillia,PER,0.0,0.0,de,1
+Mittelfeld-Routinier Kevin-Prince Boateng,Mittelfeld-Routinier Kevin-Prince Boateng,PER,0.0,0.0,de,1
+Machen Reise-Strapazen,Machen Reise-Strapazen,PER,0.0,0.0,de,1
+Arne Dedert,Arne Dedert,PER,0.0,0.0,de,1
+Christian Str,Christian Str,PER,0.0,0.0,de,1
+Europa-League-Gruppe G,Europa-League-Gruppe G,PER,0.0,0.0,de,1
+Oberstes Wahlgericht,Oberstes Wahlgericht,PER,0.0,0.0,de,1
+Antonio Di Sa,Antonio Di Sa,PER,0.0,0.0,de,1
+August Wöginger,August Wöginger,PER,0.0,0.0,de,1
+Antonio Di Salvo,Antonio Di Salvo,PER,0.0,0.0,de,1
+Mai Planungssicherheit,Mai Planungssicherheit,PER,1.0,0.0,de,1
+Werder-Kapitänin Lina Ha,Werder-Kapitänin Lina Ha,PER,0.7,0.0,de,1
+Neu-Nationalspieler Kevin Schade,Neu-Nationalspieler Kevin Schade,PER,-1.0,0.0,de,1
+SC-Trainer C,SC-Trainer C,PER,0.0,0.0,de,1
 Massimiliano Allegr,Massimiliano Allegr,PER,0.0,0.0,de,1
 Jan Huebner,Jan Huebner,PER,-0.16666666666666666,0.0,de,1
 Harald Bremes,Harald Bremes,PER,-0.16666666666666666,0.0,de,1
-Chris­tian Streich,Chris­tian Streich,PER,0.0,0.0,de,1
-Tobias Sippel,Tobias Sippel,PER,-0.10000000000000002,0.3333333333333333,de,1
-Vincenzo Grifos,Vincenzo Grifos,PER,0.0,0.0,de,1
-Leverkusens Sardar Azmoun,Leverkusens Sardar Azmoun,PER,0.0,0.0,de,1
-Sardar Azm,Sardar Azm,PER,0.0,0.0,de,1
-Keeper Hradecky,Keeper Hradecky,PER,-1.0,0.0,de,1
-Ferencvaros Budapest,Ferencvaros Budapest,PER,0.0,0.0,de,1
-Ron DeSantis,Ron DeSantis,PER,0.0,0.0,de,1
-Ausgeliehener Schlotterbeck,Ausgeliehener Schlotterbeck,PER,0.0,0.0,de,1
-Hoffenheims Andrej Kramaric,Hoffenheims Andrej Kramaric,PER,0.0,0.0,de,1
-Patrick Mayer,Patrick Mayer,PER,0.0,0.0,de,1
-Michael Köllner,Michael Köllner,PER,0.0,0.0,de,1
-Streich-Vertreter Lars Voßler,Streich-Vertreter Lars Voßler,PER,0.0,0.0,de,1
-Streich-Vertreter Voßler,Streich-Vertreter Voßler,PER,0.0,0.0,de,1
-Drittliga-Schlusslicht Hallescher FC,Drittliga-Schlusslicht Hallescher FC,PER,0.0,0.0,de,1
-Ex-Freiburger Pius Dorn,Ex-Freiburger Pius Dorn,PER,0.0,0.0,de,1
-SC-Trainer C,SC-Trainer C,PER,0.0,0.0,de,1
-Neu-Nationalspieler Kevin Schade,Neu-Nationalspieler Kevin Schade,PER,-1.0,0.0,de,1
-Elon Musk Twitter,Elon Musk Twitter,PER,0.0,0.0,de,1
-Rishi Sunak,Rishi Sunak,PER,0.0,0.0,de,1
+Herbert Hainer,Herbert Hainer,PER,0.0,0.0,de,1
+SC-Sportdirektor Klemens Hartenbach,SC-Sportdirektor Klemens Hartenbach,PER,0.0,0.0,de,1
+Linken-Chef Martin Schirdewan,Linken-Chef Martin Schirdewan,PER,0.0,0.0,de,1
+Georg Holzner,Georg Holzner,PER,0.0,0.0,de,1
+Karoline Edtstadler,Karoline Edtstadler,PER,0.0,0.0,de,1
+Doppelpack von Gregoritsch,Doppelpack von Gregoritsch,PER,0.0,0.0,de,1
+Winfried Kretsc,Winfried Kretsc,PER,0.0,0.0,de,1
+Winfried Kretschmann,Winfried Kretschmann,PER,0.0,0.0,de,1
+Alexander Straus,Alexander Straus,PER,0.0,0.0,de,1
+Schalke-Trainer Reis,Schalke-Trainer Reis,PER,-0.7,0.0,de,1
+Philipp Lienhart-Wechsel,Philipp Lienhart-Wechsel,PER,1.0,0.0,de,1
+Karl Marx,Karl Marx,PER,1.0,0.0,de,1
+Uwe Anspach,Uwe Anspach,PER,0.0,0.0,de,1
+Niclas Fü,Niclas Fü,PER,0.7,0.0,de,1
+Marvin Ducksch,Marvin Ducksch,PER,0.7,0.0,de,1
 Christian Streich am Sonntag,Christian Streich am Sonntag,PER,0.0,0.0,de,1
 Ex-Heidenheimer Schnatterer,Ex-Heidenheimer Schnatterer,PER,0.0,0.0,de,1
 Steven Schaap,Steven Schaap,PER,0.0,0.0,de,1
 Julien Wolff,Julien Wolff,PER,0.0,0.0,de,1
-Li Keqiang,Li Keqiang,PER,0.0,0.0,de,1
 Bayern-Manager Uli Hoeneß,Bayern-Manager Uli Hoeneß,PER,0.0,0.0,de,1
 Dayot Upamecano,Dayot Upamecano,PER,0.0,0.0,de,1
-Georg Holzner,Georg Holzner,PER,0.0,0.0,de,1
-David Camerons,David Camerons,PER,0.0,0.0,de,1
-Mai Planungssicherheit,Mai Planungssicherheit,PER,1.0,0.0,de,1
-Herbert Hainer,Herbert Hainer,PER,0.0,0.0,de,1
-Abwehrtalent Sildillia,Abwehrtalent Sildillia,PER,0.0,0.0,de,1
-Mittelfeld-Routinier Kevin-Prince Boateng,Mittelfeld-Routinier Kevin-Prince Boateng,PER,0.0,0.0,de,1
-Machen Reise-Strapazen,Machen Reise-Strapazen,PER,0.0,0.0,de,1
-Christian Str,Christian Str,PER,0.0,0.0,de,1
-Europa-League-Gruppe G,Europa-League-Gruppe G,PER,0.0,0.0,de,1
-Antonio Di Sa,Antonio Di Sa,PER,0.0,0.0,de,1
-Antonio Di Salvo,Antonio Di Salvo,PER,0.0,0.0,de,1
 Boris Palmer,Boris Palmer,PER,0.0,0.0,de,1
