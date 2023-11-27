@@ -1,7 +1,7 @@
 ,phrase,label,sentiment,subjectivity,language,count
-SC Freiburg,SC Freiburg,ORG,0.06386320686146241,0.03986771333042594,de,2293
-Bundesliga,Bundesliga,ORG,0.044912790697674426,0.010465116279069766,de,344
-Freiburg,Freiburg,ORG,0.027747252747252742,0.019536019536019536,de,273
+SC Freiburg,SC Freiburg,ORG,0.06356269772792635,0.04051624964049469,de,2318
+Bundesliga,Bundesliga,ORG,0.0420749279538905,0.01037463976945245,de,347
+Freiburg,Freiburg,ORG,0.02764598540145985,0.019464720194647202,de,274
 Union Berlin,Union Berlin,ORG,0.042615176151761504,0.01138211382113821,de,123
 FC Bayern,FC Bayern,ORG,0.02319444444444445,0.025,de,120
 Fußball-Bundesliga,Fußball-Bundesliga,ORG,0.0707920792079208,0.01485148514851485,de,101
@@ -17,746 +17,759 @@ Eintracht Frankfurt,Eintracht Frankfurt,ORG,0.10086206896551723,0.0,de,58
 Borussia Dortmund,Borussia Dortmund,ORG,0.09266666666666667,0.08666666666666666,de,50
 Sport-Club,Sport-Club,ORG,-0.014583333333333328,0.05833333333333333,de,48
 BVB,BVB,ORG,0.0425531914893617,0.0978723404255319,de,47
-FC Bayern München,FC Bayern München,ORG,0.05795454545454546,0.0303030303030303,,44
 VfL Bochum,VfL Bochum,ORG,0.05454545454545456,0.0,de,44
+FC Bayern München,FC Bayern München,ORG,0.05795454545454546,0.0303030303030303,,44
 Werder Bremen,Werder Bremen,ORG,0.0941860465116279,0.011627906976744186,de,43
 BILD,BILD,ORG,-0.007142857142857138,0.023809523809523808,de,42
-FC Augsburg,FC Augsburg,ORG,-0.008333333333333328,0.0,de,36
 FC Brentford,FC Brentford,ORG,-0.44583333333333336,0.0,de,36
+FC Augsburg,FC Augsburg,ORG,-0.008333333333333328,0.0,de,36
 FC Union Berlin,FC Union Berlin,ORG,0.28285714285714286,0.0,de,35
 Leverkusen,Leverkusen,ORG,0.01323529411764706,0.0,de,34
 Fußball-Bundesligist,Fußball-Bundesligist,ORG,0.08181818181818182,0.030303030303030304,de,33
 Hoffenheim,Hoffenheim,ORG,0.22424242424242424,0.0,de,33
 Schalke,Schalke,ORG,0.1522222222222222,0.04444444444444444,de,30
 Bundesligisten,Bundesligisten,ORG,-0.08275862068965517,0.034482758620689655,de,29
-Olympiakos Piräus,Olympiakos Piräus,ORG,0.1259259259259259,0.0,de,27
-Leipzig,Leipzig,ORG,-0.07407407407407407,0.0,de,27
 TSG Hoffenheim,TSG Hoffenheim,ORG,0.044444444444444446,0.037037037037037035,de,27
-FC Köln,FC Köln,ORG,0.08399999999999999,0.0,de,25
+Leipzig,Leipzig,ORG,-0.07407407407407407,0.0,de,27
+FC Köln,FC Köln,ORG,0.07777777777777777,0.0,de,27
+Olympiakos Piräus,Olympiakos Piräus,ORG,0.1259259259259259,0.0,de,27
 AfD,AfD,ORG,0.10869565217391304,0.021739130434782608,de,23
 Zweitligisten,Zweitligisten,ORG,-0.043478260869565216,0.0,de,23
+SC Paderborn,SC Paderborn,ORG,0.0,0.0,de,22
 Wolfsburg,Wolfsburg,ORG,0.09393939393939393,0.09090909090909091,de,22
 Hertha BSC,Hertha BSC,ORG,0.08333333333333333,0.0,de,22
-SC Paderborn,SC Paderborn,ORG,0.0,0.0,de,22
 Bundesligist,Bundesligist,ORG,-0.00873015873015873,0.06349206349206349,de,21
-West Ham United,West Ham United,ORG,0.07456140350877191,0.03508771929824562,de,19
-SC-Trainer,SC-Trainer,ORG,0.2473684210526316,0.05263157894736842,de,19
-Demokraten,Demokraten,ORG,-0.03157894736842106,0.05263157894736842,de,19
 FC Barcelona,FC Barcelona,ORG,-0.021052631578947364,0.0,de,19
+Demokraten,Demokraten,ORG,-0.03157894736842106,0.05263157894736842,de,19
+SC-Trainer,SC-Trainer,ORG,0.2473684210526316,0.05263157894736842,de,19
+West Ham United,West Ham United,ORG,0.07456140350877191,0.03508771929824562,de,19
+Fußball-Bundesligisten,Fußball-Bundesligisten,ORG,0.1722222222222222,0.0,de,18
 Fußball-Bundesligist SC Freiburg,Fußball-Bundesligist SC Freiburg,ORG,0.4083333333333334,0.05555555555555555,de,18
-SV Oberachern,SV Oberachern,ORG,0.31666666666666665,0.0,de,18
 Juve,Juve,ORG,0.0,0.0,de,18
-Bayern München,Bayern München,ORG,0.2435185185185185,0.06481481481481481,de,18
 SV Sandhausen,SV Sandhausen,ORG,-0.18888888888888886,0.0,de,18
+SV Oberachern,SV Oberachern,ORG,0.31666666666666665,0.0,de,18
 FC Schalke 04,FC Schalke 04,ORG,-0.027777777777777783,0.1111111111111111,de,18
+Bayern München,Bayern München,ORG,0.2435185185185185,0.06481481481481481,de,18
 Borussia Mönchengladbach,Borussia Mönchengladbach,ORG,-0.13529411764705884,0.04901960784313725,de,17
-DFB,DFB,ORG,0.041176470588235294,0.0,de,17
-Schalke 04,Schalke 04,ORG,0.3044117647058823,0.0,de,17
 Breisgauer,Breisgauer,ORG,0.2882352941176471,0.0,de,17
+Schalke 04,Schalke 04,ORG,0.3044117647058823,0.0,de,17
+Juventus,Juventus,ORG,-0.1411764705882353,0.0,de,17
+DFB,DFB,ORG,0.041176470588235294,0.0,de,17
 Bundesligaspiel,Bundesligaspiel,ORG,0.1803921568627451,0.0,de,17
 Union,Union,ORG,-0.041176470588235294,0.0,de,17
-Juventus,Juventus,ORG,-0.1411764705882353,0.0,de,17
-Freiburgs,Freiburgs,ORG,0.34374999999999994,0.0625,de,16
-Fußball-Bundesligisten,Fußball-Bundesligisten,ORG,0.10625,0.0,de,16
 CDU,CDU,ORG,0.04375,0.0625,de,16
+Freiburgs,Freiburgs,ORG,0.34374999999999994,0.0625,de,16
 SCF,SCF,ORG,-0.11333333333333333,0.13333333333333333,de,15
-SPD,SPD,ORG,0.028571428571428564,0.0,de,14
-kicker,kicker,ORG,0.0,0.0,de,14
-WM-Pause,WM-Pause,ORG,0.026190476190476188,0.0,de,14
 VfB,VfB,ORG,0.2357142857142857,0.0,de,14
-LIVE!,LIVE!,ORG,0.10769230769230768,0.0,de,13
-SC Freiburgs,SC Freiburgs,ORG,0.03076923076923077,0.07692307692307693,de,13
-Frankfurt,Frankfurt,ORG,-0.25320512820512825,0.02564102564102564,de,13
+SPD,SPD,ORG,0.028571428571428564,0.0,de,14
+WM-Pause,WM-Pause,ORG,0.026190476190476188,0.0,de,14
+kicker,kicker,ORG,0.0,0.0,de,14
 FC Union,FC Union,ORG,0.23076923076923078,0.0,de,13
+Frankfurt,Frankfurt,ORG,-0.25320512820512825,0.02564102564102564,de,13
+SC Freiburgs,SC Freiburgs,ORG,0.03076923076923077,0.07692307692307693,de,13
 TSG 1899 Hoffenheim,TSG 1899 Hoffenheim,ORG,0.02692307692307692,0.2692307692307692,de,13
-Bayer 04 Leverkusen,Bayer 04 Leverkusen,ORG,0.4166666666666667,0.0,de,12
-Eintracht,Eintracht,ORG,0.10833333333333334,0.0,de,12
-VfL,VfL,ORG,0.08333333333333333,0.0,de,12
+LIVE!,LIVE!,ORG,0.10769230769230768,0.0,de,13
 DER SPIEGEL,DER SPIEGEL,ORG,0.17499999999999996,0.0,de,12
-Europa League,Europa League,ORG,-0.16666666666666666,0.0,de,12
+Bayer 04 Leverkusen,Bayer 04 Leverkusen,ORG,0.4166666666666667,0.0,de,12
 Hertha,Hertha,ORG,-0.10833333333333334,0.0,de,12
+VfL,VfL,ORG,0.08333333333333333,0.0,de,12
+Eintracht,Eintracht,ORG,0.10833333333333334,0.0,de,12
+Europa League,Europa League,ORG,-0.16666666666666666,0.0,de,12
 SV Werder Bremen,SV Werder Bremen,ORG,0.18181818181818182,0.0,de,11
 SC Freiburg II.,SC Freiburg II.,ORG,0.02727272727272728,0.0,de,11
+Pokal-Aus,Pokal-Aus,ORG,0.4,0.0,de,11
 Schweizer Erstligisten,Schweizer Erstligisten,ORG,-0.12727272727272726,0.0,de,11
 FC Basel,FC Basel,ORG,-0.06363636363636363,0.18181818181818182,de,11
-Pokal-Aus,Pokal-Aus,ORG,0.4,0.0,de,11
 Nationalspieler,Nationalspieler,ORG,0.2,0.0,de,10
-SPOX,SPOX,ORG,0.0,0.0,de,10
-VfL Osnabrück,VfL Osnabrück,ORG,0.1,0.0,de,10
 Augsburg,Augsburg,ORG,0.16999999999999998,0.0,de,10
-Die Linke,Die Linke,ORG,-0.35124999999999995,0.05,de,10
+SPOX,SPOX,ORG,0.0,0.0,de,10
 Karlsruher SC,Karlsruher SC,ORG,0.37,0.0,de,10
-BILDplus,BILDplus,ORG,0.0,0.0,de,10
-Frauen-Bundesliga,Frauen-Bundesliga,ORG,0.03749999999999999,0.025,de,10
 Bochum,Bochum,ORG,0.13999999999999996,0.0,de,10
-FC Heidenheim,FC Heidenheim,ORG,0.0,0.0,de,9
-Deutsche Fußball Liga,Deutsche Fußball Liga,ORG,0.0,0.0,de,9
-Dortmund,Dortmund,ORG,0.0,0.2222222222222222,de,9
-Azmoun,Azmoun,ORG,0.4222222222222222,0.0,de,9
-Red Bull Salzburg,Red Bull Salzburg,ORG,0.06666666666666668,0.0,de,9
+Die Linke,Die Linke,ORG,-0.35124999999999995,0.05,de,10
+VfL Osnabrück,VfL Osnabrück,ORG,0.1,0.0,de,10
+Frauen-Bundesliga,Frauen-Bundesliga,ORG,0.03749999999999999,0.025,de,10
+BILDplus,BILDplus,ORG,0.0,0.0,de,10
 Fußball-Liga,Fußball-Liga,ORG,0.0,0.0,de,9
-Borussia,Borussia,ORG,-0.01666666666666667,0.0,de,9
+Deutsche Fußball Liga,Deutsche Fußball Liga,ORG,0.0,0.0,de,9
 WELT,WELT,ORG,0.7000000000000001,0.0,de,9
+Azmoun,Azmoun,ORG,0.4222222222222222,0.0,de,9
+FC Heidenheim,FC Heidenheim,ORG,0.0,0.0,de,9
+Borussia,Borussia,ORG,-0.01666666666666667,0.0,de,9
+Dortmund,Dortmund,ORG,0.0,0.2222222222222222,de,9
+Red Bull Salzburg,Red Bull Salzburg,ORG,0.06666666666666668,0.0,de,9
+FK TSC Backa Topola,FK TSC Backa Topola,ORG,0.10625,0.0,de,8
 Bayern,Bayern,ORG,-0.2125,0.0,de,8
+Dynamo Dresden,Dynamo Dresden,ORG,0.25,0.0,de,8
 Grifo,Grifo,ORG,0.06874999999999999,0.0,de,8
 Fortuna Düsseldorf,Fortuna Düsseldorf,ORG,0.037500000000000006,0.0,de,8
-FK TSC Backa Topola,FK TSC Backa Topola,ORG,0.10625,0.0,de,8
-West Ham,West Ham,ORG,-0.26249999999999996,0.0,de,8
 Conference League,Conference League,ORG,0.0,0.0,de,8
-Dynamo Dresden,Dynamo Dresden,ORG,0.25,0.0,de,8
-HSV,HSV,ORG,0.2857142857142857,0.0,de,7
-Eintracht Frankfurts,Eintracht Frankfurts,ORG,0.0,0.0,de,7
-DFL,DFL,ORG,0.09999999999999999,0.0,de,7
-RB Salzburg,RB Salzburg,ORG,0.14285714285714285,0.0,de,7
-SPÖ,SPÖ,ORG,-0.18571428571428572,0.0,de,7
-BILD-Noten,BILD-Noten,ORG,0.0,0.0,de,7
-Mainz,Mainz,ORG,0.14285714285714285,0.0,de,7
-KSC,KSC,ORG,0.14285714285714285,0.0,de,7
-SV Wehen Wiesbaden,SV Wehen Wiesbaden,ORG,0.0,0.0,de,7
-SV Elversberg,SV Elversberg,ORG,0.021428571428571432,0.0,de,7
-Paderborn,Paderborn,ORG,0.0,0.0,de,7
+West Ham,West Ham,ORG,-0.26249999999999996,0.0,de,8
 RTL,RTL,ORG,0.24285714285714285,0.0,de,7
-FC Schalke,FC Schalke,ORG,0.4166666666666667,0.0,de,6
-ARD,ARD,ORG,0.19166666666666665,0.0,de,6
-SC Frei­burg,SC Frei­burg,ORG,-0.11666666666666665,0.0,de,6
-Champions-League-Plätze,Champions-League-Plätze,ORG,0.35000000000000003,0.0,de,6
-Hause,Hause,ORG,0.19166666666666665,0.0,de,6
+RB Salzburg,RB Salzburg,ORG,0.14285714285714285,0.0,de,7
+Eintracht Frankfurts,Eintracht Frankfurts,ORG,0.0,0.0,de,7
+SV Wehen Wiesbaden,SV Wehen Wiesbaden,ORG,0.0,0.0,de,7
+DFL,DFL,ORG,0.09999999999999999,0.0,de,7
+SV Elversberg,SV Elversberg,ORG,0.021428571428571432,0.0,de,7
+HSV,HSV,ORG,0.2857142857142857,0.0,de,7
+KSC,KSC,ORG,0.14285714285714285,0.0,de,7
+Mainz,Mainz,ORG,0.14285714285714285,0.0,de,7
+BILD-Noten,BILD-Noten,ORG,0.0,0.0,de,7
+SPÖ,SPÖ,ORG,-0.18571428571428572,0.0,de,7
+Paderborn,Paderborn,ORG,0.0,0.0,de,7
 Stream,Stream,ORG,0.0,0.0,de,6
-Bundesliga-Schlusslicht Hoffenheim,Bundesliga-Schlusslicht Hoffenheim,ORG,0.0,0.0,de,6
+SC Frei­burg,SC Frei­burg,ORG,-0.11666666666666665,0.0,de,6
+FC Schalke,FC Schalke,ORG,0.4166666666666667,0.0,de,6
+Hause,Hause,ORG,0.19166666666666665,0.0,de,6
 Bundestag,Bundestag,ORG,-0.025000000000000005,0.0,de,6
+SC-Profi,SC-Profi,ORG,-0.6666666666666666,0.0,de,6
+Halleschen FC,Halleschen FC,ORG,-0.10000000000000002,0.0,de,6
+Bundesliga-Schlusslicht Hoffenheim,Bundesliga-Schlusslicht Hoffenheim,ORG,0.0,0.0,de,6
+EU,EU,ORG,-0.2333333333333334,0.0,de,6
+FCA,FCA,ORG,-0.19999999999999998,0.0,de,6
+Champions-League-Plätze,Champions-League-Plätze,ORG,0.35000000000000003,0.0,de,6
+Bayern-Trainer,Bayern-Trainer,ORG,0.25,0.08333333333333333,de,6
+Sahra Wagenknecht,Sahra Wagenknecht,ORG,0.16666666666666666,0.0,de,6
+ARD,ARD,ORG,0.19166666666666665,0.0,de,6
+deutschen Fußball-Nationalmannschaft,deutschen Fußball-Nationalmannschaft,ORG,-0.2333333333333333,0.0,de,6
 VAR,VAR,ORG,-0.21666666666666667,0.0,de,6
 FC Nürnberg,FC Nürnberg,ORG,-0.11666666666666665,0.0,de,6
-SC-Profi,SC-Profi,ORG,-0.6666666666666666,0.0,de,6
-Bayern-Trainer,Bayern-Trainer,ORG,0.25,0.08333333333333333,de,6
-EU,EU,ORG,-0.2333333333333334,0.0,de,6
-Halleschen FC,Halleschen FC,ORG,-0.10000000000000002,0.0,de,6
-Sahra Wagenknecht,Sahra Wagenknecht,ORG,0.16666666666666666,0.0,de,6
-deutschen Fußball-Nationalmannschaft,deutschen Fußball-Nationalmannschaft,ORG,-0.2333333333333333,0.0,de,6
-FCA,FCA,ORG,-0.19999999999999998,0.0,de,6
-TSV 1860 München,TSV 1860 München,ORG,0.0,0.0,de,5
-Bundesliga-Geschichte,Bundesliga-Geschichte,ORG,0.0,0.0,de,5
-EU-Parlamentarier,EU-Parlamentarier,ORG,-0.030000000000000006,0.0,de,5
-Darmstadt,Darmstadt,ORG,0.4,0.0,de,5
-ZSC Lions,ZSC Lions,ORG,0.2,0.0,de,5
-FC Luzern,FC Luzern,ORG,0.4,0.0,de,5
-Köln,Köln,ORG,0.26,0.0,de,5
-VfB.,VfB.,ORG,0.0,0.2,de,5
-FC St. Pauli,FC St. Pauli,ORG,0.2,0.0,de,5
 Doan,Doan,ORG,0.6799999999999999,0.0,de,5
-Breitband,Breitband,ORG,0.0,0.0,de,5
-VfB Lübeck,VfB Lübeck,ORG,0.13999999999999999,0.0,de,5
-RB Leipzig Live!,RB Leipzig Live!,ORG,0.27999999999999997,0.0,de,5
+EU-Parlamentarier,EU-Parlamentarier,ORG,-0.030000000000000006,0.0,de,5
+Bundesliga-Geschichte,Bundesliga-Geschichte,ORG,0.0,0.0,de,5
+SC Freiburg!,SC Freiburg!,ORG,0.27999999999999997,0.0,de,5
+MSV Duisburg,MSV Duisburg,ORG,0.13999999999999999,0.0,de,5
+Darmstadt,Darmstadt,ORG,0.4,0.0,de,5
 SV Meppen,SV Meppen,ORG,0.0,0.0,de,5
-Ajax Amsterdam,Ajax Amsterdam,ORG,0.13999999999999999,0.0,de,5
+TSV 1860 München,TSV 1860 München,ORG,0.0,0.0,de,5
+Fußball-Zweitligist,Fußball-Zweitligist,ORG,-0.4,0.0,de,5
+FDP,FDP,ORG,0.0,0.0,de,5
+SC Freiburg,SC Freiburg,ORG,0.4,0.0,de,5
 TSC Backa Topola,TSC Backa Topola,ORG,0.33999999999999997,0.0,de,5
 AFD,AFD,ORG,0.0,0.0,de,5
-SC Freiburg,SC Freiburg,ORG,0.4,0.0,de,5
-Cercle Brügge,Cercle Brügge,ORG,0.0,0.0,de,5
+VfB.,VfB.,ORG,0.0,0.2,de,5
+Breitband,Breitband,ORG,0.0,0.0,de,5
 FC Winterthur,FC Winterthur,ORG,-0.36,0.0,de,5
-MSV Duisburg,MSV Duisburg,ORG,0.13999999999999999,0.0,de,5
+FC Luzern,FC Luzern,ORG,0.4,0.0,de,5
+Köln,Köln,ORG,0.26,0.0,de,5
+Ajax Amsterdam,Ajax Amsterdam,ORG,0.13999999999999999,0.0,de,5
+VfB Lübeck,VfB Lübeck,ORG,0.13999999999999999,0.0,de,5
 EU-Parlament,EU-Parlament,ORG,-0.13999999999999999,0.0,de,5
-FDP,FDP,ORG,0.0,0.0,de,5
-SC Freiburg!,SC Freiburg!,ORG,0.27999999999999997,0.0,de,5
+ZSC Lions,ZSC Lions,ORG,0.2,0.0,de,5
+FC St. Pauli,FC St. Pauli,ORG,0.2,0.0,de,5
+Cercle Brügge,Cercle Brügge,ORG,0.0,0.0,de,5
+RB Leipzig Live!,RB Leipzig Live!,ORG,0.27999999999999997,0.0,de,5
 Erstligisten,Erstligisten,ORG,0.0,0.0,de,5
-Fußball-Zweitligist,Fußball-Zweitligist,ORG,-0.4,0.0,de,5
-Sané,Sané,ORG,0.25,0.0,de,4
-die Grünen,die Grünen,ORG,0.175,0.0,de,4
-DFL-Führung,DFL-Führung,ORG,0.0,0.0,de,4
-Europacup-Starter,Europacup-Starter,ORG,0.0,0.0,de,4
-Die Grünen,Die Grünen,ORG,-0.5,0.0,de,4
-Bundesliga-Spielen,Bundesliga-Spielen,ORG,0.0,0.0,de,4
+Preußen Münster,Preußen Münster,ORG,0.0,0.0,de,4
 Traumlose VfB Stuttgart,Traumlose VfB Stuttgart,ORG,0.0,0.0,de,4
-ANC,ANC,ORG,0.35,0.0,de,4
-Bundesligakader,Bundesligakader,ORG,0.0,0.0,de,4
-SC Fre,SC Fre,ORG,0.0,0.0,de,4
-Grünen,Grünen,ORG,0.0,0.0,de,4
-U-21-Nationalspieler,U-21-Nationalspieler,ORG,-1.0,0.0,de,4
-Premier-League-Klub,Premier-League-Klub,ORG,-1.0,0.0,de,4
-Regionalliga,Regionalliga,ORG,0.0,0.0,de,4
-TSG Balingen,TSG Balingen,ORG,0.0,0.0,de,4
-Frauenfußball,Frauenfußball,ORG,0.0,0.25,de,4
-Bayern-Jäger SC Freiburg,Bayern-Jäger SC Freiburg,ORG,0.0,0.0,de,4
+Bundesliga-Spielen,Bundesliga-Spielen,ORG,0.0,0.0,de,4
 Grüne,Grüne,ORG,0.25,0.0,de,4
-Serie A,Serie A,ORG,0.35,0.0,de,4
-Freiburgerinnen,Freiburgerinnen,ORG,-0.35,0.0,de,4
-AfD.,AfD.,ORG,0.0,0.0,de,4
-SC-Spieler,SC-Spieler,ORG,0.175,0.0,de,4
-Borussia Dortmund II,Borussia Dortmund II,ORG,-0.35,0.0,de,4
-schwedischen Meister,schwedischen Meister,ORG,0.0,0.0,de,4
-fr.de,fr.de,ORG,0.25,0.0,de,4
-Club,Club,ORG,0.0,0.25,de,4
-Nationalmannschaft,Nationalmannschaft,ORG,0.25,0.0,de,4
-Deutsche Fußball-Bund,Deutsche Fußball-Bund,ORG,0.0,0.0,de,4
-FK TSC Baka Topola,FK TSC Baka Topola,ORG,0.38749999999999996,0.0,de,4
-AS Rom,AS Rom,ORG,0.0,0.0,de,4
+TSG Balingen,TSG Balingen,ORG,0.0,0.0,de,4
+Kommunistische Partei,Kommunistische Partei,ORG,-0.75,0.0,de,4
+badischen Fußball-Bundesligisten,badischen Fußball-Bundesligisten,ORG,-0.4083333333333333,0.0,de,4
 RB,RB,ORG,0.0,0.0,de,4
+ANC,ANC,ORG,0.35,0.0,de,4
+Grünen,Grünen,ORG,0.0,0.0,de,4
+DFL-Führung,DFL-Führung,ORG,0.0,0.0,de,4
+Freiburgerinnen,Freiburgerinnen,ORG,-0.35,0.0,de,4
+SC-Kapitänin,SC-Kapitänin,ORG,0.0,0.0,de,4
+Frauenfußball,Frauenfußball,ORG,0.0,0.25,de,4
+SC Fre,SC Fre,ORG,0.0,0.0,de,4
+Deutsche Fußball-Bund,Deutsche Fußball-Bund,ORG,0.0,0.0,de,4
+Club,Club,ORG,0.0,0.25,de,4
+Europacup-Starter,Europacup-Starter,ORG,0.0,0.0,de,4
+Bayern-Jäger SC Freiburg,Bayern-Jäger SC Freiburg,ORG,0.0,0.0,de,4
+Serie A,Serie A,ORG,0.35,0.0,de,4
+AfD.,AfD.,ORG,0.0,0.0,de,4
 Club Zürich,Club Zürich,ORG,-0.5,0.0,de,4
-TSV 1860,TSV 1860,ORG,0.0,0.0,de,4
-badische Fußball-Bundesligist,badische Fußball-Bundesligist,ORG,0.0,0.0,de,4
-Hoffenheimer,Hoffenheimer,ORG,0.5,0.0,de,4
-Karabach Agdam,Karabach Agdam,ORG,0.35,0.0,de,4
 SC Freiburg - Union Berlin,SC Freiburg - Union Berlin,ORG,-0.25,0.0,de,4
+schwedischen Meister,schwedischen Meister,ORG,0.0,0.0,de,4
+SC-Spieler,SC-Spieler,ORG,0.175,0.0,de,4
+Nationalmannschaft,Nationalmannschaft,ORG,0.25,0.0,de,4
+TSV 1860,TSV 1860,ORG,0.0,0.0,de,4
+AS Rom,AS Rom,ORG,0.0,0.0,de,4
+Sané,Sané,ORG,0.25,0.0,de,4
 Zweitligist,Zweitligist,ORG,0.175,0.0,de,4
+Topola,Topola,ORG,0.175,0.0,de,4
+Regionalliga,Regionalliga,ORG,0.0,0.0,de,4
+Karabach Agdam,Karabach Agdam,ORG,0.35,0.0,de,4
+FK TSC Baka Topola,FK TSC Baka Topola,ORG,0.38749999999999996,0.0,de,4
+Sozialdemokraten,Sozialdemokraten,ORG,0.175,0.0,de,4
+DWI,DWI,ORG,0.5249999999999999,0.0,de,4
+Borussia Dortmund II,Borussia Dortmund II,ORG,-0.35,0.0,de,4
+Livestream,Livestream,ORG,0.0,0.0,de,4
 "TSG Hoffenheim  t-online
 ","TSG Hoffenheim  t-online
 ",ORG,-0.425,0.0,de,4
-Livestream,Livestream,ORG,0.0,0.0,de,4
-badischen Fußball-Bundesligisten,badischen Fußball-Bundesligisten,ORG,-0.4083333333333333,0.0,de,4
-Kommunistische Partei,Kommunistische Partei,ORG,-0.75,0.0,de,4
-DWI,DWI,ORG,0.5249999999999999,0.0,de,4
-Preußen Münster,Preußen Münster,ORG,0.0,0.0,de,4
-Topola,Topola,ORG,0.175,0.0,de,4
+Premier-League-Klub,Premier-League-Klub,ORG,-1.0,0.0,de,4
+badische Fußball-Bundesligist,badische Fußball-Bundesligist,ORG,0.0,0.0,de,4
 TSG,TSG,ORG,-0.25,0.0,de,4
-SC-Kapitänin,SC-Kapitänin,ORG,0.0,0.0,de,4
-Sozialdemokraten,Sozialdemokraten,ORG,0.175,0.0,de,4
-Zürich,Zürich,ORG,-0.2333333333333333,0.0,de,3
-Löwen,Löwen,ORG,0.3,0.0,de,3
-Deutsche Bundesliga,Deutsche Bundesliga,ORG,0.0,0.0,de,3
-Bayer,Bayer,ORG,0.0,0.0,de,3
-Nationalspielerin,Nationalspielerin,ORG,0.0,0.0,de,3
-Richmond Kickers,Richmond Kickers,ORG,0.0,0.0,de,3
-PARTEI,PARTEI,ORG,-0.4666666666666666,0.0,de,3
-Ex-SC Freiburg,Ex-SC Freiburg,ORG,-0.5666666666666667,0.0,de,3
-Joker-Tors,Joker-Tors,ORG,0.0,0.0,de,3
-SC Verl,SC Verl,ORG,0.0,0.0,de,3
-Mainz 05,Mainz 05,ORG,0.0,0.0,de,3
-Bundesligaklub,Bundesligaklub,ORG,0.0,0.6666666666666666,de,3
-SVP,SVP,ORG,0.0,0.0,de,3
-Mönchengladbach,Mönchengladbach,ORG,-0.3333333333333333,0.0,de,3
-Beiden Teams,Beiden Teams,ORG,0.0,0.0,de,3
-SC Fr,SC Fr,ORG,0.0,0.0,de,3
-FOCUS,FOCUS,ORG,-0.3333333333333333,0.0,de,3
-FC Saarbrücken,FC Saarbrücken,ORG,0.3333333333333333,0.0,de,3
-Repräsentantenhaus,Repräsentantenhaus,ORG,-0.11666666666666665,0.16666666666666666,de,3
-Herthas Prügel-Profi,Herthas Prügel-Profi,ORG,0.0,0.0,de,3
-Europa-League-Teilnehmer SC Freiburg,Europa-League-Teilnehmer SC Freiburg,ORG,0.0,0.0,de,3
-SC-Profi Sallai,SC-Profi Sallai,ORG,0.0,0.0,de,3
-Austria Lustenau,Austria Lustenau,ORG,0.0,0.0,de,3
-Rot-Weiss Essen,Rot-Weiss Essen,ORG,0.43333333333333335,0.0,de,3
-deutsche Nationalmannschaft,deutsche Nationalmannschaft,ORG,0.0,0.0,de,3
-Greuther Fürth,Greuther Fürth,ORG,0.0,0.0,de,3
-Energie Cottbus,Energie Cottbus,ORG,-0.4666666666666666,0.0,de,3
-Standard Lüttich,Standard Lüttich,ORG,0.3333333333333333,0.16666666666666666,de,3
+Bundesligakader,Bundesligakader,ORG,0.0,0.0,de,4
+U-21-Nationalspieler,U-21-Nationalspieler,ORG,-1.0,0.0,de,4
+Die Grünen,Die Grünen,ORG,-0.5,0.0,de,4
+fr.de,fr.de,ORG,0.25,0.0,de,4
+die Grünen,die Grünen,ORG,0.175,0.0,de,4
+Hoffenheimer,Hoffenheimer,ORG,0.5,0.0,de,4
 TV & Stream,TV & Stream,ORG,0.0,0.0,de,3
-Bayern-Boss,Bayern-Boss,ORG,0.0,0.0,de,3
-Fußball-Rekordmeister,Fußball-Rekordmeister,ORG,0.0,0.0,de,3
-Bundesliga-Spiele,Bundesliga-Spiele,ORG,0.2333333333333333,0.0,de,3
-Sky,Sky,ORG,0.6666666666666666,0.0,de,3
-SC Freiburg -,SC Freiburg -,ORG,0.0,0.0,de,3
-SC Bern,SC Bern,ORG,0.6666666666666666,0.0,de,3
-Sturm Graz,Sturm Graz,ORG,0.0,0.0,de,3
-Freiburg  ,Freiburg  ,ORG,-0.5166666666666666,0.0,de,3
-Champions-League-Kurs,Champions-League-Kurs,ORG,0.3333333333333333,0.0,de,3
-Werder,Werder,ORG,0.3333333333333333,0.0,de,3
-Bank,Bank,ORG,-0.3333333333333333,0.0,de,3
-Die PARTEI,Die PARTEI,ORG,-0.6666666666666666,0.0,de,3
-Bremen,Bremen,ORG,0.0,0.0,de,3
-Europa-League-Gruppen,Europa-League-Gruppen,ORG,0.43333333333333335,0.0,de,3
-Racing Straßburg,Racing Straßburg,ORG,0.2333333333333333,0.0,de,3
-River Plate,River Plate,ORG,0.0,0.0,de,3
-ZDF,ZDF,ORG,0.0,0.0,de,3
-Freiburg-Stars!,Freiburg-Stars!,ORG,0.0,0.0,de,3
-Bündnis Deutschland,Bündnis Deutschland,ORG,0.0,0.0,de,3
-Europaparlaments,Europaparlaments,ORG,-0.2333333333333333,0.0,de,3
-Oberligisten,Oberligisten,ORG,0.0,0.0,de,3
-Neue Stärke Partei,Neue Stärke Partei,ORG,0.0,0.0,de,3
-Labour-Partei,Labour-Partei,ORG,0.0,0.0,de,3
-Borussia Dortmunds U23,Borussia Dortmunds U23,ORG,0.0,0.0,de,3
-Freiburg-Star,Freiburg-Star,ORG,0.0,0.0,de,3
-FC St. Pauli II.,FC St. Pauli II.,ORG,0.3333333333333333,0.0,de,3
-Sport-Clubs,Sport-Clubs,ORG,0.0,0.0,de,3
-die Linke,die Linke,ORG,0.0,0.0,de,3
-Bundesliga-Start,Bundesliga-Start,ORG,0.0,0.0,de,3
 Fußball-Zweitligisten,Fußball-Zweitligisten,ORG,0.0,0.0,de,3
-Getty Images,Getty Images,ORG,0.07777777777777777,0.0,de,3
-Liberale Partei,Liberale Partei,ORG,0.18333333333333332,0.0,de,3
-FC Erzgebirge Aue,FC Erzgebirge Aue,ORG,-0.4666666666666666,0.0,de,3
-FC Erzgebirge,FC Erzgebirge,ORG,0.0,0.0,de,3
-FC Ingolstadt,FC Ingolstadt,ORG,0.0,0.3333333333333333,de,3
-Aue,Aue,ORG,0.0,0.0,de,3
-FC St. Pauli II,FC St. Pauli II,ORG,0.0,0.0,de,3
-ABC,ABC,ORG,0.0,0.0,de,3
-Hartenbach,Hartenbach,ORG,0.2333333333333333,0.0,de,3
-Donnerstag mittei…,Donnerstag mittei…,ORG,0.0,0.0,de,3
-FSV Mainz 05,FSV Mainz 05,ORG,0.5666666666666667,0.0,de,3
-TM-Interview,TM-Interview,ORG,0.3333333333333333,0.0,de,3
-Linke,Linke,ORG,0.0,0.0,de,3
-DFB-Spieler,DFB-Spieler,ORG,-0.7166666666666667,0.0,de,3
+Freiburg-Stars!,Freiburg-Stars!,ORG,0.0,0.0,de,3
 FC Liverpool,FC Liverpool,ORG,0.6666666666666666,0.0,de,3
+FSV Mainz 05,FSV Mainz 05,ORG,0.5666666666666667,0.0,de,3
+SC Verl,SC Verl,ORG,0.0,0.0,de,3
+Deutsche Bundesliga,Deutsche Bundesliga,ORG,0.0,0.0,de,3
+Ex-SC Freiburg,Ex-SC Freiburg,ORG,-0.5666666666666667,0.0,de,3
+FC Ingolstadt,FC Ingolstadt,ORG,0.0,0.3333333333333333,de,3
+Mainz 05,Mainz 05,ORG,0.0,0.0,de,3
+FC Saarbrücken,FC Saarbrücken,ORG,0.3333333333333333,0.0,de,3
+TM-Interview,TM-Interview,ORG,0.3333333333333333,0.0,de,3
+SC-Profi Sallai,SC-Profi Sallai,ORG,0.0,0.0,de,3
+die Linke,die Linke,ORG,0.0,0.0,de,3
+Bank,Bank,ORG,-0.3333333333333333,0.0,de,3
+Sturm Graz,Sturm Graz,ORG,0.0,0.0,de,3
+Werder,Werder,ORG,0.3333333333333333,0.0,de,3
+Freiburg  ,Freiburg  ,ORG,-0.5166666666666666,0.0,de,3
+Fußball-Rekordmeister,Fußball-Rekordmeister,ORG,0.0,0.0,de,3
+SC Fr,SC Fr,ORG,0.0,0.0,de,3
+Standard Lüttich,Standard Lüttich,ORG,0.3333333333333333,0.16666666666666666,de,3
+Energie Cottbus,Energie Cottbus,ORG,-0.4666666666666666,0.0,de,3
+SVP,SVP,ORG,0.0,0.0,de,3
+SC Bern,SC Bern,ORG,0.6666666666666666,0.0,de,3
+Richmond Kickers,Richmond Kickers,ORG,0.0,0.0,de,3
+deutsche Nationalmannschaft,deutsche Nationalmannschaft,ORG,0.0,0.0,de,3
+Rot-Weiss Essen,Rot-Weiss Essen,ORG,0.43333333333333335,0.0,de,3
+Bundesligaklub,Bundesligaklub,ORG,0.0,0.6666666666666666,de,3
+Bayer,Bayer,ORG,0.0,0.0,de,3
+Bayern-Boss,Bayern-Boss,ORG,0.0,0.0,de,3
+Bremen,Bremen,ORG,0.0,0.0,de,3
+Sport-Clubs,Sport-Clubs,ORG,0.0,0.0,de,3
 CL,CL,ORG,0.0,0.0,de,3
+Sky,Sky,ORG,0.6666666666666666,0.0,de,3
 SWR,SWR,ORG,-0.2333333333333333,0.0,de,3
-TSG 1899 Hoffenheim,TSG 1899 Hoffenheim,ORG,0.0,0.0,de,2
-Freiburger U19,Freiburger U19,ORG,0.0,0.0,de,2
-HFC,HFC,ORG,0.0,0.0,de,2
-VfL...,VfL...,ORG,0.0,0.0,de,2
-SCB,SCB,ORG,0.0,0.0,de,2
+Donnerstag mittei…,Donnerstag mittei…,ORG,0.0,0.0,de,3
+ABC,ABC,ORG,0.0,0.0,de,3
+Zürich,Zürich,ORG,-0.2333333333333333,0.0,de,3
+PARTEI,PARTEI,ORG,-0.4666666666666666,0.0,de,3
+Neue Stärke Partei,Neue Stärke Partei,ORG,0.0,0.0,de,3
+Borussia Dortmunds U23,Borussia Dortmunds U23,ORG,0.0,0.0,de,3
+River Plate,River Plate,ORG,0.0,0.0,de,3
+Linke,Linke,ORG,0.0,0.0,de,3
+Racing Straßburg,Racing Straßburg,ORG,0.2333333333333333,0.0,de,3
+DFB-Spieler,DFB-Spieler,ORG,-0.7166666666666667,0.0,de,3
+Getty Images,Getty Images,ORG,0.07777777777777777,0.0,de,3
+Greuther Fürth,Greuther Fürth,ORG,0.0,0.0,de,3
+Champions-League-Kurs,Champions-League-Kurs,ORG,0.3333333333333333,0.0,de,3
+Joker-Tors,Joker-Tors,ORG,0.0,0.0,de,3
+FC Erzgebirge Aue,FC Erzgebirge Aue,ORG,-0.4666666666666666,0.0,de,3
+Die PARTEI,Die PARTEI,ORG,-0.6666666666666666,0.0,de,3
+Aue,Aue,ORG,0.0,0.0,de,3
+SC Freiburg -,SC Freiburg -,ORG,0.0,0.0,de,3
+FC Erzgebirge,FC Erzgebirge,ORG,0.0,0.0,de,3
+Labour-Partei,Labour-Partei,ORG,0.0,0.0,de,3
+Bündnis Deutschland,Bündnis Deutschland,ORG,0.0,0.0,de,3
+FC St. Pauli II,FC St. Pauli II,ORG,0.0,0.0,de,3
+Freiburg-Star,Freiburg-Star,ORG,0.0,0.0,de,3
+Europa-League-Teilnehmer SC Freiburg,Europa-League-Teilnehmer SC Freiburg,ORG,0.0,0.0,de,3
+Herthas Prügel-Profi,Herthas Prügel-Profi,ORG,0.0,0.0,de,3
+Antisemitismus,Antisemitismus,ORG,-0.3333333333333333,0.0,de,3
+Repräsentantenhaus,Repräsentantenhaus,ORG,-0.11666666666666665,0.16666666666666666,de,3
+Nationalspielerin,Nationalspielerin,ORG,0.0,0.0,de,3
+Europa-League-Gruppen,Europa-League-Gruppen,ORG,0.43333333333333335,0.0,de,3
+Europaparlaments,Europaparlaments,ORG,-0.2333333333333333,0.0,de,3
+Austria Lustenau,Austria Lustenau,ORG,0.0,0.0,de,3
+ZDF,ZDF,ORG,0.0,0.0,de,3
+Bundesliga-Start,Bundesliga-Start,ORG,0.0,0.0,de,3
+Mönchengladbach,Mönchengladbach,ORG,-0.3333333333333333,0.0,de,3
+Löwen,Löwen,ORG,0.3,0.0,de,3
+Hartenbach,Hartenbach,ORG,0.2333333333333333,0.0,de,3
+Oberligisten,Oberligisten,ORG,0.0,0.0,de,3
+Liberale Partei,Liberale Partei,ORG,0.18333333333333332,0.0,de,3
+Bundesliga-Spiele,Bundesliga-Spiele,ORG,0.2333333333333333,0.0,de,3
+Beiden Teams,Beiden Teams,ORG,0.0,0.0,de,3
+FOCUS,FOCUS,ORG,-0.3333333333333333,0.0,de,3
+FC St. Pauli II.,FC St. Pauli II.,ORG,0.3333333333333333,0.0,de,3
+Eintracht Frankfurt am Sonntag,Eintracht Frankfurt am Sonntag,ORG,0.0,0.0,de,2
+Weinle,Weinle,ORG,0.5,0.0,de,2
+Satire-Partei,Satire-Partei,ORG,0.0,0.0,de,2
+Freiburgs Freistoßkünstler,Freiburgs Freistoßkünstler,ORG,0.0,0.0,de,2
+HADAFO,HADAFO,ORG,-0.35,0.0,de,2
+Fortuna Köln,Fortuna Köln,ORG,0.0,0.0,de,2
+SC Freiburg - Leverkusen,SC Freiburg - Leverkusen,ORG,0.0,0.0,de,2
+Pokalsieger RB Leipzig,Pokalsieger RB Leipzig,ORG,0.0,0.0,de,2
+FC Sevilla,FC Sevilla,ORG,0.0,0.0,de,2
+deutschen U21-Nationalmannschaft,deutschen U21-Nationalmannschaft,ORG,0.0,0.0,de,2
+Ex-Chefredakteur,Ex-Chefredakteur,ORG,-0.925,0.0,de,2
 Bensebaini,Bensebaini,ORG,0.0,0.5,de,2
-deutsche EU-Parlamentarier,deutsche EU-Parlamentarier,ORG,-1.0,0.0,de,2
-Abstiegsbedrohte Hertha,Abstiegsbedrohte Hertha,ORG,0.0,0.0,de,2
-Sreto Ristic,Sreto Ristic,ORG,0.0,0.0,de,2
+SCB,SCB,ORG,0.0,0.0,de,2
+Heidenheim,Heidenheim,ORG,-0.35,0.5,de,2
+BVB-Befreiungsschlag,BVB-Befreiungsschlag,ORG,0.0,0.0,de,2
+PSG,PSG,ORG,0.7,0.0,de,2
+BK Häcken,BK Häcken,ORG,0.0,0.0,de,2
 BVB-Sorgen,BVB-Sorgen,ORG,0.0,0.0,de,2
 SC Freiburg Borussia Dortmund,SC Freiburg Borussia Dortmund,ORG,0.0,0.0,de,2
-SPORT1,SPORT1,ORG,-0.925,0.0,de,2
 deutschen U18-Nationalspielers,deutschen U18-Nationalspielers,ORG,0.0,0.0,de,2
-UEFA,UEFA,ORG,0.0,0.0,de,2
-SC Freiburg gen Barcelona,SC Freiburg gen Barcelona,ORG,0.0,0.0,de,2
-Spitzenreiter FC Bayern,Spitzenreiter FC Bayern,ORG,0.0,0.0,de,2
-SC-Finanzvorstand,SC-Finanzvorstand,ORG,0.7,0.0,de,2
-Bayern-Pleite,Bayern-Pleite,ORG,0.0,0.0,de,2
-deutsche Bundesliga,deutsche Bundesliga,ORG,0.0,0.0,de,2
-Mega-Ausstiegklausel,Mega-Ausstiegklausel,ORG,0.0,0.0,de,2
-Jobrad,Jobrad,ORG,0.7,0.0,de,2
-Körperlich,Körperlich,ORG,0.0,0.0,de,2
-deutschen U21-Nationalmannschaft,deutschen U21-Nationalmannschaft,ORG,0.0,0.0,de,2
-Netz­re­ak­tionen,Netz­re­ak­tionen,ORG,0.0,0.0,de,2
-Europa-League-Achtelfinals,Europa-League-Achtelfinals,ORG,0.0,0.0,de,2
-SC Freiburgs Mark Flekken,SC Freiburgs Mark Flekken,ORG,0.0,0.0,de,2
-niederländische Nationalmannschaft,niederländische Nationalmannschaft,ORG,0.0,0.0,de,2
-Twitter,Twitter,ORG,0.0,0.0,de,2
-Barça,Barça,ORG,0.0,0.0,de,2
-Pokalfinalisten SC Freiburg,Pokalfinalisten SC Freiburg,ORG,0.0,0.0,de,2
-LIVE,LIVE,ORG,0.0,0.0,de,2
-DFB-Pokal-Tickets,DFB-Pokal-Tickets,ORG,0.7,0.0,de,2
-Testspiele,Testspiele,ORG,0.0,0.0,de,2
-Frauenfußball-Bundesliga,Frauenfußball-Bundesliga,ORG,0.0,0.0,de,2
-FC Empoli,FC Empoli,ORG,0.0,0.0,de,2
-Stuttgart,Stuttgart,ORG,0.0,0.0,de,2
-Grashopper Club Zürich,Grashopper Club Zürich,ORG,-0.7,0.0,de,2
-RSC Anderlecht,RSC Anderlecht,ORG,0.5,0.0,de,2
-Rekorde,Rekorde,ORG,-0.5,0.0,de,2
-Zweitliga-Absteiger SV Sandhausen,Zweitliga-Absteiger SV Sandhausen,ORG,0.0,0.0,de,2
-Hallescher FC,Hallescher FC,ORG,0.5,0.0,de,2
-Oberligist,Oberligist,ORG,0.0,0.0,de,2
-Oberachern,Oberachern,ORG,0.0,0.0,de,2
-Fußball-B,Fußball-B,ORG,0.0,0.0,de,2
-Borussia Mönchengladbachs,Borussia Mönchengladbachs,ORG,0.5,0.0,de,2
-Dreisamstadion,Dreisamstadion,ORG,0.0,0.0,de,2
-Schwarzge,Schwarzge,ORG,0.0,0.0,de,2
-Ligarivale Wolfsburg,Ligarivale Wolfsburg,ORG,0.0,0.0,de,2
-Bundesligakonkurrent,Bundesligakonkurrent,ORG,0.0,0.0,de,2
-FC Arsenal,FC Arsenal,ORG,0.35,0.0,de,2
-Freiburg!,Freiburg!,ORG,0.0,0.0,de,2
-VfB Stuttgart II.,VfB Stuttgart II.,ORG,0.0,0.0,de,2
-Fölmli,Fölmli,ORG,0.0,0.0,de,2
-Bundesliga-Spitzenteam,Bundesliga-Spitzenteam,ORG,0.0,0.0,de,2
-Marokko,Marokko,ORG,1.0,0.0,de,2
-Underdog SV Sandhausen,Underdog SV Sandhausen,ORG,0.0,0.0,de,2
-Freiburg-Star!,Freiburg-Star!,ORG,0.0,0.0,de,2
-BIL,BIL,ORG,0.0,0.0,de,2
-französischen Erstligisten,französischen Erstligisten,ORG,0.0,0.0,de,2
-DFB-Auswahl,DFB-Auswahl,ORG,0.0,0.0,de,2
-Atubolu,Atubolu,ORG,0.0,0.0,de,2
-Rapid Wien,Rapid Wien,ORG,0.0,0.0,de,2
-Washington Post,Washington Post,ORG,0.05833333333333333,0.16666666666666666,de,2
-Freibu,Freibu,ORG,0.0,0.0,de,2
-Werkself,Werkself,ORG,0.0,0.0,de,2
-Freiburgs Stammkeeper,Freiburgs Stammkeeper,ORG,-0.15000000000000002,0.0,de,2
-Parlamentarier,Parlamentarier,ORG,0.0,0.0,de,2
-Hallesche FC,Hallesche FC,ORG,0.0,0.0,de,2
-Bundesligaspiele,Bundesligaspiele,ORG,0.0,0.0,de,2
+Deutschen Weininstituts,Deutschen Weininstituts,ORG,0.7,0.0,de,2
+Freiburger U19,Freiburger U19,ORG,0.0,0.0,de,2
 Fußball-Bundesligist Borussia Mönchengladbach,Fußball-Bundesligist Borussia Mönchengladbach,ORG,0.0,0.0,de,2
-österreichische Nationalspieler,österreichische Nationalspieler,ORG,0.0,0.0,de,2
-Champions-League-Kandidaten,Champions-League-Kandidaten,ORG,0.775,0.0,de,2
-SC Freiburg Abstiegskandidat Hertha BSC,SC Freiburg Abstiegskandidat Hertha BSC,ORG,0.0,0.0,de,2
-Saudi-Arabien,Saudi-Arabien,ORG,-0.5,0.0,de,2
-FC Sevilla,FC Sevilla,ORG,0.0,0.0,de,2
-Eu,Eu,ORG,0.175,0.0,de,2
-PSV Eindhoven,PSV Eindhoven,ORG,0.0,0.0,de,2
-Bayern-Star,Bayern-Star,ORG,0.0,0.0,de,2
-Freiburg II.,Freiburg II.,ORG,0.0,0.0,de,2
-HADAFO,HADAFO,ORG,-0.35,0.0,de,2
-Fünftligisten,Fünftligisten,ORG,1.0,0.0,de,2
-SC Freiburg - Leverkusen,SC Freiburg - Leverkusen,ORG,0.0,0.0,de,2
-Freiburgs Freistoßkünstler,Freiburgs Freistoßkünstler,ORG,0.0,0.0,de,2
-Bundesliga-Partie,Bundesliga-Partie,ORG,0.35,0.0,de,2
-U-21-Coach,U-21-Coach,ORG,0.0,0.0,de,2
-SC-Trikot,SC-Trikot,ORG,0.7,0.0,de,2
-Bundesliga-Konkurrenten VfL Wolfsburg,Bundesliga-Konkurrenten VfL Wolfsburg,ORG,0.0,0.0,de,2
-RAN,RAN,ORG,0.0,0.0,de,2
-Ajax,Ajax,ORG,0.0,0.0,de,2
-EU-Politiker,EU-Politiker,ORG,0.7,0.0,de,2
-Lecko,Lecko,ORG,0.0,0.0,de,2
-Juventus  ,Juventus  ,ORG,0.35,0.0,de,2
-Meppen,Meppen,ORG,0.07500000000000001,0.0,de,2
-Joker-Tore,Joker-Tore,ORG,0.0,0.0,de,2
-Kronen Zeitung,Kronen Zeitung,ORG,0.5,0.0,de,2
-TSV,TSV,ORG,0.0,0.0,de,2
-PL,PL,ORG,0.27499999999999997,0.0,de,2
-Deutschen Presse-Agentur,Deutschen Presse-Agentur,ORG,0.0,0.0,de,2
-Senegal,Senegal,ORG,0.0,0.0,de,2
-Seine Partei,Seine Partei,ORG,1.0,0.0,de,2
-Fußball-Bundesligist RB Leipzig,Fußball-Bundesligist RB Leipzig,ORG,-0.35,0.0,de,2
-Bundesliga-Tabellenführer Bayer Leverkusen,Bundesliga-Tabellenführer Bayer Leverkusen,ORG,1.0,0.0,de,2
-ÖVP,ÖVP,ORG,0.35,0.0,de,2
-Fußball-Drittligisten,Fußball-Drittligisten,ORG,-0.7,0.0,de,2
-Reisegruppe Berlin” Leipzig,Reisegruppe Berlin” Leipzig,ORG,0.7,0.0,de,2
-Freiburg-Schande,Freiburg-Schande,ORG,-0.5,0.0,de,2
-Leipziger Volkszeitung,Leipziger Volkszeitung,ORG,0.0,0.0,de,2
+Breisgauer!,Breisgauer!,ORG,0.7,0.0,de,2
+Frühnebel,Frühnebel,ORG,0.0,0.0,de,2
+Souveräner FC Bayern,Souveräner FC Bayern,ORG,0.0,0.0,de,2
+Freibu,Freibu,ORG,0.0,0.0,de,2
+FC Augsburg am Sonntag,FC Augsburg am Sonntag,ORG,0.35,0.0,de,2
 Leverkusens,Leverkusens,ORG,0.0,0.0,de,2
 Drittligist SV Sandhausen,Drittligist SV Sandhausen,ORG,0.0,0.0,de,2
-RB Leipzigs Tor,RB Leipzigs Tor,ORG,-0.175,0.25,de,2
-WM-,WM-,ORG,0.35,0.0,de,2
-SC-Nationalspielern,SC-Nationalspielern,ORG,0.0,0.5,de,2
-demokratische Fortschrittspartei,demokratische Fortschrittspartei,ORG,0.35,0.25,de,2
-HSC Montpellier,HSC Montpellier,ORG,0.0,0.0,de,2
-TM-Liveticker,TM-Liveticker,ORG,0.7,0.0,de,2
-Streich-Elf,Streich-Elf,ORG,0.425,0.0,de,2
-BJP,BJP,ORG,0.35,0.0,de,2
-Fußball-Bundesliga Lars Kehl,Fußball-Bundesliga Lars Kehl,ORG,0.0,0.0,de,2
-National League,National League,ORG,0.0,0.0,de,2
-deutschen Nationalmannschaft,deutschen Nationalmannschaft,ORG,0.0,0.0,de,2
-Seattle Sounders FC,Seattle Sounders FC,ORG,0.0,0.0,de,2
-Atlético Madrid,Atlético Madrid,ORG,-0.35,0.0,de,2
-Abstiegsduell,Abstiegsduell,ORG,0.0,0.0,de,2
-Freiburg-Trainer,Freiburg-Trainer,ORG,0.07500000000000001,0.0,de,2
-SC Freibur,SC Freibur,ORG,0.0,0.0,de,2
-Ex-Chefredakteur,Ex-Chefredakteur,ORG,-0.925,0.0,de,2
-Souveräner FC Bayern,Souveräner FC Bayern,ORG,0.0,0.0,de,2
-Kirche,Kirche,ORG,0.0,0.0,de,2
-Kommunistischen Partei,Kommunistischen Partei,ORG,0.0,0.0,de,2
-Katholikentag,Katholikentag,ORG,0.7,0.0,de,2
-Republikanischen Partei,Republikanischen Partei,ORG,0.0,0.0,de,2
-FC Thun,FC Thun,ORG,0.0,0.0,de,2
-Ligakonkurrenten FC Augsburg,Ligakonkurrenten FC Augsburg,ORG,-0.7,0.0,de,2
-STERN,STERN,ORG,0.0,0.0,de,2
-Bundesliga JETZT,Bundesliga JETZT,ORG,-0.5,0.0,de,2
-Fortuna Köln,Fortuna Köln,ORG,0.0,0.0,de,2
-B-Jugend,B-Jugend,ORG,0.0,0.0,de,2
-Serben-Klub,Serben-Klub,ORG,0.7,0.0,de,2
-SC-Kapitän,SC-Kapitän,ORG,0.35,0.0,de,2
-VFL Wolfsburg,VFL Wolfsburg,ORG,1.0,0.0,de,2
-Angriffs-Modus!,Angriffs-Modus!,ORG,0.0,0.0,de,2
-FK TSC Bačka Topola,FK TSC Bačka Topola,ORG,0.425,0.0,de,2
-Qaraba FK,Qaraba FK,ORG,0.0,0.0,de,2
-Europacupteilnehmer!,Europacupteilnehmer!,ORG,0.0,0.0,de,2
-Qarabag FK,Qarabag FK,ORG,0.0,0.0,de,2
-Qarabag,Qarabag,ORG,0.0,0.0,de,2
-Qarabag Agadam,Qarabag Agadam,ORG,0.0,0.0,de,2
-Münster,Münster,ORG,0.0,0.0,de,2
-Roter Stern Belgrad,Roter Stern Belgrad,ORG,0.0,0.0,de,2
-VfB Oldenburg,VfB Oldenburg,ORG,0.0,0.0,de,2
-ungarischen Nationalmannschaft,ungarischen Nationalmannschaft,ORG,0.0,0.0,de,2
-Freiburgs Atubolu,Freiburgs Atubolu,ORG,0.0,0.0,de,2
-IHM,IHM,ORG,-0.35,0.0,de,2
-Waldhof Mannheim,Waldhof Mannheim,ORG,0.0,0.0,de,2
-Wolfsburger Serie,Wolfsburger Serie,ORG,0.0,0.0,de,2
-Bundesliga-Spieltags,Bundesliga-Spieltags,ORG,0.0,0.0,de,2
+Hallesche FC,Hallesche FC,ORG,0.0,0.0,de,2
 Bundesliga-Sieg,Bundesliga-Sieg,ORG,0.0,0.0,de,2
-FPÖ,FPÖ,ORG,-0.07500000000000001,0.0,de,2
-Pokal-Eklat,Pokal-Eklat,ORG,0.0,0.0,de,2
-AfD-Fraktion,AfD-Fraktion,ORG,0.0,0.0,de,2
-Fußball-Bund,Fußball-Bund,ORG,0.0,0.0,de,2
-Breisgauer Abwehrriegel,Breisgauer Abwehrriegel,ORG,0.0,0.0,de,2
-Abendzeitung,Abendzeitung,ORG,0.0,0.0,de,2
-RB Leipzigs Nationalspieler,RB Leipzigs Nationalspieler,ORG,1.0,0.0,de,2
-Gruppe A.,Gruppe A.,ORG,0.0,0.0,de,2
-Leipzig-Spiel,Leipzig-Spiel,ORG,0.7,0.0,de,2
+Freiburg II.,Freiburg II.,ORG,0.0,0.0,de,2
 Gladbach,Gladbach,ORG,0.35,0.0,de,2
 SC-Coach,SC-Coach,ORG,0.85,0.0,de,2
-Union Berlins,Union Berlins,ORG,0.0,0.0,,2
-Spitzenreiters FC Bayern München,Spitzenreiters FC Bayern München,ORG,0.0,0.0,de,2
 BILD!,BILD!,ORG,0.0,0.0,de,2
 Last-Minute-Punkt,Last-Minute-Punkt,ORG,0.0,0.0,de,2
+Gruppe A.,Gruppe A.,ORG,0.0,0.0,de,2
+IHM,IHM,ORG,-0.35,0.0,de,2
+Serben-Klub,Serben-Klub,ORG,0.7,0.0,de,2
+FK TSC Bačka Topola,FK TSC Bačka Topola,ORG,0.425,0.0,de,2
+Europacupteilnehmer!,Europacupteilnehmer!,ORG,0.0,0.0,de,2
+Bundesliga-Spitzenteam,Bundesliga-Spitzenteam,ORG,0.0,0.0,de,2
+Münster,Münster,ORG,0.0,0.0,de,2
+Roter Stern Belgrad,Roter Stern Belgrad,ORG,0.0,0.0,de,2
+Underdog SV Sandhausen,Underdog SV Sandhausen,ORG,0.0,0.0,de,2
+ungarischen Nationalmannschaft,ungarischen Nationalmannschaft,ORG,0.0,0.0,de,2
+Hallescher FC,Hallescher FC,ORG,0.5,0.0,de,2
+Sreto Ristic,Sreto Ristic,ORG,0.0,0.0,de,2
+HFC,HFC,ORG,0.0,0.0,de,2
+Ajax,Ajax,ORG,0.0,0.0,de,2
+UEFA,UEFA,ORG,0.0,0.0,de,2
+National League,National League,ORG,0.0,0.0,de,2
+FC Arsenal,FC Arsenal,ORG,0.35,0.0,de,2
+Fußball-B,Fußball-B,ORG,0.0,0.0,de,2
+TM-Liveticker,TM-Liveticker,ORG,0.7,0.0,de,2
+Abstiegsduell,Abstiegsduell,ORG,0.0,0.0,de,2
+SC Freibur,SC Freibur,ORG,0.0,0.0,de,2
+SC-Trikot,SC-Trikot,ORG,0.7,0.0,de,2
+Kirche,Kirche,ORG,0.0,0.0,de,2
+Stuttgart,Stuttgart,ORG,0.0,0.0,de,2
+Katholikentag,Katholikentag,ORG,0.7,0.0,de,2
+HSC Montpellier,HSC Montpellier,ORG,0.0,0.0,de,2
+SC-Nationalspielern,SC-Nationalspielern,ORG,0.0,0.5,de,2
+Bayern-Pleite,Bayern-Pleite,ORG,0.0,0.0,de,2
+TSV,TSV,ORG,0.0,0.0,de,2
+Bundesliga-Tabellenführer Bayer Leverkusen,Bundesliga-Tabellenführer Bayer Leverkusen,ORG,1.0,0.0,de,2
+Fußball-Drittligisten,Fußball-Drittligisten,ORG,-0.7,0.0,de,2
+DFB-Pokal-Tickets,DFB-Pokal-Tickets,ORG,0.7,0.0,de,2
+Bundesliga-Partie,Bundesliga-Partie,ORG,0.35,0.0,de,2
+Körperlich,Körperlich,ORG,0.0,0.0,de,2
+Bundesliga-Konkurrenten VfL Wolfsburg,Bundesliga-Konkurrenten VfL Wolfsburg,ORG,0.0,0.0,de,2
+deutschen Nationalspieler,deutschen Nationalspieler,ORG,0.35,0.0,de,2
+Atlético Madrid,Atlético Madrid,ORG,-0.35,0.0,de,2
+Streich-Elf,Streich-Elf,ORG,0.425,0.0,de,2
 Real Madrid,Real Madrid,ORG,1.0,0.0,de,2
-Erstliga-Absteiger FC Schalke 04,Erstliga-Absteiger FC Schalke 04,ORG,1.0,0.0,de,2
-Fuego FC,Fuego FC,ORG,0.0,0.0,de,2
-YB Bern,YB Bern,ORG,0.0,0.0,de,2
-Südafrika,Südafrika,ORG,0.0,0.0,de,2
-Pokalsieger RB Leipzig,Pokalsieger RB Leipzig,ORG,0.0,0.0,de,2
-Young Boys Bern,Young Boys Bern,ORG,0.0,0.0,de,2
-PSG,PSG,ORG,0.7,0.0,de,2
-Ramaphosas Partei,Ramaphosas Partei,ORG,-0.575,0.0,de,2
-Deutschen Weininstituts,Deutschen Weininstituts,ORG,0.7,0.0,de,2
-Satire-Partei,Satire-Partei,ORG,0.0,0.0,de,2
+deutsche Bundesliga,deutsche Bundesliga,ORG,0.0,0.0,de,2
+deutsche EU-Parlamentarier,deutsche EU-Parlamentarier,ORG,-1.0,0.0,de,2
 Manchester City,Manchester City,ORG,0.7,0.0,de,2
-AfD-Verbot,AfD-Verbot,ORG,0.0,0.0,de,2
-Fortuna,Fortuna,ORG,0.0,0.0,de,2
-FCB,FCB,ORG,0.35,0.0,de,2
 Freiburg-Fans,Freiburg-Fans,ORG,0.5,0.0,de,2
-Eintracht Frankfurt am Sonntag,Eintracht Frankfurt am Sonntag,ORG,0.0,0.0,de,2
-Fußball-Nationalmannschaft,Fußball-Nationalmannschaft,ORG,-0.5,0.0,de,2
-CDU-Parteichef,CDU-Parteichef,ORG,0.5,0.0,de,2
-Reichsbürger-Umsturzpläne,Reichsbürger-Umsturzpläne,ORG,0.5,0.0,de,2
-Bundes-CDU,Bundes-CDU,ORG,-0.5,0.0,de,2
 SV Waldhof Mannheim,SV Waldhof Mannheim,ORG,0.0,0.0,de,2
-McKinsey,McKinsey,ORG,0.0,0.0,de,2
-BK Häcken,BK Häcken,ORG,0.0,0.0,de,2
-BMI,BMI,ORG,-0.5,0.0,de,2
+FCB,FCB,ORG,0.35,0.0,de,2
+Freiburg-Trainer,Freiburg-Trainer,ORG,0.07500000000000001,0.0,de,2
+Zweitliga-Absteiger SV Sandhausen,Zweitliga-Absteiger SV Sandhausen,ORG,0.0,0.0,de,2
+FC Bayern,FC Bayern,ORG,1.0,0.0,de,2
+SC-Fans,SC-Fans,ORG,0.0,0.0,de,2
+Dreisamstadion,Dreisamstadion,ORG,0.0,0.0,de,2
+Tuchel-PK,Tuchel-PK,ORG,0.0,0.0,de,2
+Jobrad,Jobrad,ORG,0.7,0.0,de,2
+SC-Finanzvorstand,SC-Finanzvorstand,ORG,0.7,0.0,de,2
+Frauenfußball-Bundesliga,Frauenfußball-Bundesliga,ORG,0.0,0.0,de,2
+SCP,SCP,ORG,0.0,0.0,de,2
+Fußball-Bundesligist RB Leipzig,Fußball-Bundesligist RB Leipzig,ORG,-0.35,0.0,de,2
+Rapid Wien,Rapid Wien,ORG,0.0,0.0,de,2
+Kronen Zeitung,Kronen Zeitung,ORG,0.5,0.0,de,2
+Waldhof Mannheim,Waldhof Mannheim,ORG,0.0,0.0,de,2
+Freiburgs Atubolu,Freiburgs Atubolu,ORG,0.0,0.0,de,2
+Angriffs-Modus!,Angriffs-Modus!,ORG,0.0,0.0,de,2
+SC-Kapitän,SC-Kapitän,ORG,0.35,0.0,de,2
+B-Jugend,B-Jugend,ORG,0.0,0.0,de,2
+Joker-Tore,Joker-Tore,ORG,0.0,0.0,de,2
+Wolfsburger Serie,Wolfsburger Serie,ORG,0.0,0.0,de,2
+Leipzig-Spiel,Leipzig-Spiel,ORG,0.7,0.0,de,2
+Meppen,Meppen,ORG,0.07500000000000001,0.0,de,2
+Reisegruppe Berlin” Leipzig,Reisegruppe Berlin” Leipzig,ORG,0.7,0.0,de,2
+Pokal-Eklat,Pokal-Eklat,ORG,0.0,0.0,de,2
+Ligakonkurrenten FC Augsburg,Ligakonkurrenten FC Augsburg,ORG,-0.7,0.0,de,2
+Fußball-Bundesliga Lars Kehl,Fußball-Bundesliga Lars Kehl,ORG,0.0,0.0,de,2
+FC Thun,FC Thun,ORG,0.0,0.0,de,2
+RB Leipzigs Tor,RB Leipzigs Tor,ORG,-0.175,0.25,de,2
+Fortuna,Fortuna,ORG,0.0,0.0,de,2
+Leipziger Volkszeitung,Leipziger Volkszeitung,ORG,0.0,0.0,de,2
+Freiburg-Schande,Freiburg-Schande,ORG,-0.5,0.0,de,2
+Schwarzge,Schwarzge,ORG,0.0,0.0,de,2
+Bayern-Star,Bayern-Star,ORG,0.0,0.0,de,2
+Werkself,Werkself,ORG,0.0,0.0,de,2
+FC Empoli,FC Empoli,ORG,0.0,0.0,de,2
+Freiburg!,Freiburg!,ORG,0.0,0.0,de,2
+Borussia Mönchengladbachs,Borussia Mönchengladbachs,ORG,0.5,0.0,de,2
+österreichische Nationalspieler,österreichische Nationalspieler,ORG,0.0,0.0,de,2
+französischen Erstligisten,französischen Erstligisten,ORG,0.0,0.0,de,2
+Fölmli,Fölmli,ORG,0.0,0.0,de,2
+VfB Stuttgart II.,VfB Stuttgart II.,ORG,0.0,0.0,de,2
+PSV Eindhoven,PSV Eindhoven,ORG,0.0,0.0,de,2
+SC Freiburg gen Barcelona,SC Freiburg gen Barcelona,ORG,0.0,0.0,de,2
+Barça,Barça,ORG,0.0,0.0,de,2
+Washington Post,Washington Post,ORG,0.05833333333333333,0.16666666666666666,de,2
+VFL Wolfsburg,VFL Wolfsburg,ORG,1.0,0.0,de,2
+Mega-Ausstiegklausel,Mega-Ausstiegklausel,ORG,0.0,0.0,de,2
+Europa-League-Achtelfinals,Europa-League-Achtelfinals,ORG,0.0,0.0,de,2
+Fünftligisten,Fünftligisten,ORG,1.0,0.0,de,2
+LIVE,LIVE,ORG,0.0,0.0,de,2
+Oberligist,Oberligist,ORG,0.0,0.0,de,2
+Oberachern,Oberachern,ORG,0.0,0.0,de,2
+Atubolu,Atubolu,ORG,0.0,0.0,de,2
+Marokko,Marokko,ORG,1.0,0.0,de,2
+RAN,RAN,ORG,0.0,0.0,de,2
+Abstiegsbedrohte Hertha,Abstiegsbedrohte Hertha,ORG,0.0,0.0,de,2
+Freiburgs Stammkeeper,Freiburgs Stammkeeper,ORG,-0.15000000000000002,0.0,de,2
+Champions-League-Kandidaten,Champions-League-Kandidaten,ORG,0.775,0.0,de,2
+RSC Anderlecht,RSC Anderlecht,ORG,0.5,0.0,de,2
+SC Freiburg Abstiegskandidat Hertha BSC,SC Freiburg Abstiegskandidat Hertha BSC,ORG,0.0,0.0,de,2
 U-21-Nationalkeeper,U-21-Nationalkeeper,ORG,0.7,0.0,de,2
+Erstliga-Absteiger FC Schalke 04,Erstliga-Absteiger FC Schalke 04,ORG,1.0,0.0,de,2
+U-21-Coach,U-21-Coach,ORG,0.0,0.0,de,2
+Pokalfinalisten SC Freiburg,Pokalfinalisten SC Freiburg,ORG,0.0,0.0,de,2
+Testspiele,Testspiele,ORG,0.0,0.0,de,2
+Grashopper Club Zürich,Grashopper Club Zürich,ORG,-0.7,0.0,de,2
+Juventus  ,Juventus  ,ORG,0.35,0.0,de,2
+Twitter,Twitter,ORG,0.0,0.0,de,2
+Rekorde,Rekorde,ORG,-0.5,0.0,de,2
+Saudi-Arabien,Saudi-Arabien,ORG,-0.5,0.0,de,2
+Eu,Eu,ORG,0.175,0.0,de,2
+Ligarivale Wolfsburg,Ligarivale Wolfsburg,ORG,0.0,0.0,de,2
+Bundesligakonkurrent,Bundesligakonkurrent,ORG,0.0,0.0,de,2
+Lecko,Lecko,ORG,0.0,0.0,de,2
+Netz­re­ak­tionen,Netz­re­ak­tionen,ORG,0.0,0.0,de,2
+TSG 1899 Hoffenheim,TSG 1899 Hoffenheim,ORG,0.0,0.0,de,2
+Darmstadt 98,Darmstadt 98,ORG,0.0,0.5,de,2
+Bundesliga-Tabellenzweiten SC Freiburg,Bundesliga-Tabellenzweiten SC Freiburg,ORG,0.0,0.0,de,2
+Union Berlins,Union Berlins,ORG,0.0,0.0,,2
+estnische Nationalspieler,estnische Nationalspieler,ORG,0.0,0.0,de,2
+Ramaphosas Partei,Ramaphosas Partei,ORG,-0.575,0.0,de,2
+Winterthur,Winterthur,ORG,0.0,0.0,de,2
+Ex-Bundesligist,Ex-Bundesligist,ORG,-0.15000000000000002,0.0,de,2
+italienischen Liga,italienischen Liga,ORG,0.0,0.0,de,2
+Südafrika,Südafrika,ORG,0.0,0.0,de,2
+RB Leipzigs Nationalspieler,RB Leipzigs Nationalspieler,ORG,1.0,0.0,de,2
+Messi,Messi,ORG,0.0,0.0,de,2
+Seine Partei,Seine Partei,ORG,1.0,0.0,de,2
+Senegal,Senegal,ORG,0.0,0.0,de,2
+SC Freiburgs Mark Flekken,SC Freiburgs Mark Flekken,ORG,0.0,0.0,de,2
+Bundesligaspiele,Bundesligaspiele,ORG,0.0,0.0,de,2
+niederländische Nationalmannschaft,niederländische Nationalmannschaft,ORG,0.0,0.0,de,2
+Spitzenreiters FC Bayern München,Spitzenreiters FC Bayern München,ORG,0.0,0.0,de,2
+Deutschen Presse-Agentur,Deutschen Presse-Agentur,ORG,0.0,0.0,de,2
+PL,PL,ORG,0.27499999999999997,0.0,de,2
+Spitzenreiter FC Bayern,Spitzenreiter FC Bayern,ORG,0.0,0.0,de,2
+VfL...,VfL...,ORG,0.0,0.0,de,2
+SPORT1,SPORT1,ORG,-0.925,0.0,de,2
+demokratische Fortschrittspartei,demokratische Fortschrittspartei,ORG,0.35,0.25,de,2
+Republikanischen Partei,Republikanischen Partei,ORG,0.0,0.0,de,2
+Landtagswahlen,Landtagswahlen,ORG,0.0,0.0,de,2
+Bundesliga-Spieltags,Bundesliga-Spieltags,ORG,0.0,0.0,de,2
+S,S,ORG,0.0,0.0,de,2
+Abendzeitung,Abendzeitung,ORG,0.0,0.0,de,2
+ÖVP,ÖVP,ORG,0.35,0.0,de,2
+BMI,BMI,ORG,-0.5,0.0,de,2
+Bundesliga JETZT,Bundesliga JETZT,ORG,-0.5,0.0,de,2
 USL League One,USL League One,ORG,0.0,0.0,de,2
 Central Valley,Central Valley,ORG,0.0,0.0,de,2
-Breisgauer!,Breisgauer!,ORG,0.7,0.0,de,2
-SCP,SCP,ORG,0.0,0.0,de,2
+Fuego FC,Fuego FC,ORG,0.0,0.0,de,2
+Reichsbürger-Umsturzpläne,Reichsbürger-Umsturzpläne,ORG,0.5,0.0,de,2
+WM-,WM-,ORG,0.35,0.0,de,2
+CDU-Parteichef,CDU-Parteichef,ORG,0.5,0.0,de,2
+Bundes-CDU,Bundes-CDU,ORG,-0.5,0.0,de,2
+FPÖ,FPÖ,ORG,-0.07500000000000001,0.0,de,2
+YB Bern,YB Bern,ORG,0.0,0.0,de,2
+Young Boys Bern,Young Boys Bern,ORG,0.0,0.0,de,2
+AfD-Fraktion,AfD-Fraktion,ORG,0.0,0.0,de,2
+AfD-Verbot,AfD-Verbot,ORG,0.0,0.0,de,2
 republikanische Partei,republikanische Partei,ORG,0.0,0.0,de,2
-deutschen Nationalspieler,deutschen Nationalspieler,ORG,0.35,0.0,de,2
-Ex-Bundesligist,Ex-Bundesligist,ORG,-0.15000000000000002,0.0,de,2
-Heidenheim,Heidenheim,ORG,-0.35,0.5,de,2
-SC-Fans,SC-Fans,ORG,0.0,0.0,de,2
-Landtagswahlen,Landtagswahlen,ORG,0.0,0.0,de,2
-FC Augsburg am Sonntag,FC Augsburg am Sonntag,ORG,0.35,0.0,de,2
-Messi,Messi,ORG,0.0,0.0,de,2
-italienischen Liga,italienischen Liga,ORG,0.0,0.0,de,2
+Fußball-Nationalmannschaft,Fußball-Nationalmannschaft,ORG,-0.5,0.0,de,2
+Fußball-Bund,Fußball-Bund,ORG,0.0,0.0,de,2
 Deutschen Fußball Liga,Deutschen Fußball Liga,ORG,0.0,0.0,de,2
-Winterthur,Winterthur,ORG,0.0,0.0,de,2
-estnische Nationalspieler,estnische Nationalspieler,ORG,0.0,0.0,de,2
-S,S,ORG,0.0,0.0,de,2
-Tuchel-PK,Tuchel-PK,ORG,0.0,0.0,de,2
-Frühnebel,Frühnebel,ORG,0.0,0.0,de,2
-BVB-Befreiungsschlag,BVB-Befreiungsschlag,ORG,0.0,0.0,de,2
+Breisgauer Abwehrriegel,Breisgauer Abwehrriegel,ORG,0.0,0.0,de,2
 österreichische Nationalspielerin,österreichische Nationalspielerin,ORG,0.0,0.0,de,2
-Bundesliga-Tabellenzweiten SC Freiburg,Bundesliga-Tabellenzweiten SC Freiburg,ORG,0.0,0.0,de,2
 Fix,Fix,ORG,-0.85,0.0,de,2
-Weinle,Weinle,ORG,0.5,0.0,de,2
-FC Bayern,FC Bayern,ORG,1.0,0.0,de,2
-Pokalverliererinnen,Pokalverliererinnen,ORG,0.0,0.0,de,1
-Kayikci,Kayikci,ORG,0.0,0.0,de,1
-Ultras,Ultras,ORG,0.0,0.0,de,1
-Déjà-Vu,Déjà-Vu,ORG,-0.7,0.0,de,1
-To…,To…,ORG,0.0,0.0,de,1
-n-tv NACHRICHTEN,n-tv NACHRICHTEN,ORG,0.0,0.0,de,1
-Wolfsburgs,Wolfsburgs,ORG,1.0,0.0,de,1
-RAF-Mitglied,RAF-Mitglied,ORG,-0.10000000000000002,0.0,de,1
-Fußball-Zweitligist SC Paderborn,Fußball-Zweitligist SC Paderborn,ORG,0.0,0.0,de,1
-Nationals,Nationals,ORG,0.0,0.0,de,1
-Traurige Freiburgerinnen,Traurige Freiburgerinnen,ORG,0.7,0.0,de,1
-Rekordmeist,Rekordmeist,ORG,0.0,0.0,de,1
-Demokratieabbau |,Demokratieabbau |,ORG,0.0,0.0,de,1
-SpVgg Greuther Fürth,SpVgg Greuther Fürth,ORG,0.0,0.0,de,1
-RND,RND,ORG,-1.0,0.0,de,1
-Kölner Rhein-Energi,Kölner Rhein-Energi,ORG,0.0,0.0,de,1
-Redaktionsnetzwerk Deutschland,Redaktionsnetzwerk Deutschland,ORG,-1.0,0.0,de,1
-DFB-Pokalfi,DFB-Pokalfi,ORG,0.0,0.0,de,1
+Kommunistischen Partei,Kommunistischen Partei,ORG,0.0,0.0,de,2
+McKinsey,McKinsey,ORG,0.0,0.0,de,2
+Qaraba FK,Qaraba FK,ORG,0.0,0.0,de,2
+Freiburg-Star!,Freiburg-Star!,ORG,0.0,0.0,de,2
+EU-Politiker,EU-Politiker,ORG,0.7,0.0,de,2
+VfB Oldenburg,VfB Oldenburg,ORG,0.0,0.0,de,2
+Qarabag FK,Qarabag FK,ORG,0.0,0.0,de,2
+deutschen Nationalmannschaft,deutschen Nationalmannschaft,ORG,0.0,0.0,de,2
+Seattle Sounders FC,Seattle Sounders FC,ORG,0.0,0.0,de,2
+BJP,BJP,ORG,0.35,0.0,de,2
+DFB-Auswahl,DFB-Auswahl,ORG,0.0,0.0,de,2
+STERN,STERN,ORG,0.0,0.0,de,2
+BIL,BIL,ORG,0.0,0.0,de,2
+Qarabag Agadam,Qarabag Agadam,ORG,0.0,0.0,de,2
+Parlamentarier,Parlamentarier,ORG,0.0,0.0,de,2
+Qarabag,Qarabag,ORG,0.0,0.0,de,2
 Beltrán,Beltrán,ORG,0.0,0.0,de,1
-TSG sucht,TSG sucht,ORG,0.0,0.0,de,1
-Racing Straßb,Racing Straßb,ORG,0.7,0.0,de,1
-Regionalligist,Regionalligist,ORG,0.0,0.0,de,1
-FC Union Berlin am Sonntag,FC Union Berlin am Sonntag,ORG,0.0,0.0,de,1
-FC Bren,FC Bren,ORG,0.0,0.0,de,1
-DFB-Pokalfinalisten,DFB-Pokalfinalisten,ORG,0.0,0.0,de,1
-Amateurevereine,Amateurevereine,ORG,0.0,0.0,de,1
-Abwehrtalent Bouebari,Abwehrtalent Bouebari,ORG,0.0,0.0,de,1
-VfB Leipzig,VfB Leipzig,ORG,0.0,0.0,de,1
-Stuttgart-Star,Stuttgart-Star,ORG,0.0,0.0,de,1
-Liveti,Liveti,ORG,1.0,0.0,de,1
-Bayer... Freiburger Senkrechtstarter,Bayer... Freiburger Senkrechtstarter,ORG,0.0,0.0,de,1
-....,....,ORG,-0.7,0.0,de,1
-Flekkens,Flekkens,ORG,0.7,0.0,de,1
-Eintracht-Schlussmann,Eintracht-Schlussmann,ORG,0.0,0.0,de,1
-SC F…,SC F…,ORG,0.0,0.0,de,1
-innerhal,innerhal,ORG,0.0,0.0,de,1
-RAF,RAF,ORG,0.0,0.0,de,1
-Odds BK,Odds BK,ORG,0.0,0.0,de,1
-EL,EL,ORG,0.0,0.0,de,1
-niederländische Nationaltorwart,niederländische Nationaltorwart,ORG,0.0,0.0,de,1
-Wiener Austria,Wiener Austria,ORG,0.0,0.0,de,1
-deutsche Nationalelf,deutsche Nationalelf,ORG,0.0,0.0,de,1
-Müller-Deal,Müller-Deal,ORG,0.0,0.0,de,1
-Drittliga-Team,Drittliga-Team,ORG,0.0,0.0,de,1
-Bild“-Zeitung,Bild“-Zeitung,ORG,0.0,0.0,de,1
-Freiburg-Gerüchten,Freiburg-Gerüchten,ORG,0.0,0.0,de,1
+SC Freiburgs Grifo,SC Freiburgs Grifo,ORG,0.0,0.0,de,1
+Junior Adamu & Co.,Junior Adamu & Co.,ORG,0.0,0.0,de,1
+DFL-Aufsichtsratschef,DFL-Aufsichtsratschef,ORG,0.7,0.0,de,1
+Freiburg-Talent Darvich,Freiburg-Talent Darvich,ORG,0.0,0.0,de,1
 SK Sturm Graz,SK Sturm Graz,ORG,0.0,0.0,de,1
-Ablöse,Ablöse,ORG,0.0,0.0,de,1
-Fix!,Fix!,ORG,0.0,0.0,de,1
-FC Brentford  kicker,FC Brentford  kicker,ORG,-0.7,0.0,de,1
-VfB Stuttgarts,VfB Stuttgarts,ORG,0.0,0.0,de,1
-Umfrage-Schock!,Umfrage-Schock!,ORG,0.0,0.0,de,1
-FC Brentford | Express,FC Brentford | Express,ORG,-0.7,0.0,de,1
-Wertvollster,Wertvollster,ORG,0.0,0.0,de,1
-Kiliann Sildillia,Kiliann Sildillia,ORG,0.0,0.0,de,1
-... Kevin Schade,... Kevin Schade,ORG,-1.0,0.0,de,1
-Petersens Gänse,Petersens Gänse,ORG,0.0,0.0,de,1
-Europa-League-Teilnehmer,Europa-League-Teilnehmer,ORG,0.0,0.0,de,1
-Warum Atubolu Deutschlands Torwarthoffnung,Warum Atubolu Deutschlands Torwarthoffnung,ORG,0.0,0.0,de,1
+SV Obera,SV Obera,ORG,0.0,0.0,de,1
+Hamburger SV,Hamburger SV,ORG,0.0,0.0,de,1
+Fünfligist Oberachern - Günter,Fünfligist Oberachern - Günter,ORG,0.0,0.0,de,1
+Pokal-Blamage!,Pokal-Blamage!,ORG,0.0,0.0,de,1
+Oberliga Baden-Württemberg,Oberliga Baden-Württemberg,ORG,0.7,0.0,de,1
+Fußball-Zweitligist SC Paderborn,Fußball-Zweitligist SC Paderborn,ORG,0.0,0.0,de,1
+Regionalligisten,Regionalligisten,ORG,0.0,0.0,de,1
+FC-Astoria Walldorf,FC-Astoria Walldorf,ORG,0.0,0.0,de,1
+DFL-Aufsichtsratsvorsitzende,DFL-Aufsichtsratsvorsitzende,ORG,0.0,0.0,de,1
+Freiburg-Talent Darvich … We,Freiburg-Talent Darvich … We,ORG,0.0,0.0,de,1
+TM-Community,TM-Community,ORG,0.0,0.0,de,1
+Zwerg SV Oberachern,Zwerg SV Oberachern,ORG,0.0,0.0,de,1
+US-Medien,US-Medien,ORG,0.0,0.0,de,1
+ÖVP-Klubchef,ÖVP-Klubchef,ORG,0.0,0.0,de,1
+Demokrat Warnock,Demokrat Warnock,ORG,0.0,0.0,de,1
+Amateurevereine,Amateurevereine,ORG,0.0,0.0,de,1
+SC-Profis,SC-Profis,ORG,0.0,0.0,de,1
+Fußball-Bundesligaklub SC Freiburg,Fußball-Bundesligaklub SC Freiburg,ORG,0.0,0.0,de,1
+Duisburg,Duisburg,ORG,0.0,0.0,de,1
+MSV D… Werbung,MSV D… Werbung,ORG,0.0,0.0,de,1
+Breisgau Brasilianer,Breisgau Brasilianer,ORG,0.0,0.0,de,1
+Bundesliga-Debüt,Bundesliga-Debüt,ORG,0.0,0.0,de,1
+Bundesligadebüt,Bundesligadebüt,ORG,0.7,0.0,de,1
+ver­ließ,ver­ließ,ORG,0.0,0.0,de,1
+Abwehrtalent Bouebari,Abwehrtalent Bouebari,ORG,0.0,0.0,de,1
+FC Oberachern,FC Oberachern,ORG,0.0,0.0,de,1
+Racing Straßb,Racing Straßb,ORG,0.7,0.0,de,1
+Spieltages,Spieltages,ORG,0.0,0.0,de,1
+Bun­des­liga,Bun­des­liga,ORG,0.0,0.0,de,1
+WM-Nominierung,WM-Nominierung,ORG,0.0,0.0,de,1
+Man United,Man United,ORG,0.0,0.0,de,1
+Zentrum,Zentrum,ORG,0.0,0.0,de,1
+SC Fr…,SC Fr…,ORG,0.0,0.0,de,1
+Foto,Foto,ORG,1.0,0.0,de,1
+Instagram,Instagram,ORG,0.0,0.0,de,1
+Trumpf,Trumpf,ORG,0.0,0.0,de,1
+4:0)-Erfolgs,4:0)-Erfolgs,ORG,0.0,0.0,de,1
+Bayer Leverkusen & SC Freiburg,Bayer Leverkusen & SC Freiburg,ORG,0.0,0.0,de,1
+Grimaldi Forum,Grimaldi Forum,ORG,0.0,0.0,de,1
+TV,TV,ORG,0.0,0.0,de,1
+Arsenals Partey,Arsenals Partey,ORG,0.0,0.0,de,1
+SC Freiburgs Atubolu,SC Freiburgs Atubolu,ORG,0.0,0.0,de,1
+Hapoel Tel Aviv,Hapoel Tel Aviv,ORG,0.0,0.0,de,1
+Demokratische Partei,Demokratische Partei,ORG,0.7,0.0,de,1
+Bittere Elfmeterentscheidung,Bittere Elfmeterentscheidung,ORG,-0.3333333333333333,0.0,de,1
+Hammer-Los Liverpool,Hammer-Los Liverpool,ORG,0.0,0.0,de,1
+Conference-League-Sieger,Conference-League-Sieger,ORG,0.0,0.0,de,1
+Meisterschaft,Meisterschaft,ORG,-1.0,0.0,de,1
+Vorjahres-Halbfinalist Bayer Leverkusen,Vorjahres-Halbfinalist Bayer Leverkusen,ORG,0.0,0.0,de,1
+zwe…,zwe…,ORG,0.0,0.0,de,1
+NEWS,NEWS,ORG,0.0,0.0,de,1
+Freiburg-Kapitän,Freiburg-Kapitän,ORG,-1.0,0.0,de,1
+… Fußball-Bundesligist,… Fußball-Bundesligist,ORG,0.0,0.0,de,1
+Europäische Menschenrechtskonvention,Europäische Menschenrechtskonvention,ORG,0.0,0.0,de,1
+Bundesliga-Start - Freiburg-Star,Bundesliga-Start - Freiburg-Star,ORG,0.0,0.0,de,1
+SC Freibu,SC Freibu,ORG,0.0,0.0,de,1
+Hoffenheims,Hoffenheims,ORG,0.0,0.0,de,1
+Vorwärts!,Vorwärts!,ORG,0.0,0.0,de,1
+Vollgas!,Vollgas!,ORG,0.0,0.0,de,1
+Rekordmeist,Rekordmeist,ORG,0.0,0.0,de,1
+Sport­clubs,Sport­clubs,ORG,-0.7,0.0,de,1
+SC Freiburg Konkurrent Union Berlin,SC Freiburg Konkurrent Union Berlin,ORG,0.0,0.0,de,1
+Stürmer-Suche!,Stürmer-Suche!,ORG,0.0,0.0,de,1
+Stürmer-Suche,Stürmer-Suche,ORG,0.0,0.0,de,1
+Freiburgs Gala-Sieg,Freiburgs Gala-Sieg,ORG,0.0,0.0,de,1
+DFB-Pokal-,DFB-Pokal-,ORG,0.0,0.0,de,1
+Supercupsieger RB Leipzig,Supercupsieger RB Leipzig,ORG,0.0,0.0,de,1
+Elfmeter-Festival,Elfmeter-Festival,ORG,0.0,0.0,de,1
+Wiederanp,Wiederanp,ORG,0.7,0.0,de,1
+Grifo-Hattrick,Grifo-Hattrick,ORG,0.0,0.0,de,1
+Drittliga-Kader,Drittliga-Kader,ORG,-0.7,0.0,de,1
+Republikanern,Republikanern,ORG,0.0,0.0,de,1
+ve… [+1581 chars,ve… [+1581 chars,ORG,0.0,0.0,de,1
+Werders Frauen-Bundesligateam,Werders Frauen-Bundesligateam,ORG,0.0,0.0,de,1
+China,China,ORG,-0.15000000000000002,0.0,de,1
+Nationals,Nationals,ORG,0.0,0.0,de,1
+BKA,BKA,ORG,0.0,0.0,de,1
+republikanischen Partei,republikanischen Partei,ORG,0.0,0.0,de,1
+VIG,VIG,ORG,0.0,0.0,de,1
+uul,uul,ORG,0.0,0.0,de,1
+PiS,PiS,ORG,0.7,0.0,de,1
+SC Braga,SC Braga,ORG,0.0,0.0,de,1
+SC Freiburg –,SC Freiburg –,ORG,0.0,0.0,de,1
+ÖVP-Chefs,ÖVP-Chefs,ORG,0.0,0.0,de,1
+Z,Z,ORG,0.0,0.0,de,1
+Grasshoppers Zü,Grasshoppers Zü,ORG,0.0,0.0,de,1
+regierende Partei,regierende Partei,ORG,-1.0,0.0,de,1
 SC Freiburg un...Foto,SC Freiburg un...Foto,ORG,0.0,0.0,de,1
-SC Freiburg - VfL Wolfsburg,SC Freiburg - VfL Wolfsburg,ORG,0.0,0.0,de,1
+Warum Atubolu Deutschlands Torwarthoffnung,Warum Atubolu Deutschlands Torwarthoffnung,ORG,0.0,0.0,de,1
+Werder-Frauen,Werder-Frauen,ORG,0.0,0.0,de,1
+Werder Bremens Bundesliga-Frauen,Werder Bremens Bundesliga-Frauen,ORG,0.7,0.0,de,1
+RAF-Mitglied,RAF-Mitglied,ORG,-0.10000000000000002,0.0,de,1
 Rapid,Rapid,ORG,0.0,0.0,de,1
 Regiona,Regiona,ORG,0.0,0.0,de,1
 Rapid Wien II,Rapid Wien II,ORG,0.0,0.0,de,1
-kicker.at &#,kicker.at &#,ORG,0.0,0.0,de,1
-Östereichische Fußball Bundesliga,Östereichische Fußball Bundesliga,ORG,0.0,0.0,de,1
-Top-Klubs,Top-Klubs,ORG,0.0,0.0,de,1
-Freiburg sch…,Freiburg sch…,ORG,0.0,0.0,de,1
-Stream  fr.deMehr,Stream  fr.deMehr,ORG,0.0,0.0,de,1
-… Fußball-Bundesligist,… Fußball-Bundesligist,ORG,0.0,0.0,de,1
-Z,Z,ORG,0.0,0.0,de,1
-abgeschlo,abgeschlo,ORG,0.0,0.0,de,1
-Quadriga Hochschule,Quadriga Hochschule,ORG,-1.0,0.0,de,1
-Eintracht-Kapitän,Eintracht-Kapitän,ORG,-1.0,0.0,de,1
-SC Freiburgs Atubolu,SC Freiburgs Atubolu,ORG,0.0,0.0,de,1
-Schmid Freiburgs Kabine,Schmid Freiburgs Kabine,ORG,0.0,0.0,de,1
-RB Salzburgs,RB Salzburgs,ORG,0.0,0.0,de,1
-BKA,BKA,ORG,0.0,0.0,de,1
-Kronen-Zeitung,Kronen-Zeitung,ORG,0.0,0.0,de,1
-Blitz-Verlängerung!,Blitz-Verlängerung!,ORG,0.0,0.0,de,1
+RAF,RAF,ORG,0.0,0.0,de,1
+Républicains,Républicains,ORG,-0.15000000000000002,0.0,de,1
+Drittliga-Team,Drittliga-Team,ORG,0.0,0.0,de,1
+Nervositä,Nervositä,ORG,-0.7,0.0,de,1
+Total,Total,ORG,0.0,0.0,de,1
+Wagenknecht,Wagenknecht,ORG,0.0,0.0,de,1
+Europa-League-Teilnehmer,Europa-League-Teilnehmer,ORG,0.0,0.0,de,1
 Freiburg II,Freiburg II,ORG,0.0,0.0,de,1
+Blitz-Verlängerung!,Blitz-Verlängerung!,ORG,0.0,0.0,de,1
+Linkspartei,Linkspartei,ORG,0.0,0.0,de,1
+Linken-Parteiführung,Linken-Parteiführung,ORG,0.0,0.0,de,1
+SPIEGEL-Informationen,SPIEGEL-Informationen,ORG,0.0,0.0,de,1
+Wiener Austria,Wiener Austria,ORG,0.0,0.0,de,1
+Kitzler.</em,Kitzler.</em,ORG,0.0,0.0,de,1
+Odds BK,Odds BK,ORG,0.0,0.0,de,1
+Angesi,Angesi,ORG,-1.0,0.0,de,1
+Östereichische Fußball Bundesliga,Östereichische Fußball Bundesliga,ORG,0.0,0.0,de,1
+kicker.at &#,kicker.at &#,ORG,0.0,0.0,de,1
+rec,rec,ORG,-0.7,0.0,de,1
+Bundesliga-Profis,Bundesliga-Profis,ORG,0.0,0.0,de,1
+Streich Start-Frust!,Streich Start-Frust!,ORG,0.0,0.0,de,1
 Red Bull Salzburgs,Red Bull Salzburgs,ORG,1.0,0.0,de,1
+Pech-Strähne,Pech-Strähne,ORG,0.0,0.0,de,1
+Transfermark Wechselwunsch,Transfermark Wechselwunsch,ORG,0.0,0.0,de,1
+Freiburgs Stürmer-Suche,Freiburgs Stürmer-Suche,ORG,1.0,0.0,de,1
+Jochbeinbruch,Jochbeinbruch,ORG,-1.0,0.0,de,1
+TSG sucht,TSG sucht,ORG,0.0,0.0,de,1
+Regionalligist,Regionalligist,ORG,0.0,0.0,de,1
+AJ Auxerre,AJ Auxerre,ORG,0.0,0.0,de,1
+Straßburg,Straßburg,ORG,0.0,0.0,de,1
+Repräsentantenhauses,Repräsentantenhauses,ORG,0.0,0.0,de,1
+US-Repräsentantenhauses,US-Repräsentantenhauses,ORG,0.0,0.0,de,1
+inzwis,inzwis,ORG,0.0,0.0,de,1
+DFB-Star Nico Schlotterbeck,DFB-Star Nico Schlotterbeck,ORG,0.0,0.0,de,1
+Blitz-Abflug,Blitz-Abflug,ORG,0.0,0.0,de,1
+SC Freibur...Foto,SC Freibur...Foto,ORG,0.35,0.0,de,1
+Virtual Bundesliga,Virtual Bundesliga,ORG,0.0,0.0,de,1
+Virtual Bunde,Virtual Bunde,ORG,0.0,0.0,de,1
+Freiburg-Gerüchten,Freiburg-Gerüchten,ORG,0.0,0.0,de,1
+SpVgg Greuther Fürth,SpVgg Greuther Fürth,ORG,0.0,0.0,de,1
+Zukunfts-Entscheidung!,Zukunfts-Entscheidung!,ORG,0.0,0.0,de,1
+RND,RND,ORG,-1.0,0.0,de,1
+Ao Tanaka Alternative,Ao Tanaka Alternative,ORG,0.0,0.0,de,1
+Bolsonaros Partei,Bolsonaros Partei,ORG,0.0,0.0,de,1
+Redaktionsnetzwerk Deutschland,Redaktionsnetzwerk Deutschland,ORG,-1.0,0.0,de,1
+House of Lords,House of Lords,ORG,0.7,0.0,de,1
+Untersc,Untersc,ORG,0.0,0.0,de,1
+SPIEGEL,SPIEGEL,ORG,0.0,0.0,de,1
+Streich-Truppe,Streich-Truppe,ORG,0.0,0.0,de,1
+die Labourpartei,die Labourpartei,ORG,0.0,0.0,de,1
+Sport-Club Personal-Probleme deut,Sport-Club Personal-Probleme deut,ORG,0.0,0.0,de,1
+NSP,NSP,ORG,0.0,0.0,de,1
+Demokratieabbau |,Demokratieabbau |,ORG,0.0,0.0,de,1
+Frankfurter Zeitung,Frankfurter Zeitung,ORG,0.0,0.0,de,1
+M,M,ORG,0.0,0.0,de,1
+Streich - Gregoritsch,Streich - Gregoritsch,ORG,0.0,0.0,de,1
+badische Fußball-Bundesligist am Sonntag,badische Fußball-Bundesligist am Sonntag,ORG,0.0,0.0,de,1
+Neue konservative Partei,Neue konservative Partei,ORG,0.0,0.0,de,1
+Britische Labour-Partei,Britische Labour-Partei,ORG,-1.0,0.0,de,1
 Europa- & Conference-League-Auslosung - Leverkusen,Europa- & Conference-League-Auslosung - Leverkusen,ORG,0.0,0.0,de,1
-SC Braga,SC Braga,ORG,0.0,0.0,de,1
-SC Freiburg am Sonntag,SC Freiburg am Sonntag,ORG,-0.7,0.0,de,1
-Makengo,Makengo,ORG,0.7,0.0,de,1
-Europa-League-Niederlage,Europa-League-Niederlage,ORG,0.0,0.0,de,1
-Wertvollster U23-Keeper Deutschlands,Wertvollster U23-Keeper Deutschlands,ORG,0.0,0.0,de,1
-FC Bayern Mün,FC Bayern Mün,ORG,0.0,0.0,de,1
-Ver­eins,Ver­eins,ORG,1.0,0.0,de,1
-Tuchel-Team!,Tuchel-Team!,ORG,0.0,0.0,de,1
-deutschen Rekordmeisters,deutschen Rekordmeisters,ORG,0.0,0.0,de,1
-KURZMELDUNGEN,KURZMELDUNGEN,ORG,0.0,0.0,de,1
-sda,sda,ORG,0.0,0.0,de,1
-HC Fribourg-Gottéron,HC Fribourg-Gottéron,ORG,0.0,0.0,de,1
-Kopenhagen,Kopenhagen,ORG,0.0,0.0,de,1
-Piräus,Piräus,ORG,0.0,0.0,de,1
-Bayer 04,Bayer 04,ORG,0.0,0.0,de,1
-Solo-Tänzer Leroy Sané,Solo-Tänzer Leroy Sané,ORG,0.0,0.0,de,1
-Sonntag-Abend,Sonntag-Abend,ORG,0.0,0.0,de,1
-CSV,CSV,ORG,1.0,0.0,de,1
-Kader-Probleme!,Kader-Probleme!,ORG,0.0,0.0,de,1
-Ex,Ex,ORG,0.0,0.0,de,1
-Leki,Leki,ORG,0.0,0.0,de,1
-Deutsche Weinbauinstitut,Deutsche Weinbauinstitut,ORG,0.0,0.0,de,1
-Landwirtschaftskammer,Landwirtschaftskammer,ORG,0.0,0.0,de,1
-sc…,sc…,ORG,0.0,0.0,de,1
-Trio Bochum,Trio Bochum,ORG,0.0,0.0,de,1
-ÖFB-Teamverteidiger,ÖFB-Teamverteidiger,ORG,0.0,0.0,de,1
-West Ham Uni,West Ham Uni,ORG,1.0,0.0,de,1
-Grifo & Lienhart,Grifo & Lienhart,ORG,0.0,0.0,de,1
-Häcken,Häcken,ORG,0.0,0.0,de,1
-Olympiakos,Olympiakos,ORG,0.0,0.0,de,1
-Bundesparteitag der Partei DIE PARTEI,Bundesparteitag der Partei DIE PARTEI,ORG,0.0,0.0,de,1
-PA,PA,ORG,0.0,0.0,de,1
-Premiere,Premiere,ORG,0.0,0.0,de,1
-Abschlüs,Abschlüs,ORG,0.0,0.0,de,1
-Bayer Leverkusen,Bayer Leverkusen,ORG,0.325,0.0,de,1
-FC Bayer,FC Bayer,ORG,0.0,0.0,de,1
-Ex-«Titanic»-Chef,Ex-«Titanic»-Chef,ORG,1.0,0.0,de,1
-Europaparlament,Europaparlament,ORG,0.0,0.0,de,1
-EU-Wahl,EU-Wahl,ORG,0.0,0.0,de,1
-Eintracht Frankfur,Eintracht Frankfur,ORG,0.0,0.0,de,1
-Landes-Weinbauverband,Landes-Weinbauverband,ORG,0.0,0.0,de,1
-… Potsdam,… Potsdam,ORG,0.0,0.0,de,1
-Rhein-Main Skyline-Blick,Rhein-Main Skyline-Blick,ORG,-0.5666666666666667,0.0,de,1
-Rhein-Main Gießen,Rhein-Main Gießen,ORG,-0.35,0.0,de,1
-Gießener,Gießener,ORG,0.0,0.0,de,1
-Weinlese-Saison,Weinlese-Saison,ORG,0.0,0.0,de,1
-Rhein-Main Bad Homburg,Rhein-Main Bad Homburg,ORG,-0.35,0.0,de,1
-Schwarzgelb,Schwarzgelb,ORG,0.0,0.0,de,1
-Gregoritsch,Gregoritsch,ORG,0.0,0.0,de,1
-Freiburgs Sorgen-Stars,Freiburgs Sorgen-Stars,ORG,0.85,0.0,de,1
-Pflichtspiel-Sieg,Pflichtspiel-Sieg,ORG,-1.0,0.0,de,1
-1.FC Union,1.FC Union,ORG,0.0,0.0,de,1
-Europa-League-Rückspiel,Europa-League-Rückspiel,ORG,0.0,0.0,de,1
-Doppel-Premiere,Doppel-Premiere,ORG,0.0,0.0,de,1
-BILD-Fakten,BILD-Fakten,ORG,0.0,0.0,de,1
-Borussia Moenchengladbach,Borussia Moenchengladbach,ORG,0.0,0.0,de,1
-Getty Images Gladbach,Getty Images Gladbach,ORG,0.0,0.0,de,1
-TSG-Trainer,TSG-Trainer,ORG,0.0,0.0,de,1
-Dynamo,Dynamo,ORG,0.0,0.0,de,1
-sp,sp,ORG,0.0,0.0,de,1
-Remis-Wahnsinn!,Remis-Wahnsinn!,ORG,0.0,0.0,de,1
-Orban-Klub,Orban-Klub,ORG,0.0,0.0,de,1
-Serben-Zwerg Backa Topola,Serben-Zwerg Backa Topola,ORG,1.0,0.0,de,1
-Bundesliga-Star,Bundesliga-Star,ORG,0.0,0.0,de,1
-Klarer,Klarer,ORG,1.0,0.0,de,1
-Freiburgs Super-Talente,Freiburgs Super-Talente,ORG,-1.0,0.0,de,1
-ÖFB-Legionär,ÖFB-Legionär,ORG,0.0,0.0,de,1
-deutschen Bundesligisten,deutschen Bundesligisten,ORG,0.0,0.0,de,1
-West Ham Olympiakos P,West Ham Olympiakos P,ORG,0.0,0.0,de,1
-dpa,dpa,ORG,0.0,0.0,de,1
-RB Leipzig,RB Leipzig,ORG,-0.7,0.0,de,1
-SC Freiburg Entwarnung,SC Freiburg Entwarnung,ORG,0.0,0.0,de,1
-Ze… RB Leipzigs,Ze… RB Leipzigs,ORG,0.0,0.0,de,1
-SC Frei,SC Frei,ORG,0.0,0.0,de,1
-Hacks,Hacks,ORG,0.0,0.0,de,1
-Ex-Club Gladbach,Ex-Club Gladbach,ORG,0.0,0.0,de,1
-Terminfrust,Terminfrust,ORG,0.0,0.0,de,1
-T,T,ORG,0.0,0.0,de,1
-se…,se…,ORG,0.0,0.0,de,1
+DFB-Team,DFB-Team,ORG,0.0,0.0,de,1
+>SC Freiburg,>SC Freiburg,ORG,0.0,0.0,de,1
+Freiburg-Debüt,Freiburg-Debüt,ORG,0.0,0.0,de,1
 Bundesliga-Spitzenteam Bayer Leverkusen,Bundesliga-Spitzenteam Bayer Leverkusen,ORG,0.0,0.0,de,1
-FK TSC Baka Topo…,FK TSC Baka Topo…,ORG,0.0,0.0,de,1
 FK TSC,FK TSC,ORG,-1.0,0.0,de,1
+FC Bayern Frauen,FC Bayern Frauen,ORG,0.0,0.0,de,1
+BR24,BR24,ORG,0.0,0.0,de,1
+Rassemblement National,Rassemblement National,ORG,0.0,0.0,de,1
+konservativen Partei,konservativen Partei,ORG,0.0,0.0,de,1
 Veilch,Veilch,ORG,-0.7,0.0,de,1
 V,V,ORG,0.0,0.0,de,1
 Ausgerechnet ER,Ausgerechnet ER,ORG,0.0,0.0,de,1
 Leverkusen!,Leverkusen!,ORG,0.0,0.0,de,1
 ER,ER,ORG,0.0,0.0,de,1
 Levsrkusen-Star,Levsrkusen-Star,ORG,0.0,0.0,de,1
+si,si,ORG,1.0,0.0,de,1
+EL-Endrunde,EL-Endrunde,ORG,1.0,0.0,de,1
 Werksklub,Werksklub,ORG,0.0,0.0,de,1
 BVB & Bayer,BVB & Bayer,ORG,0.0,0.0,de,1
 Zw…,Zw…,ORG,0.0,0.0,de,1
 Reus,Reus,ORG,0.0,0.0,de,1
 Branc,Branc,ORG,0.0,0.0,de,1
 Zweitligist Paderborn,Zweitligist Paderborn,ORG,0.0,0.0,de,1
-Kritik-Maulkorb!,Kritik-Maulkorb!,ORG,0.7,0.0,de,1
+FK TSC Baka Topo…,FK TSC Baka Topo…,ORG,0.0,0.0,de,1
+se…,se…,ORG,0.0,0.0,de,1
 TSG-Torjägerin,TSG-Torjägerin,ORG,-1.0,0.0,de,1
+SC Freiburg - FC Bayern Frauen,SC Freiburg - FC Bayern Frauen,ORG,0.0,0.0,de,1
+Solo-Tänzer Leroy Sané,Solo-Tänzer Leroy Sané,ORG,0.0,0.0,de,1
+Sonntag-Abend,Sonntag-Abend,ORG,0.0,0.0,de,1
+CSV,CSV,ORG,1.0,0.0,de,1
+Kader-Probleme!,Kader-Probleme!,ORG,0.0,0.0,de,1
+Ex,Ex,ORG,0.0,0.0,de,1
+Gregoritsch82.,Gregoritsch82.,ORG,0.0,0.0,de,1
+Leki,Leki,ORG,0.0,0.0,de,1
+Deutsche Weinbauinstitut,Deutsche Weinbauinstitut,ORG,0.0,0.0,de,1
+Landwirtschaftskammer,Landwirtschaftskammer,ORG,0.0,0.0,de,1
+sc…,sc…,ORG,0.0,0.0,de,1
+Freiburgs Sorgen-Stars,Freiburgs Sorgen-Stars,ORG,0.85,0.0,de,1
+ef,ef,ORG,0.0,0.0,de,1
+Konservativen,Konservativen,ORG,0.0,0.0,de,1
+Pflichtspiel-Sieg,Pflichtspiel-Sieg,ORG,-1.0,0.0,de,1
+Sozialdemokratische Partei in der Schweiz,Sozialdemokratische Partei in der Schweiz,ORG,0.0,0.0,de,1
+1.FC Union,1.FC Union,ORG,0.0,0.0,de,1
+Terminfrust,Terminfrust,ORG,0.0,0.0,de,1
+SP,SP,ORG,0.0,0.0,de,1
+SC Freiburg - Bayern München,SC Freiburg - Bayern München,ORG,0.0,0.0,de,1
+Kritik-Maulkorb!,Kritik-Maulkorb!,ORG,0.7,0.0,de,1
+falschen Partei,falschen Partei,ORG,-1.0,0.0,de,1
+Bayer 04,Bayer 04,ORG,0.0,0.0,de,1
+Bundesliga-Star,Bundesliga-Star,ORG,0.0,0.0,de,1
+Freiburgs Super-Talente,Freiburgs Super-Talente,ORG,-1.0,0.0,de,1
+Pepsi-Cola,Pepsi-Cola,ORG,0.0,0.0,de,1
+ÖFB-Legionär,ÖFB-Legionär,ORG,0.0,0.0,de,1
+deutschen Bundesligisten,deutschen Bundesligisten,ORG,0.0,0.0,de,1
+West Ham Olympiakos P,West Ham Olympiakos P,ORG,0.0,0.0,de,1
+dpa,dpa,ORG,0.0,0.0,de,1
+RB Leipzig,RB Leipzig,ORG,-0.7,0.0,de,1
+Dänemark-Wahl,Dänemark-Wahl,ORG,-1.0,0.0,de,1
+Freiburg: Oldenburg,Freiburg: Oldenburg,ORG,0.0,0.0,de,1
+Abgeordneten,Abgeordneten,ORG,0.0,0.0,de,1
+Die Grünen in,Die Grünen in,ORG,0.0,0.0,de,1
+SC Freiburg Entwarnung,SC Freiburg Entwarnung,ORG,0.0,0.0,de,1
+Ze… RB Leipzigs,Ze… RB Leipzigs,ORG,0.0,0.0,de,1
+SC Frei,SC Frei,ORG,0.0,0.0,de,1
+Frohms,Frohms,ORG,0.7,0.0,de,1
+ze,ze,ORG,0.0,0.0,de,1
+Europa,Europa,ORG,0.0,0.0,de,1
+Löst ER,Löst ER,ORG,0.0,0.0,de,1
+Freiburger Tor-Problem,Freiburger Tor-Problem,ORG,0.0,0.0,de,1
+Klarer,Klarer,ORG,1.0,0.0,de,1
+Serben-Zwerg Backa Topola,Serben-Zwerg Backa Topola,ORG,1.0,0.0,de,1
 SC…,SC…,ORG,0.0,0.0,de,1
+Orban-Klub,Orban-Klub,ORG,0.0,0.0,de,1
 Stamm Freiburg II,Stamm Freiburg II,ORG,0.0,0.0,de,1
 Top-Team Dynamo Dresden,Top-Team Dynamo Dresden,ORG,0.0,0.0,de,1
-Sieg,Sieg,ORG,0.0,0.0,de,1
-Leih,Leih,ORG,0.0,0.0,de,1
-SC Freiburg –,SC Freiburg –,ORG,0.0,0.0,de,1
-Hamburger SV,Hamburger SV,ORG,0.0,0.0,de,1
-MSV D… Werbung,MSV D… Werbung,ORG,0.0,0.0,de,1
-Breisgau Brasilianer,Breisgau Brasilianer,ORG,0.0,0.0,de,1
-Bundesliga-Debüt,Bundesliga-Debüt,ORG,0.0,0.0,de,1
-Bundesligadebüt,Bundesligadebüt,ORG,0.7,0.0,de,1
-ver­ließ,ver­ließ,ORG,0.0,0.0,de,1
-FC Oberachern,FC Oberachern,ORG,0.0,0.0,de,1
-Freiburg-Talent Darvich … We,Freiburg-Talent Darvich … We,ORG,0.0,0.0,de,1
-Freiburg-Talent Darvich,Freiburg-Talent Darvich,ORG,0.0,0.0,de,1
-Junior Adamu & Co.,Junior Adamu & Co.,ORG,0.0,0.0,de,1
-SV Obera,SV Obera,ORG,0.0,0.0,de,1
-Fünfligist Oberachern - Günter,Fünfligist Oberachern - Günter,ORG,0.0,0.0,de,1
-Deutschen Presse…,Deutschen Presse…,ORG,0.6999999999999998,0.0,de,1
-Pokal-Blamage!,Pokal-Blamage!,ORG,0.0,0.0,de,1
-Oberliga Baden-Württemberg,Oberliga Baden-Württemberg,ORG,0.7,0.0,de,1
-Regionalligisten,Regionalligisten,ORG,0.0,0.0,de,1
-FC-Astoria Walldorf,FC-Astoria Walldorf,ORG,0.0,0.0,de,1
-Zwerg SV Oberachern,Zwerg SV Oberachern,ORG,0.0,0.0,de,1
-Bundesliga-Start - Freiburg-Star,Bundesliga-Start - Freiburg-Star,ORG,0.0,0.0,de,1
-SC Freibu,SC Freibu,ORG,0.0,0.0,de,1
-Hoffenheims,Hoffenheims,ORG,0.0,0.0,de,1
-Vorwärts!,Vorwärts!,ORG,0.0,0.0,de,1
-Vollgas!,Vollgas!,ORG,0.0,0.0,de,1
-Duisburg,Duisburg,ORG,0.0,0.0,de,1
-Fußball-Bundesligaklub SC Freiburg,Fußball-Bundesligaklub SC Freiburg,ORG,0.0,0.0,de,1
-Drittliga-Kader,Drittliga-Kader,ORG,-0.7,0.0,de,1
-ve… [+1581 chars,ve… [+1581 chars,ORG,0.0,0.0,de,1
-Grasshoppers Zü,Grasshoppers Zü,ORG,0.0,0.0,de,1
-rec,rec,ORG,-0.7,0.0,de,1
-Streich Start-Frust!,Streich Start-Frust!,ORG,0.0,0.0,de,1
-Untersc,Untersc,ORG,0.0,0.0,de,1
-SPIEGEL,SPIEGEL,ORG,0.0,0.0,de,1
-Streich-Truppe,Streich-Truppe,ORG,0.0,0.0,de,1
-Sport-Club Personal-Probleme deut,Sport-Club Personal-Probleme deut,ORG,0.0,0.0,de,1
-M,M,ORG,0.0,0.0,de,1
-Streich - Gregoritsch,Streich - Gregoritsch,ORG,0.0,0.0,de,1
-badische Fußball-Bundesligist am Sonntag,badische Fußball-Bundesligist am Sonntag,ORG,0.0,0.0,de,1
-Ao Tanaka Alternative,Ao Tanaka Alternative,ORG,0.0,0.0,de,1
-Zukunfts-Entscheidung!,Zukunfts-Entscheidung!,ORG,0.0,0.0,de,1
-Pech-Strähne,Pech-Strähne,ORG,0.0,0.0,de,1
-Freiburgs Stürmer-Suche,Freiburgs Stürmer-Suche,ORG,1.0,0.0,de,1
-Jochbeinbruch,Jochbeinbruch,ORG,-1.0,0.0,de,1
-AJ Auxerre,AJ Auxerre,ORG,0.0,0.0,de,1
-Straßburg,Straßburg,ORG,0.0,0.0,de,1
-Blitz-Abflug,Blitz-Abflug,ORG,0.0,0.0,de,1
-SC Freibur...Foto,SC Freibur...Foto,ORG,0.35,0.0,de,1
-Virtual Bundesliga,Virtual Bundesliga,ORG,0.0,0.0,de,1
-Virtual Bunde,Virtual Bunde,ORG,0.0,0.0,de,1
-Sport­clubs,Sport­clubs,ORG,-0.7,0.0,de,1
-Stürmer-Suche!,Stürmer-Suche!,ORG,0.0,0.0,de,1
-Stürmer-Suche,Stürmer-Suche,ORG,0.0,0.0,de,1
-Trainer-Rekord,Trainer-Rekord,ORG,0.0,0.0,de,1
-Bundesliga-Duell,Bundesliga-Duell,ORG,0.0,0.0,de,1
-Freibur,Freibur,ORG,0.0,0.0,de,1
-Meister der … [+2916 chars,Meister der … [+2916 chars,ORG,0.0,0.0,de,1
-Fußball-Bundesliga der Frauen,Fußball-Bundesliga der Frauen,ORG,0.7,0.0,de,1
-Freiburg Bundesliga-Geschichte,Freiburg Bundesliga-Geschichte,ORG,0.0,0.0,de,1
-RBL,RBL,ORG,1.0,0.0,de,1
-Zweimal Hummels,Zweimal Hummels,ORG,0.0,0.0,de,1
-Vorjahres-Fünften SC Freiburg,Vorjahres-Fünften SC Freiburg,ORG,0.0,0.0,de,1
-Vorjahres-Fünften SC Freibur,Vorjahres-Fünften SC Freibur,ORG,0.0,0.0,de,1
+T,T,ORG,0.0,0.0,de,1
+Qarabağ FK,Qarabağ FK,ORG,0.0,0.0,de,1
+Ex-Club Gladbach,Ex-Club Gladbach,ORG,0.0,0.0,de,1
+Europa-League-Rückspiel,Europa-League-Rückspiel,ORG,0.0,0.0,de,1
+Hacks,Hacks,ORG,0.0,0.0,de,1
+Doppel-Premiere,Doppel-Premiere,ORG,0.0,0.0,de,1
+BILD-Fakten,BILD-Fakten,ORG,0.0,0.0,de,1
+Borussia Moenchengladbach,Borussia Moenchengladbach,ORG,0.0,0.0,de,1
+Getty Images Gladbach,Getty Images Gladbach,ORG,0.0,0.0,de,1
+TSG-Trainer,TSG-Trainer,ORG,0.0,0.0,de,1
+Dynamo,Dynamo,ORG,0.0,0.0,de,1
+belg…,belg…,ORG,0.0,0.0,de,1
+Bundesliga-Spitzenreiter,Bundesliga-Spitzenreiter,ORG,0.0,0.0,de,1
+sp,sp,ORG,0.0,0.0,de,1
+Remis-Wahnsinn!,Remis-Wahnsinn!,ORG,0.0,0.0,de,1
+TM,TM,ORG,0.0,0.0,de,1
+Qarabağ,Qarabağ,ORG,0.0,0.0,de,1
+Unio,Unio,ORG,0.0,0.0,de,1
+PK-Crashkurs,PK-Crashkurs,ORG,0.7,0.0,de,1
+Freiburgs Noten-Horror,Freiburgs Noten-Horror,ORG,0.0,0.0,de,1
 BVB!,BVB!,ORG,0.0,0.0,de,1
 Verteidiger-Star,Verteidiger-Star,ORG,0.0,0.0,de,1
 BVB-Sieg,BVB-Sieg,ORG,0.0,0.0,de,1
+Russland,Russland,ORG,0.0,0.0,de,1
 Müller im Nacken,Müller im Nacken,ORG,0.0,0.0,de,1
 HARTE,HARTE,ORG,0.0,0.0,de,1
 SC für Gesprächsstoff,SC für Gesprächsstoff,ORG,0.1333333333333333,0.0,de,1
@@ -766,255 +779,365 @@ Euro League,Euro League,ORG,0.0,0.0,de,1
 Champions-League-Kracher,Champions-League-Kracher,ORG,0.0,0.0,de,1
 Manchester United,Manchester United,ORG,0.0,0.0,de,1
 Bank!,Bank!,ORG,0.0,0.0,de,1
-DFB-Zukunft,DFB-Zukunft,ORG,0.0,0.0,de,1
-Frankfurter Stadttei,Frankfurter Stadttei,ORG,0.0,0.0,de,1
-DFB-Pokal-,DFB-Pokal-,ORG,0.0,0.0,de,1
-Streich-Rüffel,Streich-Rüffel,ORG,0.0,0.0,de,1
-Supercupsieger RB Leipzig,Supercupsieger RB Leipzig,ORG,0.0,0.0,de,1
-Wiederanp,Wiederanp,ORG,0.7,0.0,de,1
-Freiburg-Kapitän,Freiburg-Kapitän,ORG,-1.0,0.0,de,1
-Zentrum,Zentrum,ORG,0.0,0.0,de,1
-SC Fr…,SC Fr…,ORG,0.0,0.0,de,1
-Foto,Foto,ORG,1.0,0.0,de,1
-Instagram,Instagram,ORG,0.0,0.0,de,1
-Trumpf,Trumpf,ORG,0.0,0.0,de,1
-Bayer Leverkusen & SC Freiburg,Bayer Leverkusen & SC Freiburg,ORG,0.0,0.0,de,1
-Grimaldi Forum,Grimaldi Forum,ORG,0.0,0.0,de,1
-Man United,Man United,ORG,0.0,0.0,de,1
-Hapoel Tel Aviv,Hapoel Tel Aviv,ORG,0.0,0.0,de,1
-Hammer-Los Liverpool,Hammer-Los Liverpool,ORG,0.0,0.0,de,1
-Conference-League-Sieger,Conference-League-Sieger,ORG,0.0,0.0,de,1
-Vorjahres-Halbfinalist Bayer Leverkusen,Vorjahres-Halbfinalist Bayer Leverkusen,ORG,0.0,0.0,de,1
-Freiburg-Debüt,Freiburg-Debüt,ORG,0.0,0.0,de,1
-Freiburgs Noten-Horror,Freiburgs Noten-Horror,ORG,0.0,0.0,de,1
+who instead of going to Leipzig,who instead of going to Leipzig,ORG,0.0,0.0,de,1
+Deutschen Presse…,Deutschen Presse…,ORG,0.6999999999999998,0.0,de,1
+The SC Freiburg,The SC Freiburg,ORG,0.0,0.0,de,1
+Freiburgs Ultras,Freiburgs Ultras,ORG,0.0,0.0,de,1
+BR,BR,ORG,0.7,0.0,de,1
+Leih,Leih,ORG,0.0,0.0,de,1
+Piräus,Piräus,ORG,0.0,0.0,de,1
+Senat,Senat,ORG,0.0,0.0,de,1
+Vorjahres-Fünften SC Freibur,Vorjahres-Fünften SC Freibur,ORG,0.0,0.0,de,1
+Häcken,Häcken,ORG,0.0,0.0,de,1
+Vorjahres-Fünften SC Freiburg,Vorjahres-Fünften SC Freiburg,ORG,0.0,0.0,de,1
 Baden-Schwaben-Duell,Baden-Schwaben-Duell,ORG,0.0,0.0,de,1
+Mehr Union,Mehr Union,ORG,0.5,0.0,de,1
 Deutschen Pres,Deutschen Pres,ORG,0.0,0.0,de,1
 U21,U21,ORG,0.0,0.0,de,1
 Herzhafter,Herzhafter,ORG,0.0,0.0,de,1
-... Christian Günter,... Christian Günter,ORG,0.0,0.0,de,1
-Weinernte in,Weinernte in,ORG,0.0,0.0,de,1
-Union-Fans,Union-Fans,ORG,0.0,0.0,de,1
-Moderaten-Partei,Moderaten-Partei,ORG,0.7,0.0,de,1
-INTERVIEW,INTERVIEW,ORG,0.0,0.0,de,1
-Bundesratswahlen,Bundesratswahlen,ORG,0.0,0.0,de,1
-ANC-Partei,ANC-Partei,ORG,0.0,0.0,de,1
-NZZ,NZZ,ORG,0.0,0.0,de,1
-Faesers Kandidatur,Faesers Kandidatur,ORG,0.0,0.0,de,1
-Migrations-Neubeginn,Migrations-Neubeginn,ORG,0.0,0.0,de,1
-Elon Musk,Elon Musk,ORG,0.7,0.0,de,1
-US-Podcast,US-Podcast,ORG,0.7,0.0,de,1
-Merz,Merz,ORG,0.0,0.0,de,1
-R,R,ORG,0.7,0.0,de,1
-NEOS,NEOS,ORG,0.0,0.0,de,1
-Landtagssitzung,Landtagssitzung,ORG,0.7,0.0,de,1
-Macrons Partei,Macrons Partei,ORG,0.0,0.0,de,1
-Partei-Jugend,Partei-Jugend,ORG,0.7,0.0,de,1
-CV Fuego FC,CV Fuego FC,ORG,0.0,0.0,de,1
-ANC-Parteitag,ANC-Parteitag,ORG,0.0,0.0,de,1
-Afrikanischen Nationalkongresses,Afrikanischen Nationalkongresses,ORG,0.7,0.0,de,1
-Freiburgs Petersen,Freiburgs Petersen,ORG,0.0,0.0,de,1
-Jaraschs Grünen,Jaraschs Grünen,ORG,0.0,0.0,de,1
-Öko-Partei,Öko-Partei,ORG,0.0,0.0,de,1
-Bleppepoleekel en,Bleppepoleekel en,ORG,0.0,0.0,de,1
-enO Pntlehl,enO Pntlehl,ORG,0.0,0.0,de,1
-Friedens,Friedens,ORG,0.7,0.0,de,1
-CDU-Chef,CDU-Chef,ORG,0.0,0.0,de,1
-Liberalen,Liberalen,ORG,0.7,0.0,de,1
+Nato,Nato,ORG,0.0,0.0,de,1
+Streich-Rüffel,Streich-Rüffel,ORG,0.0,0.0,de,1
+Frankfurter Stadttei,Frankfurter Stadttei,ORG,0.0,0.0,de,1
+Trainer-Rekord,Trainer-Rekord,ORG,0.0,0.0,de,1
+DFB-Zukunft,DFB-Zukunft,ORG,0.0,0.0,de,1
+Bundesliga-Duell,Bundesliga-Duell,ORG,0.0,0.0,de,1
+Freibur,Freibur,ORG,0.0,0.0,de,1
+Meister der … [+2916 chars,Meister der … [+2916 chars,ORG,0.0,0.0,de,1
+Fußball-Bundesliga der Frauen,Fußball-Bundesliga der Frauen,ORG,0.7,0.0,de,1
+... Kevin Schade,... Kevin Schade,ORG,-1.0,0.0,de,1
+FC Union Berlin live,FC Union Berlin live,ORG,0.0,0.0,de,1
+Freiburg Bundesliga-Geschichte,Freiburg Bundesliga-Geschichte,ORG,0.0,0.0,de,1
+RBL,RBL,ORG,1.0,0.0,de,1
+Zweimal Hummels,Zweimal Hummels,ORG,0.0,0.0,de,1
+Sieg,Sieg,ORG,0.0,0.0,de,1
+Olympiakos,Olympiakos,ORG,0.0,0.0,de,1
+Trump-Partei der Republikaner,Trump-Partei der Republikaner,ORG,1.0,0.0,de,1
+Schwarzgelb,Schwarzgelb,ORG,0.0,0.0,de,1
+Grifo & Lienhart,Grifo & Lienhart,ORG,0.0,0.0,de,1
+West Ham Uni,West Ham Uni,ORG,1.0,0.0,de,1
+ÖFB-Teamverteidiger,ÖFB-Teamverteidiger,ORG,0.0,0.0,de,1
+Trio Bochum,Trio Bochum,ORG,0.0,0.0,de,1
+Makengo,Makengo,ORG,0.7,0.0,de,1
+US-Republikanern,US-Republikanern,ORG,0.0,0.0,de,1
+Europa-League-Niederlage,Europa-League-Niederlage,ORG,0.0,0.0,de,1
+Wertvollster U23-Keeper Deutschlands,Wertvollster U23-Keeper Deutschlands,ORG,0.0,0.0,de,1
+FC Bayern Mün,FC Bayern Mün,ORG,0.0,0.0,de,1
+Ver­eins,Ver­eins,ORG,1.0,0.0,de,1
+Tuchel-Team!,Tuchel-Team!,ORG,0.0,0.0,de,1
+deutschen Rekordmeisters,deutschen Rekordmeisters,ORG,0.0,0.0,de,1
+KURZMELDUNGEN,KURZMELDUNGEN,ORG,0.0,0.0,de,1
+sda,sda,ORG,0.0,0.0,de,1
+HC Fribourg-Gottéron,HC Fribourg-Gottéron,ORG,0.0,0.0,de,1
+SC Freiburg am Sonntag,SC Freiburg am Sonntag,ORG,-0.7,0.0,de,1
+Kopenhagen,Kopenhagen,ORG,0.0,0.0,de,1
+Kader-Comeback,Kader-Comeback,ORG,0.0,0.0,de,1
+Klostermann-Comeback,Klostermann-Comeback,ORG,0.0,0.0,de,1
+Gregoritsch,Gregoritsch,ORG,0.0,0.0,de,1
+Rhein-Main Bad Homburg,Rhein-Main Bad Homburg,ORG,-0.35,0.0,de,1
+Top-Teams,Top-Teams,ORG,0.0,0.0,de,1
+Weinlese-Saison,Weinlese-Saison,ORG,0.0,0.0,de,1
+Bundesparteitag der Partei DIE PARTEI,Bundesparteitag der Partei DIE PARTEI,ORG,0.0,0.0,de,1
+WM-Kader,WM-Kader,ORG,0.0,0.0,de,1
+PA,PA,ORG,0.0,0.0,de,1
+Premiere,Premiere,ORG,0.0,0.0,de,1
+Abschlüs,Abschlüs,ORG,0.0,0.0,de,1
+Bayer Leverkusen,Bayer Leverkusen,ORG,0.325,0.0,de,1
+FC Bayer,FC Bayer,ORG,0.0,0.0,de,1
+Ex-«Titanic»-Chef,Ex-«Titanic»-Chef,ORG,1.0,0.0,de,1
+Europaparlament,Europaparlament,ORG,0.0,0.0,de,1
+Fußball-Bundesligist RB,Fußball-Bundesligist RB,ORG,0.0,0.0,de,1
+EU-Wahl,EU-Wahl,ORG,0.0,0.0,de,1
+Eintracht Frankfur,Eintracht Frankfur,ORG,0.0,0.0,de,1
+Landes-Weinbauverband,Landes-Weinbauverband,ORG,0.0,0.0,de,1
+Mö… [+256 chars,Mö… [+256 chars,ORG,0.0,0.0,de,1
+… Potsdam,… Potsdam,ORG,0.0,0.0,de,1
+TSV 1860 Mün,TSV 1860 Mün,ORG,0.0,0.0,de,1
+Rhein-Main Skyline-Blick,Rhein-Main Skyline-Blick,ORG,-0.5666666666666667,0.0,de,1
+Rhein-Main Gießen,Rhein-Main Gießen,ORG,-0.35,0.0,de,1
+Gießener,Gießener,ORG,0.0,0.0,de,1
+zw,zw,ORG,0.0,0.0,de,1
+EL,EL,ORG,0.0,0.0,de,1
+Bayer... Freiburger Senkrechtstarter,Bayer... Freiburger Senkrechtstarter,ORG,0.0,0.0,de,1
+SC Freiburg - Brentford,SC Freiburg - Brentford,ORG,0.0,0.0,de,1
+Alten Dame Juventus Turin,Alten Dame Juventus Turin,ORG,0.0,0.0,de,1
+SPAL,SPAL,ORG,0.0,0.0,de,1
+Estnischer,Estnischer,ORG,0.0,0.0,de,1
+RTL Online,RTL Online,ORG,0.0,0.0,de,1
+Felde,Felde,ORG,0.0,0.0,de,1
+SC Freiburg  WEB.DE News,SC Freiburg  WEB.DE News,ORG,0.0,0.0,de,1
+Breisga,Breisga,ORG,0.7,0.0,de,1
+Attribu,Attribu,ORG,-1.0,0.0,de,1
+Flügelflitzers,Flügelflitzers,ORG,-1.0,0.0,de,1
+Live-Über,Live-Über,ORG,0.0,0.0,de,1
+SC Freiburg - Bayer Leverkusen,SC Freiburg - Bayer Leverkusen,ORG,0.0,0.0,de,1
+SC Freiburg - Hoffenheim,SC Freiburg - Hoffenheim,ORG,-1.0,0.0,de,1
+Liveticker,Liveticker,ORG,-1.0,0.0,de,1
+svensvensonDer,svensvensonDer,ORG,0.3333333333333333,0.0,de,1
+ei,ei,ORG,0.0,0.0,de,1
+Bundesliga-Schlusslicht TSG Hoffenheim,Bundesliga-Schlusslicht TSG Hoffenheim,ORG,-0.16666666666666666,0.0,de,1
+Pyro,Pyro,ORG,0.0,0.0,de,1
+FC Ingolstadt 04,FC Ingolstadt 04,ORG,-0.7,0.0,de,1
+Gladbachs Bensebaini,Gladbachs Bensebaini,ORG,1.0,0.0,de,1
+Union Berlin & Co.,Union Berlin & Co.,ORG,0.0,0.0,de,1
+Achtelfinale -,Achtelfinale -,ORG,0.0,0.0,de,1
+AC Mail,AC Mail,ORG,0.0,0.0,de,1
+Bundesligateam der Schwaben,Bundesligateam der Schwaben,ORG,0.0,0.0,de,1
+Freiburg-Tickets,Freiburg-Tickets,ORG,-0.7,0.0,de,1
+Gtnp kel el Fokeu,Gtnp kel el Fokeu,ORG,0.0,0.0,de,1
+pelueO,pelueO,ORG,0.0,0.0,de,1
+Grifos Traumtor,Grifos Traumtor,ORG,0.0,0.0,de,1
+Defensivspielerin,Defensivspielerin,ORG,0.0,0.0,de,1
+ol><li>1:1,ol><li>1:1,ORG,0.0,0.0,de,1
+tagesschau.de,tagesschau.de,ORG,0.0,0.0,de,1
+Viktoria Köln,Viktoria Köln,ORG,0.0,0.0,de,1
+Mönchengladbach-Training,Mönchengladbach-Training,ORG,0.0,0.0,de,1
+Bundesliga-Clubs,Bundesliga-Clubs,ORG,0.0,0.0,de,1
+Gladbach-Spiel,Gladbach-Spiel,ORG,0.7,0.0,de,1
+Man­chester City,Man­chester City,ORG,0.0,0.0,de,1
+DUH,DUH,ORG,0.0,0.0,de,1
+Ronaldo,Ronaldo,ORG,0.0,0.0,de,1
+Jupiler Pro League,Jupiler Pro League,ORG,0.0,0.0,de,1
+Freiburgs Startelf,Freiburgs Startelf,ORG,0.7,0.0,de,1
+Sotogran,Sotogran,ORG,1.0,0.0,de,1
+EM,EM,ORG,0.0,0.0,de,1
+Basel,Basel,ORG,0.0,0.0,de,1
+Kader­pla­nung,Kader­pla­nung,ORG,0.0,0.0,de,1
+Weltklub,Weltklub,ORG,0.7,0.0,de,1
+Eintracht Frankfurts Vo,Eintracht Frankfurts Vo,ORG,0.0,0.0,de,1
+Wehen Wiesbaden,Wehen Wiesbaden,ORG,0.0,0.0,de,1
+FSV Mai… [+3597 chars,FSV Mai… [+3597 chars,ORG,0.0,0.0,de,1
+Champions-League-Platz,Champions-League-Platz,ORG,1.0,0.0,de,1
+Young Boys,Young Boys,ORG,0.0,0.0,de,1
 Na,Na,ORG,0.0,0.0,de,1
-A…,A…,ORG,0.0,0.0,de,1
-CDU-Landeschef,CDU-Landeschef,ORG,0.0,0.0,de,1
-Griechische EU-Parlamentsabgeordnete,Griechische EU-Parlamentsabgeordnete,ORG,0.0,0.0,de,1
-Europäischen Parlaments,Europäischen Parlaments,ORG,-0.7,0.0,de,1
-griechischen Partei,griechischen Partei,ORG,-0.7,0.0,de,1
-PASOK,PASOK,ORG,-0.7,0.0,de,1
-Foto: AP,Foto: AP,ORG,0.0,0.0,de,1
-Verfassungsschutz,Verfassungsschutz,ORG,0.0,0.0,de,1
-Diese Partei,Diese Partei,ORG,0.0,0.0,de,1
-Union im Bundestag,Union im Bundestag,ORG,0.0,0.0,de,1
-Re,Re,ORG,0.0,0.0,de,1
+Trumps Partei,Trumps Partei,ORG,0.0,0.0,de,1
+Herthas,Herthas,ORG,0.0,0.0,de,1
+Gladbachs Marcus Thuram,Gladbachs Marcus Thuram,ORG,0.0,0.0,de,1
+DFB-Campus,DFB-Campus,ORG,0.0,0.0,de,1
+Saarbrücken,Saarbrücken,ORG,0.0,0.0,de,1
+Friedens,Friedens,ORG,0.7,0.0,de,1
+FCS,FCS,ORG,0.0,0.0,de,1
+Bundesliga-Klubs,Bundesliga-Klubs,ORG,0.0,0.0,de,1
+enO Pntlehl,enO Pntlehl,ORG,0.0,0.0,de,1
+Bleppepoleekel en,Bleppepoleekel en,ORG,0.0,0.0,de,1
+Öko-Partei,Öko-Partei,ORG,0.0,0.0,de,1
+Bundesliga-Historie,Bundesliga-Historie,ORG,0.0,0.0,de,1
+Herthas Stürmer,Herthas Stürmer,ORG,1.0,0.0,de,1
+Sport-Club künf…,Sport-Club künf…,ORG,0.0,0.0,de,1
+Jaraschs Grünen,Jaraschs Grünen,ORG,0.0,0.0,de,1
+W… Freiburgs,W… Freiburgs,ORG,-1.0,0.0,de,1
+SC Der,SC Der,ORG,0.0,0.0,de,1
+Dollar-Spende,Dollar-Spende,ORG,0.0,0.0,de,1
+Achtelfinale - SC Freiburg,Achtelfinale - SC Freiburg,ORG,0.0,0.0,de,1
+FSV Mainz,FSV Mainz,ORG,0.7,0.0,de,1
+Livetic… Der,Livetic… Der,ORG,0.0,0.0,de,1
+ÖFB-Teamspieler,ÖFB-Teamspieler,ORG,0.0,0.0,de,1
+Dušan Vlahović,Dušan Vlahović,ORG,0.0,0.0,de,1
+Italiener,Italiener,ORG,-0.7,0.0,de,1
+Videoschiedsrichters,Videoschiedsrichters,ORG,0.0,0.0,de,1
+s…,s…,ORG,-0.2,0.0,de,1
+Deutsche Weininstitut,Deutsche Weininstitut,ORG,0.0,0.0,de,1
+Milliardenschulden,Milliardenschulden,ORG,0.0,0.0,de,1
+Stream  ,Stream  ,ORG,0.7,0.0,de,1
+Lindner & Co.,Lindner & Co.,ORG,0.0,0.0,de,1
+Bayer Lever­kusen,Bayer Lever­kusen,ORG,0.0,0.0,de,1
+ver­dammte,ver­dammte,ORG,0.0,0.0,de,1
+SZ.de,SZ.de,ORG,0.0,0.0,de,1
+Juve  ,Juve  ,ORG,-0.7,0.0,de,1
+| SC Freiburg,| SC Freiburg,ORG,0.0,0.0,de,1
+Bern,Bern,ORG,0.0,0.0,de,1
+Bläh-Parlament sol,Bläh-Parlament sol,ORG,0.0,0.0,de,1
+Frauen Bundesliga,Frauen Bundesliga,ORG,0.0,0.0,de,1
+Sitzungsprotokolls,Sitzungsprotokolls,ORG,0.0,0.0,de,1
+vle,vle,ORG,0.0,0.0,de,1
+Bayer auf Budapest,Bayer auf Budapest,ORG,0.0,0.0,de,1
+Freiburgs Petersen,Freiburgs Petersen,ORG,0.0,0.0,de,1
+CHRISTOF,CHRISTOF,ORG,1.0,0.0,de,1
+bayerischen Schwaben,bayerischen Schwaben,ORG,0.0,0.0,de,1
+Polizeipräsidium Freiburg,Polizeipräsidium Freiburg,ORG,0.0,0.0,de,1
+Augsburger Revanchegelüsten,Augsburger Revanchegelüsten,ORG,0.0,0.0,de,1
+Trainer Ristic,Trainer Ristic,ORG,1.0,0.0,de,1
+Bunesliga,Bunesliga,ORG,0.0,0.0,de,1
+AFP,AFP,ORG,1.0,0.0,de,1
+Meppener Chancenwucher,Meppener Chancenwucher,ORG,0.0,0.0,de,1
+STACHE,STACHE,ORG,1.0,0.0,de,1
+St,St,ORG,0.0,0.0,de,1
+VVK,VVK,ORG,0.0,0.0,de,1
+SC Freibug,SC Freibug,ORG,0.0,0.0,de,1
+Augsburgs Maaßen,Augsburgs Maaßen,ORG,1.0,0.0,de,1
+SGE & SC Freiburg,SGE & SC Freiburg,ORG,0.0,0.0,de,1
+Partei hartn,Partei hartn,ORG,0.0,0.0,de,1
+Liverpool,Liverpool,ORG,0.0,0.0,de,1
+SCF II,SCF II,ORG,0.0,0.0,de,1
+LinovonLinares,LinovonLinares,ORG,0.0,0.0,de,1
+Elfmeter-Doppelpacks,Elfmeter-Doppelpacks,ORG,0.0,0.0,de,1
+Riemanns,Riemanns,ORG,-1.0,0.0,de,1
+Bochumer Anfangself,Bochumer Anfangself,ORG,0.0,0.0,de,1
+Super League,Super League,ORG,0.0,0.0,de,1
+Ex-Klubs Freiburg,Ex-Klubs Freiburg,ORG,0.0,0.0,de,1
+Ex-Bundestrainer,Ex-Bundestrainer,ORG,0.0,0.0,de,1
+Pressefoto,Pressefoto,ORG,0.0,0.0,de,1
+Sandhausen,Sandhausen,ORG,0.0,0.0,de,1
+SpVgg Bayreuth,SpVgg Bayreuth,ORG,-0.7,0.0,de,1
+Achtelfinale - SV Sandhausen,Achtelfinale - SV Sandhausen,ORG,0.0,0.0,de,1
+ap,ap,ORG,0.0,0.0,de,1
+Sp… Union Berlin,Sp… Union Berlin,ORG,0.0,0.0,de,1
+Zweitligaklub,Zweitligaklub,ORG,0.0,0.0,de,1
+Spieler-Verhalten,Spieler-Verhalten,ORG,0.0,0.0,de,1
+Frankfurt Darmstadt,Frankfurt Darmstadt,ORG,0.0,0.0,de,1
+Hessenderby,Hessenderby,ORG,0.0,0.0,de,1
+SV Darmstadt,SV Darmstadt,ORG,-0.85,0.0,de,1
+SV Dar,SV Dar,ORG,-0.7,0.0,de,1
+kon,kon,ORG,1.0,0.0,de,1
+Traum-Duos,Traum-Duos,ORG,0.0,0.0,de,1
+uuu,uuu,ORG,0.0,0.0,de,1
+VfL Bochu,VfL Bochu,ORG,0.0,0.0,de,1
+FC …,FC …,ORG,-1.0,0.0,de,1
+FCA-Stürmer,FCA-Stürmer,ORG,0.0,0.0,de,1
+C,C,ORG,0.0,0.0,de,1
+FC A,FC A,ORG,0.0,0.0,de,1
+Bochumer Anfan,Bochumer Anfan,ORG,0.0,0.0,de,1
+Hamann!,Hamann!,ORG,0.0,0.0,de,1
+Ruhrgebiets-Klub,Ruhrgebiets-Klub,ORG,0.0,0.0,de,1
+Mittw…,Mittw…,ORG,0.0,0.0,de,1
+Union St. Gilloise,Union St. Gilloise,ORG,0.0,0.0,de,1
+Online-Autohändlers Cazoo,Online-Autohändlers Cazoo,ORG,0.0,0.0,de,1
+belgischen Erstligisten,belgischen Erstligisten,ORG,0.0,0.0,de,1
+Union St,Union St,ORG,0.0,0.0,de,1
+Union Berlin & SC Freiburg,Union Berlin & SC Freiburg,ORG,0.0,0.0,de,1
+SC-Abwehr,SC-Abwehr,ORG,0.0,0.0,de,1
+Union Saint Gilloise,Union Saint Gilloise,ORG,0.0,0.0,de,1
+Ferencvaros Budapest,Ferencvaros Budapest,ORG,0.0,0.0,de,1
+Union Saint Gillois,Union Saint Gillois,ORG,0.0,0.0,de,1
+Top-Los,Top-Los,ORG,0.0,0.0,de,1
+Saint-Gilloise,Saint-Gilloise,ORG,0.0,0.0,de,1
+Union Saint-Gilloise,Union Saint-Gilloise,ORG,0.0,0.0,de,1
+WM-Pa,WM-Pa,ORG,0.0,0.0,de,1
+JobRad,JobRad,ORG,0.0,0.0,de,1
+Europa-League-Auslosung,Europa-League-Auslosung,ORG,0.0,0.0,de,1
+Donezk,Donezk,ORG,0.0,0.0,de,1
+Feyenoord,Feyenoord,ORG,0.0,0.0,de,1
+Ro,Ro,ORG,0.0,0.0,de,1
+Ferencváros Budapest,Ferencváros Budapest,ORG,0.0,0.0,de,1
+Hammer-Gegnern,Hammer-Gegnern,ORG,-1.0,0.0,de,1
+Europa League!,Europa League!,ORG,0.0,0.0,de,1
+Werder Bremen a…,Werder Bremen a…,ORG,0.0,0.0,de,1
+Breisgauer Bundesligisten,Breisgauer Bundesligisten,ORG,0.0,0.0,de,1
+Angstgegner,Angstgegner,ORG,0.0,0.0,de,1
+Nürnberg,Nürnberg,ORG,0.0,0.0,de,1
+Ex-Klub,Ex-Klub,ORG,0.0,0.0,de,1
+Parti…,Parti…,ORG,0.0,0.0,de,1
+VfB - Freiburg,VfB - Freiburg,ORG,0.0,0.0,de,1
+Fußball-Bundesliga FC Bayern München,Fußball-Bundesliga FC Bayern München,ORG,0.0,0.0,de,1
+Fußball-Bundesliga FC Bayern Münche,Fußball-Bundesliga FC Bayern Münche,ORG,0.0,0.0,de,1
+Remis,Remis,ORG,0.0,0.0,de,1
+Ex-Club,Ex-Club,ORG,0.0,0.0,de,1
+Freiburg - Nürnberg,Freiburg - Nürnberg,ORG,0.0,0.0,de,1
+Topspiel,Topspiel,ORG,0.0,0.0,de,1
+Ex-Klub Dortmund,Ex-Klub Dortmund,ORG,0.0,0.0,de,1
+Zweitligaklub Nürnberg,Zweitligaklub Nürnberg,ORG,0.0,0.0,de,1
+VfB St…,VfB St…,ORG,0.0,0.0,de,1
+Europa-League-Sieger Eintracht,Europa-League-Sieger Eintracht,ORG,0.0,0.0,de,1
+Uni,Uni,ORG,0.0,0.0,de,1
+... Leverkusens,... Leverkusens,ORG,0.0,0.0,de,1
+Verglei… Fußball-Bundesligist Eintracht,Verglei… Fußball-Bundesligist Eintracht,ORG,0.0,0.0,de,1
+FC Base,FC Base,ORG,0.0,0.0,de,1
+Press,Press,ORG,-0.2333333333333333,0.0,de,1
+Afrikanischen Nationalkongresses,Afrikanischen Nationalkongresses,ORG,0.7,0.0,de,1
+Kiliann Sildillia,Kiliann Sildillia,ORG,0.0,0.0,de,1
+... Christian Günter,... Christian Günter,ORG,0.0,0.0,de,1
+Union!,Union!,ORG,0.0,0.0,de,1
 hervo,hervo,ORG,0.0,0.0,de,1
+Champions-League-Neuling,Champions-League-Neuling,ORG,0.0,0.0,de,1
+Tabellenvierte Union Berlin,Tabellenvierte Union Berlin,ORG,0.0,0.0,de,1
+Anfangsformati… Berlin,Anfangsformati… Berlin,ORG,-0.7,0.0,de,1
+U,U,ORG,0.0,0.0,de,1
+Berliner F,Berliner F,ORG,0.0,0.0,de,1
+Union-Fans,Union-Fans,ORG,0.0,0.0,de,1
+Re,Re,ORG,0.0,0.0,de,1
+Déjà-Vu,Déjà-Vu,ORG,-0.7,0.0,de,1
+SC...,SC...,ORG,0.0,0.0,de,1
+n-tv NACHRICHTEN,n-tv NACHRICHTEN,ORG,0.0,0.0,de,1
+FC Union Berlin am Sonntag,FC Union Berlin am Sonntag,ORG,0.0,0.0,de,1
+FC Bren,FC Bren,ORG,0.0,0.0,de,1
+Union im Bundestag,Union im Bundestag,ORG,0.0,0.0,de,1
+Diese Partei,Diese Partei,ORG,0.0,0.0,de,1
+Verfassungsschutz,Verfassungsschutz,ORG,0.0,0.0,de,1
+Foto: AP,Foto: AP,ORG,0.0,0.0,de,1
+VfB Leipzig,VfB Leipzig,ORG,0.0,0.0,de,1
+DFB-Pokalfinalisten,DFB-Pokalfinalisten,ORG,0.0,0.0,de,1
 Demokratin,Demokratin,ORG,-0.7,0.0,de,1
 HSV-Star,HSV-Star,ORG,0.0,0.0,de,1
-Eintracht Frankfurt Fußball AG,Eintracht Frankfurt Fußball AG,ORG,0.0,0.0,de,1
-Deutschen F,Deutschen F,ORG,0.0,0.0,de,1
-Marine,Marine,ORG,0.0,0.0,de,1
-Hessische Landtagsparteien,Hessische Landtagsparteien,ORG,0.0,0.0,de,1
+SC-Historie,SC-Historie,ORG,0.7,0.0,de,1
+US-Talent Murray,US-Talent Murray,ORG,0.0,0.0,de,1
+Freiburg-Welt!,Freiburg-Welt!,ORG,0.0,0.0,de,1
+05.05.2023,05.05.2023,ORG,0.0,0.0,de,1
+FINALE!,FINALE!,ORG,0.0,0.0,de,1
+| SC Freiburg - RB Leipzig,| SC Freiburg - RB Leipzig,ORG,-1.0,0.0,de,1
+Poka…,Poka…,ORG,-1.0,0.0,de,1
 Hessischen Landtag,Hessischen Landtag,ORG,0.0,0.0,de,1
-EU-Parlaments,EU-Parlaments,ORG,0.0,0.0,de,1
-EU-Abgeordnete,EU-Abgeordnete,ORG,0.0,0.0,de,1
-Parlament,Parlament,ORG,0.0,0.0,de,1
-FC Bayern-Neuzugang,FC Bayern-Neuzugang,ORG,0.0,0.0,de,1
-Breisgau-Brasilianer,Breisgau-Brasilianer,ORG,0.0,0.0,de,1
-Trumps Partei,Trumps Partei,ORG,0.0,0.0,de,1
-Young Boys,Young Boys,ORG,0.0,0.0,de,1
+Leipzigs Co,Leipzigs Co,ORG,0.0,0.0,de,1
+Rose,Rose,ORG,0.7,0.0,de,1
+SC Freiburg - RB Leipzig,SC Freiburg - RB Leipzig,ORG,0.0,0.0,de,1
+Radio,Radio,ORG,0.0,0.0,de,1
+Hessische Landtagsparteien,Hessische Landtagsparteien,ORG,0.0,0.0,de,1
+Marine,Marine,ORG,0.0,0.0,de,1
+Hertha BSC - Vf,Hertha BSC - Vf,ORG,0.0,0.0,de,1
+RB-Trainer,RB-Trainer,ORG,0.7999999999999999,0.0,de,1
+Deutschen F,Deutschen F,ORG,0.0,0.0,de,1
+RB Lepizig,RB Lepizig,ORG,0.0,0.0,de,1
+SC-Youngster,SC-Youngster,ORG,0.0,0.0,de,1
+Eintracht Frankfurt Fußball AG,Eintracht Frankfurt Fußball AG,ORG,0.0,0.0,de,1
+DFB-Koord,DFB-Koord,ORG,0.0,0.0,de,1
+DFB-Pokalfi,DFB-Pokalfi,ORG,0.0,0.0,de,1
+Kölner Rhein-Energi,Kölner Rhein-Energi,ORG,0.0,0.0,de,1
+Kayikci,Kayikci,ORG,0.0,0.0,de,1
+....,....,ORG,-0.7,0.0,de,1
+Eintracht-Schlussmann,Eintracht-Schlussmann,ORG,0.0,0.0,de,1
+SC F…,SC F…,ORG,0.0,0.0,de,1
 Union in,Union in,ORG,0.0,0.0,de,1
-Gtnp kel el Fokeu,Gtnp kel el Fokeu,ORG,0.0,0.0,de,1
-JobRad,JobRad,ORG,0.0,0.0,de,1
-WM-Pa,WM-Pa,ORG,0.0,0.0,de,1
-SC-Abwehr,SC-Abwehr,ORG,0.0,0.0,de,1
-Online-Autohändlers Cazoo,Online-Autohändlers Cazoo,ORG,0.0,0.0,de,1
-Mittw…,Mittw…,ORG,0.0,0.0,de,1
-Breisgauer Bundesligisten,Breisgauer Bundesligisten,ORG,0.0,0.0,de,1
-FC Base,FC Base,ORG,0.0,0.0,de,1
-Verglei… Fußball-Bundesligist Eintracht,Verglei… Fußball-Bundesligist Eintracht,ORG,0.0,0.0,de,1
-... Leverkusens,... Leverkusens,ORG,0.0,0.0,de,1
-Topspiel,Topspiel,ORG,0.0,0.0,de,1
-Remis,Remis,ORG,0.0,0.0,de,1
-Werder Bremen a…,Werder Bremen a…,ORG,0.0,0.0,de,1
-LinovonLinares,LinovonLinares,ORG,0.0,0.0,de,1
-Partei hartn,Partei hartn,ORG,0.0,0.0,de,1
-SGE & SC Freiburg,SGE & SC Freiburg,ORG,0.0,0.0,de,1
-Augsburgs Maaßen,Augsburgs Maaßen,ORG,1.0,0.0,de,1
-CHRISTOF,CHRISTOF,ORG,1.0,0.0,de,1
-STACHE,STACHE,ORG,1.0,0.0,de,1
-AFP,AFP,ORG,1.0,0.0,de,1
-Bunesliga,Bunesliga,ORG,0.0,0.0,de,1
-Augsburger Revanchegelüsten,Augsburger Revanchegelüsten,ORG,0.0,0.0,de,1
-bayerischen Schwaben,bayerischen Schwaben,ORG,0.0,0.0,de,1
-FC A,FC A,ORG,0.0,0.0,de,1
-vle,vle,ORG,0.0,0.0,de,1
-pelueO,pelueO,ORG,0.0,0.0,de,1
-Dollar-Spende,Dollar-Spende,ORG,0.0,0.0,de,1
-Defensivspielerin,Defensivspielerin,ORG,0.0,0.0,de,1
-Sitzungsprotokolls,Sitzungsprotokolls,ORG,0.0,0.0,de,1
-Bern,Bern,ORG,0.0,0.0,de,1
-Lindner & Co.,Lindner & Co.,ORG,0.0,0.0,de,1
-Milliardenschulden,Milliardenschulden,ORG,0.0,0.0,de,1
-Eintracht Frankfurts Vo,Eintracht Frankfurts Vo,ORG,0.0,0.0,de,1
-Union Berlin & Co.,Union Berlin & Co.,ORG,0.0,0.0,de,1
-ei,ei,ORG,0.0,0.0,de,1
-svensvensonDer,svensvensonDer,ORG,0.3333333333333333,0.0,de,1
-SC Freiburg - Brentford,SC Freiburg - Brentford,ORG,0.0,0.0,de,1
-Flügelflitzers,Flügelflitzers,ORG,-1.0,0.0,de,1
-Attribu,Attribu,ORG,-1.0,0.0,de,1
-Breisga,Breisga,ORG,0.7,0.0,de,1
-Felde,Felde,ORG,0.0,0.0,de,1
-Estnischer,Estnischer,ORG,0.0,0.0,de,1
-SPAL,SPAL,ORG,0.0,0.0,de,1
-Basel,Basel,ORG,0.0,0.0,de,1
-EM,EM,ORG,0.0,0.0,de,1
-Sotogran,Sotogran,ORG,1.0,0.0,de,1
-Freiburgs Startelf,Freiburgs Startelf,ORG,0.7,0.0,de,1
-Jupiler Pro League,Jupiler Pro League,ORG,0.0,0.0,de,1
-Ronaldo,Ronaldo,ORG,0.0,0.0,de,1
-DUH,DUH,ORG,0.0,0.0,de,1
-Bundesliga-Clubs,Bundesliga-Clubs,ORG,0.0,0.0,de,1
-märkischen Union,märkischen Union,ORG,0.0,0.0,de,1
+niederländische Nationaltorwart,niederländische Nationaltorwart,ORG,0.0,0.0,de,1
+Bild“-Zeitung,Bild“-Zeitung,ORG,0.0,0.0,de,1
 IPON,IPON,ORG,0.0,0.0,de,1
-Berliner F,Berliner F,ORG,0.0,0.0,de,1
-Unio,Unio,ORG,0.0,0.0,de,1
-Trump-Partei der Republikaner,Trump-Partei der Republikaner,ORG,1.0,0.0,de,1
-Klostermann-Comeback,Klostermann-Comeback,ORG,0.0,0.0,de,1
-Kader-Comeback,Kader-Comeback,ORG,0.0,0.0,de,1
-US-Republikanern,US-Republikanern,ORG,0.0,0.0,de,1
-TSV 1860 Mün,TSV 1860 Mün,ORG,0.0,0.0,de,1
-Mö… [+256 chars,Mö… [+256 chars,ORG,0.0,0.0,de,1
-Fußball-Bundesligist RB,Fußball-Bundesligist RB,ORG,0.0,0.0,de,1
-WM-Kader,WM-Kader,ORG,0.0,0.0,de,1
-Top-Teams,Top-Teams,ORG,0.0,0.0,de,1
-BR,BR,ORG,0.7,0.0,de,1
-Freiburgs Ultras,Freiburgs Ultras,ORG,0.0,0.0,de,1
-The SC Freiburg,The SC Freiburg,ORG,0.0,0.0,de,1
-who instead of going to Leipzig,who instead of going to Leipzig,ORG,0.0,0.0,de,1
-Russland,Russland,ORG,0.0,0.0,de,1
-Senat,Senat,ORG,0.0,0.0,de,1
-FC Union Berlin live,FC Union Berlin live,ORG,0.0,0.0,de,1
->SC Freiburg,>SC Freiburg,ORG,0.0,0.0,de,1
-Nato,Nato,ORG,0.0,0.0,de,1
-Mehr Union,Mehr Union,ORG,0.5,0.0,de,1
-Meisterschaft,Meisterschaft,ORG,-1.0,0.0,de,1
-Bittere Elfmeterentscheidung,Bittere Elfmeterentscheidung,ORG,-0.3333333333333333,0.0,de,1
-4:0)-Erfolgs,4:0)-Erfolgs,ORG,0.0,0.0,de,1
-zwe…,zwe…,ORG,0.0,0.0,de,1
-PK-Crashkurs,PK-Crashkurs,ORG,0.7,0.0,de,1
-Gregoritsch82.,Gregoritsch82.,ORG,0.0,0.0,de,1
-Elfmeter-Festival,Elfmeter-Festival,ORG,0.0,0.0,de,1
-ef,ef,ORG,0.0,0.0,de,1
-ze,ze,ORG,0.0,0.0,de,1
-Die Grünen in,Die Grünen in,ORG,0.0,0.0,de,1
-Abgeordneten,Abgeordneten,ORG,0.0,0.0,de,1
-Freiburg: Oldenburg,Freiburg: Oldenburg,ORG,0.0,0.0,de,1
-Dänemark-Wahl,Dänemark-Wahl,ORG,-1.0,0.0,de,1
-Pepsi-Cola,Pepsi-Cola,ORG,0.0,0.0,de,1
-Qarabağ,Qarabağ,ORG,0.0,0.0,de,1
-TM,TM,ORG,0.0,0.0,de,1
-Bundesliga-Spitzenreiter,Bundesliga-Spitzenreiter,ORG,0.0,0.0,de,1
-belg…,belg…,ORG,0.0,0.0,de,1
-Qarabağ FK,Qarabağ FK,ORG,0.0,0.0,de,1
-falschen Partei,falschen Partei,ORG,-1.0,0.0,de,1
-EL-Endrunde,EL-Endrunde,ORG,1.0,0.0,de,1
-si,si,ORG,1.0,0.0,de,1
-konservativen Partei,konservativen Partei,ORG,0.0,0.0,de,1
-Rassemblement National,Rassemblement National,ORG,0.0,0.0,de,1
-BR24,BR24,ORG,0.0,0.0,de,1
-FC Bayern Frauen,FC Bayern Frauen,ORG,0.0,0.0,de,1
-SC Freiburg - FC Bayern Frauen,SC Freiburg - FC Bayern Frauen,ORG,0.0,0.0,de,1
-SC Freiburg - Bayern München,SC Freiburg - Bayern München,ORG,0.0,0.0,de,1
-SP,SP,ORG,0.0,0.0,de,1
-Sozialdemokratische Partei in der Schweiz,Sozialdemokratische Partei in der Schweiz,ORG,0.0,0.0,de,1
-Konservativen,Konservativen,ORG,0.0,0.0,de,1
-Grifo-Hattrick,Grifo-Hattrick,ORG,0.0,0.0,de,1
-Freiburgs Gala-Sieg,Freiburgs Gala-Sieg,ORG,0.0,0.0,de,1
+Ablöse,Ablöse,ORG,0.0,0.0,de,1
+Fix!,Fix!,ORG,0.0,0.0,de,1
+FC Brentford  kicker,FC Brentford  kicker,ORG,-0.7,0.0,de,1
+FC Brentford | Express,FC Brentford | Express,ORG,-0.7,0.0,de,1
+Wertvollster,Wertvollster,ORG,0.0,0.0,de,1
+Top-Klubs,Top-Klubs,ORG,0.0,0.0,de,1
+Stuttgart-Star,Stuttgart-Star,ORG,0.0,0.0,de,1
+Umfrage-Schock!,Umfrage-Schock!,ORG,0.0,0.0,de,1
 KPF,KPF,ORG,-0.7,0.0,de,1
-VIG,VIG,ORG,0.0,0.0,de,1
-China,China,ORG,-0.15000000000000002,0.0,de,1
-Angesi,Angesi,ORG,-1.0,0.0,de,1
-Kitzler.</em,Kitzler.</em,ORG,0.0,0.0,de,1
-SPIEGEL-Informationen,SPIEGEL-Informationen,ORG,0.0,0.0,de,1
-Linken-Parteiführung,Linken-Parteiführung,ORG,0.0,0.0,de,1
-Linkspartei,Linkspartei,ORG,0.0,0.0,de,1
-Wagenknecht,Wagenknecht,ORG,0.0,0.0,de,1
-Total,Total,ORG,0.0,0.0,de,1
-Nervositä,Nervositä,ORG,-0.7,0.0,de,1
-Républicains,Républicains,ORG,-0.15000000000000002,0.0,de,1
-House of Lords,House of Lords,ORG,0.7,0.0,de,1
-die Labourpartei,die Labourpartei,ORG,0.0,0.0,de,1
-Britische Labour-Partei,Britische Labour-Partei,ORG,-1.0,0.0,de,1
-Transfermark Wechselwunsch,Transfermark Wechselwunsch,ORG,0.0,0.0,de,1
-DFB-Star Nico Schlotterbeck,DFB-Star Nico Schlotterbeck,ORG,0.0,0.0,de,1
-US-Medien,US-Medien,ORG,0.0,0.0,de,1
-Demokrat Warnock,Demokrat Warnock,ORG,0.0,0.0,de,1
-DFL-Aufsichtsratschef,DFL-Aufsichtsratschef,ORG,0.7,0.0,de,1
-DFL-Aufsichtsratsvorsitzende,DFL-Aufsichtsratsvorsitzende,ORG,0.0,0.0,de,1
-NEWS,NEWS,ORG,0.0,0.0,de,1
-TV,TV,ORG,0.0,0.0,de,1
-Demokratische Partei,Demokratische Partei,ORG,0.7,0.0,de,1
-zw,zw,ORG,0.0,0.0,de,1
-republikanischen Partei,republikanischen Partei,ORG,0.0,0.0,de,1
-uul,uul,ORG,0.0,0.0,de,1
-SC Freiburg Konkurrent Union Berlin,SC Freiburg Konkurrent Union Berlin,ORG,0.0,0.0,de,1
-PiS,PiS,ORG,0.7,0.0,de,1
-Bun­des­liga,Bun­des­liga,ORG,0.0,0.0,de,1
-Arsenals Partey,Arsenals Partey,ORG,0.0,0.0,de,1
-WM-Nominierung,WM-Nominierung,ORG,0.0,0.0,de,1
-Spieltages,Spieltages,ORG,0.0,0.0,de,1
-SC Freiburgs Grifo,SC Freiburgs Grifo,ORG,0.0,0.0,de,1
-TM-Community,TM-Community,ORG,0.0,0.0,de,1
-SC-Profis,SC-Profis,ORG,0.0,0.0,de,1
-ÖVP-Klubchef,ÖVP-Klubchef,ORG,0.0,0.0,de,1
-Europäische Menschenrechtskonvention,Europäische Menschenrechtskonvention,ORG,0.0,0.0,de,1
-ÖVP-Chefs,ÖVP-Chefs,ORG,0.0,0.0,de,1
-Republikanern,Republikanern,ORG,0.0,0.0,de,1
-inzwis,inzwis,ORG,0.0,0.0,de,1
-US-Repräsentantenhauses,US-Repräsentantenhauses,ORG,0.0,0.0,de,1
-Repräsentantenhauses,Repräsentantenhauses,ORG,0.0,0.0,de,1
-Neue konservative Partei,Neue konservative Partei,ORG,0.0,0.0,de,1
-Frankfurter Zeitung,Frankfurter Zeitung,ORG,0.0,0.0,de,1
-NSP,NSP,ORG,0.0,0.0,de,1
-Bolsonaros Partei,Bolsonaros Partei,ORG,0.0,0.0,de,1
-Bundesliga-Profis,Bundesliga-Profis,ORG,0.0,0.0,de,1
-Werder Bremens Bundesliga-Frauen,Werder Bremens Bundesliga-Frauen,ORG,0.7,0.0,de,1
-Werder-Frauen,Werder-Frauen,ORG,0.0,0.0,de,1
-regierende Partei,regierende Partei,ORG,-1.0,0.0,de,1
-Werders Frauen-Bundesligateam,Werders Frauen-Bundesligateam,ORG,0.0,0.0,de,1
-C,C,ORG,0.0,0.0,de,1
-FCA-Stürmer,FCA-Stürmer,ORG,0.0,0.0,de,1
-uuu,uuu,ORG,0.0,0.0,de,1
-Pokal-Drama,Pokal-Drama,ORG,0.0,0.0,de,1
-Fußball-Nationalspieler,Fußball-Nationalspieler,ORG,1.0,0.0,de,1
-Schweinsteiger,Schweinsteiger,ORG,-1.0,0.0,de,1
-Bayern-Star Bastian Schweinsteiger,Bayern-Star Bastian Schweinsteiger,ORG,0.0,0.0,de,1
-Pokal-Viertelfinales,Pokal-Viertelfinales,ORG,0.0,0.0,de,1
+VfB Stuttgarts,VfB Stuttgarts,ORG,0.0,0.0,de,1
+Müller-Deal,Müller-Deal,ORG,0.0,0.0,de,1
+deutsche Nationalelf,deutsche Nationalelf,ORG,0.0,0.0,de,1
+innerhal,innerhal,ORG,0.0,0.0,de,1
+Flekkens,Flekkens,ORG,0.7,0.0,de,1
+märkischen Union,märkischen Union,ORG,0.0,0.0,de,1
+PASOK,PASOK,ORG,-0.7,0.0,de,1
+Kronen-Zeitung,Kronen-Zeitung,ORG,0.0,0.0,de,1
+To…,To…,ORG,0.0,0.0,de,1
+Wolfsburgs,Wolfsburgs,ORG,1.0,0.0,de,1
+Traurige Freiburgerinnen,Traurige Freiburgerinnen,ORG,0.7,0.0,de,1
+Ultras,Ultras,ORG,0.0,0.0,de,1
+Pokalverliererinnen,Pokalverliererinnen,ORG,0.0,0.0,de,1
+Liveti,Liveti,ORG,1.0,0.0,de,1
+Petersens Gänse,Petersens Gänse,ORG,0.0,0.0,de,1
+griechischen Partei,griechischen Partei,ORG,-0.7,0.0,de,1
+SC Freiburg - VfL Wolfsburg,SC Freiburg - VfL Wolfsburg,ORG,0.0,0.0,de,1
+Freiburg sch…,Freiburg sch…,ORG,0.0,0.0,de,1
+Europäischen Parlaments,Europäischen Parlaments,ORG,-0.7,0.0,de,1
+Stream  fr.deMehr,Stream  fr.deMehr,ORG,0.0,0.0,de,1
+abgeschlo,abgeschlo,ORG,0.0,0.0,de,1
+Quadriga Hochschule,Quadriga Hochschule,ORG,-1.0,0.0,de,1
+Eintracht-Kapitän,Eintracht-Kapitän,ORG,-1.0,0.0,de,1
+Schmid Freiburgs Kabine,Schmid Freiburgs Kabine,ORG,0.0,0.0,de,1
+RB Salzburgs,RB Salzburgs,ORG,0.0,0.0,de,1
+Griechische EU-Parlamentsabgeordnete,Griechische EU-Parlamentsabgeordnete,ORG,0.0,0.0,de,1
+CDU-Landeschef,CDU-Landeschef,ORG,0.0,0.0,de,1
+FC Augsburgs Ermedin Demirovic,FC Augsburgs Ermedin Demirovic,ORG,0.0,0.0,de,1
+EU-Parlaments,EU-Parlaments,ORG,0.0,0.0,de,1
+Ballbesitzphas,Ballbesitzphas,ORG,0.8500000000000001,0.0,de,1
+Merz,Merz,ORG,0.0,0.0,de,1
 SC-Stars,SC-Stars,ORG,0.0,0.0,de,1
 Niederlag,Niederlag,ORG,0.0,0.0,de,1
 Freiburgs Zweite,Freiburgs Zweite,ORG,0.0,0.0,de,1
@@ -1025,88 +1148,47 @@ SC F,SC F,ORG,0.0,0.0,de,1
 Drittligisten,Drittligisten,ORG,0.0,0.0,de,1
 Dünne Bayern-Revanche,Dünne Bayern-Revanche,ORG,0.0,0.0,de,1
 Bayern-Doppelpacks,Bayern-Doppelpacks,ORG,0.0,0.0,de,1
+EU-Abgeordnete,EU-Abgeordnete,ORG,0.0,0.0,de,1
+US-Podcast,US-Podcast,ORG,0.7,0.0,de,1
 ManCity,ManCity,ORG,0.7,0.0,de,1
+Elon Musk,Elon Musk,ORG,0.7,0.0,de,1
+Migrations-Neubeginn,Migrations-Neubeginn,ORG,0.0,0.0,de,1
+Faesers Kandidatur,Faesers Kandidatur,ORG,0.0,0.0,de,1
+Bundesratswahlen,Bundesratswahlen,ORG,0.0,0.0,de,1
 FSV Gütersloh,FSV Gütersloh,ORG,0.0,0.0,de,1
 FSV Güterslo,FSV Güterslo,ORG,0.0,0.0,de,1
 Spieltag,Spieltag,ORG,0.0,0.0,de,1
-Bundesliga-Partie Werder Bremen,Bundesliga-Partie Werder Bremen,ORG,0.0,0.0,de,1
-Freiburgs Doppel-Jubiläum,Freiburgs Doppel-Jubiläum,ORG,-0.7,0.0,de,1
-RB am Sonntag,RB am Sonntag,ORG,0.0,0.0,de,1
-Die Bundesliga-Fußballerinnen,Die Bundesliga-Fußballerinnen,ORG,0.0,0.0,de,1
-Nachspielz,Nachspielz,ORG,0.0,0.0,de,1
-Kimmich,Kimmich,ORG,0.0,0.0,de,1
-Gefrusteter Musiala,Gefrusteter Musiala,ORG,0.0,0.0,de,1
-Noch-Zweitligist RB Leipzig niederrang,Noch-Zweitligist RB Leipzig niederrang,ORG,0.0,0.0,de,1
-Bayerns Pokal-Drama,Bayerns Pokal-Drama,ORG,0.0,0.0,de,1
-FSV Mai… [+3597 chars,FSV Mai… [+3597 chars,ORG,0.0,0.0,de,1
-SC Der,SC Der,ORG,0.0,0.0,de,1
-Champions-League-Platz,Champions-League-Platz,ORG,1.0,0.0,de,1
-Herthas,Herthas,ORG,0.0,0.0,de,1
-Gladbachs Marcus Thuram,Gladbachs Marcus Thuram,ORG,0.0,0.0,de,1
-DFB-Campus,DFB-Campus,ORG,0.0,0.0,de,1
-Saarbrücken,Saarbrücken,ORG,0.0,0.0,de,1
-FCS,FCS,ORG,0.0,0.0,de,1
-Bundesliga-Klubs,Bundesliga-Klubs,ORG,0.0,0.0,de,1
-Bundesliga-Historie,Bundesliga-Historie,ORG,0.0,0.0,de,1
-Herthas Stürmer,Herthas Stürmer,ORG,1.0,0.0,de,1
-Sport-Club künf…,Sport-Club künf…,ORG,0.0,0.0,de,1
-W… Freiburgs,W… Freiburgs,ORG,-1.0,0.0,de,1
-Press,Press,ORG,-0.2333333333333333,0.0,de,1
-Ballbesitzphas,Ballbesitzphas,ORG,0.8500000000000001,0.0,de,1
+Pokal-Viertelfinales,Pokal-Viertelfinales,ORG,0.0,0.0,de,1
+Bayern-Star Bastian Schweinsteiger,Bayern-Star Bastian Schweinsteiger,ORG,0.0,0.0,de,1
+Schweinsteiger,Schweinsteiger,ORG,-1.0,0.0,de,1
+R,R,ORG,0.7,0.0,de,1
 Boateng,Boateng,ORG,0.0,0.0,de,1
 Vinzenco Grifo,Vinzenco Grifo,ORG,0.7,0.0,de,1
+ANC-Parteitag,ANC-Parteitag,ORG,0.0,0.0,de,1
 RWE,RWE,ORG,1.0,0.0,de,1
 JAAAA,JAAAA,ORG,0.0,0.0,de,1
+CV Fuego FC,CV Fuego FC,ORG,0.0,0.0,de,1
 Tuchel-PK!,Tuchel-PK!,ORG,0.0,0.0,de,1
 Gesamtkonstellation,Gesamtkonstellation,ORG,-0.85,0.0,de,1
+Partei-Jugend,Partei-Jugend,ORG,0.7,0.0,de,1
 aufop…,aufop…,ORG,-1.0,0.0,de,1
 Bayern Frei­burg,Bayern Frei­burg,ORG,0.0,0.0,de,1
-Freiburg folgt Wolfsburg,Freiburg folgt Wolfsburg,ORG,0.0,0.0,de,1
-Introvertierter,Introvertierter,ORG,-0.7,0.0,,1
-Traum-Duos,Traum-Duos,ORG,0.0,0.0,de,1
-Schwalben-Vorwürfe,Schwalben-Vorwürfe,ORG,0.0,0.0,de,1
-SC...,SC...,ORG,0.0,0.0,de,1
-FC Augsburgs Ermedin Demirovic,FC Augsburgs Ermedin Demirovic,ORG,0.0,0.0,de,1
-Freiburg-Welt!,Freiburg-Welt!,ORG,0.0,0.0,de,1
-05.05.2023,05.05.2023,ORG,0.0,0.0,de,1
-FINALE!,FINALE!,ORG,0.0,0.0,de,1
-| SC Freiburg - RB Leipzig,| SC Freiburg - RB Leipzig,ORG,-1.0,0.0,de,1
-Poka…,Poka…,ORG,-1.0,0.0,de,1
-Leipzigs Co,Leipzigs Co,ORG,0.0,0.0,de,1
-Rose,Rose,ORG,0.7,0.0,de,1
-SC Freiburg - RB Leipzig,SC Freiburg - RB Leipzig,ORG,0.0,0.0,de,1
-Radio,Radio,ORG,0.0,0.0,de,1
-Hertha BSC - Vf,Hertha BSC - Vf,ORG,0.0,0.0,de,1
-RB-Trainer,RB-Trainer,ORG,0.7999999999999999,0.0,de,1
-RB Lepizig,RB Lepizig,ORG,0.0,0.0,de,1
-SC-Youngster,SC-Youngster,ORG,0.0,0.0,de,1
-DFB-Koord,DFB-Koord,ORG,0.0,0.0,de,1
-US-Talent Murray,US-Talent Murray,ORG,0.0,0.0,de,1
-SC-Historie,SC-Historie,ORG,0.7,0.0,de,1
-Union!,Union!,ORG,0.0,0.0,de,1
-Champions-League-Neuling,Champions-League-Neuling,ORG,0.0,0.0,de,1
-Tabellenvierte Union Berlin,Tabellenvierte Union Berlin,ORG,0.0,0.0,de,1
-Anfangsformati… Berlin,Anfangsformati… Berlin,ORG,-0.7,0.0,de,1
-U,U,ORG,0.0,0.0,de,1
-SC Fre… We,SC Fre… We,ORG,0.0,0.0,de,1
-RB-Star,RB-Star,ORG,-1.0,0.0,de,1
-FSV Zwickau,FSV Zwickau,ORG,0.0,0.0,de,1
-SC Freiburg sa…,SC Freiburg sa…,ORG,0.0,0.0,de,1
-Real,Real,ORG,0.2333333333333333,0.0,de,1
-Lienhart-Abschied,Lienhart-Abschied,ORG,0.2333333333333333,0.0,de,1
-Beschauliches Freiburg,Beschauliches Freiburg,ORG,0.0,0.0,de,1
-Gregoritsch-Doppelpack,Gregoritsch-Doppelpack,ORG,0.0,0.0,de,1
-S04,S04,ORG,0.0,0.0,de,1
-deutschen Bundesliga,deutschen Bundesliga,ORG,0.0,0.0,de,1
-Schalke  kicker,Schalke  kicker,ORG,1.0,0.0,de,1
-Bayern-Marke,Bayern-Marke,ORG,0.0,0.0,de,1
-SGD,SGD,ORG,0.0,0.0,de,1
-Paris Saint-Germain,Paris Saint-Germain,ORG,1.0,0.0,de,1
-FC Valencia,FC Valencia,ORG,1.0,0.0,de,1
+Bayerns Pokal-Drama,Bayerns Pokal-Drama,ORG,0.0,0.0,de,1
+Gefrusteter Musiala,Gefrusteter Musiala,ORG,0.0,0.0,de,1
+Macrons Partei,Macrons Partei,ORG,0.0,0.0,de,1
+Landtagssitzung,Landtagssitzung,ORG,0.7,0.0,de,1
+Pokal-Drama,Pokal-Drama,ORG,0.0,0.0,de,1
+Kimmich,Kimmich,ORG,0.0,0.0,de,1
+NEOS,NEOS,ORG,0.0,0.0,de,1
+Fußball-Nationalspieler,Fußball-Nationalspieler,ORG,1.0,0.0,de,1
+Bundesliga-Partie Werder Bremen,Bundesliga-Partie Werder Bremen,ORG,0.0,0.0,de,1
+INTERVIEW,INTERVIEW,ORG,0.0,0.0,de,1
+Freiburgs Doppel-Jubiläum,Freiburgs Doppel-Jubiläum,ORG,-0.7,0.0,de,1
 Celta Vigo,Celta Vigo,ORG,1.0,0.0,de,1
-FC Everton,FC Everton,ORG,1.0,0.0,de,1
+Liberalen,Liberalen,ORG,0.7,0.0,de,1
 Fußball-Bundes,Fußball-Bundes,ORG,0.0,0.0,de,1
 wic,wic,ORG,0.0,0.0,de,1
+A…,A…,ORG,0.0,0.0,de,1
 Champions-League-reif!,Champions-League-reif!,ORG,0.0,0.0,de,1
 Dritten!,Dritten!,ORG,0.0,0.0,de,1
 SC-Star,SC-Star,ORG,0.0,0.0,de,1
@@ -1115,111 +1197,34 @@ U-23-Rekord,U-23-Rekord,ORG,0.0,0.0,de,1
 PK-Frage,PK-Frage,ORG,1.0,0.0,de,1
 | SC Freiburg |,| SC Freiburg |,ORG,1.0,0.0,de,1
 TV-Quote,TV-Quote,ORG,-0.7,0.0,de,1
-FSV Mainz,FSV Mainz,ORG,0.7,0.0,de,1
-Frauen Bundesliga,Frauen Bundesliga,ORG,0.0,0.0,de,1
-Bläh-Parlament sol,Bläh-Parlament sol,ORG,0.0,0.0,de,1
-SCF II,SCF II,ORG,0.0,0.0,de,1
-Riemanns,Riemanns,ORG,-1.0,0.0,de,1
-Bochumer Anfangself,Bochumer Anfangself,ORG,0.0,0.0,de,1
-Bochumer Anfan,Bochumer Anfan,ORG,0.0,0.0,de,1
-Hamann!,Hamann!,ORG,0.0,0.0,de,1
-Ruhrgebiets-Klub,Ruhrgebiets-Klub,ORG,0.0,0.0,de,1
-Angstgegner,Angstgegner,ORG,0.0,0.0,de,1
-Nürnberg,Nürnberg,ORG,0.0,0.0,de,1
-Ex-Klub,Ex-Klub,ORG,0.0,0.0,de,1
-Parti…,Parti…,ORG,0.0,0.0,de,1
-VfB - Freiburg,VfB - Freiburg,ORG,0.0,0.0,de,1
-Fußball-Bundesliga FC Bayern München,Fußball-Bundesliga FC Bayern München,ORG,0.0,0.0,de,1
-Fußball-Bundesliga FC Bayern Münche,Fußball-Bundesliga FC Bayern Münche,ORG,0.0,0.0,de,1
-Ex-Club,Ex-Club,ORG,0.0,0.0,de,1
-Freiburg - Nürnberg,Freiburg - Nürnberg,ORG,0.0,0.0,de,1
-Ex-Klub Dortmund,Ex-Klub Dortmund,ORG,0.0,0.0,de,1
-Zweitligaklub Nürnberg,Zweitligaklub Nürnberg,ORG,0.0,0.0,de,1
-VfB St…,VfB St…,ORG,0.0,0.0,de,1
-Europa-League-Sieger Eintracht,Europa-League-Sieger Eintracht,ORG,0.0,0.0,de,1
-Uni,Uni,ORG,0.0,0.0,de,1
-Europa League!,Europa League!,ORG,0.0,0.0,de,1
-Hammer-Gegnern,Hammer-Gegnern,ORG,-1.0,0.0,de,1
-Union St. Gilloise,Union St. Gilloise,ORG,0.0,0.0,de,1
-belgischen Erstligisten,belgischen Erstligisten,ORG,0.0,0.0,de,1
-Elfmeter-Doppelpacks,Elfmeter-Doppelpacks,ORG,0.0,0.0,de,1
-Liverpool,Liverpool,ORG,0.0,0.0,de,1
-| SC Freiburg,| SC Freiburg,ORG,0.0,0.0,de,1
-VVK,VVK,ORG,0.0,0.0,de,1
-Spieler-Verhalten,Spieler-Verhalten,ORG,0.0,0.0,de,1
-Sp… Union Berlin,Sp… Union Berlin,ORG,0.0,0.0,de,1
-ap,ap,ORG,0.0,0.0,de,1
-DFB-Team,DFB-Team,ORG,0.0,0.0,de,1
-Sandhausen,Sandhausen,ORG,0.0,0.0,de,1
-SpVgg Bayreuth,SpVgg Bayreuth,ORG,-0.7,0.0,de,1
-Achtelfinale - SV Sandhausen,Achtelfinale - SV Sandhausen,ORG,0.0,0.0,de,1
-Zweitligaklub,Zweitligaklub,ORG,0.0,0.0,de,1
-Frankfurt Darmstadt,Frankfurt Darmstadt,ORG,0.0,0.0,de,1
-Hessenderby,Hessenderby,ORG,0.0,0.0,de,1
-SV Darmstadt,SV Darmstadt,ORG,-0.85,0.0,de,1
-SV Dar,SV Dar,ORG,-0.7,0.0,de,1
-kon,kon,ORG,1.0,0.0,de,1
-VfL Bochu,VfL Bochu,ORG,0.0,0.0,de,1
-FC …,FC …,ORG,-1.0,0.0,de,1
-Pressefoto,Pressefoto,ORG,0.0,0.0,de,1
-Ex-Bundestrainer,Ex-Bundestrainer,ORG,0.0,0.0,de,1
-Ex-Klubs Freiburg,Ex-Klubs Freiburg,ORG,0.0,0.0,de,1
-Super League,Super League,ORG,0.0,0.0,de,1
-Polizeipräsidium Freiburg,Polizeipräsidium Freiburg,ORG,0.0,0.0,de,1
-Trainer Ristic,Trainer Ristic,ORG,1.0,0.0,de,1
-Meppener Chancenwucher,Meppener Chancenwucher,ORG,0.0,0.0,de,1
-St,St,ORG,0.0,0.0,de,1
-Union St,Union St,ORG,0.0,0.0,de,1
-Union Berlin & SC Freiburg,Union Berlin & SC Freiburg,ORG,0.0,0.0,de,1
-Union Saint Gilloise,Union Saint Gilloise,ORG,0.0,0.0,de,1
-Ferencvaros Budapest,Ferencvaros Budapest,ORG,0.0,0.0,de,1
-SC Freiburg  WEB.DE News,SC Freiburg  WEB.DE News,ORG,0.0,0.0,de,1
-Live-Über,Live-Über,ORG,0.0,0.0,de,1
-SC Freiburg - Hoffenheim,SC Freiburg - Hoffenheim,ORG,-1.0,0.0,de,1
-Liveticker,Liveticker,ORG,-1.0,0.0,de,1
-Bundesliga-Schlusslicht TSG Hoffenheim,Bundesliga-Schlusslicht TSG Hoffenheim,ORG,-0.16666666666666666,0.0,de,1
-Pyro,Pyro,ORG,0.0,0.0,de,1
-FC Ingolstadt 04,FC Ingolstadt 04,ORG,-0.7,0.0,de,1
-Gladbachs Bensebaini,Gladbachs Bensebaini,ORG,1.0,0.0,de,1
-Weltklub,Weltklub,ORG,0.7,0.0,de,1
-Wehen Wiesbaden,Wehen Wiesbaden,ORG,0.0,0.0,de,1
-Achtelfinale - SC Freiburg,Achtelfinale - SC Freiburg,ORG,0.0,0.0,de,1
-Livetic… Der,Livetic… Der,ORG,0.0,0.0,de,1
-ÖFB-Teamspieler,ÖFB-Teamspieler,ORG,0.0,0.0,de,1
-Dušan Vlahović,Dušan Vlahović,ORG,0.0,0.0,de,1
-Italiener,Italiener,ORG,-0.7,0.0,de,1
-Videoschiedsrichters,Videoschiedsrichters,ORG,0.0,0.0,de,1
-Deutsche Weininstitut,Deutsche Weininstitut,ORG,0.0,0.0,de,1
-s…,s…,ORG,-0.2,0.0,de,1
-Stream  ,Stream  ,ORG,0.7,0.0,de,1
-Bayer Lever­kusen,Bayer Lever­kusen,ORG,0.0,0.0,de,1
-ver­dammte,ver­dammte,ORG,0.0,0.0,de,1
-SZ.de,SZ.de,ORG,0.0,0.0,de,1
-Juve  ,Juve  ,ORG,-0.7,0.0,de,1
-RTL Online,RTL Online,ORG,0.0,0.0,de,1
-Alten Dame Juventus Turin,Alten Dame Juventus Turin,ORG,0.0,0.0,de,1
-Achtelfinale -,Achtelfinale -,ORG,0.0,0.0,de,1
-Bayer auf Budapest,Bayer auf Budapest,ORG,0.0,0.0,de,1
-Union Saint Gillois,Union Saint Gillois,ORG,0.0,0.0,de,1
-Top-Los,Top-Los,ORG,0.0,0.0,de,1
-Saint-Gilloise,Saint-Gilloise,ORG,0.0,0.0,de,1
-Union Saint-Gilloise,Union Saint-Gilloise,ORG,0.0,0.0,de,1
-Europa-League-Auslosung,Europa-League-Auslosung,ORG,0.0,0.0,de,1
-Donezk,Donezk,ORG,0.0,0.0,de,1
-Feyenoord,Feyenoord,ORG,0.0,0.0,de,1
-Ro,Ro,ORG,0.0,0.0,de,1
-Ferencváros Budapest,Ferencváros Budapest,ORG,0.0,0.0,de,1
-SC Freibug,SC Freibug,ORG,0.0,0.0,de,1
-SC Freiburg - Bayer Leverkusen,SC Freiburg - Bayer Leverkusen,ORG,0.0,0.0,de,1
-AC Mail,AC Mail,ORG,0.0,0.0,de,1
-Grifos Traumtor,Grifos Traumtor,ORG,0.0,0.0,de,1
-ol><li>1:1,ol><li>1:1,ORG,0.0,0.0,de,1
-tagesschau.de,tagesschau.de,ORG,0.0,0.0,de,1
-Viktoria Köln,Viktoria Köln,ORG,0.0,0.0,de,1
-Mönchengladbach-Training,Mönchengladbach-Training,ORG,0.0,0.0,de,1
-Gladbach-Spiel,Gladbach-Spiel,ORG,0.7,0.0,de,1
-Man­chester City,Man­chester City,ORG,0.0,0.0,de,1
-Kader­pla­nung,Kader­pla­nung,ORG,0.0,0.0,de,1
-Freiburg-Tickets,Freiburg-Tickets,ORG,-0.7,0.0,de,1
-Bundesligateam der Schwaben,Bundesligateam der Schwaben,ORG,0.0,0.0,de,1
-Frohms,Frohms,ORG,0.7,0.0,de,1
+Breisgau-Brasilianer,Breisgau-Brasilianer,ORG,0.0,0.0,de,1
+SC Freiburg sa…,SC Freiburg sa…,ORG,0.0,0.0,de,1
+RB-Star,RB-Star,ORG,-1.0,0.0,de,1
+Schwalben-Vorwürfe,Schwalben-Vorwürfe,ORG,0.0,0.0,de,1
+FC Bayern-Neuzugang,FC Bayern-Neuzugang,ORG,0.0,0.0,de,1
+Parlament,Parlament,ORG,0.0,0.0,de,1
+SC Fre… We,SC Fre… We,ORG,0.0,0.0,de,1
+FC Everton,FC Everton,ORG,1.0,0.0,de,1
+FC Valencia,FC Valencia,ORG,1.0,0.0,de,1
+NZZ,NZZ,ORG,0.0,0.0,de,1
+Paris Saint-Germain,Paris Saint-Germain,ORG,1.0,0.0,de,1
+RB am Sonntag,RB am Sonntag,ORG,0.0,0.0,de,1
+Die Bundesliga-Fußballerinnen,Die Bundesliga-Fußballerinnen,ORG,0.0,0.0,de,1
+Nachspielz,Nachspielz,ORG,0.0,0.0,de,1
+Freiburg folgt Wolfsburg,Freiburg folgt Wolfsburg,ORG,0.0,0.0,de,1
+Noch-Zweitligist RB Leipzig niederrang,Noch-Zweitligist RB Leipzig niederrang,ORG,0.0,0.0,de,1
+Introvertierter,Introvertierter,ORG,-0.7,0.0,,1
+FSV Zwickau,FSV Zwickau,ORG,0.0,0.0,de,1
+Real,Real,ORG,0.2333333333333333,0.0,de,1
+Lienhart-Abschied,Lienhart-Abschied,ORG,0.2333333333333333,0.0,de,1
+ANC-Partei,ANC-Partei,ORG,0.0,0.0,de,1
+Beschauliches Freiburg,Beschauliches Freiburg,ORG,0.0,0.0,de,1
+Gregoritsch-Doppelpack,Gregoritsch-Doppelpack,ORG,0.0,0.0,de,1
+S04,S04,ORG,0.0,0.0,de,1
+deutschen Bundesliga,deutschen Bundesliga,ORG,0.0,0.0,de,1
+Schalke  kicker,Schalke  kicker,ORG,1.0,0.0,de,1
+Bayern-Marke,Bayern-Marke,ORG,0.0,0.0,de,1
+CDU-Chef,CDU-Chef,ORG,0.0,0.0,de,1
+SGD,SGD,ORG,0.0,0.0,de,1
+Moderaten-Partei,Moderaten-Partei,ORG,0.7,0.0,de,1
+Weinernte in,Weinernte in,ORG,0.0,0.0,de,1

@@ -1,474 +1,409 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Freiburg,Freiburg,LOC,0.06584249084249084,0.07142857142857142,de,182
+Freiburg,Freiburg,LOC,0.06548269581056466,0.07103825136612021,de,183
 Breisgauer,Breisgauer,LOC,0.04143730886850153,0.0076452599388379195,de,109
-Freiburgs,Freiburgs,LOC,0.1733333333333333,0.06666666666666667,de,66
+Freiburgs,Freiburgs,LOC,0.1704411764705882,0.06470588235294118,de,68
 Bayern,Bayern,LOC,0.13936170212765958,0.08085106382978723,de,47
 Breisgau,Breisgau,LOC,0.06976744186046512,0.0,de,43
 Badener,Badener,LOC,0.20990990990990996,0.0900900900900901,de,37
 Frankfurt,Frankfurt,LOC,-0.041666666666666664,0.09803921568627451,de,34
-München,München,LOC,0.23870967741935487,0.016129032258064516,de,31
 Stuttgart,Stuttgart,LOC,0.15161290322580645,0.11612903225806451,de,31
+München,München,LOC,0.23870967741935487,0.016129032258064516,de,31
 Sandhausen,Sandhausen,LOC,-0.1620689655172414,0.034482758620689655,de,29
+Berlin,Berlin,LOC,0.12758620689655173,0.0,de,29
 Union,Union,LOC,-0.06896551724137931,0.0,de,29
-Berlin,Berlin,LOC,0.13214285714285715,0.0,de,28
 Dortmund,Dortmund,LOC,-0.024000000000000004,0.0,de,25
 Leipzig,Leipzig,LOC,-0.2166666666666667,0.08333333333333333,de,24
 Köln,Köln,LOC,0.09999999999999998,0.09523809523809523,de,21
+Luxemburg,Luxemburg,LOC,0.05750000000000001,0.0,de,20
 Europa,Europa,LOC,0.0875,0.025,de,20
 Deutschland,Deutschland,LOC,0.034210526315789476,0.13157894736842105,de,19
 Leverkusen,Leverkusen,LOC,-0.23194444444444443,0.025,de,18
-Luxemburg,Luxemburg,LOC,0.07187500000000001,0.0,de,16
 Serbien,Serbien,LOC,0.26333333333333336,0.0,de,15
 Katar,Katar,LOC,-0.18000000000000002,0.0,de,15
 Bochum,Bochum,LOC,0.021428571428571432,0.07142857142857142,de,14
 Belgien,Belgien,LOC,0.0142857142857143,0.05714285714285715,de,14
-Augsburg,Augsburg,LOC,0.11666666666666665,0.0,de,12
 Bremen,Bremen,LOC,0.07083333333333333,0.0,de,12
+Augsburg,Augsburg,LOC,0.11666666666666665,0.0,de,12
 Chinas,Chinas,LOC,-0.44166666666666665,0.0,de,12
+Weserstadion,Weserstadion,LOC,0.309090909090909,0.18181818181818182,de,11
 S,S,LOC,-0.5727272727272728,0.0,de,11
 China,China,LOC,-0.32727272727272727,0.0,de,11
-Weserstadion,Weserstadion,LOC,0.309090909090909,0.18181818181818182,de,11
 Schweiz,Schweiz,LOC,-0.13999999999999999,0.1,de,10
-Baku,Baku,LOC,0.1,0.0,de,10
 D,D,LOC,0.0,0.0,de,10
+Baku,Baku,LOC,0.1,0.0,de,10
+Kommentare</li><li,Kommentare</li><li,LOC,0.0,1.0,de,9
+E-Mail</li><li,E-Mail</li><li,LOC,0.0,1.0,de,9
 England,England,LOC,-0.3611111111111111,0.0,de,9
 Nyon,Nyon,LOC,0.0,0.0,de,9
-Wolfsburg,Wolfsburg,LOC,-0.18888888888888888,0.0,de,9
 Teilen</li><li,Teilen</li><li,LOC,0.0,1.0,de,9
-Mainz,Mainz,LOC,0.1111111111111111,0.0,de,9
-Kommentare</li><li,Kommentare</li><li,LOC,0.0,1.0,de,9
 Drucken</li><li,Drucken</li><li,LOC,0.0,1.0,de,9
-E-Mail</li><li,E-Mail</li><li,LOC,0.0,1.0,de,9
-Grifo,Grifo,LOC,0.26249999999999996,0.0,de,8
-Österreich,Österreich,LOC,0.0,0.0,de,8
+Mainz,Mainz,LOC,0.1111111111111111,0.0,de,9
+Wolfsburg,Wolfsburg,LOC,-0.18888888888888888,0.0,de,9
 Oberachern,Oberachern,LOC,-0.1625,0.0,de,8
 Potsdam,Potsdam,LOC,0.75,0.0,de,8
+Grifo,Grifo,LOC,0.26249999999999996,0.0,de,8
 Hessen,Hessen,LOC,0.125,0.0,de,8
 Spanien,Spanien,LOC,0.125,0.0,de,8
-Kreuzberger,Kreuzberger,LOC,0.29999999999999993,0.0,de,7
+Österreich,Österreich,LOC,0.0,0.0,de,8
+Piräus,Piräus,LOC,-0.38571428571428573,0.0,de,7
 Brentford,Brentford,LOC,-0.45,0.0,de,7
+Frankreich,Frankreich,LOC,0.2857142857142857,0.0,de,7
+Deutschlands,Deutschlands,LOC,0.38571428571428573,0.0,de,7
+Kreuzberger,Kreuzberger,LOC,0.29999999999999993,0.0,de,7
+Israel,Israel,LOC,0.0,0.0,de,7
+Stürmer-Suche,Stürmer-Suche,LOC,0.09999999999999999,0.0,de,7
 Rheingau,Rheingau,LOC,0.32142857142857145,0.0,de,7
 Aserbaidschan,Aserbaidschan,LOC,0.42857142857142855,0.0,de,7
-Frankreich,Frankreich,LOC,0.2857142857142857,0.0,de,7
-Piräus,Piräus,LOC,-0.38571428571428573,0.0,de,7
-Stürmer-Suche,Stürmer-Suche,LOC,0.09999999999999999,0.0,de,7
-Israel,Israel,LOC,0.0,0.0,de,6
-Brüssel,Brüssel,LOC,-0.425,0.0,de,6
 Xinhua,Xinhua,LOC,0.0,0.0,de,6
-Düsseldorf,Düsseldorf,LOC,0.16666666666666666,0.0,de,6
-Europa-Park Stadion,Europa-Park Stadion,LOC,0.11666666666666665,0.0,de,6
-Burgenland,Burgenland,LOC,0.0,0.0,de,6
-Vlahovic,Vlahovic,LOC,-0.05000000000000001,0.0,de,6
-Gladbach,Gladbach,LOC,0.0,0.0,de,6
-Niederländer,Niederländer,LOC,0.0,0.0,de,6
-Bochums,Bochums,LOC,0.07916666666666668,0.125,de,6
-Highlight-Spiel,Highlight-Spiel,LOC,0.17499999999999996,0.75,de,6
 Turin,Turin,LOC,0.14166666666666666,0.3333333333333333,de,6
+Europa-Park Stadion,Europa-Park Stadion,LOC,0.11666666666666665,0.0,de,6
+Highlight-Spiel,Highlight-Spiel,LOC,0.17499999999999996,0.75,de,6
+Bochums,Bochums,LOC,0.07916666666666668,0.125,de,6
+Gladbach,Gladbach,LOC,0.0,0.0,de,6
 Ungarn,Ungarn,LOC,-0.16666666666666666,0.0,de,6
-Deutschlands,Deutschlands,LOC,0.45,0.0,de,6
+Vlahovic,Vlahovic,LOC,-0.05000000000000001,0.0,de,6
+Burgenland,Burgenland,LOC,0.0,0.0,de,6
 U23,U23,LOC,0.0,0.0,de,6
-Franzose,Franzose,LOC,0.0,0.2,de,5
-Köpenicker,Köpenicker,LOC,0.13999999999999999,0.2,de,5
-Thüringens,Thüringens,LOC,0.1,0.0,de,5
-Schruns,Schruns,LOC,0.0,0.0,de,5
-Rhein-Main,Rhein-Main,LOC,-0.11333333333333333,0.06666666666666667,de,5
-Brandenburger,Brandenburger,LOC,0.33999999999999997,0.2,de,5
-Brasilien,Brasilien,LOC,-0.22999999999999998,0.0,de,5
-G,G,LOC,-0.2,0.4,de,5
+Brüssel,Brüssel,LOC,-0.425,0.0,de,6
+Düsseldorf,Düsseldorf,LOC,0.16666666666666666,0.0,de,6
+Niederländer,Niederländer,LOC,0.0,0.0,de,6
 Wien,Wien,LOC,0.0,0.0,de,5
 Stadt,Stadt,LOC,0.0,0.4,de,5
-Sotogrande,Sotogrande,LOC,-0.13999999999999999,0.0,de,5
-Südafrikas,Südafrikas,LOC,0.13999999999999999,0.0,de,5
-Augsburger,Augsburger,LOC,0.2,0.0,de,5
-Königlichen Weinberg,Königlichen Weinberg,LOC,1.0,0.0,de,5
-Bautzener,Bautzener,LOC,-0.26,0.0,de,5
-Italien,Italien,LOC,0.0,0.0,de,5
-Italiener,Italiener,LOC,0.4,0.0,de,5
-Saarland,Saarland,LOC,0.6,0.0,de,5
-Großbritannien,Großbritannien,LOC,0.0,0.0,de,5
 USA,USA,LOC,-0.4,0.0,de,5
+Luxemburgs,Luxemburgs,LOC,0.0,0.0,de,5
+Köpenicker,Köpenicker,LOC,0.13999999999999999,0.2,de,5
+Franzose,Franzose,LOC,0.0,0.2,de,5
+Brasilien,Brasilien,LOC,-0.22999999999999998,0.0,de,5
+G,G,LOC,-0.2,0.4,de,5
 Japan,Japan,LOC,0.0,0.4,de,5
-Leipzigs,Leipzigs,LOC,0.06999999999999999,0.0,de,5
-Freier,Freier,LOC,0.7,0.0,de,5
-Baden-Württemberg,Baden-Württemberg,LOC,0.0,0.0,de,5
-Dreisamstadion,Dreisamstadion,LOC,0.33999999999999997,0.2,de,5
+Italiener,Italiener,LOC,0.4,0.0,de,5
+Brandenburger,Brandenburger,LOC,0.33999999999999997,0.2,de,5
+Thüringens,Thüringens,LOC,0.1,0.0,de,5
+Südafrikas,Südafrikas,LOC,0.13999999999999999,0.0,de,5
+Schruns,Schruns,LOC,0.0,0.0,de,5
 Ukraine,Ukraine,LOC,0.0,0.0,de,5
-Thüringen,Thüringen,LOC,0.0,0.0,de,4
-Elbtal,Elbtal,LOC,0.25,0.25,de,4
-Dänemark,Dänemark,LOC,0.0,0.0,de,4
+Rhein-Main,Rhein-Main,LOC,-0.11333333333333333,0.06666666666666667,de,5
+Leipzigs,Leipzigs,LOC,0.06999999999999999,0.0,de,5
+Baden-Württemberg,Baden-Württemberg,LOC,0.0,0.0,de,5
+Freier,Freier,LOC,0.7,0.0,de,5
+Augsburger,Augsburger,LOC,0.2,0.0,de,5
+Italien,Italien,LOC,0.0,0.0,de,5
+Saarland,Saarland,LOC,0.6,0.0,de,5
+Königlichen Weinberg,Königlichen Weinberg,LOC,1.0,0.0,de,5
+Sotogrande,Sotogrande,LOC,-0.13999999999999999,0.0,de,5
+Dreisamstadion,Dreisamstadion,LOC,0.33999999999999997,0.2,de,5
+Bautzener,Bautzener,LOC,-0.26,0.0,de,5
+Großbritannien,Großbritannien,LOC,0.0,0.0,de,5
+Landes,Landes,LOC,0.0875,0.125,de,4
 Europa-League-Gruppenphase,Europa-League-Gruppenphase,LOC,0.0,0.0,de,4
-Luxemburgs,Luxemburgs,LOC,0.0,0.0,de,4
-Iran,Iran,LOC,-0.5,0.0,de,4
-Freiburg II,Freiburg II,LOC,0.25,0.0,de,4
-Erfurt,Erfurt,LOC,0.35,0.0,de,4
-Schwalm-Eder-Kreis,Schwalm-Eder-Kreis,LOC,0.0,0.0,de,4
-Hessens,Hessens,LOC,0.5,0.0,de,4
-Skyline-Blick,Skyline-Blick,LOC,-0.14166666666666666,0.08333333333333333,de,4
-Nordhessen,Nordhessen,LOC,-0.45833333333333337,0.41666666666666663,de,4
 Hartenbach,Hartenbach,LOC,-0.25,0.0,de,4
-Mosel,Mosel,LOC,0.0,0.25,de,4
-Unterhaching,Unterhaching,LOC,0.25,0.0,de,4
-Lübeck,Lübeck,LOC,0.0,0.0,de,4
-Paderborn,Paderborn,LOC,-0.25,0.0,de,4
-Salzburg,Salzburg,LOC,0.5,0.0,de,4
 Drittliga-Aufsteigers,Drittliga-Aufsteigers,LOC,0.0,0.0,de,4
+Hessens,Hessens,LOC,0.5,0.0,de,4
+Paderborn,Paderborn,LOC,-0.25,0.0,de,4
+Mosel,Mosel,LOC,0.0,0.25,de,4
+Salzburg,Salzburg,LOC,0.5,0.0,de,4
+Lübeck,Lübeck,LOC,0.0,0.0,de,4
+Erfurt,Erfurt,LOC,0.35,0.0,de,4
+Freiburg II,Freiburg II,LOC,0.25,0.0,de,4
+Nordhessen,Nordhessen,LOC,-0.45833333333333337,0.41666666666666663,de,4
 Wolfsburgs,Wolfsburgs,LOC,0.0,0.0,de,4
-Erzgebirge,Erzgebirge,LOC,0.0,0.25,de,4
+Skyline-Blick,Skyline-Blick,LOC,-0.14166666666666666,0.08333333333333333,de,4
 Atubolu,Atubolu,LOC,0.0,0.0,de,4
+Schwalm-Eder-Kreis,Schwalm-Eder-Kreis,LOC,0.0,0.0,de,4
+Erzgebirge,Erzgebirge,LOC,0.0,0.25,de,4
+Iran,Iran,LOC,-0.5,0.0,de,4
+Thüringen,Thüringen,LOC,0.0,0.0,de,4
+Unterhaching,Unterhaching,LOC,0.25,0.0,de,4
+Dänemark,Dänemark,LOC,0.0,0.0,de,4
+Elbtal,Elbtal,LOC,0.25,0.25,de,4
+Gulde,Gulde,LOC,0.2333333333333333,0.0,de,3
 Saarländer,Saarländer,LOC,0.3333333333333333,0.0,de,3
+Tor von Zauberfuß,Tor von Zauberfuß,LOC,0.0,1.0,de,3
 Diens,Diens,LOC,0.0,0.0,de,3
-Kyereh,Kyereh,LOC,0.2916666666666667,0.0,de,3
-SC-Coach,SC-Coach,LOC,-0.2333333333333333,0.0,de,3
-Champions-League-Traum,Champions-League-Traum,LOC,0.0,0.0,de,3
-den USA,den USA,LOC,0.0,0.0,de,3
-Südkoreaner,Südkoreaner,LOC,0.0,0.0,de,3
+Dresden,Dresden,LOC,0.2833333333333333,0.0,de,3
 Russland,Russland,LOC,0.0,0.0,de,3
 Fußball-Bundesligaspiel,Fußball-Bundesligaspiel,LOC,0.2333333333333333,0.0,de,3
+Freiburgern,Freiburgern,LOC,-0.10000000000000002,0.0,de,3
+Bochumer,Bochumer,LOC,0.10000000000000002,0.0,de,3
+Schwaben,Schwaben,LOC,0.0,0.0,de,3
+Rot-Sperre,Rot-Sperre,LOC,0.0,0.0,de,3
+SC-Coach,SC-Coach,LOC,-0.2333333333333333,0.0,de,3
+Red Bull Arena,Red Bull Arena,LOC,0.43333333333333335,0.0,de,3
+Stadions,Stadions,LOC,0.0,0.0,de,3
+Champions-League-Traum,Champions-League-Traum,LOC,0.0,0.0,de,3
+Punkte-Rekord,Punkte-Rekord,LOC,0.2333333333333333,0.0,de,3
 Bayerns,Bayerns,LOC,0.31111111111111106,0.0,de,3
+Vorfreude,Vorfreude,LOC,0.2333333333333333,0.0,de,3
+Brandenburgs,Brandenburgs,LOC,0.0,0.3333333333333333,de,3
+Stadt Freiburg,Stadt Freiburg,LOC,0.0,0.0,de,3
 Straßburg,Straßburg,LOC,0.2333333333333333,0.0,de,3
 Arizona,Arizona,LOC,0.0,0.3333333333333333,de,3
-Brandenburgs,Brandenburgs,LOC,0.0,0.3333333333333333,de,3
-Dresden,Dresden,LOC,0.2833333333333333,0.0,de,3
-Weinernte,Weinernte,LOC,0.6666666666666666,0.0,de,3
-Punkte-Rekord,Punkte-Rekord,LOC,0.2333333333333333,0.0,de,3
-US,US,LOC,0.0,0.0,de,3
-Gulde,Gulde,LOC,0.2333333333333333,0.0,de,3
-Allianz Arena,Allianz Arena,LOC,0.3333333333333333,0.0,de,3
-Vorfreude,Vorfreude,LOC,0.2333333333333333,0.0,de,3
-Schwaben,Schwaben,LOC,0.0,0.0,de,3
-Freiburgern,Freiburgern,LOC,-0.10000000000000002,0.0,de,3
-Turiner,Turiner,LOC,0.0,0.0,de,3
-Zams,Zams,LOC,0.0,0.0,de,3
-Ungar,Ungar,LOC,0.4666666666666666,0.0,de,3
-Tirol,Tirol,LOC,0.0,0.0,de,3
 Konstanz,Konstanz,LOC,0.0,0.0,de,3
-Red Bull Arena,Red Bull Arena,LOC,0.43333333333333335,0.0,de,3
-Bochumer,Bochumer,LOC,0.10000000000000002,0.0,de,3
-Rot-Sperre,Rot-Sperre,LOC,0.0,0.0,de,3
-Stadions,Stadions,LOC,0.0,0.0,de,3
+Allianz Arena,Allianz Arena,LOC,0.3333333333333333,0.0,de,3
 Franken,Franken,LOC,0.3333333333333333,0.0,de,3
-Stadt Freiburg,Stadt Freiburg,LOC,0.0,0.0,de,3
-Tor von Zauberfuß,Tor von Zauberfuß,LOC,0.0,1.0,de,3
-Nevada,Nevada,LOC,0.0,0.0,de,3
+Turiner,Turiner,LOC,0.0,0.0,de,3
+US,US,LOC,0.0,0.0,de,3
+Ungar,Ungar,LOC,0.4666666666666666,0.0,de,3
 Taiwan,Taiwan,LOC,-0.3333333333333333,0.0,de,3
-Brandenburg,Brandenburg,LOC,0.3333333333333333,0.0,de,3
-Au,Au,LOC,0.5666666666666667,0.0,de,3
-Taiwans,Taiwans,LOC,0.0,0.0,de,3
-P,P,LOC,0.0,0.0,de,3
+Südkoreaner,Südkoreaner,LOC,0.0,0.0,de,3
+den USA,den USA,LOC,0.0,0.0,de,3
+Weinernte,Weinernte,LOC,0.6666666666666666,0.0,de,3
 Landtag,Landtag,LOC,0.2333333333333333,0.0,de,3
-Landes,Landes,LOC,0.11666666666666665,0.16666666666666666,de,3
+Au,Au,LOC,0.5666666666666667,0.0,de,3
+Nevada,Nevada,LOC,0.0,0.0,de,3
+P,P,LOC,0.0,0.0,de,3
+Brandenburg,Brandenburg,LOC,0.3333333333333333,0.0,de,3
 Malaysia,Malaysia,LOC,0.2333333333333333,0.3333333333333333,de,3
-Meran,Meran,LOC,0.0,0.0,de,2
-Rödelsee,Rödelsee,LOC,0.0,0.0,de,2
-Bad Sulza,Bad Sulza,LOC,0.0,0.0,de,2
-Münchner Stadion,Münchner Stadion,LOC,-0.5,0.0,de,2
-Quasi,Quasi,LOC,0.0,0.0,de,2
-Bundesstaat,Bundesstaat,LOC,-0.35,0.0,de,2
-Ostwestfalen,Ostwestfalen,LOC,0.0,0.0,de,2
-Mittelfeldzentrale,Mittelfeldzentrale,LOC,0.0,0.0,de,2
-Karriere-Interview,Karriere-Interview,LOC,0.0,0.0,de,2
-Unterfranken,Unterfranken,LOC,0.0,0.0,de,2
-Argentinien,Argentinien,LOC,0.0,0.0,de,2
-Heimsp,Heimsp,LOC,-0.5,0.0,de,2
-BILD-Interview,BILD-Interview,LOC,0.0,0.0,de,2
-Bundesweit,Bundesweit,LOC,0.0,0.0,de,2
-Koreaner,Koreaner,LOC,0.0,0.0,de,2
-Statistischen Bundesamt,Statistischen Bundesamt,LOC,0.0,0.0,de,2
-Trainer-Entlassung,Trainer-Entlassung,LOC,-0.11666666666666665,0.8333333333333333,de,2
-Hessenderby,Hessenderby,LOC,-0.7749999999999999,0.0,de,2
-Weimarer Land,Weimarer Land,LOC,0.0,0.0,de,2
-Länderspielphase,Länderspielphase,LOC,0.0,1.0,de,2
-Ostfront,Ostfront,LOC,0.0,0.0,de,2
-Kanga,Kanga,LOC,0.0,0.0,de,2
-Essen,Essen,LOC,0.35,0.0,de,2
-br.de,br.de,LOC,0.0,0.0,de,2
-Pforzheimer,Pforzheimer,LOC,0.0,0.0,de,2
-Pariser,Pariser,LOC,0.0,0.0,de,2
-Österreichs,Österreichs,LOC,0.5,0.0,de,2
-Europa-Park-Stadion,Europa-Park-Stadion,LOC,0.0,0.0,de,2
-Bundesliga-Punktspiel,Bundesliga-Punktspiel,LOC,0.0,0.0,de,2
-Belgier,Belgier,LOC,-0.35,0.0,de,2
-Zentraliran,Zentraliran,LOC,-1.0,0.0,de,2
-Ligakonkurrenz,Ligakonkurrenz,LOC,0.0,0.0,de,2
-Profi-Fußballclubs,Profi-Fußballclubs,LOC,0.0,0.0,de,2
-Bank Platz,Bank Platz,LOC,0.0,1.0,de,2
+Tirol,Tirol,LOC,0.0,0.0,de,3
+Zams,Zams,LOC,0.0,0.0,de,3
+Taiwans,Taiwans,LOC,0.0,0.0,de,3
+Kyereh,Kyereh,LOC,0.2916666666666667,0.0,de,3
+Wolfsburg-Spiel,Wolfsburg-Spiel,LOC,0.0,0.5,de,2
+Abrutschen,Abrutschen,LOC,1.0,0.0,de,2
 Rekordcoach,Rekordcoach,LOC,0.0,0.0,de,2
-20-Millionen-Abgang von Keeper,20-Millionen-Abgang von Keeper,LOC,0.5,0.0,de,2
-Brighton,Brighton,LOC,0.5,0.0,de,2
-Mediensplitter,Mediensplitter,LOC,0.0,0.0,de,2
-Samstagnachmittag-Konferenz,Samstagnachmittag-Konferenz,LOC,0.0,0.0,de,2
-Albanien,Albanien,LOC,0.0,0.0,de,2
 Lengenfeld,Lengenfeld,LOC,0.0,0.0,de,2
-ER,ER,LOC,0.35,0.0,de,2
-Borussia Dortmund,Borussia Dortmund,LOC,0.15000000000000002,0.0,de,2
-Syrern,Syrern,LOC,-1.0,0.0,de,2
-Startelf-Garantien,Startelf-Garantien,LOC,0.0,0.0,de,2
-Saint-Gilloise,Saint-Gilloise,LOC,0.0,0.0,de,2
-Zaubertor,Zaubertor,LOC,0.0,0.0,de,2
-Berlins,Berlins,LOC,-0.7,0.0,de,2
-Bayerischen Landtag,Bayerischen Landtag,LOC,0.0,0.0,de,2
-Erzgebirge Aue,Erzgebirge Aue,LOC,0.175,0.25,de,2
-Leki,Leki,LOC,0.0,0.0,de,2
-Isfahan,Isfahan,LOC,-1.0,0.0,de,2
-Fulda,Fulda,LOC,0.0,0.0,de,2
-Ortenau,Ortenau,LOC,0.0,0.0,de,2
-Steirer,Steirer,LOC,0.0,0.0,de,2
-Stammkeeper,Stammkeeper,LOC,0.2333333333333333,0.0,de,2
-Europa-League-Reise,Europa-League-Reise,LOC,0.0,0.0,de,2
-Sturm-Kante,Sturm-Kante,LOC,0.0,0.0,de,2
-Bambasé Conté,Bambasé Conté,LOC,0.0,0.0,de,2
-Argentinier,Argentinier,LOC,0.0,0.0,de,2
-Niederlande,Niederlande,LOC,0.0,0.0,de,2
-Freiburg - Hoffenheims,Freiburg - Hoffenheims,LOC,-0.7,0.0,de,2
-Oldenburger,Oldenburger,LOC,0.0,0.0,de,2
-Wiesbaden,Wiesbaden,LOC,-0.35,0.0,de,2
-Heidenheim,Heidenheim,LOC,0.5,0.0,de,2
-Ingolstadt,Ingolstadt,LOC,0.0,0.0,de,2
-Doan,Doan,LOC,0.0,0.0,de,2
-Ritsu Doan,Ritsu Doan,LOC,0.0,0.0,de,2
-Matsch-Massen,Matsch-Massen,LOC,0.0,1.0,de,2
-Sachsen,Sachsen,LOC,1.0,0.0,de,2
-Lukebakio,Lukebakio,LOC,0.0,0.0,de,2
-Syrien,Syrien,LOC,0.0,0.0,de,2
-Sa,Sa,LOC,0.0,0.0,de,2
-Wacken,Wacken,LOC,0.0,1.0,de,2
+Länderspielphase,Länderspielphase,LOC,0.0,1.0,de,2
 Saale,Saale,LOC,0.0,0.0,de,2
-K.-o.-Tropfen,K.-o.-Tropfen,LOC,-0.7,0.0,de,2
 Castroper Straße,Castroper Straße,LOC,0.7,0.0,de,2
-rechts-religiöse,rechts-religiöse,LOC,0.0,0.0,de,2
+Weimarer Land,Weimarer Land,LOC,0.0,0.0,de,2
+Bad Sulza,Bad Sulza,LOC,0.0,0.0,de,2
 Champions-League-Kurs,Champions-League-Kurs,LOC,0.0,0.0,de,2
 Bochum-Coach,Bochum-Coach,LOC,0.0,0.0,de,2
 VfL-Fans,VfL-Fans,LOC,-0.4125,0.375,de,2
-Abrutschen,Abrutschen,LOC,1.0,0.0,de,2
 Umwerfen,Umwerfen,LOC,0.7,0.0,de,2
-Streichs,Streichs,LOC,-0.25,0.0,de,2
-Leihverein,Leihverein,LOC,-0.35,0.0,de,2
-Nordirland,Nordirland,LOC,-0.35,0.0,de,2
-Brasiliens,Brasiliens,LOC,0.0,0.0,de,2
-Club-Angaben,Club-Angaben,LOC,0.0,0.0,de,2
-Bläh-Parlament,Bläh-Parlament,LOC,0.0,0.0,de,2
-Streichs Personalpuzzle,Streichs Personalpuzzle,LOC,0.0,0.0,de,2
-Rage,Rage,LOC,-0.85,0.0,de,2
-Meppen,Meppen,LOC,0.0,0.5,de,2
-Bundesliga-Saisonvorschau,Bundesliga-Saisonvorschau,LOC,0.0,0.0,de,2
+Leki,Leki,LOC,0.0,0.0,de,2
+Erzgebirge Aue,Erzgebirge Aue,LOC,0.175,0.25,de,2
+Großherzogtum,Großherzogtum,LOC,0.0,0.0,de,2
+Hofheimer,Hofheimer,LOC,0.5,0.0,de,2
+Syrern,Syrern,LOC,-1.0,0.0,de,2
+Südbaden,Südbaden,LOC,0.0,0.0,de,2
+Kehl,Kehl,LOC,0.0,0.0,de,2
+Bundesweit,Bundesweit,LOC,0.0,0.0,de,2
+Kanadierin,Kanadierin,LOC,0.0,0.0,de,2
+Saint-Gilloise,Saint-Gilloise,LOC,0.0,0.0,de,2
+Zaubertor,Zaubertor,LOC,0.0,0.0,de,2
+Rödelsee,Rödelsee,LOC,0.0,0.0,de,2
+Bank Platz,Bank Platz,LOC,0.0,1.0,de,2
+Syrien,Syrien,LOC,0.0,0.0,de,2
+Zauber-Fußball,Zauber-Fußball,LOC,1.0,0.0,de,2
+Borussia Dortmund,Borussia Dortmund,LOC,0.15000000000000002,0.0,de,2
+Profi-Fußballclubs,Profi-Fußballclubs,LOC,0.0,0.0,de,2
+Viktoriapark,Viktoriapark,LOC,0.7,0.0,de,2
+Kreuzberger Weins,Kreuzberger Weins,LOC,0.0,0.0,de,2
+Felsberg,Felsberg,LOC,0.0,0.0,de,2
+Samstagnachmittag-Konferenz,Samstagnachmittag-Konferenz,LOC,0.0,0.0,de,2
+Wohngeld-Empfänger,Wohngeld-Empfänger,LOC,-0.35,0.5,de,2
+Böddiger Berg,Böddiger Berg,LOC,0.0,0.0,de,2
+Hannover,Hannover,LOC,-0.35,0.0,de,2
+Zentrum von ,Zentrum von ,LOC,-0.35,0.0,de,2
+Freiburg-Coach,Freiburg-Coach,LOC,0.06666666666666665,0.0,de,2
+Ostfront,Ostfront,LOC,0.0,0.0,de,2
+Deutsch-Marokkaner,Deutsch-Marokkaner,LOC,0.0,0.0,de,2
+Mittelfeldzentrale,Mittelfeldzentrale,LOC,0.0,0.0,de,2
+Ostwestfalen,Ostwestfalen,LOC,0.0,0.0,de,2
+Rebblüte,Rebblüte,LOC,0.0,0.0,de,2
+Argentinien,Argentinien,LOC,0.0,0.0,de,2
+Negativerlebnisse,Negativerlebnisse,LOC,0.0,0.0,de,2
+Münchnern,Münchnern,LOC,0.0,0.0,de,2
+Oberösterreich,Oberösterreich,LOC,0.5,0.0,de,2
+Heimsp,Heimsp,LOC,-0.5,0.0,de,2
+Olympiakos,Olympiakos,LOC,-1.0,0.0,de,2
+Bundeslig,Bundeslig,LOC,0.0,0.0,de,2
+Hessenderby,Hessenderby,LOC,-0.7749999999999999,0.0,de,2
+Unterfranken,Unterfranken,LOC,0.0,0.0,de,2
+Statistischen Bundesamt,Statistischen Bundesamt,LOC,0.0,0.0,de,2
+Brighton,Brighton,LOC,0.5,0.0,de,2
+Trainer-Entlassung,Trainer-Entlassung,LOC,-0.11666666666666665,0.8333333333333333,de,2
+Münchner Stadion,Münchner Stadion,LOC,-0.5,0.0,de,2
+Wacken,Wacken,LOC,0.0,1.0,de,2
+Katholikentag-Tropfen,Katholikentag-Tropfen,LOC,0.0,0.0,de,2
+Mediensplitter,Mediensplitter,LOC,0.0,0.0,de,2
+Matsch-Massen,Matsch-Massen,LOC,0.0,1.0,de,2
+Meran,Meran,LOC,0.0,0.0,de,2
+ER,ER,LOC,0.35,0.0,de,2
+Koreaner,Koreaner,LOC,0.0,0.0,de,2
+Bundesliga-Punktspiel,Bundesliga-Punktspiel,LOC,0.0,0.0,de,2
+Europa-Park-Stadion,Europa-Park-Stadion,LOC,0.0,0.0,de,2
+Essen,Essen,LOC,0.35,0.0,de,2
+Mannheimer Schloss,Mannheimer Schloss,LOC,0.0,0.0,de,2
+BILD-Interview,BILD-Interview,LOC,0.0,0.0,de,2
+20-Millionen-Abgang von Keeper,20-Millionen-Abgang von Keeper,LOC,0.5,0.0,de,2
+Kölns,Kölns,LOC,0.0,0.0,de,2
 Elversberg,Elversberg,LOC,0.0,0.0,de,2
+Österreichs,Österreichs,LOC,0.5,0.0,de,2
+Abstiegskracher,Abstiegskracher,LOC,0.0,0.0,de,2
+Brüsten,Brüsten,LOC,0.0,0.0,de,2
+Quasi,Quasi,LOC,0.0,0.0,de,2
+Karriere-Interview,Karriere-Interview,LOC,0.0,0.0,de,2
+Mailand,Mailand,LOC,0.0,0.0,de,2
+Eisenhüttenstadt,Eisenhüttenstadt,LOC,0.0,0.0,de,2
+Streichs,Streichs,LOC,-0.25,0.0,de,2
+Kanga,Kanga,LOC,0.0,0.0,de,2
+Sachsens Elbtal,Sachsens Elbtal,LOC,0.0,0.0,de,2
+Lukebakio,Lukebakio,LOC,0.0,0.0,de,2
+Argentinier,Argentinier,LOC,0.0,0.0,de,2
+Leihverein,Leihverein,LOC,-0.35,0.0,de,2
+Freiburg - Hoffenheims,Freiburg - Hoffenheims,LOC,-0.7,0.0,de,2
+Sachsen,Sachsen,LOC,1.0,0.0,de,2
+Ingolstadt,Ingolstadt,LOC,0.0,0.0,de,2
+Bad Kleinen,Bad Kleinen,LOC,0.0,0.0,de,2
+Hansestädter,Hansestädter,LOC,0.0,0.0,de,2
+Wiesbaden,Wiesbaden,LOC,-0.35,0.0,de,2
+Sturm-Kante,Sturm-Kante,LOC,0.0,0.0,de,2
+Ligakonkurrenz,Ligakonkurrenz,LOC,0.0,0.0,de,2
+Bambasé Conté,Bambasé Conté,LOC,0.0,0.0,de,2
+Europa-League-Reise,Europa-League-Reise,LOC,0.0,0.0,de,2
+Steirer,Steirer,LOC,0.0,0.0,de,2
+Bundesliga-Saisonvorschau,Bundesliga-Saisonvorschau,LOC,0.0,0.0,de,2
+Heidenheim,Heidenheim,LOC,0.5,0.0,de,2
+Rage,Rage,LOC,-0.85,0.0,de,2
+Bläh-Parlament,Bläh-Parlament,LOC,0.0,0.0,de,2
+Europa-Park Stadions,Europa-Park Stadions,LOC,-0.35,0.0,de,2
+Ortenau,Ortenau,LOC,0.0,0.0,de,2
+Startelf-Garantien,Startelf-Garantien,LOC,0.0,0.0,de,2
+K.-o.-Tropfen,K.-o.-Tropfen,LOC,-0.7,0.0,de,2
+Streichs Personalpuzzle,Streichs Personalpuzzle,LOC,0.0,0.0,de,2
+Sa,Sa,LOC,0.0,0.0,de,2
 Münster,Münster,LOC,0.0,0.0,de,2
+Transfermarkt-Interview,Transfermarkt-Interview,LOC,-0.35,0.0,de,2
+Belgier,Belgier,LOC,-0.35,0.0,de,2
 Ghanas,Ghanas,LOC,0.0,0.0,de,2
+Albanien,Albanien,LOC,0.0,0.0,de,2
+COVID-19,COVID-19,LOC,0.0,0.0,de,2
+Bautzen,Bautzen,LOC,-1.0,0.0,de,2
+Schlotterbeck,Schlotterbeck,LOC,0.0,0.0,de,2
+Südkorea,Südkorea,LOC,0.0,1.0,de,2
+Bundesligazweite,Bundesligazweite,LOC,0.0,0.0,de,2
+Kapitol-Sturms,Kapitol-Sturms,LOC,0.0,0.0,de,2
+Ritsu Doan,Ritsu Doan,LOC,0.0,0.0,de,2
+Oberhaus,Oberhaus,LOC,-0.5,0.0,de,2
+Doan,Doan,LOC,0.0,0.0,de,2
+Abstiegskampf,Abstiegskampf,LOC,0.0,0.0,de,2
+Niederlande,Niederlande,LOC,0.0,0.0,de,2
+Schlotterbeck-Abgang,Schlotterbeck-Abgang,LOC,0.0,0.0,de,2
+Stammkeeper,Stammkeeper,LOC,0.2333333333333333,0.0,de,2
+Premier-League,Premier-League,LOC,0.0,0.0,de,2
+Oldenburger,Oldenburger,LOC,0.0,0.0,de,2
+Zentraliran,Zentraliran,LOC,-1.0,0.0,de,2
+Warnock in Georgia,Warnock in Georgia,LOC,0.7,0.0,de,2
+US-Senatorin,US-Senatorin,LOC,0.0,0.0,de,2
+Fulda,Fulda,LOC,0.0,0.0,de,2
+Pariser,Pariser,LOC,0.0,0.0,de,2
+B…,B…,LOC,0.0,0.0,de,2
+bb,bb,LOC,0.0,0.0,de,2
+Club-Angaben,Club-Angaben,LOC,0.0,0.0,de,2
+Bayerischen Landtag,Bayerischen Landtag,LOC,0.0,0.0,de,2
+Leipzigern,Leipzigern,LOC,0.5,0.0,de,2
+Abgeordnetenhauswahl,Abgeordnetenhauswahl,LOC,0.0,0.0,de,2
+Bundesstaat,Bundesstaat,LOC,-0.35,0.0,de,2
+Delhi,Delhi,LOC,0.0,0.0,de,2
+Himachal Pradesh,Himachal Pradesh,LOC,0.0,0.0,de,2
+US-Präsident,US-Präsident,LOC,0.0,0.0,de,2
+Georgier,Georgier,LOC,0.0,0.0,de,2
+Fußball-Jahres,Fußball-Jahres,LOC,1.0,0.0,de,2
+Gujarat,Gujarat,LOC,0.35,0.0,de,2
 Bund,Bund,LOC,0.0,0.0,de,2
 Findungssuche,Findungssuche,LOC,-1.0,0.0,de,2
 Verl,Verl,LOC,0.0,0.0,de,2
-Pr,Pr,LOC,0.0,0.0,de,2
-Delhi,Delhi,LOC,0.0,0.0,de,2
-Felsberg,Felsberg,LOC,0.0,0.0,de,2
-Himachal Pradesh,Himachal Pradesh,LOC,0.0,0.0,de,2
-Böddiger Berg,Böddiger Berg,LOC,0.0,0.0,de,2
-Sachsens Elbtal,Sachsens Elbtal,LOC,0.0,0.0,de,2
-Gujarat,Gujarat,LOC,0.35,0.0,de,2
-Negativerlebnisse,Negativerlebnisse,LOC,0.0,0.0,de,2
-B…,B…,LOC,0.0,0.0,de,2
-US-Senatorin,US-Senatorin,LOC,0.0,0.0,de,2
-Mailand,Mailand,LOC,0.0,0.0,de,2
-Hansestädter,Hansestädter,LOC,0.0,0.0,de,2
-Georgier,Georgier,LOC,0.0,0.0,de,2
-Eisenhüttenstadt,Eisenhüttenstadt,LOC,0.0,0.0,de,2
-Zauber-Fußball,Zauber-Fußball,LOC,1.0,0.0,de,2
-bb,bb,LOC,0.0,0.0,de,2
-Viktoriapark,Viktoriapark,LOC,0.7,0.0,de,2
-Kreuzberger Weins,Kreuzberger Weins,LOC,0.0,0.0,de,2
-Brüsten,Brüsten,LOC,0.0,0.0,de,2
-Leipzigern,Leipzigern,LOC,0.5,0.0,de,2
-Washington,Washington,LOC,-0.35,0.0,de,2
-Freiburg-Coach,Freiburg-Coach,LOC,0.06666666666666665,0.0,de,2
-Kehl,Kehl,LOC,0.0,0.0,de,2
-Löwelstraße,Löwelstraße,LOC,0.0,0.0,de,2
-Südbaden,Südbaden,LOC,0.0,0.0,de,2
-Rebblüte,Rebblüte,LOC,0.0,0.0,de,2
-Abstiegskracher,Abstiegskracher,LOC,0.0,0.0,de,2
-Abgeordnetenhauswahl,Abgeordnetenhauswahl,LOC,0.0,0.0,de,2
-US-Präsident,US-Präsident,LOC,0.0,0.0,de,2
-Kanadierin,Kanadierin,LOC,0.0,0.0,de,2
-COVID-19,COVID-19,LOC,0.0,0.0,de,2
-Wohngeld-Empfänger,Wohngeld-Empfänger,LOC,-0.35,0.5,de,2
-Katholikentag-Tropfen,Katholikentag-Tropfen,LOC,0.0,0.0,de,2
-Wolfsburg-Spiel,Wolfsburg-Spiel,LOC,0.0,0.5,de,2
-Premier-League,Premier-League,LOC,0.0,0.0,de,2
-Schlotterbeck-Abgang,Schlotterbeck-Abgang,LOC,0.0,0.0,de,2
-Europa-Park Stadions,Europa-Park Stadions,LOC,-0.35,0.0,de,2
-Münchnern,Münchnern,LOC,0.0,0.0,de,2
-Abstiegskampf,Abstiegskampf,LOC,0.0,0.0,de,2
-Fußball-Jahres,Fußball-Jahres,LOC,1.0,0.0,de,2
-Olympiakos,Olympiakos,LOC,-1.0,0.0,de,2
-Großherzogtum,Großherzogtum,LOC,0.0,0.0,de,2
-Oberhaus,Oberhaus,LOC,-0.5,0.0,de,2
-Südkorea,Südkorea,LOC,0.0,1.0,de,2
-Schlotterbeck,Schlotterbeck,LOC,0.0,0.0,de,2
-Kapitol-Sturms,Kapitol-Sturms,LOC,0.0,0.0,de,2
-St,St,LOC,0.35,0.0,de,2
-Hofheimer,Hofheimer,LOC,0.5,0.0,de,2
-Bad Kleinen,Bad Kleinen,LOC,0.0,0.0,de,2
-Bautzen,Bautzen,LOC,-1.0,0.0,de,2
+br.de,br.de,LOC,0.0,0.0,de,2
+Isfahan,Isfahan,LOC,-1.0,0.0,de,2
 Amerika,Amerika,LOC,0.0,0.5,de,2
-Oberösterreich,Oberösterreich,LOC,0.5,0.0,de,2
-Warnock in Georgia,Warnock in Georgia,LOC,0.7,0.0,de,2
-Bundeslig,Bundeslig,LOC,0.0,0.0,de,2
-Bundesligazweite,Bundesligazweite,LOC,0.0,0.0,de,2
-Deutsch-Marokkaner,Deutsch-Marokkaner,LOC,0.0,0.0,de,2
-Mannheimer Schloss,Mannheimer Schloss,LOC,0.0,0.0,de,2
-Kölns,Kölns,LOC,0.0,0.0,de,2
-Bremer Brücke,Bremer Brücke,LOC,0.0,0.0,de,1
-Rote Erde,Rote Erde,LOC,0.0,0.0,de,1
-Duisburger,Duisburger,LOC,-1.0,0.0,de,1
-Almamy Touré,Almamy Touré,LOC,-0.7,0.0,de,1
-Lissabon,Lissabon,LOC,0.0,0.0,de,1
-Frankfurter Stadtwald,Frankfurter Stadtwald,LOC,0.0,0.0,de,1
-Sportplat,Sportplat,LOC,0.0,0.0,de,1
-Vorfreude Freiburg,Vorfreude Freiburg,LOC,0.0,0.0,de,1
-Aue,Aue,LOC,0.0,0.0,de,1
-West Ham,West Ham,LOC,-0.7,0.0,de,1
-Champions-League-Ticket,Champions-League-Ticket,LOC,0.0,0.0,de,1
-Schwarzwald,Schwarzwald,LOC,0.0,0.0,de,1
-Na,Na,LOC,0.0,0.0,de,1
-Königsklassen-Chance,Königsklassen-Chance,LOC,-0.85,0.0,de,1
-Atubolu  kicker,Atubolu  kicker,LOC,0.0,0.0,de,1
-Winzer-,Winzer-,LOC,0.0,0.0,de,1
-Ibiza,Ibiza,LOC,0.0,0.0,de,1
-Diedenber,Diedenber,LOC,0.0,0.0,de,1
-Burgenlands,Burgenlands,LOC,0.0,0.0,de,1
-Se,Se,LOC,0.0,1.0,de,1
-Ontuzans,Ontuzans,LOC,0.0,0.0,de,1
-Prügel-Clans,Prügel-Clans,LOC,-1.0,0.0,de,1
-Diedenbergener Sonnenhang,Diedenbergener Sonnenhang,LOC,0.0,0.0,de,1
-Europa-Le,Europa-Le,LOC,0.0,0.0,de,1
-Ösi-Stürmer,Ösi-Stürmer,LOC,0.0,0.0,de,1
-Ge… Adamu,Ge… Adamu,LOC,1.0,0.0,de,1
-Europa-League-Starter,Europa-League-Starter,LOC,1.0,0.0,de,1
-Aussperrklausel,Aussperrklausel,LOC,0.0,0.0,de,1
-südamerikanischen Land,südamerikanischen Land,LOC,0.0,0.0,de,1
-Pflichtspielei,Pflichtspielei,LOC,0.0,0.0,de,1
-Polen,Polen,LOC,-1.0,0.0,de,1
-Transferausgaben,Transferausgaben,LOC,0.0,0.0,de,1
-Provinzbahnhof,Provinzbahnhof,LOC,-0.10000000000000002,0.3333333333333333,de,1
-Torwartzukun,Torwartzukun,LOC,0.35,0.5,de,1
-Rekord-Transfer,Rekord-Transfer,LOC,0.0,0.0,de,1
-Barcelona,Barcelona,LOC,0.0,0.0,de,1
-23-Jähr,23-Jähr,LOC,0.0,0.0,de,1
-Freiburg fix - Müller,Freiburg fix - Müller,LOC,0.0,0.0,de,1
-Ulm,Ulm,LOC,0.0,0.0,de,1
-Wiens,Wiens,LOC,0.0,0.0,de,1
-Dreisamstad,Dreisamstad,LOC,0.0,0.0,de,1
-tschüs,tschüs,LOC,0.0,0.0,de,1
-Perspek,Perspek,LOC,0.0,0.0,de,1
-Diedenbergen,Diedenbergen,LOC,0.0,0.0,de,1
-Putin,Putin,LOC,0.0,0.0,de,1
-Therapi,Therapi,LOC,1.0,0.0,de,1
-Nmechas,Nmechas,LOC,0.0,0.0,de,1
-Riesa,Riesa,LOC,0.0,0.0,de,1
-Rumänien,Rumänien,LOC,0.0,0.0,de,1
-Ge,Ge,LOC,0.0,0.0,de,1
-Leeds,Leeds,LOC,0.7,0.0,de,1
-Ketchup-Flasche,Ketchup-Flasche,LOC,0.0,0.0,de,1
-Spieltagsheld,Spieltagsheld,LOC,0.0,0.0,de,1
-Absage-Angst,Absage-Angst,LOC,0.0,1.0,de,1
-Ösi-Star,Ösi-Star,LOC,0.7,0.0,de,1
-Festivalende,Festivalende,LOC,0.0,1.0,de,1
-Winterthur,Winterthur,LOC,0.0,0.0,de,1
-Mio-Klub,Mio-Klub,LOC,0.0,0.0,de,1
-Fortuna,Fortuna,LOC,0.0,0.0,de,1
-Baden nach Schwaben,Baden nach Schwaben,LOC,0.0,0.0,de,1
-Balingen,Balingen,LOC,0.0,0.0,de,1
-Streichs Freiburg-Sorgen,Streichs Freiburg-Sorgen,LOC,0.0,0.0,de,1
-Stadion-Suche,Stadion-Suche,LOC,0.0,0.0,de,1
-Abgang,Abgang,LOC,0.0,0.0,de,1
-Georgien,Georgien,LOC,0.0,0.0,de,1
-Fußball-Bu,Fußball-Bu,LOC,0.0,0.0,de,1
-Abschi,Abschi,LOC,0.0,0.0,de,1
-Ösi-Knipser,Ösi-Knipser,LOC,0.0,0.0,de,1
-Bayern-Fankurve,Bayern-Fankurve,LOC,-1.0,0.0,de,1
-Fotostand,Fotostand,LOC,1.0,0.0,de,1
-Alt Neu,Alt Neu,LOC,0.0,0.0,de,1
-Hochzeitskorso +++ Brände,Hochzeitskorso +++ Brände,LOC,-0.5666666666666667,0.3333333333333333,de,1
-Form-Schwankungen,Form-Schwankungen,LOC,0.0,0.0,de,1
-Verletzte,Verletzte,LOC,0.0,0.0,de,1
-Mängel-Liste,Mängel-Liste,LOC,0.0,0.0,de,1
-Alario,Alario,LOC,-1.0,0.0,de,1
-Mehrnbach,Mehrnbach,LOC,0.0,0.0,de,1
-mega-lang,mega-lang,LOC,0.0,0.0,de,1
-Innviertel,Innviertel,LOC,1.0,0.0,de,1
-oö,oö,LOC,0.0,0.0,de,1
-Weimar,Weimar,LOC,0.0,0.0,de,1
-Torfs,Torfs,LOC,-0.7,0.0,de,1
-Mannschaft,Mannschaft,LOC,-0.7,0.0,de,1
-Sonneborn,Sonneborn,LOC,0.0,0.0,de,1
-Aberdeen,Aberdeen,LOC,1.0,0.0,de,1
-Schöne Grüße,Schöne Grüße,LOC,1.0,0.0,de,1
-Freiburg-Verbleib,Freiburg-Verbleib,LOC,0.0,0.0,de,1
-Kössler,Kössler,LOC,-1.0,0.0,de,1
-Fehlerfestival,Fehlerfestival,LOC,0.0,0.0,de,1
-Joker-Tor,Joker-Tor,LOC,0.7,0.0,de,1
-Streich-Elf,Streich-Elf,LOC,-1.0,0.0,de,1
-Zwei-Tore-Rückstands,Zwei-Tore-Rückstands,LOC,0.0,0.0,de,1
-Promi-Boxen,Promi-Boxen,LOC,0.0,0.0,de,1
-Leverkusener Offensivrausch,Leverkusener Offensivrausch,LOC,0.7,0.0,de,1
-Europa-League-Abenteuer,Europa-League-Abenteuer,LOC,0.0,0.0,de,1
-Griechenland,Griechenland,LOC,0.0,0.0,de,1
-Weinanbau in Rheinhessen,Weinanbau in Rheinhessen,LOC,0.0,0.0,de,1
-Champions-League-Kracher,Champions-League-Kracher,LOC,0.0,0.0,de,1
-Gladbachs,Gladbachs,LOC,0.0,0.0,de,1
-T,T,LOC,0.0,0.0,de,1
-Lesehelferin,Lesehelferin,LOC,0.0,0.0,de,1
-Dreierkoalition,Dreierkoalition,LOC,0.7,0.0,de,1
-Schmitten,Schmitten,LOC,-0.5666666666666667,0.3333333333333333,de,1
-Fehlstart-Sorgen,Fehlstart-Sorgen,LOC,0.7,0.0,de,1
-Titelanwärter Dortmund,Titelanwärter Dortmund,LOC,0.0,0.0,de,1
-Bundesliga-Spieltage,Bundesliga-Spieltage,LOC,0.0,0.0,de,1
-Säbener Straße,Säbener Straße,LOC,0.0,0.0,de,1
-Yverdon,Yverdon,LOC,0.0,0.0,de,1
-Hessische Bergstraße,Hessische Bergstraße,LOC,0.0,0.0,de,1
-Bergstraße,Bergstraße,LOC,0.7,0.0,de,1
-Weinreben,Weinreben,LOC,0.7,0.0,de,1
-Anbe­tracht,Anbe­tracht,LOC,1.0,0.0,de,1
-Dach­stuhl,Dach­stuhl,LOC,0.0,0.0,de,1
-Kopenhagen,Kopenhagen,LOC,0.0,0.0,de,1
-Zweitrunden-Begegn,Zweitrunden-Begegn,LOC,0.0,0.0,de,1
-Europapokal-Ränge herangeschoben,Europapokal-Ränge herangeschoben,LOC,0.0,0.0,de,1
-Lienhart-Tor,Lienhart-Tor,LOC,0.0,0.0,de,1
-Mega-Solo,Mega-Solo,LOC,0.0,0.0,de,1
-Werder-Aufholjagd,Werder-Aufholjagd,LOC,0.0,0.0,de,1
-Spitzenteams Dortmund,Spitzenteams Dortmund,LOC,0.0,0.0,de,1
-Fuggerstädter,Fuggerstädter,LOC,1.0,0.0,de,1
-Bad Homburg,Bad Homburg,LOC,0.0,0.0,de,1
-Frankfurt +++,Frankfurt +++,LOC,-0.35,0.5,de,1
-Kreuzberg,Kreuzberg,LOC,-1.0,0.0,de,1
-Magdeburg,Magdeburg,LOC,0.0,0.0,de,1
-Kiel,Kiel,LOC,0.0,0.0,de,1
-Eggestein-Kracher,Eggestein-Kracher,LOC,-0.5,0.5,de,1
-Schlosspark Sanssouci,Schlosspark Sanssouci,LOC,0.0,0.0,de,1
-Königlicher,Königlicher,LOC,1.0,0.0,de,1
-Exlusiv,Exlusiv,LOC,0.0,0.0,de,1
-Wohngeld-Empfänger +++ Hanau,Wohngeld-Empfänger +++ Hanau,LOC,-0.5666666666666667,0.3333333333333333,de,1
-Friedberg +++,Friedberg +++,LOC,-0.5666666666666667,0.3333333333333333,de,1
-Herborn +++,Herborn +++,LOC,-0.5666666666666667,0.3333333333333333,de,1
-Luxemb,Luxemb,LOC,0.0,0.0,de,1
-Leibnitz,Leibnitz,LOC,-1.0,0.0,de,1
-Sausal,Sausal,LOC,-1.0,0.0,de,1
-Schwitzen,Schwitzen,LOC,0.0,0.0,de,1
-Kitzeck,Kitzeck,LOC,-1.0,0.0,de,1
-Transfer-Fensters,Transfer-Fensters,LOC,0.0,1.0,de,1
+Washington,Washington,LOC,-0.35,0.0,de,2
+Pr,Pr,LOC,0.0,0.0,de,2
+Löwelstraße,Löwelstraße,LOC,0.0,0.0,de,2
+St,St,LOC,0.35,0.0,de,2
+rechts-religiöse,rechts-religiöse,LOC,0.0,0.0,de,2
+Brasiliens,Brasiliens,LOC,0.0,0.0,de,2
+Meppen,Meppen,LOC,0.0,0.5,de,2
+Pforzheimer,Pforzheimer,LOC,0.0,0.0,de,2
+Nordirland,Nordirland,LOC,-0.35,0.0,de,2
+Berlins,Berlins,LOC,-0.7,0.0,de,2
 Deadline-Day,Deadline-Day,LOC,0.0,1.0,de,1
+Stuttgarter Spektakel,Stuttgarter Spektakel,LOC,0.0,0.0,de,1
+Wiens,Wiens,LOC,0.0,0.0,de,1
+Benlpekteup,Benlpekteup,LOC,0.0,0.0,de,1
+Wahlschlappe,Wahlschlappe,LOC,0.0,0.0,de,1
+Europa-League-Saison,Europa-League-Saison,LOC,0.0,0.0,de,1
+Vermurungen,Vermurungen,LOC,0.0,0.0,de,1
+Sildillia,Sildillia,LOC,0.0,0.0,de,1
+23-Jähr,23-Jähr,LOC,0.0,0.0,de,1
+Sommer-Transferfenster,Sommer-Transferfenster,LOC,0.0,0.0,de,1
+Transfer-Fensters,Transfer-Fensters,LOC,0.0,1.0,de,1
+Rekord-Transfer,Rekord-Transfer,LOC,0.0,0.0,de,1
+Insel,Insel,LOC,0.0,0.0,de,1
+Freiburg-Klatsche,Freiburg-Klatsche,LOC,0.0,0.0,de,1
 Rubin Kazan,Rubin Kazan,LOC,0.0,0.0,de,1
 Arsenal,Arsenal,LOC,0.0,0.0,de,1
 Monaco,Monaco,LOC,0.0,0.0,de,1
+Peking,Peking,LOC,0.0,0.0,de,1
+Transferausgaben,Transferausgaben,LOC,0.0,0.0,de,1
+Magentasport,Magentasport,LOC,0.0,1.0,de,1
 Nordburgenland,Nordburgenland,LOC,0.3333333333333333,0.0,de,1
-Sigless,Sigless,LOC,0.0,0.0,de,1
-Verletzungs-Horror,Verletzungs-Horror,LOC,1.0,0.0,de,1
+Fotostand,Fotostand,LOC,1.0,0.0,de,1
 Traum-Comeback,Traum-Comeback,LOC,0.0,0.0,de,1
 Wiener Landwirtschaftskammer,Wiener Landwirtschaftskammer,LOC,0.0,0.0,de,1
+Bay,Bay,LOC,0.0,0.0,de,1
+Simakan,Simakan,LOC,-0.5,0.0,de,1
+Szoboszlai,Szoboszlai,LOC,-0.5,0.0,de,1
+Keitel,Keitel,LOC,0.0,0.0,de,1
+Länderspiel-Pause,Länderspiel-Pause,LOC,0.5,0.5,de,1
+Sonnendorf,Sonnendorf,LOC,0.7,0.0,de,1
+Putin,Putin,LOC,0.0,0.0,de,1
+Bezirk Krems,Bezirk Krems,LOC,0.0,0.0,de,1
+Blaswich,Blaswich,LOC,-0.5,0.0,de,1
+Camping: Weinfranken,Camping: Weinfranken,LOC,1.0,0.0,de,1
+Katar fü…,Katar fü…,LOC,0.0,0.0,de,1
+Donnerskirchen,Donnerskirchen,LOC,0.0,0.0,de,1
+Pfalz,Pfalz,LOC,0.0,0.0,de,1
+Niederösterreich,Niederösterreich,LOC,0.7,0.0,de,1
+pelluu,pelluu,LOC,0.0,0.0,de,1
+Rheingauer,Rheingauer,LOC,0.0,0.0,de,1
+bayerischen Landtag,bayerischen Landtag,LOC,0.0,0.0,de,1
+Prügel-Clans,Prügel-Clans,LOC,-1.0,0.0,de,1
+heuer,heuer,LOC,0.0,0.0,de,1
+Perspek,Perspek,LOC,0.0,0.0,de,1
+Freiburg-Topscorer,Freiburg-Topscorer,LOC,0.0,0.0,de,1
+Politiker-Accessoire,Politiker-Accessoire,LOC,0.0,0.0,de,1
+Ble pell 09ib lealeleupe B,Ble pell 09ib lealeleupe B,LOC,0.0,0.0,de,1
+Kübler,Kübler,LOC,0.0,0.0,de,1
+Wunsch-Stürmer,Wunsch-Stürmer,LOC,0.0,0.0,de,1
+Pflichtspielei,Pflichtspielei,LOC,0.0,0.0,de,1
+Supermark,Supermark,LOC,0.0,1.0,de,1
+Stuttgart-Debakel,Stuttgart-Debakel,LOC,-1.0,0.0,de,1
+Festivalende,Festivalende,LOC,0.0,1.0,de,1
+südamerikanischen Land,südamerikanischen Land,LOC,0.0,0.0,de,1
+Nmechas,Nmechas,LOC,0.0,0.0,de,1
+Hausicke,Hausicke,LOC,0.0,0.0,de,1
+Südostasien,Südostasien,LOC,0.0,1.0,de,1
+Vorfreude Freiburg,Vorfreude Freiburg,LOC,0.0,0.0,de,1
+Oberste Wahlgericht,Oberste Wahlgericht,LOC,0.0,0.0,de,1
+Ösi-Knipser,Ösi-Knipser,LOC,0.0,0.0,de,1
+Schwarzwald,Schwarzwald,LOC,0.0,0.0,de,1
+Se,Se,LOC,0.0,1.0,de,1
+Burgenlands,Burgenlands,LOC,0.0,0.0,de,1
+Dauermobbing,Dauermobbing,LOC,0.0,0.0,de,1
+Atubolu  kicker,Atubolu  kicker,LOC,0.0,0.0,de,1
+Abschi,Abschi,LOC,0.0,0.0,de,1
+Flekkens,Flekkens,LOC,0.0,0.0,de,1
+Abgang,Abgang,LOC,0.0,0.0,de,1
+Streichs Freiburg-Sorgen,Streichs Freiburg-Sorgen,LOC,0.0,0.0,de,1
+Hamburg,Hamburg,LOC,0.0,0.0,de,1
+Rote Erde,Rote Erde,LOC,0.0,0.0,de,1
+Baden nach Schwaben,Baden nach Schwaben,LOC,0.0,0.0,de,1
+Duisburger,Duisburger,LOC,-1.0,0.0,de,1
+Barcelona,Barcelona,LOC,0.0,0.0,de,1
+Ge,Ge,LOC,0.0,0.0,de,1
+Leeds,Leeds,LOC,0.7,0.0,de,1
+Wirtschaftsgrößen,Wirtschaftsgrößen,LOC,0.0,0.0,de,1
+Ketchup-Flasche,Ketchup-Flasche,LOC,0.0,0.0,de,1
+Zahl,Zahl,LOC,1.0,0.0,de,1
+Sportplat,Sportplat,LOC,0.0,0.0,de,1
 Verletzungsschock,Verletzungsschock,LOC,-1.0,0.0,de,1
-Stammplatz-Garantien,Stammplatz-Garantien,LOC,0.0,0.0,de,1
-Aktion,Aktion,LOC,-0.7,0.0,de,1
-Bege,Bege,LOC,0.0,0.0,de,1
-Mattersburg,Mattersburg,LOC,0.0,0.0,de,1
-Halle,Halle,LOC,-1.0,0.0,de,1
+US-Präsidenten,US-Präsidenten,LOC,0.0,0.0,de,1
+Absage-Angst,Absage-Angst,LOC,0.0,1.0,de,1
+Werders Bundesliga-Frauen,Werders Bundesliga-Frauen,LOC,0.0,0.0,de,1
+Bundesliga-Elf,Bundesliga-Elf,LOC,0.0,0.0,de,1
+Transfermar,Transfermar,LOC,0.0,0.0,de,1
 Staufen,Staufen,LOC,0.0,0.0,de,1
 Baden,Baden,LOC,0.7,0.0,de,1
 Federweißerlese,Federweißerlese,LOC,0.7,0.0,de,1
@@ -480,330 +415,403 @@ Steiermark,Steiermark,LOC,0.0,0.0,de,1
 Top-Jahrgang,Top-Jahrgang,LOC,0.0,0.0,de,1
 Frei­burger Trans­fer­bi­lanz,Frei­burger Trans­fer­bi­lanz,LOC,-0.7,0.0,de,1
 Bundesligasaisonvorschau,Bundesligasaisonvorschau,LOC,0.0,0.0,de,1
+Kongresskammer,Kongresskammer,LOC,0.0,0.0,de,1
+Therapi,Therapi,LOC,1.0,0.0,de,1
 Hoffenheims,Hoffenheims,LOC,0.0,0.0,de,1
 Nmecha,Nmecha,LOC,0.0,0.0,de,1
+Saison-Auft,Saison-Auft,LOC,0.0,0.0,de,1
+Fehlstart-Sorgen,Fehlstart-Sorgen,LOC,0.7,0.0,de,1
+Alt Neu,Alt Neu,LOC,0.0,0.0,de,1
+Abgeordnetenhaus,Abgeordnetenhaus,LOC,0.0,0.0,de,1
+Ghana,Ghana,LOC,0.0,0.0,de,1
+Champions-League-Kracher,Champions-League-Kracher,LOC,0.0,0.0,de,1
+Freiburg-Drama,Freiburg-Drama,LOC,-1.0,0.0,de,1
+Bayern-Fankurve,Bayern-Fankurve,LOC,-1.0,0.0,de,1
+Verletzungs-Horror,Verletzungs-Horror,LOC,1.0,0.0,de,1
+Dreisamstad,Dreisamstad,LOC,0.0,0.0,de,1
+Aue,Aue,LOC,0.0,0.0,de,1
+West Ham,West Ham,LOC,-0.7,0.0,de,1
+Diedenber,Diedenber,LOC,0.0,0.0,de,1
+Diedenbergener Sonnenhang,Diedenbergener Sonnenhang,LOC,0.0,0.0,de,1
+Diedenbergen,Diedenbergen,LOC,0.0,0.0,de,1
+Riesa,Riesa,LOC,0.0,0.0,de,1
+Spieltagsheld,Spieltagsheld,LOC,0.0,0.0,de,1
+Winzer-,Winzer-,LOC,0.0,0.0,de,1
+Lissabon,Lissabon,LOC,0.0,0.0,de,1
+Halle,Halle,LOC,-1.0,0.0,de,1
+Mattersburg,Mattersburg,LOC,0.0,0.0,de,1
+Sigless,Sigless,LOC,0.0,0.0,de,1
 Turbo-Herbst,Turbo-Herbst,LOC,0.0,0.0,de,1
-Sommer-Transferfenster,Sommer-Transferfenster,LOC,0.0,0.0,de,1
+Ostdeutsche,Ostdeutsche,LOC,0.0,0.0,de,1
+Wei,Wei,LOC,0.0,0.0,de,1
+Rheinhessen,Rheinhessen,LOC,0.0,0.0,de,1
+Lesephase,Lesephase,LOC,0.2333333333333333,0.6666666666666666,de,1
+Schwitzen,Schwitzen,LOC,0.0,0.0,de,1
+Weinanbau in Rheinhessen,Weinanbau in Rheinhessen,LOC,0.0,0.0,de,1
+Dänemark-Wahl,Dänemark-Wahl,LOC,0.0,0.0,de,1
+Frederiksen,Frederiksen,LOC,0.0,0.0,de,1
+Freiburg-Verbleib,Freiburg-Verbleib,LOC,0.0,0.0,de,1
+Nafta,Nafta,LOC,0.0,0.0,de,1
+Verletzte,Verletzte,LOC,0.0,0.0,de,1
+Form-Schwankungen,Form-Schwankungen,LOC,0.0,0.0,de,1
+Dreierkoalition,Dreierkoalition,LOC,0.7,0.0,de,1
+Luxemb,Luxemb,LOC,0.0,0.0,de,1
+Leverkusener,Leverkusener,LOC,1.0,0.0,de,1
+Exlusiv,Exlusiv,LOC,0.0,0.0,de,1
+Mega-Solo,Mega-Solo,LOC,0.0,0.0,de,1
 Gege,Gege,LOC,0.0,0.0,de,1
-Pfalz,Pfalz,LOC,0.0,0.0,de,1
+Tübingen,Tübingen,LOC,0.0,0.0,de,1
+Österreich-Nationaltrainer,Österreich-Nationaltrainer,LOC,0.0,0.0,de,1
+Luxemburger,Luxemburger,LOC,0.0,0.0,de,1
+Julius-Hirsch-Preises,Julius-Hirsch-Preises,LOC,1.0,0.0,de,1
+Habeck-Video,Habeck-Video,LOC,0.5,0.5,de,1
+Politiker-Aussagen,Politiker-Aussagen,LOC,0.0,0.0,de,1
+Frohms,Frohms,LOC,1.0,0.0,de,1
+Fußball-Bu,Fußball-Bu,LOC,0.0,0.0,de,1
+Ulm,Ulm,LOC,0.0,0.0,de,1
+Bege,Bege,LOC,0.0,0.0,de,1
+Aktion,Aktion,LOC,-0.7,0.0,de,1
+London,London,LOC,0.0,0.0,de,1
+Stammplatz-Garantien,Stammplatz-Garantien,LOC,0.0,0.0,de,1
+Saudi-Arabien,Saudi-Arabien,LOC,1.0,0.0,de,1
+Zweitrunden-Begegn,Zweitrunden-Begegn,LOC,0.0,0.0,de,1
+Saudi-Kohle,Saudi-Kohle,LOC,0.0,0.0,de,1
+Vorne,Vorne,LOC,0.0,0.0,de,1
+Gladbachs,Gladbachs,LOC,0.0,0.0,de,1
+Promi-Boxen,Promi-Boxen,LOC,0.0,0.0,de,1
+Zwei-Tore-Rückstands,Zwei-Tore-Rückstands,LOC,0.0,0.0,de,1
+Kössler,Kössler,LOC,-1.0,0.0,de,1
+mega-lang,mega-lang,LOC,0.0,0.0,de,1
+Mängel-Liste,Mängel-Liste,LOC,0.0,0.0,de,1
+Titelanwärter Dortmund,Titelanwärter Dortmund,LOC,0.0,0.0,de,1
+Eggestein-Kracher,Eggestein-Kracher,LOC,-0.5,0.5,de,1
+Kiel,Kiel,LOC,0.0,0.0,de,1
+Magdeburg,Magdeburg,LOC,0.0,0.0,de,1
+Spitzenteams Dortmund,Spitzenteams Dortmund,LOC,0.0,0.0,de,1
+Bundesliga-Spieltage,Bundesliga-Spieltage,LOC,0.0,0.0,de,1
+Säbener Straße,Säbener Straße,LOC,0.0,0.0,de,1
+Olmo,Olmo,LOC,-0.5,0.0,de,1
+Likud,Likud,LOC,0.0,0.0,de,1
+Alario,Alario,LOC,-1.0,0.0,de,1
+Mehrnbach,Mehrnbach,LOC,0.0,0.0,de,1
+Innviertel,Innviertel,LOC,1.0,0.0,de,1
+oö,oö,LOC,0.0,0.0,de,1
+tz</li><li,tz</li><li,LOC,0.0,0.0,de,1
+Weimar,Weimar,LOC,0.0,0.0,de,1
+Torfs,Torfs,LOC,-0.7,0.0,de,1
+Mannschaft,Mannschaft,LOC,-0.7,0.0,de,1
+Sonneborn,Sonneborn,LOC,0.0,0.0,de,1
+Aberdeen,Aberdeen,LOC,1.0,0.0,de,1
+Schöne Grüße,Schöne Grüße,LOC,1.0,0.0,de,1
+Fehlerfestival,Fehlerfestival,LOC,0.0,0.0,de,1
+Sport</li><li>1860,Sport</li><li>1860,LOC,0.0,0.0,de,1
+Joker-Tor,Joker-Tor,LOC,0.7,0.0,de,1
+Streich-Elf,Streich-Elf,LOC,-1.0,0.0,de,1
+Oberpfälzer,Oberpfälzer,LOC,0.0,0.0,de,1
+Orbán,Orbán,LOC,-0.5,0.0,de,1
+Leverkusener Offensivrausch,Leverkusener Offensivrausch,LOC,0.7,0.0,de,1
+Europa-League-Abenteuer,Europa-League-Abenteuer,LOC,0.0,0.0,de,1
+Griechenland,Griechenland,LOC,0.0,0.0,de,1
+tschüs,tschüs,LOC,0.0,0.0,de,1
+T,T,LOC,0.0,0.0,de,1
+Lesehelferin,Lesehelferin,LOC,0.0,0.0,de,1
+Leibnitz,Leibnitz,LOC,-1.0,0.0,de,1
+Sausal,Sausal,LOC,-1.0,0.0,de,1
+Kitzeck,Kitzeck,LOC,-1.0,0.0,de,1
 Döbling Mayer,Döbling Mayer,LOC,0.7,0.0,de,1
 Zwangsp,Zwangsp,LOC,0.0,0.0,de,1
-Freiburg-Drama,Freiburg-Drama,LOC,-1.0,0.0,de,1
-Saison-Auft,Saison-Auft,LOC,0.0,0.0,de,1
-Lesephase,Lesephase,LOC,0.2333333333333333,0.6666666666666666,de,1
-Vermurungen,Vermurungen,LOC,0.0,0.0,de,1
-Niederösterreich,Niederösterreich,LOC,0.7,0.0,de,1
-Bezirk Krems,Bezirk Krems,LOC,0.0,0.0,de,1
-Länderspiel-Pause,Länderspiel-Pause,LOC,0.5,0.5,de,1
-Rheinhessen,Rheinhessen,LOC,0.0,0.0,de,1
-Sonnendorf,Sonnendorf,LOC,0.7,0.0,de,1
-Vorne,Vorne,LOC,0.0,0.0,de,1
-Donnerskirchen,Donnerskirchen,LOC,0.0,0.0,de,1
-Wei,Wei,LOC,0.0,0.0,de,1
-Europa-League-Saison,Europa-League-Saison,LOC,0.0,0.0,de,1
-Rheingauer,Rheingauer,LOC,0.0,0.0,de,1
-Saudi-Kohle,Saudi-Kohle,LOC,0.0,0.0,de,1
-Saudi-Arabien,Saudi-Arabien,LOC,1.0,0.0,de,1
-heuer,heuer,LOC,0.0,0.0,de,1
-Freiburg-Topscorer,Freiburg-Topscorer,LOC,0.0,0.0,de,1
-Ostdeutsche,Ostdeutsche,LOC,0.0,0.0,de,1
-Leverkusener,Leverkusener,LOC,1.0,0.0,de,1
-Wunsch-Stürmer,Wunsch-Stürmer,LOC,0.0,0.0,de,1
-Supermark,Supermark,LOC,0.0,1.0,de,1
-Stuttgart-Debakel,Stuttgart-Debakel,LOC,-1.0,0.0,de,1
-Freiburg-Klatsche,Freiburg-Klatsche,LOC,0.0,0.0,de,1
-Bay,Bay,LOC,0.0,0.0,de,1
-Stuttgarter Spektakel,Stuttgarter Spektakel,LOC,0.0,0.0,de,1
-Politiker-Accessoire,Politiker-Accessoire,LOC,0.0,0.0,de,1
-Christia,Christia,LOC,0.0,0.0,de,1
-Bundesliga-Einwechselrekord,Bundesliga-Einwechselrekord,LOC,0.0,0.0,de,1
-Provokanter,Provokanter,LOC,0.0,0.0,de,1
-Fraktionsche,Fraktionsche,LOC,0.0,0.0,de,1
-Aeschi,Aeschi,LOC,0.0,0.0,de,1
-Thüringens AfD-Chef,Thüringens AfD-Chef,LOC,0.7,0.0,de,1
+Halstenberg,Halstenberg,LOC,-0.5,0.0,de,1
+Ohio,Ohio,LOC,0.0,0.0,de,1
+Midterm-Wahlkampf,Midterm-Wahlkampf,LOC,-0.7,0.0,de,1
+Weißen Haus,Weißen Haus,LOC,0.0,0.0,de,1
+Europapoka,Europapoka,LOC,0.0,0.0,de,1
+Yverdon,Yverdon,LOC,0.0,0.0,de,1
+Hessische Bergstraße,Hessische Bergstraße,LOC,0.0,0.0,de,1
+Bergstraße,Bergstraße,LOC,0.7,0.0,de,1
+Mitte-links-Bündnis,Mitte-links-Bündnis,LOC,-1.0,0.0,de,1
+Weinreben,Weinreben,LOC,0.7,0.0,de,1
+Karabach,Karabach,LOC,0.0,0.0,de,1
+Anbe­tracht,Anbe­tracht,LOC,1.0,0.0,de,1
+Dach­stuhl,Dach­stuhl,LOC,0.0,0.0,de,1
+Kopenhagen,Kopenhagen,LOC,0.0,0.0,de,1
+Europapokal-Ränge herangeschoben,Europapokal-Ränge herangeschoben,LOC,0.0,0.0,de,1
+Lienhart-Tor,Lienhart-Tor,LOC,0.0,0.0,de,1
+Werder-Aufholjagd,Werder-Aufholjagd,LOC,0.0,0.0,de,1
+Fuggerstädter,Fuggerstädter,LOC,1.0,0.0,de,1
+Bad Homburg,Bad Homburg,LOC,0.0,0.0,de,1
+Champions-League,Champions-League,LOC,0.0,0.0,de,1
+Frankfurt +++,Frankfurt +++,LOC,-0.35,0.5,de,1
+Kreuzberg,Kreuzberg,LOC,-1.0,0.0,de,1
+Sachsens,Sachsens,LOC,0.0,0.0,de,1
+Großbritanniens,Großbritanniens,LOC,0.0,0.0,de,1
+Schlosspark Sanssouci,Schlosspark Sanssouci,LOC,0.0,0.0,de,1
+Königlicher,Königlicher,LOC,1.0,0.0,de,1
+Wohngeld-Empfänger +++ Hanau,Wohngeld-Empfänger +++ Hanau,LOC,-0.5666666666666667,0.3333333333333333,de,1
+Friedberg +++,Friedberg +++,LOC,-0.5666666666666667,0.3333333333333333,de,1
+Herborn +++,Herborn +++,LOC,-0.5666666666666667,0.3333333333333333,de,1
+Schmitten,Schmitten,LOC,-0.5666666666666667,0.3333333333333333,de,1
+Hochzeitskorso +++ Brände,Hochzeitskorso +++ Brände,LOC,-0.5666666666666667,0.3333333333333333,de,1
+Ambiti,Ambiti,LOC,0.0,1.0,de,1
+der Schweiz,der Schweiz,LOC,0.0,0.0,de,1
+Stellplatz,Stellplatz,LOC,1.0,0.0,de,1
+Urlaub am Main,Urlaub am Main,LOC,0.0,0.0,de,1
+Freiburg fix - Müller,Freiburg fix - Müller,LOC,0.0,0.0,de,1
+Serien-Ende,Serien-Ende,LOC,0.0,0.0,de,1
+Stadion!,Stadion!,LOC,-0.7,0.0,de,1
 Inseratencausa,Inseratencausa,LOC,0.0,0.0,de,1
+Stuttgarts,Stuttgarts,LOC,0.7,0.0,de,1
+Algerier,Algerier,LOC,0.0,0.0,de,1
 Slowakische Regierung,Slowakische Regierung,LOC,0.0,0.0,de,1
+Saier,Saier,LOC,0.0,0.0,de,1
 Bratislava,Bratislava,LOC,0.0,0.0,de,1
+Gladbach-Coach,Gladbach-Coach,LOC,0.0,0.0,de,1
+Tot­tenham,Tot­tenham,LOC,0.0,0.0,de,1
 Südafrika,Südafrika,LOC,0.0,0.0,de,1
+Nonstop-Modus,Nonstop-Modus,LOC,-0.7,0.0,de,1
+Iraner,Iraner,LOC,0.0,0.0,de,1
+Tor von…,Tor von…,LOC,0.0,0.0,de,1
 Klimaschutz-Partei,Klimaschutz-Partei,LOC,0.0,0.0,de,1
 klim,klim,LOC,0.0,0.0,de,1
+Tor von Zauberf,Tor von Zauberf,LOC,0.0,0.0,de,1
+Guineischer,Guineischer,LOC,0.0,0.0,de,1
 Pele peu Gel ent,Pele peu Gel ent,LOC,0.0,0.0,de,1
 pel 6eueletpehlelol,pel 6eueletpehlelol,LOC,0.0,0.0,de,1
+Italiens,Italiens,LOC,0.0,0.0,de,1
 Corona,Corona,LOC,1.0,0.0,de,1
+Italienern,Italienern,LOC,0.0,0.0,de,1
+Günstiges Los,Günstiges Los,LOC,0.7,0.0,de,1
 Bundesspitze,Bundesspitze,LOC,0.0,0.0,de,1
 Wortwa,Wortwa,LOC,0.0,0.0,de,1
 Kiew,Kiew,LOC,0.0,1.0,de,1
-Georgien-Tradition,Georgien-Tradition,LOC,0.0,0.0,de,1
-Golfstaat,Golfstaat,LOC,-0.15000000000000002,0.0,de,1
-Brüssel-Kritiker,Brüssel-Kritiker,LOC,0.0,0.0,de,1
-Phoenix,Phoenix,LOC,0.0,0.0,de,1
-Ligaverbands,Ligaverbands,LOC,0.0,0.0,de,1
-Indien,Indien,LOC,0.0,0.0,de,1
-Kommunistisches Plattform,Kommunistisches Plattform,LOC,0.0,0.0,de,1
-Stübgen,Stübgen,LOC,0.0,0.0,de,1
-Pasok,Pasok,LOC,-0.7,0.0,de,1
-Ermittlu,Ermittlu,LOC,0.0,0.0,de,1
-Linke Bundesspitze,Linke Bundesspitze,LOC,-0.7,0.0,de,1
-W,W,LOC,0.0,0.0,de,1
-Streitigkeiten,Streitigkeiten,LOC,-0.7,0.0,de,1
-Linken-Spitze,Linken-Spitze,LOC,0.0,0.0,de,1
+Alten Försterei,Alten Försterei,LOC,0.7,0.0,de,1
+Belo,Belo,LOC,1.0,0.0,de,1
+Fußb,Fußb,LOC,0.0,0.0,de,1
+EL-Achtelfinal,EL-Achtelfinal,LOC,0.0,0.0,de,1
+Juvenus,Juvenus,LOC,0.0,0.0,de,1
+Thüringens AfD-Chef,Thüringens AfD-Chef,LOC,0.7,0.0,de,1
+Leistun,Leistun,LOC,0.0,0.0,de,1
+Große Mainz-Sorgen,Große Mainz-Sorgen,LOC,0.85,0.0,de,1
+Deutschlands Anbaugebieten,Deutschlands Anbaugebieten,LOC,0.0,1.0,de,1
+Osnabrück,Osnabrück,LOC,0.0,0.0,de,1
 Vize-FDP-Chef,Vize-FDP-Chef,LOC,0.0,0.0,de,1
 Auto-Alternativen,Auto-Alternativen,LOC,0.0,0.0,de,1
 Winter-Neuzugang,Winter-Neuzugang,LOC,0.0,0.0,de,1
+Juve-Zeitspiel,Juve-Zeitspiel,LOC,-0.7,0.0,de,1
+Christia,Christia,LOC,0.0,0.0,de,1
+Europapokalachtelfinale,Europapokalachtelfinale,LOC,0.0,0.0,de,1
+F,F,LOC,0.0,0.0,de,1
+Freiburger Stadion,Freiburger Stadion,LOC,0.0,0.0,de,1
+@SCFreiburg,@SCFreiburg,LOC,0.0,0.0,de,1
 Schlägt Nürnberg,Schlägt Nürnberg,LOC,0.0,0.0,de,1
+Chiesa,Chiesa,LOC,-1.0,0.0,de,1
+Hoffenheim,Hoffenheim,LOC,0.7,0.0,de,1
+W,W,LOC,0.0,0.0,de,1
+Guttau,Guttau,LOC,0.0,0.0,de,1
+Brüssel-Kritiker,Brüssel-Kritiker,LOC,0.0,0.0,de,1
+Golfstaat,Golfstaat,LOC,-0.15000000000000002,0.0,de,1
+Hinspi,Hinspi,LOC,0.0,0.0,de,1
+Georgien-Tradition,Georgien-Tradition,LOC,0.0,0.0,de,1
+Platz mit Juve-Stolpersteinen,Platz mit Juve-Stolpersteinen,LOC,0.0,0.0,de,1
+Fraktionsche,Fraktionsche,LOC,0.0,0.0,de,1
+Amt,Amt,LOC,0.0,0.0,de,1
+Aeschi,Aeschi,LOC,0.0,0.0,de,1
+DFB-Sportgericht,DFB-Sportgericht,LOC,0.0,0.0,de,1
+!,!,LOC,0.0,0.0,de,1
+Hoffenheim-Sieg,Hoffenheim-Sieg,LOC,0.0,0.0,de,1
 Neusiedler See,Neusiedler See,LOC,-0.7,0.0,de,1
 Bern,Bern,LOC,0.0,0.0,de,1
+Ösi-Stürmer,Ösi-Stürmer,LOC,0.0,0.0,de,1
 Tauer,Tauer,LOC,0.0,1.0,de,1
-Samstagn,Samstagn,LOC,0.0,0.0,de,1
-Gebiet,Gebiet,LOC,0.0,0.0,de,1
-e ekltlek,e ekltlek,LOC,0.0,0.0,de,1
-Pkllplleu 6eulel,Pkllplleu 6eulel,LOC,0.0,0.0,de,1
-Geollou,Geollou,LOC,0.0,0.0,de,1
-Behulppoletel,Behulppoletel,LOC,0.0,0.0,de,1
-Wolfsburger,Wolfsburger,LOC,0.0,0.0,de,1
-Torlaune,Torlaune,LOC,-0.7,0.0,de,1
-Brügge,Brügge,LOC,0.0,0.0,de,1
-Offensivmannes,Offensivmannes,LOC,0.85,0.0,de,1
-Jobrad,Jobrad,LOC,0.0,0.0,de,1
-Basel,Basel,LOC,0.0,0.0,de,1
-Foto,Foto,LOC,0.0,0.0,de,1
-Bayern-Jäger,Bayern-Jäger,LOC,0.0,0.0,de,1
+Big Points,Big Points,LOC,0.0,0.0,de,1
+Berisha-Jubel,Berisha-Jubel,LOC,0.0,0.0,de,1
+Wirbel,Wirbel,LOC,0.0,0.0,de,1
+lepe Vueke,lepe Vueke,LOC,0.0,0.0,de,1
+putelu el vltt,putelu el vltt,LOC,0.0,0.0,de,1
+Straßburger Abgeordnetenbar,Straßburger Abgeordnetenbar,LOC,0.0,0.0,de,1
+Provokanter,Provokanter,LOC,0.0,0.0,de,1
+Frei,Frei,LOC,0.0,0.0,de,1
 Gregerl,Gregerl,LOC,1.0,0.0,de,1
-Lüttich,Lüttich,LOC,0.0,0.0,de,1
-Spo,Spo,LOC,0.0,0.0,de,1
-Trump-Falle,Trump-Falle,LOC,0.0,0.0,de,1
-La Linea de la Concepción,La Linea de la Concepción,LOC,0.0,0.0,de,1
-Österreicherin,Österreicherin,LOC,0.0,0.0,de,1
-Bundesliga-Fanserie,Bundesliga-Fanserie,LOC,0.0,0.0,de,1
-Englands,Englands,LOC,0.0,0.0,de,1
-kna…,kna…,LOC,0.0,0.0,de,1
-Schade-Verpflichtung,Schade-Verpflichtung,LOC,-1.0,0.0,de,1
-Duisburg,Duisburg,LOC,0.0,0.0,de,1
-Gibraltar,Gibraltar,LOC,0.0,0.0,de,1
-O Sotogrande,O Sotogrande,LOC,0.0,0.0,de,1
-La Linea de la Conce,La Linea de la Conce,LOC,0.0,0.0,de,1
-Ex-SC-Freiburg,Ex-SC-Freiburg,LOC,0.0,0.0,de,1
+Bayern-Jäger,Bayern-Jäger,LOC,0.0,0.0,de,1
+Foto,Foto,LOC,0.0,0.0,de,1
 Trainingsplatz,Trainingsplatz,LOC,0.0,1.0,de,1
+Basel,Basel,LOC,0.0,0.0,de,1
+Jobrad,Jobrad,LOC,0.0,0.0,de,1
+Offensivmannes,Offensivmannes,LOC,0.85,0.0,de,1
+Torlaune,Torlaune,LOC,-0.7,0.0,de,1
+Samstagn,Samstagn,LOC,0.0,0.0,de,1
 Aarhus,Aarhus,LOC,0.0,0.0,de,1
+Wolfsburger,Wolfsburger,LOC,0.0,0.0,de,1
 Kevi,Kevi,LOC,0.0,0.0,de,1
 Hotel S/,Hotel S/,LOC,0.0,0.0,de,1
-Georgia,Georgia,LOC,0.0,0.0,de,1
-Freiburg-Frust,Freiburg-Frust,LOC,0.0,0.0,de,1
-Wechselgedanken,Wechselgedanken,LOC,0.0,0.0,de,1
-Szoboszlai,Szoboszlai,LOC,-0.5,0.0,de,1
-Sport</li><li>1860,Sport</li><li>1860,LOC,0.0,0.0,de,1
-Oberpfälzer,Oberpfälzer,LOC,0.0,0.0,de,1
-Orbán,Orbán,LOC,-0.5,0.0,de,1
-Halstenberg,Halstenberg,LOC,-0.5,0.0,de,1
-Olmo,Olmo,LOC,-0.5,0.0,de,1
-Simakan,Simakan,LOC,-0.5,0.0,de,1
-Blaswich,Blaswich,LOC,-0.5,0.0,de,1
-Ohio,Ohio,LOC,0.0,0.0,de,1
-Katar fü…,Katar fü…,LOC,0.0,0.0,de,1
-bayerischen Landtag,bayerischen Landtag,LOC,0.0,0.0,de,1
-Kübler,Kübler,LOC,0.0,0.0,de,1
-Keitel,Keitel,LOC,0.0,0.0,de,1
-Sildillia,Sildillia,LOC,0.0,0.0,de,1
-Ghana,Ghana,LOC,0.0,0.0,de,1
-tz</li><li,tz</li><li,LOC,0.0,0.0,de,1
-Midterm-Wahlkampf,Midterm-Wahlkampf,LOC,-0.7,0.0,de,1
-Transfermar,Transfermar,LOC,0.0,0.0,de,1
-Mitte-links-Bündnis,Mitte-links-Bündnis,LOC,-1.0,0.0,de,1
-Tübingen,Tübingen,LOC,0.0,0.0,de,1
-London,London,LOC,0.0,0.0,de,1
-Dänemark-Wahl,Dänemark-Wahl,LOC,0.0,0.0,de,1
-Frederiksen,Frederiksen,LOC,0.0,0.0,de,1
-Nafta,Nafta,LOC,0.0,0.0,de,1
-Likud,Likud,LOC,0.0,0.0,de,1
-Karabach,Karabach,LOC,0.0,0.0,de,1
-Weißen Haus,Weißen Haus,LOC,0.0,0.0,de,1
-Europapoka,Europapoka,LOC,0.0,0.0,de,1
-Sachsens,Sachsens,LOC,0.0,0.0,de,1
-Großbritanniens,Großbritanniens,LOC,0.0,0.0,de,1
-Ambiti,Ambiti,LOC,0.0,1.0,de,1
-der Schweiz,der Schweiz,LOC,0.0,0.0,de,1
-Champions-League,Champions-League,LOC,0.0,0.0,de,1
-Bundesliga-Elf,Bundesliga-Elf,LOC,0.0,0.0,de,1
-Kongresskammer,Kongresskammer,LOC,0.0,0.0,de,1
-Vereinigten Königreichs,Vereinigten Königreichs,LOC,0.0,0.0,de,1
-Koalitionsverhandlungen,Koalitionsverhandlungen,LOC,0.0,0.0,de,1
-Stellplatz,Stellplatz,LOC,1.0,0.0,de,1
-Wohnmobil,Wohnmobil,LOC,1.0,0.0,de,1
-Weinfranken,Weinfranken,LOC,1.0,0.0,de,1
-Urlaub am Main,Urlaub am Main,LOC,0.0,0.0,de,1
-Mainfranken,Mainfranken,LOC,0.0,0.0,de,1
-Systemtreue,Systemtreue,LOC,0.0,0.0,de,1
-Israels,Israels,LOC,0.0,0.0,de,1
-pelluu,pelluu,LOC,0.0,0.0,de,1
-Staaten,Staaten,LOC,0.0,0.0,de,1
-South Carolina,South Carolina,LOC,0.0,1.0,de,1
-Iowa,Iowa,LOC,0.0,1.0,de,1
-New Hampshire,New Hampshire,LOC,0.0,1.0,de,1
-Präsidentschaftskandid,Präsidentschaftskandid,LOC,0.0,1.0,de,1
-Les Républicains,Les Républicains,LOC,0.0,0.0,de,1
-Camping: Weinfranken,Camping: Weinfranken,LOC,1.0,0.0,de,1
-Ble pell 09ib lealeleupe B,Ble pell 09ib lealeleupe B,LOC,0.0,0.0,de,1
-Abgeordnetenhaus,Abgeordnetenhaus,LOC,0.0,0.0,de,1
-Oberste Wahlgericht,Oberste Wahlgericht,LOC,0.0,0.0,de,1
-US-Präsidenten,US-Präsidenten,LOC,0.0,0.0,de,1
-Südostasien,Südostasien,LOC,0.0,1.0,de,1
-Dauermobbing,Dauermobbing,LOC,0.0,0.0,de,1
-Flekkens,Flekkens,LOC,0.0,0.0,de,1
-Wirtschaftsgrößen,Wirtschaftsgrößen,LOC,0.0,0.0,de,1
-Hamburg,Hamburg,LOC,0.0,0.0,de,1
-Hausicke,Hausicke,LOC,0.0,0.0,de,1
-Benlpekteup,Benlpekteup,LOC,0.0,0.0,de,1
-Zahl,Zahl,LOC,1.0,0.0,de,1
-Werders Bundesliga-Frauen,Werders Bundesliga-Frauen,LOC,0.0,0.0,de,1
-Magentasport,Magentasport,LOC,0.0,1.0,de,1
-Peking,Peking,LOC,0.0,0.0,de,1
-Insel,Insel,LOC,0.0,0.0,de,1
-Wahlschlappe,Wahlschlappe,LOC,0.0,0.0,de,1
-Frei,Frei,LOC,0.0,0.0,de,1
-Straßburger Abgeordnetenbar,Straßburger Abgeordnetenbar,LOC,0.0,0.0,de,1
-Fußballkitsches,Fußballkitsches,LOC,-0.7,0.0,de,1
-putelu el vltt,putelu el vltt,LOC,0.0,0.0,de,1
-Musiala,Musiala,LOC,1.0,0.0,de,1
-Pokal-Niederlage,Pokal-Niederlage,LOC,0.0,0.0,de,1
-Streit-Situation,Streit-Situation,LOC,0.2333333333333333,0.0,de,1
-Bayern-Kapitän,Bayern-Kapitän,LOC,0.0,0.0,de,1
-Südtirol,Südtirol,LOC,0.0,0.0,de,1
-UmgebungBlick,UmgebungBlick,LOC,0.0,0.0,de,1
-Schloss Lebenberg,Schloss Lebenberg,LOC,0.0,0.0,de,1
-Marling,Marling,LOC,0.0,0.0,de,1
-Platz,Platz,LOC,0.0,0.0,de,1
-Bremens,Bremens,LOC,0.0,0.0,de,1
-Spielerinne,Spielerinne,LOC,-0.175,0.25,de,1
-Zwickau,Zwickau,LOC,0.0,0.0,de,1
-europäischen Oberhaus,europäischen Oberhaus,LOC,-0.7,0.0,de,1
-Gregoritsch,Gregoritsch,LOC,1.0,0.0,de,1
-Gelsenkirchener,Gelsenkirchener,LOC,0.0,0.0,de,1
-Paroli,Paroli,LOC,0.0,0.0,de,1
-Kopf,Kopf,LOC,0.0,0.0,de,1
-Samst,Samst,LOC,0.0,0.0,de,1
-Viertelfinalpartien,Viertelfinalpartien,LOC,0.0,0.0,de,1
-Hertha-Angreifer,Hertha-Angreifer,LOC,0.0,0.0,de,1
-Erstmal,Erstmal,LOC,0.7,0.0,de,1
-Freiburg-Stars,Freiburg-Stars,LOC,0.0,0.0,de,1
-Gudorf,Gudorf,LOC,0.0,0.0,de,1
-Bayern-Woche,Bayern-Woche,LOC,1.0,0.0,de,1
-Bonuswoche,Bonuswoche,LOC,0.0,0.0,de,1
-Zillertal,Zillertal,LOC,0.0,0.0,de,1
-Triple-Traum,Triple-Traum,LOC,0.0,0.0,de,1
-Bayern-Coach,Bayern-Coach,LOC,1.0,0.0,de,1
-Österreicher,Österreicher,LOC,0.0,0.0,de,1
-Bayern-Besieger,Bayern-Besieger,LOC,0.0,0.0,de,1
-Großhadern,Großhadern,LOC,1.0,0.0,de,1
-Quotenduell,Quotenduell,LOC,0.0,0.0,de,1
-DFB-Pokal-Aus,DFB-Pokal-Aus,LOC,0.0,0.0,de,1
-Restp,Restp,LOC,0.0,0.0,de,1
-Trikot-Wunsch,Trikot-Wunsch,LOC,0.0,0.0,de,1
-Freiburg-Ultra,Freiburg-Ultra,LOC,0.0,0.0,de,1
-Europapokal-Gesängen,Europapokal-Gesängen,LOC,0.0,0.0,de,1
-Kiezkick,Kiezkick,LOC,1.0,0.0,de,1
-Oakland,Oakland,LOC,0.0,0.0,de,1
-Amerikaner,Amerikaner,LOC,0.7,0.0,de,1
-Königsklassen-Endspiel,Königsklassen-Endspiel,LOC,0.0,0.0,de,1
-Kamp,Kamp,LOC,0.0,0.0,de,1
-Bundesliga-Ticker,Bundesliga-Ticker,LOC,0.0,0.0,de,1
-B,B,LOC,0.0,0.0,de,1
-Kolb-Karl-Kombination,Kolb-Karl-Kombination,LOC,0.7,0.0,de,1
-Berlinern,Berlinern,LOC,0.0,0.0,de,1
-Mars,Mars,LOC,0.0,0.0,de,1
-Stamm-Torhüter,Stamm-Torhüter,LOC,0.0,0.0,de,1
-Minge,Minge,LOC,0.0,0.0,de,1
-Pokalfinal,Pokalfinal,LOC,0.0,0.0,de,1
-Zeit im Breisgau,Zeit im Breisgau,LOC,0.0,1.0,de,1
-Vat,Vat,LOC,1.0,0.0,de,1
-friedlich.&nbsp;SC-Trainer,friedlich.&nbsp;SC-Trainer,LOC,0.0,0.0,de,1
-Pflicht-Aufgaben,Pflicht-Aufgaben,LOC,1.0,0.0,de,1
-Skandal-Wurf,Skandal-Wurf,LOC,-1.0,0.0,de,1
-Kölns Hector,Kölns Hector,LOC,1.0,0.0,de,1
-Champions-League-Plätzen,Champions-League-Plätzen,LOC,0.0,0.0,de,1
-...,...,LOC,0.7,0.0,de,1
-Po,Po,LOC,1.0,0.0,de,1
-Dresdens,Dresdens,LOC,0.0,0.0,de,1
-Comeback,Comeback,LOC,0.0,0.0,de,1
-Kayikci,Kayikci,LOC,0.0,0.0,de,1
-Abstiegs-Kracher,Abstiegs-Kracher,LOC,0.0,0.0,de,1
-Doppelduelle,Doppelduelle,LOC,0.0,0.0,de,1
-Pokal-Vorfälle,Pokal-Vorfälle,LOC,0.0,0.0,de,1
-Platzsturm,Platzsturm,LOC,0.0,0.0,de,1
-Stadionverboten,Stadionverboten,LOC,0.0,0.0,de,1
-Fußball-Bundesligis,Fußball-Bundesligis,LOC,0.0,0.0,de,1
-Champions-League-Duell,Champions-League-Duell,LOC,0.0,1.0,de,1
-Ngankam,Ngankam,LOC,0.0,0.0,de,1
-Poetischer,Poetischer,LOC,0.0,0.0,de,1
-Profifu,Profifu,LOC,0.0,0.0,de,1
+Behulppoletel,Behulppoletel,LOC,0.0,0.0,de,1
+Geollou,Geollou,LOC,0.0,0.0,de,1
+Pkllplleu 6eulel,Pkllplleu 6eulel,LOC,0.0,0.0,de,1
+e ekltlek,e ekltlek,LOC,0.0,0.0,de,1
+Gebiet,Gebiet,LOC,0.0,0.0,de,1
+O Sotogrande,O Sotogrande,LOC,0.0,0.0,de,1
+Lüttich,Lüttich,LOC,0.0,0.0,de,1
+Brügge,Brügge,LOC,0.0,0.0,de,1
+Freiburg ho…,Freiburg ho…,LOC,0.0,0.0,de,1
+Puuuepulu aelu,Puuuepulu aelu,LOC,0.0,0.0,de,1
+Traum-Paare,Traum-Paare,LOC,1.0,0.0,de,1
+"Weltklasse""-Petersen","Weltklasse""-Petersen",LOC,0.0,0.0,de,1
+Trump-Falle,Trump-Falle,LOC,0.0,0.0,de,1
 Bochums Losilla,Bochums Losilla,LOC,0.0,0.0,de,1
-Bundesli,Bundesli,LOC,0.0,0.0,de,1
-M,M,LOC,0.0,0.0,de,1
-U23-Spiel,U23-Spiel,LOC,0.0,0.0,de,1
-Vermeij,Vermeij,LOC,0.0,0.0,de,1
-Connecticut,Connecticut,LOC,0.0,0.0,de,1
+Österreicherin,Österreicherin,LOC,0.0,0.0,de,1
 Stre,Stre,LOC,0.0,0.0,de,1
-Serien-Ende,Serien-Ende,LOC,0.0,0.0,de,1
-Erdbeben in Türkei,Erdbeben in Türkei,LOC,0.0,0.0,de,1
-Fußb,Fußb,LOC,0.0,0.0,de,1
-Belo,Belo,LOC,1.0,0.0,de,1
-Alten Försterei,Alten Försterei,LOC,0.7,0.0,de,1
-Günstiges Los,Günstiges Los,LOC,0.7,0.0,de,1
-Italienern,Italienern,LOC,0.0,0.0,de,1
-Italiens,Italiens,LOC,0.0,0.0,de,1
+Connecticut,Connecticut,LOC,0.0,0.0,de,1
+Vermeij,Vermeij,LOC,0.0,0.0,de,1
+U23-Spiel,U23-Spiel,LOC,0.0,0.0,de,1
+M,M,LOC,0.0,0.0,de,1
+Bundesli,Bundesli,LOC,0.0,0.0,de,1
+Bundesliga-Fanserie,Bundesliga-Fanserie,LOC,0.0,0.0,de,1
 Tribüne - Ristic,Tribüne - Ristic,LOC,0.0,0.0,de,1
+Erdbeben in Türkei,Erdbeben in Türkei,LOC,0.0,0.0,de,1
 "St. Pauli 
 Daniel-Kofi Kyereh","St. Pauli 
 Daniel-Kofi Kyereh",LOC,0.0,0.0,de,1
-Tor von Zauberf,Tor von Zauberf,LOC,0.0,0.0,de,1
-Traum-Paare,Traum-Paare,LOC,1.0,0.0,de,1
-lepe Vueke,lepe Vueke,LOC,0.0,0.0,de,1
-Wirbel,Wirbel,LOC,0.0,0.0,de,1
-Berisha-Jubel,Berisha-Jubel,LOC,0.0,0.0,de,1
-Big Points,Big Points,LOC,0.0,0.0,de,1
-Freiburg ho…,Freiburg ho…,LOC,0.0,0.0,de,1
-Puuuepulu aelu,Puuuepulu aelu,LOC,0.0,0.0,de,1
-BVB-Versager,BVB-Versager,LOC,0.0,0.0,de,1
-"Weltklasse""-Petersen","Weltklasse""-Petersen",LOC,0.0,0.0,de,1
-Bayreuth,Bayreuth,LOC,0.0,0.0,de,1
-Hause,Hause,LOC,1.0,0.0,de,1
-Schwartz-Kompliment,Schwartz-Kompliment,LOC,0.0,0.0,de,1
-Torwart-Bock,Torwart-Bock,LOC,0.0,0.0,de,1
-Vorjahresfinal,Vorjahresfinal,LOC,0.0,0.0,de,1
 07.02.2023,07.02.2023,LOC,-0.7,0.0,de,1
-Guineischer,Guineischer,LOC,0.0,0.0,de,1
-Tor von…,Tor von…,LOC,0.0,0.0,de,1
-Super-Joker Petersen,Super-Joker Petersen,LOC,0.0,0.0,de,1
-Deutschlands Anbaugebieten,Deutschlands Anbaugebieten,LOC,0.0,1.0,de,1
-Leistun,Leistun,LOC,0.0,0.0,de,1
-@SCFreiburg,@SCFreiburg,LOC,0.0,0.0,de,1
-Freiburger Stadion,Freiburger Stadion,LOC,0.0,0.0,de,1
-F,F,LOC,0.0,0.0,de,1
-Europapokalachtelfinale,Europapokalachtelfinale,LOC,0.0,0.0,de,1
-Juve-Zeitspiel,Juve-Zeitspiel,LOC,-0.7,0.0,de,1
-Osnabrück,Osnabrück,LOC,0.0,0.0,de,1
-Guttau,Guttau,LOC,0.0,0.0,de,1
-Dresdner,Dresdner,LOC,0.0,0.0,de,1
-Große Mainz-Sorgen,Große Mainz-Sorgen,LOC,0.85,0.0,de,1
+Ex-SC-Freiburg,Ex-SC-Freiburg,LOC,0.0,0.0,de,1
+Englands,Englands,LOC,0.0,0.0,de,1
+Vorjahresfinal,Vorjahresfinal,LOC,0.0,0.0,de,1
+Torwart-Bock,Torwart-Bock,LOC,0.0,0.0,de,1
+Schwartz-Kompliment,Schwartz-Kompliment,LOC,0.0,0.0,de,1
+Hause,Hause,LOC,1.0,0.0,de,1
+kna…,kna…,LOC,0.0,0.0,de,1
+Bayreuth,Bayreuth,LOC,0.0,0.0,de,1
+Schade-Verpflichtung,Schade-Verpflichtung,LOC,-1.0,0.0,de,1
+Duisburg,Duisburg,LOC,0.0,0.0,de,1
+La Linea de la Concepción,La Linea de la Concepción,LOC,0.0,0.0,de,1
+BVB-Versager,BVB-Versager,LOC,0.0,0.0,de,1
+Gibraltar,Gibraltar,LOC,0.0,0.0,de,1
+La Linea de la Conce,La Linea de la Conce,LOC,0.0,0.0,de,1
 Onisiwo-Problem,Onisiwo-Problem,LOC,0.85,0.0,de,1
 Stamm-Stürmers,Stamm-Stürmers,LOC,0.0,0.0,de,1
 Frankfurt am Main,Frankfurt am Main,LOC,0.0,0.0,de,1
 Saarbrücken,Saarbrücken,LOC,0.0,0.0,de,1
-Chiesa,Chiesa,LOC,-1.0,0.0,de,1
-Hinspi,Hinspi,LOC,0.0,0.0,de,1
-Iraner,Iraner,LOC,0.0,0.0,de,1
-Stadion!,Stadion!,LOC,-0.7,0.0,de,1
-Nonstop-Modus,Nonstop-Modus,LOC,-0.7,0.0,de,1
-Tot­tenham,Tot­tenham,LOC,0.0,0.0,de,1
-Gladbach-Coach,Gladbach-Coach,LOC,0.0,0.0,de,1
-Saier,Saier,LOC,0.0,0.0,de,1
-Algerier,Algerier,LOC,0.0,0.0,de,1
-Stuttgarts,Stuttgarts,LOC,0.7,0.0,de,1
-EL-Achtelfinal,EL-Achtelfinal,LOC,0.0,0.0,de,1
-Platz mit Juve-Stolpersteinen,Platz mit Juve-Stolpersteinen,LOC,0.0,0.0,de,1
-Juvenus,Juvenus,LOC,0.0,0.0,de,1
-Hoffenheim,Hoffenheim,LOC,0.7,0.0,de,1
-Hoffenheim-Sieg,Hoffenheim-Sieg,LOC,0.0,0.0,de,1
-!,!,LOC,0.0,0.0,de,1
-DFB-Sportgericht,DFB-Sportgericht,LOC,0.0,0.0,de,1
-Amt,Amt,LOC,0.0,0.0,de,1
-Frohms,Frohms,LOC,1.0,0.0,de,1
+Iowa,Iowa,LOC,0.0,1.0,de,1
+Bundesliga-Einwechselrekord,Bundesliga-Einwechselrekord,LOC,0.0,0.0,de,1
+New Hampshire,New Hampshire,LOC,0.0,1.0,de,1
+Fußballkitsches,Fußballkitsches,LOC,-0.7,0.0,de,1
+Zeit im Breisgau,Zeit im Breisgau,LOC,0.0,1.0,de,1
+Präsidentschaftskandid,Präsidentschaftskandid,LOC,0.0,1.0,de,1
+Pokalfinal,Pokalfinal,LOC,0.0,0.0,de,1
+Les Républicains,Les Républicains,LOC,0.0,0.0,de,1
+Minge,Minge,LOC,0.0,0.0,de,1
+Stamm-Torhüter,Stamm-Torhüter,LOC,0.0,0.0,de,1
+Mars,Mars,LOC,0.0,0.0,de,1
+Vereinigten Königreichs,Vereinigten Königreichs,LOC,0.0,0.0,de,1
+Berlinern,Berlinern,LOC,0.0,0.0,de,1
+B,B,LOC,0.0,0.0,de,1
+Europapokal-Gesängen,Europapokal-Gesängen,LOC,0.0,0.0,de,1
+Bundesliga-Ticker,Bundesliga-Ticker,LOC,0.0,0.0,de,1
+Kamp,Kamp,LOC,0.0,0.0,de,1
+Königsklassen-Endspiel,Königsklassen-Endspiel,LOC,0.0,0.0,de,1
+Wechselgedanken,Wechselgedanken,LOC,0.0,0.0,de,1
+Amerikaner,Amerikaner,LOC,0.7,0.0,de,1
+Oakland,Oakland,LOC,0.0,0.0,de,1
+Kiezkick,Kiezkick,LOC,1.0,0.0,de,1
+Vat,Vat,LOC,1.0,0.0,de,1
+Kolb-Karl-Kombination,Kolb-Karl-Kombination,LOC,0.7,0.0,de,1
+friedlich.&nbsp;SC-Trainer,friedlich.&nbsp;SC-Trainer,LOC,0.0,0.0,de,1
+Freiburg-Frust,Freiburg-Frust,LOC,0.0,0.0,de,1
+Abstiegs-Kracher,Abstiegs-Kracher,LOC,0.0,0.0,de,1
+Champions-League-Duell,Champions-League-Duell,LOC,0.0,1.0,de,1
+Fußball-Bundesligis,Fußball-Bundesligis,LOC,0.0,0.0,de,1
+Almamy Touré,Almamy Touré,LOC,-0.7,0.0,de,1
+Frankfurter Stadtwald,Frankfurter Stadtwald,LOC,0.0,0.0,de,1
+South Carolina,South Carolina,LOC,0.0,1.0,de,1
+Mainfranken,Mainfranken,LOC,0.0,0.0,de,1
+Torwartzukun,Torwartzukun,LOC,0.35,0.5,de,1
+Provinzbahnhof,Provinzbahnhof,LOC,-0.10000000000000002,0.3333333333333333,de,1
+Wohnmobil,Wohnmobil,LOC,1.0,0.0,de,1
+Polen,Polen,LOC,-1.0,0.0,de,1
+Aussperrklausel,Aussperrklausel,LOC,0.0,0.0,de,1
+Europa-League-Starter,Europa-League-Starter,LOC,1.0,0.0,de,1
+Ge… Adamu,Ge… Adamu,LOC,1.0,0.0,de,1
+Rumänien,Rumänien,LOC,0.0,0.0,de,1
+Georgien,Georgien,LOC,0.0,0.0,de,1
+Stadion-Suche,Stadion-Suche,LOC,0.0,0.0,de,1
+Weinfranken,Weinfranken,LOC,1.0,0.0,de,1
+Balingen,Balingen,LOC,0.0,0.0,de,1
+Spo,Spo,LOC,0.0,0.0,de,1
+Systemtreue,Systemtreue,LOC,0.0,0.0,de,1
+Champions-League-Ticket,Champions-League-Ticket,LOC,0.0,0.0,de,1
+Fortuna,Fortuna,LOC,0.0,0.0,de,1
+Mio-Klub,Mio-Klub,LOC,0.0,0.0,de,1
+Winterthur,Winterthur,LOC,0.0,0.0,de,1
+Ösi-Star,Ösi-Star,LOC,0.7,0.0,de,1
+Europa-Le,Europa-Le,LOC,0.0,0.0,de,1
+Bremer Brücke,Bremer Brücke,LOC,0.0,0.0,de,1
+Koalitionsverhandlungen,Koalitionsverhandlungen,LOC,0.0,0.0,de,1
+Israels,Israels,LOC,0.0,0.0,de,1
+Na,Na,LOC,0.0,0.0,de,1
+Königsklassen-Chance,Königsklassen-Chance,LOC,-0.85,0.0,de,1
+Ibiza,Ibiza,LOC,0.0,0.0,de,1
+Ontuzans,Ontuzans,LOC,0.0,0.0,de,1
+Staaten,Staaten,LOC,0.0,0.0,de,1
+Stadionverboten,Stadionverboten,LOC,0.0,0.0,de,1
+Platzsturm,Platzsturm,LOC,0.0,0.0,de,1
+Pokal-Vorfälle,Pokal-Vorfälle,LOC,0.0,0.0,de,1
+Zillertal,Zillertal,LOC,0.0,0.0,de,1
+Paroli,Paroli,LOC,0.0,0.0,de,1
+Pasok,Pasok,LOC,-0.7,0.0,de,1
+Kopf,Kopf,LOC,0.0,0.0,de,1
+Samst,Samst,LOC,0.0,0.0,de,1
+Triple-Traum,Triple-Traum,LOC,0.0,0.0,de,1
+DFB-Pokal-Aus,DFB-Pokal-Aus,LOC,0.0,0.0,de,1
+Ermittlu,Ermittlu,LOC,0.0,0.0,de,1
+Quotenduell,Quotenduell,LOC,0.0,0.0,de,1
+Großhadern,Großhadern,LOC,1.0,0.0,de,1
+Bayern-Besieger,Bayern-Besieger,LOC,0.0,0.0,de,1
+Österreicher,Österreicher,LOC,0.0,0.0,de,1
+Phoenix,Phoenix,LOC,0.0,0.0,de,1
+Bayern-Coach,Bayern-Coach,LOC,1.0,0.0,de,1
+Viertelfinalpartien,Viertelfinalpartien,LOC,0.0,0.0,de,1
+Pokal-Niederlage,Pokal-Niederlage,LOC,0.0,0.0,de,1
+Bonuswoche,Bonuswoche,LOC,0.0,0.0,de,1
+Bayern-Woche,Bayern-Woche,LOC,1.0,0.0,de,1
+Gudorf,Gudorf,LOC,0.0,0.0,de,1
+Freiburg-Stars,Freiburg-Stars,LOC,0.0,0.0,de,1
+Erstmal,Erstmal,LOC,0.7,0.0,de,1
+Hertha-Angreifer,Hertha-Angreifer,LOC,0.0,0.0,de,1
+Linke Bundesspitze,Linke Bundesspitze,LOC,-0.7,0.0,de,1
+Ngankam,Ngankam,LOC,0.0,0.0,de,1
+Streitigkeiten,Streitigkeiten,LOC,-0.7,0.0,de,1
+Poetischer,Poetischer,LOC,0.0,0.0,de,1
+Profifu,Profifu,LOC,0.0,0.0,de,1
+Super-Joker Petersen,Super-Joker Petersen,LOC,0.0,0.0,de,1
+Linken-Spitze,Linken-Spitze,LOC,0.0,0.0,de,1
+Musiala,Musiala,LOC,1.0,0.0,de,1
+Streit-Situation,Streit-Situation,LOC,0.2333333333333333,0.0,de,1
+Doppelduelle,Doppelduelle,LOC,0.0,0.0,de,1
+Restp,Restp,LOC,0.0,0.0,de,1
+Kayikci,Kayikci,LOC,0.0,0.0,de,1
+Skandal-Wurf,Skandal-Wurf,LOC,-1.0,0.0,de,1
+Georgia,Georgia,LOC,0.0,0.0,de,1
+Comeback,Comeback,LOC,0.0,0.0,de,1
+Dresdens,Dresdens,LOC,0.0,0.0,de,1
+Po,Po,LOC,1.0,0.0,de,1
+...,...,LOC,0.7,0.0,de,1
+Champions-League-Plätzen,Champions-League-Plätzen,LOC,0.0,0.0,de,1
+Ligaverbands,Ligaverbands,LOC,0.0,0.0,de,1
+Kölns Hector,Kölns Hector,LOC,1.0,0.0,de,1
+Pflicht-Aufgaben,Pflicht-Aufgaben,LOC,1.0,0.0,de,1
+Freiburg-Ultra,Freiburg-Ultra,LOC,0.0,0.0,de,1
+Trikot-Wunsch,Trikot-Wunsch,LOC,0.0,0.0,de,1
+Gelsenkirchener,Gelsenkirchener,LOC,0.0,0.0,de,1
+Bayern-Kapitän,Bayern-Kapitän,LOC,0.0,0.0,de,1
+Gregoritsch,Gregoritsch,LOC,1.0,0.0,de,1
+europäischen Oberhaus,europäischen Oberhaus,LOC,-0.7,0.0,de,1
+Zwickau,Zwickau,LOC,0.0,0.0,de,1
+Spielerinne,Spielerinne,LOC,-0.175,0.25,de,1
+Bremens,Bremens,LOC,0.0,0.0,de,1
+Indien,Indien,LOC,0.0,0.0,de,1
+Platz,Platz,LOC,0.0,0.0,de,1
+Kommunistisches Plattform,Kommunistisches Plattform,LOC,0.0,0.0,de,1
+Marling,Marling,LOC,0.0,0.0,de,1
+Schloss Lebenberg,Schloss Lebenberg,LOC,0.0,0.0,de,1
+UmgebungBlick,UmgebungBlick,LOC,0.0,0.0,de,1
+Stübgen,Stübgen,LOC,0.0,0.0,de,1
+Südtirol,Südtirol,LOC,0.0,0.0,de,1
+Dresdner,Dresdner,LOC,0.0,0.0,de,1
