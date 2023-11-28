@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'SC Freiburg',de,Bundesliga,#EB0000,#888888,3,0.06947869010432484
+'SC Freiburg',de,Bundesliga,#EB0000,#888888,3,0.0694786901043248
 'Xavier Bettel',de,Luxemburg,#6618e9,#888888,2,0.0358068761214011
 'Die PARTEI',de,Freiburg,#181818,#888888,3,0.0336068846268668
 'Die PARTEI',de,Deutschland,#1818e8,#888888,3,0.0334569106206682
@@ -7,4 +7,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Horn',de,Freiburg,#18e818,#888888,1,0.0138666043299976
 'Martin Sonneborn',de,Deutschland,#e81818,#888888,1,0.0071735285021276
 'WorldCup',de,Qatar,#4D0E00,#888888,1,0.0009788113781215
-'Gaston Vogel',de,Luxemburg,#f16188,#888888,1,5.426550533936585e-12
+'Gaston Vogel',de,Luxemburg,#f16188,#888888,1,4.612567953846097e-12
