@@ -14,27 +14,27 @@ Union,Union,LOC,-0.06896551724137931,0.0,de,29
 Köln,Köln,LOC,0.053846153846153835,0.07692307692307693,de,26
 Dortmund,Dortmund,LOC,-0.024000000000000004,0.0,de,25
 Leipzig,Leipzig,LOC,-0.2166666666666667,0.08333333333333333,de,24
+Europa,Europa,LOC,0.07608695652173912,0.021739130434782608,de,23
+Mainz,Mainz,LOC,0.23863636363636365,0.0,de,22
 Deutschland,Deutschland,LOC,0.13181818181818183,0.11363636363636363,de,22
-Europa,Europa,LOC,0.08333333333333333,0.023809523809523808,de,21
-Mainz,Mainz,LOC,0.2625,0.0,de,20
 Luxemburg,Luxemburg,LOC,0.05750000000000001,0.0,de,20
 Leverkusen,Leverkusen,LOC,-0.23194444444444443,0.025,de,18
 Serbien,Serbien,LOC,0.26333333333333336,0.0,de,15
 Katar,Katar,LOC,-0.18000000000000002,0.0,de,15
 Belgien,Belgien,LOC,0.0142857142857143,0.05714285714285715,de,14
 Bochum,Bochum,LOC,0.021428571428571432,0.07142857142857142,de,14
-Wolfsburg,Wolfsburg,LOC,-0.07692307692307693,0.0,de,13
 Nyon,Nyon,LOC,0.0,0.0,de,13
+Wolfsburg,Wolfsburg,LOC,-0.07692307692307693,0.0,de,13
 Frankreich,Frankreich,LOC,0.10833333333333334,0.0,de,12
+Schweiz,Schweiz,LOC,0.0,0.08333333333333333,de,12
 Chinas,Chinas,LOC,-0.44166666666666665,0.0,de,12
 S,S,LOC,-0.5833333333333334,0.0,de,12
 Bremen,Bremen,LOC,0.07083333333333333,0.0,de,12
 Augsburg,Augsburg,LOC,0.11666666666666665,0.0,de,12
 Weserstadion,Weserstadion,LOC,0.309090909090909,0.18181818181818182,de,11
 China,China,LOC,-0.32727272727272727,0.0,de,11
-D,D,LOC,0.0,0.0,de,10
 E-Mail</li><li,E-Mail</li><li,LOC,0.0,1.0,de,10
-Schweiz,Schweiz,LOC,-0.13999999999999999,0.1,de,10
+D,D,LOC,0.0,0.0,de,10
 Baku,Baku,LOC,0.1,0.0,de,10
 Hessen,Hessen,LOC,-0.039999999999999994,0.0,de,10
 Drucken</li><li,Drucken</li><li,LOC,0.0,1.0,de,10
@@ -303,11 +303,11 @@ Syrern,Syrern,LOC,-1.0,0.0,de,2
 Deutsch-Marokkaner,Deutsch-Marokkaner,LOC,0.0,0.0,de,2
 Warnock in Georgia,Warnock in Georgia,LOC,0.7,0.0,de,2
 US-Senatorin,US-Senatorin,LOC,0.0,0.0,de,2
-Gujarat,Gujarat,LOC,0.35,0.0,de,2
 Pr,Pr,LOC,0.0,0.0,de,2
+Gujarat,Gujarat,LOC,0.35,0.0,de,2
+20-Millionen-Abgang von Keeper,20-Millionen-Abgang von Keeper,LOC,0.5,0.0,de,2
 Himachal Pradesh,Himachal Pradesh,LOC,0.0,0.0,de,2
 Delhi,Delhi,LOC,0.0,0.0,de,2
-20-Millionen-Abgang von Keeper,20-Millionen-Abgang von Keeper,LOC,0.5,0.0,de,2
 Unterzahl,Unterzahl,LOC,0.0,0.0,de,2
 Brighton,Brighton,LOC,0.5,0.0,de,2
 Abgeordnetenhauswahl,Abgeordnetenhauswahl,LOC,0.0,0.0,de,2
@@ -667,9 +667,9 @@ Wechselgedanken,Wechselgedanken,LOC,0.0,0.0,de,1
 Freiburg-Frust,Freiburg-Frust,LOC,0.0,0.0,de,1
 Georgia,Georgia,LOC,0.0,0.0,de,1
 Ligaverbands,Ligaverbands,LOC,0.0,0.0,de,1
-Indien,Indien,LOC,0.0,0.0,de,1
-Phoenix,Phoenix,LOC,0.0,0.0,de,1
 Kommunistisches Plattform,Kommunistisches Plattform,LOC,0.0,0.0,de,1
+Phoenix,Phoenix,LOC,0.0,0.0,de,1
+Indien,Indien,LOC,0.0,0.0,de,1
 South Carolina,South Carolina,LOC,0.0,1.0,de,1
 Stübgen,Stübgen,LOC,0.0,0.0,de,1
 Staaten,Staaten,LOC,0.0,0.0,de,1
@@ -679,8 +679,8 @@ Slowakische Regierung,Slowakische Regierung,LOC,0.0,0.0,de,1
 Südafrika,Südafrika,LOC,0.0,0.0,de,1
 Aarhus,Aarhus,LOC,0.0,0.0,de,1
 Klimaschutz-Partei,Klimaschutz-Partei,LOC,0.0,0.0,de,1
-Englands,Englands,LOC,0.0,0.0,de,1
 Camping: Weinfranken,Camping: Weinfranken,LOC,1.0,0.0,de,1
+Englands,Englands,LOC,0.0,0.0,de,1
 kna…,kna…,LOC,0.0,0.0,de,1
 Schade-Verpflichtung,Schade-Verpflichtung,LOC,-1.0,0.0,de,1
 pelluu,pelluu,LOC,0.0,0.0,de,1
