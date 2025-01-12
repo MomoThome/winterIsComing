@@ -25,8 +25,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.7
 'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,1,0.7
 'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.7
-'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.7
 'Sturmflut Pegel',de,Hazard,#4287f5,#3b4a63,1,0.7
 'Sturmflut',de,Hazard,#4287f5,#638ed4,2,0.6635873386363637
 'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,1,0.6015803329999999
+'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.595150015
 'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.595
