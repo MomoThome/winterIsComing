@@ -1,35 +1,40 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Nordseeküste,Nordseeküste,LOC,-0.04666666666666666,0.0,de,15
-Sturmflut,Sturmflut,LOC,-0.29999999999999993,0.0,de,7
+Sturmflut,Sturmflut,LOC,-0.1909090909090909,0.0,de,11
+Ostseeküste,Ostseeküste,LOC,0.0,0.0,de,5
+Schleswig-Holstein,Schleswig-Holstein,LOC,0.27999999999999997,0.0,de,5
 Hamburg,Hamburg,LOC,0.0,0.0,de,5
 Fährausfälle,Fährausfälle,LOC,0.175,0.0,de,4
-Ostseeküste,Ostseeküste,LOC,0.0,0.0,de,4
-Schleswig-Holstein,Schleswig-Holstein,LOC,0.35,0.0,de,4
 Elbe,Elbe,LOC,-0.175,0.0,de,4
 Sturmflut an der Nordseeküste,Sturmflut an der Nordseeküste,LOC,0.2333333333333333,0.0,de,3
 Dagebüll,Dagebüll,LOC,0.0,0.0,de,3
 Nordfriesland,Nordfriesland,LOC,0.0,0.0,de,3
 Deutschland,Deutschland,LOC,0.0,0.0,de,3
 Rügen,Rügen,LOC,-1.0,0.0,de,2
-Ostsee,Ostsee,LOC,-0.35,0.0,de,2
-Rügens,Rügens,LOC,0.0,0.0,de,2
 Sturmflutmarke,Sturmflutmarke,LOC,0.0,0.0,de,2
-Sturm,Sturm,LOC,0.7,0.0,de,2
+Rügens,Rügens,LOC,0.0,0.0,de,2
+Ostsee,Ostsee,LOC,-0.35,0.0,de,2
 Chaos,Chaos,LOC,0.7,0.0,de,2
-Inseln,Inseln,LOC,0.0,0.0,de,2
-Halligen,Halligen,LOC,0.0,0.0,de,2
+Sturm,Sturm,LOC,0.7,0.0,de,2
+Warnemünde,Warnemünde,LOC,0.35,0.0,de,2
 Nordsee-Küste,Nordsee-Küste,LOC,0.35,0.0,de,2
-Fährausfällen,Fährausfällen,LOC,0.0,0.0,de,1
-Küste,Küste,LOC,0.0,0.0,de,1
+Kieler Bucht,Kieler Bucht,LOC,0.0,0.0,de,2
+Halligen,Halligen,LOC,0.0,0.0,de,2
+Inseln,Inseln,LOC,0.0,0.0,de,2
+Entwick,Entwick,LOC,-1.0,0.0,de,1
+Rostock,Rostock,LOC,0.7,0.0,de,1
 Greifswald,Greifswald,LOC,0.7,0.0,de,1
-Orkanböen,Orkanböen,LOC,0.0,0.0,de,1
-Kiel,Kiel,LOC,0.0,0.0,de,1
-Nordsee,Nordsee,LOC,0.0,0.0,de,1
-Land,Land,LOC,0.0,0.0,de,1
+Unterwarnow,Unterwarnow,LOC,0.7,0.0,de,1
+Wintersturm,Wintersturm,LOC,0.0,0.0,de,1
 Fähranleger Dagebüll,Fähranleger Dagebüll,LOC,0.0,0.0,de,1
 Deutschlands,Deutschlands,LOC,0.0,0.0,de,1
 Fährhafen Dagebüll,Fährhafen Dagebüll,LOC,0.0,0.0,de,1
 Sturmflut an der Nordsee,Sturmflut an der Nordsee,LOC,0.0,0.0,de,1
+Land,Land,LOC,0.0,0.0,de,1
+Fährausfällen,Fährausfällen,LOC,0.0,0.0,de,1
 Hochwasserstand,Hochwasserstand,LOC,0.7,0.0,de,1
-Wintersturm,Wintersturm,LOC,0.0,0.0,de,1
-Entwick,Entwick,LOC,-1.0,0.0,de,1
+Nordsee,Nordsee,LOC,0.0,0.0,de,1
+Küste,Küste,LOC,0.0,0.0,de,1
+Kiel,Kiel,LOC,0.0,0.0,de,1
+Orkanböen,Orkanböen,LOC,0.0,0.0,de,1
+Nordwest,Nordwest,LOC,0.0,0.0,de,1
