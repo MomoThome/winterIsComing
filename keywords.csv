@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,1,0.7
 'Sturmflut Nordsee',de,Hazard,#4287f5,#638ed4,1,0.7
-'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.7
 'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.7
 'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.7
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.7
@@ -24,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.595150015
 'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.595150015
 'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.595150015
+'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.595
 'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.595
 'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.595
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.595
