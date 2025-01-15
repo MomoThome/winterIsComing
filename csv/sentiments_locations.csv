@@ -1,40 +1,64 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Nordseeküste,Nordseeküste,LOC,-0.04666666666666666,0.0,de,15
-Sturmflut,Sturmflut,LOC,-0.1909090909090909,0.0,de,11
-Ostseeküste,Ostseeküste,LOC,0.0,0.0,de,5
-Schleswig-Holstein,Schleswig-Holstein,LOC,0.27999999999999997,0.0,de,5
-Hamburg,Hamburg,LOC,0.0,0.0,de,5
+Nordseeküste,Nordseeküste,LOC,-0.08499999999999999,0.0,de,20
+Sturmflut,Sturmflut,LOC,-0.07777777777777778,0.0,de,18
+Hamburg,Hamburg,LOC,0.07777777777777778,0.0,de,18
+Elbe,Elbe,LOC,0.037500000000000006,0.0,de,16
+Ostseeküste,Ostseeküste,LOC,-0.11666666666666665,0.0,de,12
+Schleswig-Holstein,Schleswig-Holstein,LOC,0.19999999999999998,0.0,de,7
+Ostsee,Ostsee,LOC,-0.14285714285714285,0.0,de,7
+Nordsee,Nordsee,LOC,-0.3499999999999999,0.0,de,6
+Küste,Küste,LOC,0.0,0.8,de,5
 Fährausfälle,Fährausfälle,LOC,0.175,0.0,de,4
-Elbe,Elbe,LOC,-0.175,0.0,de,4
-Sturmflut an der Nordseeküste,Sturmflut an der Nordseeküste,LOC,0.2333333333333333,0.0,de,3
-Dagebüll,Dagebüll,LOC,0.0,0.0,de,3
-Nordfriesland,Nordfriesland,LOC,0.0,0.0,de,3
+Kieler Bucht,Kieler Bucht,LOC,0.0,0.0,de,3
 Deutschland,Deutschland,LOC,0.0,0.0,de,3
-Rügen,Rügen,LOC,-1.0,0.0,de,2
-Sturmflutmarke,Sturmflutmarke,LOC,0.0,0.0,de,2
-Rügens,Rügens,LOC,0.0,0.0,de,2
-Ostsee,Ostsee,LOC,-0.35,0.0,de,2
-Chaos,Chaos,LOC,0.7,0.0,de,2
-Sturm,Sturm,LOC,0.7,0.0,de,2
+Nordfriesland,Nordfriesland,LOC,0.0,0.0,de,3
+Dagebüll,Dagebüll,LOC,0.0,0.0,de,3
+Sturmflut an der Nordseeküste,Sturmflut an der Nordseeküste,LOC,0.2333333333333333,0.0,de,3
+Fischmarkt,Fischmarkt,LOC,0.0,0.0,de,3
+niedersächsischer Küste,niedersächsischer Küste,LOC,-1.0,0.0,de,3
+Inseln,Inseln,LOC,0.0,0.0,de,3
+Husum,Husum,LOC,0.0,0.0,de,2
 Warnemünde,Warnemünde,LOC,0.35,0.0,de,2
+Rostock,Rostock,LOC,0.0,0.0,de,2
+Rügen,Rügen,LOC,-1.0,0.0,de,2
+Rügens,Rügens,LOC,0.0,0.0,de,2
+Sturmflutmarke,Sturmflutmarke,LOC,0.0,0.0,de,2
+Sturm,Sturm,LOC,0.7,0.0,de,2
+Kiel,Kiel,LOC,-0.35,0.0,de,2
 Nordsee-Küste,Nordsee-Küste,LOC,0.35,0.0,de,2
-Kieler Bucht,Kieler Bucht,LOC,0.0,0.0,de,2
 Halligen,Halligen,LOC,0.0,0.0,de,2
-Inseln,Inseln,LOC,0.0,0.0,de,2
-Entwick,Entwick,LOC,-1.0,0.0,de,1
-Rostock,Rostock,LOC,0.7,0.0,de,1
+Nordseestränden,Nordseestränden,LOC,-0.35,0.0,de,2
+Chaos,Chaos,LOC,0.7,0.0,de,2
+Angesagte Sturmflut,Angesagte Sturmflut,LOC,0.7,0.0,de,2
+Travemünde,Travemünde,LOC,0.0,0.0,de,1
+niedersächsischen Küste,niedersächsischen Küste,LOC,-1.0,0.0,de,1
+Norderney,Norderney,LOC,0.0,0.0,de,1
+Niedersächsischen…,Niedersächsischen…,LOC,0.0,0.0,de,1
+Borkum,Borkum,LOC,0.0,0.0,de,1
 Greifswald,Greifswald,LOC,0.7,0.0,de,1
-Unterwarnow,Unterwarnow,LOC,0.7,0.0,de,1
-Wintersturm,Wintersturm,LOC,0.0,0.0,de,1
+ostfriesischen Inseln,ostfriesischen Inseln,LOC,0.0,0.0,de,1
+Entwick,Entwick,LOC,-1.0,0.0,de,1
+rummst,rummst,LOC,0.0,0.0,de,1
 Fähranleger Dagebüll,Fähranleger Dagebüll,LOC,0.0,0.0,de,1
+Helgoland,Helgoland,LOC,0.0,0.0,de,1
+Unterwarnow,Unterwarnow,LOC,0.7,0.0,de,1
+Nordwest,Nordwest,LOC,0.0,0.0,de,1
+Rostock Sturmflut-Gefahr,Rostock Sturmflut-Gefahr,LOC,0.0,0.0,de,1
+deutschen Küste,deutschen Küste,LOC,0.7,0.0,de,1
+Wangerooge,Wangerooge,LOC,0.0,0.0,de,1
 Deutschlands,Deutschlands,LOC,0.0,0.0,de,1
+Sturm-Alarm,Sturm-Alarm,LOC,0.0,0.0,de,1
 Fährhafen Dagebüll,Fährhafen Dagebüll,LOC,0.0,0.0,de,1
 Sturmflut an der Nordsee,Sturmflut an der Nordsee,LOC,0.0,0.0,de,1
+Freitagmorgen,Freitagmorgen,LOC,0.0,0.0,de,1
+Wintersturm,Wintersturm,LOC,0.0,0.0,de,1
 Land,Land,LOC,0.0,0.0,de,1
+Wintersturmflut,Wintersturmflut,LOC,0.7,0.0,de,1
 Fährausfällen,Fährausfällen,LOC,0.0,0.0,de,1
 Hochwasserstand,Hochwasserstand,LOC,0.7,0.0,de,1
-Nordsee,Nordsee,LOC,0.0,0.0,de,1
-Küste,Küste,LOC,0.0,0.0,de,1
-Kiel,Kiel,LOC,0.0,0.0,de,1
+Hochwasse…,Hochwasse…,LOC,0.0,0.0,de,1
 Orkanböen,Orkanböen,LOC,0.0,0.0,de,1
-Nordwest,Nordwest,LOC,0.0,0.0,de,1
+Sturmflut-Warnung,Sturmflut-Warnung,LOC,0.0,0.0,de,1
+Nordsee-Inseln,Nordsee-Inseln,LOC,0.0,0.0,de,1
+Sich ans Meer,Sich ans Meer,LOC,-1.0,0.0,de,1
+erwar,erwar,LOC,0.7,0.0,de,1
