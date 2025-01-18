@@ -1,26 +1,26 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sturmflut Sand',de,Impacts,#a89216,#a89216,2,0.6202050705
 'Sturmflut Hochwasser',de,Impacts,#a89216,#a89216,2,0.6044960245454545
 'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,1,0.6015803329999999
 'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.595750075
 'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.595750075
 'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.595450045
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.595450045
+'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.595150015
 'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.595150015
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.595150015
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.595150015
-'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.595150015
 'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.595150015
-'Sturmflut Rettungskräfte',de,Mitigation,#9e3215,#9e3215,1,0.595
-'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.595
-'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.595
-'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.595
 'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.595
+'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.595
+'Sturmflut Rettungskräfte',de,Mitigation,#9e3215,#9e3215,1,0.595
+'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.595
+'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.595
 'Sturmflut',de,Hazard,#4287f5,#638ed4,2,0.569000362840909
 'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.551730348
 'Sturmflut Schäden',de,Impacts,#a89216,#87830f,2,0.5369505699999999
 'Sturmflut Pegel',de,Hazard,#4287f5,#3b4a63,1,0.5340252775000001
 'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.5286651665000001
+'Sturmflut Sand',de,Impacts,#a89216,#a89216,2,0.5276243549249999
 'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,2,0.5274099159166666
 'Sturmflut Nordsee',de,Hazard,#4287f5,#638ed4,2,0.5264993248409091
 'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,1,0.5108955144999999
