@@ -24,10 +24,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Nordsee',de,Hazard,#4287f5,#638ed4,2,0.5264993248409091
 'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,1,0.5108955144999999
 'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.5074151665
-'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.5067325982499999
 'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.5065825832499999
 'Sturmflut Tote',de,Impacts,#a89216,#87830f,1,0.5061775427499999
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.5057499999999999
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.432202981525
+'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.43132276851249995
 'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.4310452407624999
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.4306593271749999
