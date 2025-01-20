@@ -1,19 +1,20 @@
 ,phrase,label,sentiment,subjectivity,language,count
 BSH,BSH,ORG,-0.21538461538461537,0.0,de,13
 Bundesamt für Seeschifffahrt und Hydrographie,Bundesamt für Seeschifffahrt und Hydrographie,ORG,-0.13999999999999999,0.0,de,5
-Umweltminister,Umweltminister,ORG,0.0,0.0,de,2
 Bundesamt für Seeschifffahrt und Hydrografie,Bundesamt für Seeschifffahrt und Hydrografie,ORG,0.0,0.0,de,2
-Touri-Hotspot,Touri-Hotspot,ORG,0.0,0.0,de,1
-Schleswig-Holsteinischen Umweltministers,Schleswig-Holsteinischen Umweltministers,ORG,0.0,0.0,de,1
-Hochwasser!,Hochwasser!,ORG,0.0,0.0,de,1
-Wetterdienstes,Wetterdienstes,ORG,0.0,0.0,de,1
-Bundesamts für Seeschifffahrt und Hydrographie,Bundesamts für Seeschifffahrt und Hydrographie,ORG,0.0,0.0,de,1
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,0.0,0.0,de,1
-Sturmflut,Sturmflut,ORG,0.7,0.0,de,1
-Bundesamts für Seeschifffahrt,Bundesamts für Seeschifffahrt,ORG,0.0,0.0,de,1
-kom…,kom…,ORG,0.0,0.0,de,1
-Bundesamt…,Bundesamt…,ORG,0.0,0.0,de,1
-Bundesamt für Seeschifffahrt,Bundesamt für Seeschifffahrt,ORG,0.0,0.0,de,1
-Bundesamt für Seeschifffah…,Bundesamt für Seeschifffah…,ORG,0.0,0.0,de,1
+Umweltminister,Umweltminister,ORG,0.0,0.0,de,2
 OlafLeichte,OlafLeichte,ORG,0.0,0.0,de,1
+Bundesamt für Seeschifffah…,Bundesamt für Seeschifffah…,ORG,0.0,0.0,de,1
+Bundesamt für Seeschifffahrt,Bundesamt für Seeschifffahrt,ORG,0.0,0.0,de,1
+Bundesamt…,Bundesamt…,ORG,0.0,0.0,de,1
+Bundesamts für Seeschifffahrt,Bundesamts für Seeschifffahrt,ORG,0.0,0.0,de,1
+Sturmflut,Sturmflut,ORG,0.7,0.0,de,1
 Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,0.0,0.0,de,1
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,0.0,0.0,de,1
+Wetterdienstes,Wetterdienstes,ORG,0.0,0.0,de,1
+Hochwasser!,Hochwasser!,ORG,0.0,0.0,de,1
+Schleswig-Holsteinischen Umweltministers,Schleswig-Holsteinischen Umweltministers,ORG,0.0,0.0,de,1
+Touri-Hotspot,Touri-Hotspot,ORG,0.0,0.0,de,1
+Bundesamt für Seeschiffahrt und Kopiere,Bundesamt für Seeschiffahrt und Kopiere,ORG,-0.7,0.0,de,1
+kom…,kom…,ORG,0.0,0.0,de,1
+Bundesamts für Seeschifffahrt und Hydrographie,Bundesamts für Seeschifffahrt und Hydrographie,ORG,0.0,0.0,de,1
