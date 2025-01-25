@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.6709209907999999
 'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.650115466525
 'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,1,0.6380996363424999
 'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.6318170679374999
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Rettungskräfte',de,Mitigation,#9e3215,#9e3215,1,0.6057499999999999
 'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.6057499999999999
 'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.6057499999999999
+'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.57163297718
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.53767256429625
 'Sturmflut Hochwasser',de,Impacts,#a89216,#a89216,2,0.5187721908636362
 'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.50713763875
