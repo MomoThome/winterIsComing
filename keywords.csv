@@ -18,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.4310452407624999
 'Sturmflut Tote',de,Impacts,#a89216,#87830f,1,0.4304009263374999
 'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.4298874999999999
-'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.4156525907625498
 'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.4007958152296655
 'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.3895583111971171
 'Sturmflut Pegel',de,Hazard,#4287f5,#3b4a63,1,0.38845852549375
@@ -27,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.3682726242962499
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.3668384996481249
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.3654043749999999
+'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.3548048521481673
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.3301641935048948
 'Sturmflut',de,Hazard,#4287f5,#638ed4,2,0.3276920425056817
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.3249525627308156
