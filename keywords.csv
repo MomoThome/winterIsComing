@@ -22,12 +22,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.4007958152296655
 'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.3895583111971171
 'Sturmflut Pegel',de,Hazard,#4287f5,#3b4a63,1,0.38845852549375
-'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.3880754864763468
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.3874525737069233
 'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,1,0.3740950064762499
 'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.3682726242962499
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.3668384996481249
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.3654043749999999
+'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.3301641935048948
 'Sturmflut',de,Hazard,#4287f5,#638ed4,2,0.3276920425056817
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.3249525627308156
 'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.2687744930468749
