@@ -25,9 +25,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.3668384996481249
 'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.3548048521481673
 'Sturmflut',de,Hazard,#4287f5,#638ed4,2,0.3276920425056817
-'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.3249525627308156
 'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.3168281987069233
 'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.3139318206518124
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.3105937187499999
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.2809395944791605
+'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.2771097683211933
 'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.2687744930468749
