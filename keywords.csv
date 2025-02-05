@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,2,0.6056725713169686
 'Sturmflut Springflut',de,Causes,#679e2c,#7db344,2,0.5221562337499999
+'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.5148217156194234
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.5060275277499999
 'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,1,0.4643573202574561
 'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,2,0.4580216359997915
