@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sturmflut Springflut',de,Causes,#679e2c,#7db344,2,0.5221562337499999
 'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.5148217156194234
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.5060275277499999
 'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,1,0.4643573202574561
@@ -8,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Schäden',de,Impacts,#a89216,#87830f,1,0.4564082994999999
 'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.4550937187499999
 'Sturmflut Nordsee',de,Hazard,#4287f5,#638ed4,2,0.4509747711147727
+'Sturmflut Springflut',de,Causes,#679e2c,#7db344,2,0.44398281368749987
 'Sturmflut Hochwasser',de,Impacts,#a89216,#a89216,2,0.4439566622340908
 'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.4378548887993749
 'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.4318170679374999
