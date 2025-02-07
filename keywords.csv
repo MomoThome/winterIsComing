@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.5060275277499999
 'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,2,0.4580216359997915
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.4573217096518124
 'Sturmflut Schäden',de,Impacts,#a89216,#87830f,1,0.4564082994999999
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.4318170679374999
 'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.4310452407624999
 'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.4310452407624999
+'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.4301233985874999
 'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.4298874999999999
 'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.4007958152296655
 'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,1,0.3965039022188376
