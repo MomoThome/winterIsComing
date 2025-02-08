@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,2,0.4580216359997915
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.4573217096518124
-'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.4550937187499999
 'Sturmflut Nordsee',de,Hazard,#4287f5,#638ed4,2,0.4509747711147727
 'Sturmflut Springflut',de,Causes,#679e2c,#7db344,2,0.4439828136874998
 'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.4378984882765098
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Pegel',de,Hazard,#4287f5,#3b4a63,1,0.38845852549375
 'Sturmflut Hochwasser',de,Impacts,#a89216,#a89216,2,0.3881081847410824
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.3874525737069233
+'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.3868296609374999
 'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,1,0.3740950064762499
 'Sturmflut Rettungskräfte',de,Mitigation,#9e3215,#9e3215,1,0.3720062187499999
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.3668384996481249
