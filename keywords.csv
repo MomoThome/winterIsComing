@@ -17,14 +17,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,1,0.3740950064762499
 'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.3724766854794686
 'Sturmflut Rettungskräfte',de,Mitigation,#9e3215,#9e3215,1,0.3720062187499999
-'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.3669885146481249
 'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.3669885146481249
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.3668384996481249
 'Sturmflut Tote',de,Impacts,#a89216,#87830f,1,0.3659908023868748
-'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.36540437499999995
+'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.3654043749999999
 'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.3346971842421101
 'Sturmflut',de,Hazard,#4287f5,#638ed4,2,0.3276920425056817
 'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.3139318206518124
+'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.31254029745090617
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.3105937187499999
 'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.3030842743259422
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.2809395944791605
