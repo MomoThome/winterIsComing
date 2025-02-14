@@ -27,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Pegel',de,Hazard,#4287f5,#3b4a63,1,0.2823264511692344
 'Sturmflut',de,Hazard,#4287f5,#638ed4,1,0.2785387311298294
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.2771097683211933
-'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.2694539839008848
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.2640046609374999
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.2390986853072864
+'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.22903588631575209
 'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.2284583190898436
