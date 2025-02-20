@@ -27,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.2579216631770509
 'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,1,0.2393665730252411
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.2390986853072864
-'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.22990498523257866
+'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.2299049852325786
 'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.229035886315752
-'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.2284583190898436
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.2250051438832911
+'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.19433958622636704
