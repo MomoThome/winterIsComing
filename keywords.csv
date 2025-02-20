@@ -26,8 +26,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.2640046609374999
 'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.2579216631770509
 'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,1,0.2393665730252411
-'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.2390986853072864
 'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.2299049852325786
 'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.229035886315752
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.2250051438832911
+'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.20323388251119343
 'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.194339586226367
