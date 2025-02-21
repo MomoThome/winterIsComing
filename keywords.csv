@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.3346971842421101
 'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,1,0.3182807855048124
 'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.3172142410297783
 'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.3139318206518124
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.3118127247009062
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.2980072853637829
+'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.2973071023200793
 'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,1,0.2864740693531101
 'Sturmflut Nordsee',de,Hazard,#4287f5,#638ed4,1,0.286276845719193
 'Sturmflut Schäden',de,Impacts,#a89216,#87830f,1,0.2839848431929374
