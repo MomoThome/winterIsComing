@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.3172142410297783
-'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.3139318206518124
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.2980072853637829
 'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.2973071023200793
 'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,1,0.2864740693531101
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.2728968590433357
 'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,1,0.2709887126790906
 'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.2673694238332703
+'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.26684204755404056
 'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.2661092978332702
 'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.265189656847117
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.2650408159957703
@@ -28,6 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.229035886315752
 'Sturmflut Rettungskräfte',de,Mitigation,#9e3215,#9e3215,1,0.2288442326773436
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.2250051438832911
-'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.21953344370049327
+'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.2195334437004932
 'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.194339586226367
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.1727488001345143
